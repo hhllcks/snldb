@@ -140,10 +140,11 @@ class snl(scrapy.Spider):
             sketch_url = self.base_url + href_url
             yield scrapy.Request(sketch_url, callback=self.parseTitle, meta={'title': sketch})
             # remove statement to scrape more than one sketch
-            break
+            #break
 
     def parseTitle(self, response):
         sketch = response.meta['title']
+        actor_seen_title = set()
         for actor in response.css(".roleTable > tr"):
             actor_dict = {}
             actor_sketch = {}
@@ -167,7 +168,8 @@ class snl(scrapy.Spider):
                     actor_sketch['actorType'] = actor.css("td ::attr(class)").extract_first()
                     if actor_sketch['actorType'] == None:
                         actor_sketch['actorType'] = "unknown"
-                
+
+
                 if not actor_dict['aid'] in self.actor_seen:
                     self.actor_seen.add(actor_dict['aid'])
                     yield actor_dict
@@ -177,5 +179,8 @@ class snl(scrapy.Spider):
                 actor_sketch['eid'] = sketch['eid']
                 actor_sketch['aid'] = actor_dict['aid']
                 actor_sketch['type'] = 'actor_sketch'
-                yield actor_sketch
+                
+                if not actor_sketch['aid'] in actor_seen_title:
+                    actor_seen_title.add(actor_sketch['aid'])
+                    yield actor_sketch
         yield sketch
