@@ -1,0 +1,717 @@
+,index,sid,eid,tid,title,titleType
+0,82,2.0,12.0,197701221.0,Injured John,Cold Opening
+1,91,3.0,20.0,197805201.0,Nixon's Book,Cold Opening
+2,99,3.0,19.0,197805131.0,Paraquat,Cold Opening
+3,113,6.0,8.0,198101241.0,America Not Held Hostage Anymore,Cold Opening
+4,118,6.0,13.0,198104111.0,Storage Room,Cold Opening
+5,121,7.0,13.0,198202271.0,CBS Evening News,Cold Opening
+6,135,4.0,20.0,197905261.0,Mr. Bill,Cold Opening
+7,151,3.0,18.0,197804221.0,Rock Concert,Cold Opening
+8,153,7.0,19.0,198205151.0,Kaufman Fight,Cold Opening
+9,158,7.0,20.0,198205221.0,Women's Room,Cold Opening
+10,168,7.0,18.0,198204241.0,Tennis Club Locker Room,Cold Opening
+11,175,7.0,17.0,198204171.0,The Train of Life,Cold Opening
+12,178,8.0,20.0,198305141.0,,Monologue
+13,180,8.0,18.0,198304161.0,The Exercises of Love,Cold Opening
+14,182,8.0,19.0,198305071.0,VD,Cold Opening
+15,188,8.0,17.0,198304091.0,Whiners,Cold Opening
+16,201,8.0,16.0,198303191.0,Buckwheat Dead,Cold Opening
+17,214,8.0,15.0,198303121.0,Backstage,Cold Opening
+18,220,8.0,9.0,198212111.0,Substitute Host,Cold Opening
+19,225,8.0,14.0,198302261.0,Childhood Stories,Cold Opening
+20,237,8.0,10.0,198301221.0,Dressing Room,Cold Opening
+21,244,8.0,13.0,198302191.0,Dressing Room,Cold Opening
+22,254,8.0,12.0,198302051.0,Live,Cold Opening
+23,263,8.0,6.0,198211131.0,The Merv Griffin Show,Cold Opening
+24,271,8.0,3.0,198210091.0,Federal Bureau Of Weights & Measures,Cold Opening
+25,282,8.0,7.0,198211201.0,Dressing Room,Cold Opening
+26,285,8.0,2.0,198210021.0,Our Pride Is Showing,Cold Opening
+27,293,8.0,5.0,198210301.0,Makeup Room,Cold Opening
+28,300,8.0,4.0,198210231.0,Backstage,Cold Opening
+29,302,8.0,1.0,198209251.0,Live from Burbank,Cold Opening
+30,315,7.0,16.0,198204101.0,Larry the Lobster,Cold Opening
+31,324,7.0,15.0,198203271.0,Lorne Greene: The Meat Dogs Love,Cold Opening
+32,331,7.0,14.0,198203201.0,Burt Reynolds,Cold Opening
+33,347,7.0,12.0,198202201.0,Backstage,Cold Opening
+34,349,7.0,10.0,198201301.0,Locker Room,Cold Opening
+35,352,7.0,11.0,198202061.0,The President's Birthday,Cold Opening
+36,353,7.0,6.0,198111141.0,Texxon,Cold Opening
+37,354,7.0,7.0,198112051.0,Texxon,Cold Opening
+38,360,7.0,4.0,198110311.0,Vomiting For Luck,Cold Opening
+39,361,7.0,8.0,198112121.0,The Phone Company,Cold Opening
+40,362,7.0,5.0,198111071.0,Exxico,Miscellaneous
+41,377,7.0,3.0,198110171.0,Control Room '81,Cold Opening
+42,378,7.0,2.0,198110101.0,Exxico,Cold Opening
+43,390,6.0,12.0,198103071.0,Dressing Room,Cold Opening
+44,395,6.0,11.0,198102211.0,Super Fight,Cold Opening
+45,414,6.0,10.0,198102141.0,Sinatra Interview,Cold Opening
+46,425,7.0,1.0,198110031.0,NBC: Our Age Is Showing,Cold Opening
+47,433,6.0,9.0,198102071.0,Charts,Cold Opening
+48,439,6.0,6.0,198101101.0,The Real Weasel,Cold Opening
+49,444,6.0,5.0,198012201.0,Pardo Impression,Cold Opening
+50,451,6.0,7.0,198101171.0,White House,Cold Opening
+51,459,6.0,2.0,198011221.0,Electric Chair,Cold Opening
+52,461,6.0,3.0,198012061.0,Going Co-Op,Cold Opening
+53,465,6.0,4.0,198012131.0,The Mean Majority,Cold Opening
+54,479,6.0,1.0,198011151.0,Bedroom,Cold Opening
+55,487,4.0,19.0,197905191.0,Telepsychic,Cold Opening
+56,493,4.0,17.0,197904141.0,Texaco Star Theatre,Cold Opening
+57,503,4.0,16.0,197904071.0,Belushi Substitute,Cold Opening
+58,512,4.0,18.0,197905121.0,The Gary Coleman Plan,Cold Opening
+59,518,4.0,12.0,197902171.0,WGN Radio,Cold Opening
+60,547,4.0,13.0,197902241.0,Charlie's Angels,Cold Opening
+61,548,4.0,14.0,197903101.0,Backstage,Cold Opening
+62,549,4.0,10.0,197901271.0,State Of The Union 1979,Cold Opening
+63,554,4.0,9.0,197812161.0,Yuletide Energy Alert,Cold Opening
+64,568,4.0,15.0,197903171.0,Chicago,Cold Opening
+65,575,4.0,7.0,197812021.0,Programming Ideas,Cold Opening
+66,576,4.0,11.0,197902101.0,Locker Room,Cold Opening
+67,588,4.0,6.0,197811181.0,"""Soul Man""",Cold Opening
+68,594,5.0,20.0,198005241.0,Consolation Debate,Cold Opening
+69,606,4.0,5.0,197811111.0,Hunkler Headquarters,Cold Opening
+70,614,4.0,8.0,197812091.0,Telepsychic,Cold Opening
+71,618,4.0,4.0,197811041.0,Inflation Is Our Friend,Cold Opening
+72,626,5.0,19.0,198005171.0,London Remote,Cold Opening
+73,632,5.0,18.0,198005101.0,Pink Lady and Carl,Cold Opening
+74,643,5.0,16.0,198004121.0,Backstage,Cold Opening
+75,654,5.0,14.0,198003151.0,Séance,Cold Opening
+76,660,5.0,17.0,198004191.0,Census Preview,Cold Opening
+77,662,4.0,3.0,197810211.0,NBC & Zappa,Cold Opening
+78,668,5.0,13.0,198003081.0,Dressing Room,Cold Opening
+79,674,4.0,2.0,197810141.0,Honker,Cold Opening
+80,679,5.0,11.0,198002161.0,Nixon In New York,Cold Opening
+81,693,5.0,9.0,198001261.0,Sarducci in Tokyo,Cold Opening
+82,703,4.0,1.0,197810071.0,NBC Chimes,Cold Opening
+83,718,5.0,12.0,198002231.0,Backstage,Cold Opening
+84,740,5.0,5.0,197911171.0,Reagan in Make-up,Cold Opening
+85,749,5.0,8.0,197912221.0,A Christmas Gift from the Shah and his Friends,Cold Opening
+86,758,5.0,7.0,197912151.0,Sex Change,Cold Opening
+87,766,5.0,4.0,197911101.0,Buck's Story,Cold Opening
+88,774,5.0,6.0,197912081.0,Great Moments In Rock & Roll,Cold Opening
+89,784,5.0,2.0,197910201.0,Eric is Sick,Cold Opening
+90,796,5.0,3.0,197911031.0,Kennedy In '80,Cold Opening
+91,831,3.0,17.0,197804151.0,The President's Message on Inflation,Cold Opening
+92,841,3.0,16.0,197804081.0,The Oscars,Cold Opening
+93,848,3.0,15.0,197803251.0,Locker Room,Cold Opening
+94,858,3.0,14.0,197803181.0,"""Danny Boy""",Cold Opening
+95,871,3.0,8.0,197712171.0,Stoned,Cold Opening
+96,876,3.0,13.0,197803111.0,Modern Crimes,Cold Opening
+97,878,3.0,12.0,197802251.0,Audience Questions,Cold Opening
+98,887,3.0,9.0,197801211.0,State Of The Union 1978,Cold Opening
+99,896,3.0,10.0,197801281.0,Rock Concert,Cold Opening
+100,914,3.0,6.0,197711191.0,Anyone Can Host Finalists,Cold Opening
+101,917,3.0,5.0,197711121.0,Godfather,Cold Opening
+102,933,3.0,3.0,197710151.0,Playboy's Party Jokes,Cold Opening
+103,935,3.0,7.0,197712101.0,Pep Rally,Cold Opening
+104,936,3.0,4.0,197710291.0,Backstage,Cold Opening
+105,948,3.0,2.0,197710081.0,The Trial Of Lee Harry Oswald,Cold Opening
+106,955,3.0,1.0,197709241.0,An Oval Office,Cold Opening
+107,1029,2.0,22.0,197705211.0,A Fireside Chat,Cold Opening
+108,1041,2.0,21.0,197705141.0,Boxing,Cold Opening
+109,1050,2.0,14.0,197702261.0,Backstage,Cold Opening
+110,1054,2.0,20.0,197704231.0,Interrogation,Cold Opening
+111,1057,2.0,17.0,197703261.0,Belushi Demands,Cold Opening
+112,1060,2.0,18.0,197704091.0,Emily in Love,Cold Opening
+113,1066,2.0,16.0,197703191.0,"""Goodbye Saccharine""",Cold Opening
+114,1080,2.0,15.0,197703121.0,Control Room,Cold Opening
+115,1094,2.0,13.0,197701291.0,Locker Room,Cold Opening
+116,1110,2.0,11.0,197701151.0,Ralph's New Image,Cold Opening
+117,1113,2.0,10.0,197612111.0,Patty Hearst at Home,Cold Opening
+118,1116,2.0,9.0,197611271.0,Phasing Gilda Out,Cold Opening
+119,1126,2.0,7.0,197611131.0,Chroma-Trak,Cold Opening
+120,1136,2.0,8.0,197611201.0,Backstage,Cold Opening
+121,1152,2.0,6.0,197610301.0,Halloween Jaws,Cold Opening
+122,1157,2.0,5.0,197610231.0,World Series,Cold Opening
+123,1161,2.0,4.0,197610161.0,Wheelchair,Cold Opening
+124,1162,2.0,3.0,197610021.0,The Real Chevy Chase,Cold Opening
+125,1166,2.0,2.0,197609251.0,Chevy In The Hospital,Cold Opening
+126,1179,2.0,1.0,197609181.0,Entourage,Cold Opening
+127,1256,1.0,24.0,197607311.0,"""Help Me Make It Through The Night""",Cold Opening
+128,1264,42.0,12.0,201701211.0,A Paid Message From The Russian Federation,Cold Opening
+129,1269,42.0,9.0,201612101.0,The Lead with Jake Tapper,Cold Opening
+130,1271,42.0,6.0,201611121.0,Hallelujah,Cold Opening
+131,1278,41.0,1.0,201510031.0,A Message From Donald & Melania Trump,Cold Opening
+132,1286,41.0,20.0,201605141.0,Trump Tower,Cold Opening
+133,1298,39.0,20.0,201405101.0,A Mother's Day Message From Michelle Obama and Hillary Clinton,Cold Opening
+134,1308,39.0,19.0,201405031.0,Press Conference,Cold Opening
+135,1344,39.0,18.0,201404121.0,Coachella,Cold Opening
+136,1361,39.0,17.0,201404051.0,GM Hearings,Cold Opening
+137,1369,39.0,16.0,201403291.0,HealthCare.gov Meeting,Cold Opening
+138,1376,39.0,15.0,201403081.0,Presidential Address,Cold Opening
+139,1390,39.0,12.0,201401251.0,The U.S. Men's Heterosexual Figure Skating Championships,Cold Opening
+140,1399,39.0,13.0,201402011.0,Halftime Spectacular,Cold Opening
+141,1408,39.0,9.0,201312141.0,Presidential Address,Cold Opening
+142,1412,39.0,4.0,201310261.0,Obamacare Website,Cold Opening
+143,1417,39.0,7.0,201311231.0,Piers Morgan Live,Cold Opening
+144,1423,39.0,6.0,201311161.0,CBC News Toronto,Cold Opening
+145,1431,39.0,3.0,201310121.0,NASA Shutdown,Cold Opening
+146,1443,39.0,2.0,201310051.0,VMAs Backstage,Cold Opening
+147,1466,39.0,1.0,201309281.0,Affordable Care Act,Cold Opening
+148,1494,40.0,21.0,201505161.0,Summertime,Cold Opening
+149,1507,40.0,20.0,201505091.0,The Southern Republican Leadership Conference!,Cold Opening
+150,1517,40.0,19.0,201505021.0,Mayweather-Pacquiao Fight,Cold Opening
+151,1525,40.0,15.0,201503071.0,A Message From Hillary Clinton,Cold Opening
+152,1534,40.0,18.0,201504111.0,Election Video,Cold Opening
+153,1535,40.0,17.0,201504041.0,Road To The Final Four,Cold Opening
+154,1545,40.0,11.0,201501171.0,Martin Luther King,Cold Opening
+155,1549,40.0,12.0,201501241.0,Inside The NFL,Cold Opening
+156,1555,40.0,8.0,201412061.0,Politics Nation,Cold Opening
+157,1564,40.0,10.0,201412201.0,Dr. Evil Address,Cold Opening
+158,1572,40.0,13.0,201501311.0,Super Bowl Shut Down,Cold Opening
+159,1583,40.0,7.0,201411221.0,Schoolhouse Rock!,Cold Opening
+160,1588,40.0,9.0,201412131.0,Charlie Rose,Cold Opening
+161,1590,40.0,6.0,201411151.0,Drinks at The White House,Cold Opening
+162,1599,40.0,5.0,201411011.0,The Kelly File,Cold Opening
+163,1613,40.0,4.0,201410251.0,Ebola Press Conference,Cold Opening
+164,1623,40.0,3.0,201410111.0,Kim Jong-un,Cold Opening
+165,1629,40.0,2.0,201410041.0,60 Minutes,Cold Opening
+166,1634,41.0,17.0,201604091.0,A Message from Hillary Clinton,Cold Opening
+167,1638,41.0,12.0,201602061.0,A Message From Ted Cruz,Cold Opening
+168,1649,41.0,16.0,201604021.0,At This Hour,Cold Opening
+169,1663,41.0,10.0,201601161.0,Republican Debate,Cold Opening
+170,1664,41.0,13.0,201602131.0,Hillary for President,Cold Opening
+171,1679,41.0,9.0,201512191.0,Republican Presidential Debate,Cold Opening
+172,1685,41.0,7.0,201512051.0,A Christmas Message from Donald & Melania Trump,Cold Opening
+173,1697,41.0,6.0,201511211.0,Fox and Friends,Cold Opening
+174,1706,41.0,5.0,201511141.0,We Stand With Paris,Cold Opening
+175,1714,41.0,2.0,201510101.0,Fox and Friends,Cold Opening
+176,1724,1.0,23.0,197607241.0,Back From Vacation,Cold Opening
+177,1748,1.0,22.0,197605291.0,Wax Museum,Cold Opening
+178,1751,1.0,20.0,197605151.0,Chevy's Repeat Fall,Cold Opening
+179,1756,1.0,19.0,197605081.0,Ronald Reagan,Cold Opening
+180,1763,1.0,18.0,197604241.0,Presidential Candidates,Cold Opening
+181,1766,1.0,21.0,197605221.0,Crutches,Cold Opening
+182,1768,1.0,17.0,197604171.0,The Dead String Quartet,Cold Opening
+183,1802,1.0,15.0,197602281.0,Chevy & Lorne,Cold Opening
+184,1808,1.0,12.0,197601311.0,Voodoo Doll,Cold Opening
+185,1811,1.0,14.0,197602211.0,Ford's Shrink,Cold Opening
+186,1816,1.0,16.0,197603131.0,Fan Mail,Cold Opening
+187,1818,1.0,10.0,197601171.0,Suicide Prevention,Cold Opening
+188,1830,1.0,11.0,197601241.0,Bomb Squad,Cold Opening
+189,1836,1.0,13.0,197602141.0,St. Valentine's Day,Cold Opening
+190,1848,38.0,20.0,201305111.0,Benghazi Hearings,Cold Opening
+191,1853,38.0,21.0,201305181.0,Politics Nation,Cold Opening
+192,1860,38.0,19.0,201305041.0,Fox and Friends,Cold Opening
+193,1865,38.0,18.0,201304131.0,Gun Control Press Conference,Cold Opening
+194,1877,37.0,22.0,201205191.0,The Lawrence Welk Show,Cold Opening
+195,1908,37.0,20.0,201205051.0,Fox and Friends,Cold Opening
+196,1917,37.0,19.0,201204141.0,Bar,Cold Opening
+197,1930,37.0,18.0,201204071.0,Road to the White House,Cold Opening
+198,1933,37.0,17.0,201203101.0,The Rush Limbaugh Show,Cold Opening
+199,1946,37.0,15.0,201202181.0,New York Sports Now,Cold Opening
+200,1949,37.0,16.0,201203031.0,Fox Report,Cold Opening
+201,1953,37.0,11.0,201201071.0,A Message From Rick Santorum,Cold Opening
+202,1955,37.0,8.0,201112031.0,Obama in One,Cold Opening
+203,1957,37.0,14.0,201202111.0,Romney: Believe In America,Cold Opening
+204,1967,37.0,13.0,201202041.0,Newt Gingrich: Moon President,Cold Opening
+205,1970,37.0,12.0,201201141.0,Romney: Believe In America,Cold Opening
+206,1981,37.0,7.0,201111191.0,Mitt Romney Raw & Unleashed,Cold Opening
+207,1986,37.0,5.0,201111051.0,The Ghost of Kaddafi,Cold Opening
+208,2005,37.0,6.0,201111121.0,The Republican Presidential Debate,Cold Opening
+209,2009,37.0,4.0,201110151.0,A Message From The Mayor,Cold Opening
+210,2018,37.0,2.0,201110011.0,The Lawrence Welk Show,Cold Opening
+211,2028,37.0,3.0,201110081.0,Press Conference,Cold Opening
+212,2035,38.0,17.0,201304061.0,Kim Jong-un Address,Cold Opening
+213,2047,38.0,12.0,201301261.0,Inauguration Night,Cold Opening
+214,2052,38.0,15.0,201303021.0,Press Conference,Cold Opening
+215,2062,38.0,14.0,201302161.0,Carnival Cruise Ship Triumph,Cold Opening
+216,2065,38.0,10.0,201212151.0,Silent Night,Cold Opening
+217,2069,38.0,9.0,201212081.0,Press Conference,Cold Opening
+218,2077,38.0,13.0,201302091.0,Super Bowl XLVII,Cold Opening
+219,2084,38.0,11.0,201301191.0,Piers Morgan Tonight,Cold Opening
+220,2094,38.0,8.0,201211171.0,Booknotes,Cold Opening
+221,2102,38.0,7.0,201211101.0,Election Night,Cold Opening
+222,2110,38.0,6.0,201211031.0,Press Conference,Cold Opening
+223,2129,38.0,4.0,201210131.0,Vice Presidential Debate,Cold Opening
+224,2134,38.0,5.0,201210201.0,Second Presidential Debate,Cold Opening
+225,2144,38.0,1.0,201209151.0,Democratic Rally,Cold Opening
+226,2146,1.0,6.0,197511221.0,Oval Office,Cold Opening
+227,2150,1.0,9.0,197601101.0,The Dead String Quartet,Cold Opening
+228,2154,1.0,8.0,197512201.0,Christmas Eve At The White House,Cold Opening
+229,2159,38.0,2.0,201209221.0,Live with Kelly & Michael,Cold Opening
+230,2164,1.0,7.0,197512131.0,Restaurant,Cold Opening
+231,2168,1.0,5.0,197511151.0,Beauty Pageant,Cold Opening
+232,2170,1.0,4.0,197511081.0,Ford Speech,Cold Opening
+233,2173,1.0,3.0,197510251.0,Wheelchair,Cold Opening
+234,2189,1.0,1.0,197510111.0,Wolverines,Cold Opening
+235,2197,1.0,2.0,197510181.0,"""Still Crazy After All These Years""",Cold Opening
+236,2202,36.0,22.0,201105211.0,Strauss-Kahn's Cell,Cold Opening
+237,2210,36.0,18.0,201104021.0,The Lawrence Welk Show,Cold Opening
+238,2214,36.0,20.0,201105071.0,Osama bin Laden Video Will,Cold Opening
+239,2226,36.0,21.0,201105141.0,The Situation Room,Cold Opening
+240,2229,36.0,19.0,201104091.0,Presidential Address,Cold Opening
+241,2232,36.0,17.0,201103121.0,Selection Sunday,Cold Opening
+242,2236,36.0,15.0,201102121.0,The O'Reilly Factor,Cold Opening
+243,2239,36.0,11.0,201101081.0,A Message From The Mayor,Cold Opening
+244,2242,36.0,13.0,201101291.0,Congresswoman Michele Bachmann's Response to the President's State of the Union Address: The Second Attempt,Cold Opening
+245,2255,36.0,10.0,201012181.0,Christmas Eve in Washington D.C.,Cold Opening
+246,2258,36.0,12.0,201101151.0,Embracing Civility,Cold Opening
+247,2263,36.0,9.0,201012111.0,Tax Package,Cold Opening
+248,2292,36.0,4.0,201010231.0,Reid Rally,Cold Opening
+249,2295,36.0,7.0,201011201.0,The Rachel Maddow Show,Cold Opening
+250,2303,36.0,6.0,201011131.0,China Press Conference,Cold Opening
+251,2308,36.0,2.0,201010021.0,Press Conference,Cold Opening
+252,2321,36.0,3.0,201010091.0,Ask Gloria Allred,Cold Opening
+253,2332,36.0,1.0,201009251.0,RNC Headquarters,Cold Opening
+254,2354,32.0,18.0,200704211.0,White House Press Conference,Cold Opening
+255,2358,32.0,17.0,200704141.0,Wings Of Hope,Cold Opening
+256,2363,32.0,20.0,200705191.0,Puppet Bush,Cold Opening
+257,2368,32.0,16.0,200703241.0,Bush's Press Conference,Cold Opening
+258,2371,31.0,10.0,200601141.0,The 700 Gang,Cold Opening
+259,2375,32.0,15.0,200703171.0,SNL Special Report,Cold Opening
+260,2382,31.0,19.0,200605201.0,Anderson Cooper 360,Cold Opening
+261,2386,31.0,18.0,200605131.0,Parallel Earth,Cold Opening
+262,2391,33.0,11.0,200805101.0,Clinton's Qualities,Cold Opening
+263,2414,33.0,12.0,200805171.0,Pounder School Commencement,Cold Opening
+264,2419,33.0,9.0,200804051.0,Hillary for President,Cold Opening
+265,2431,33.0,10.0,200804121.0,Petraeus Report on Iraq,Cold Opening
+266,2437,33.0,7.0,200803081.0,Call Dramatization,Cold Opening
+267,2446,33.0,6.0,200803011.0,The Democratic Candidates Debate,Cold Opening
+268,2454,33.0,8.0,200803151.0,Spitzer & Associates,Cold Opening
+269,2465,33.0,5.0,200802231.0,CNN Univision Democratic Debate,Cold Opening
+270,2468,33.0,2.0,200710061.0,A Message from Kevin Federline,Cold Opening
+271,2472,33.0,3.0,200710131.0,Amy Poehler's House,Cold Opening
+272,2482,33.0,1.0,200709291.0,The All-But-Certain-To-Be Next President,Cold Opening
+273,2485,31.0,13.0,200603041.0,Bush's Address,Cold Opening
+274,2496,31.0,16.0,200604151.0,The Situation Room,Cold Opening
+275,2505,31.0,14.0,200603111.0,Spring Break,Cold Opening
+276,2517,31.0,12.0,200602041.0,The Sabotage of Baldwin,Cold Opening
+277,2524,31.0,9.0,200512171.0,Santa Cheney,Cold Opening
+278,2536,31.0,6.0,200511191.0,Special Report,Cold Opening
+279,2556,31.0,5.0,200511121.0,Hardball,Cold Opening
+280,2562,31.0,7.0,200512031.0,The Tree Re-Lighting,Cold Opening
+281,2569,31.0,11.0,200601211.0,Anderson Cooper 360,Cold Opening
+282,2573,31.0,4.0,200510291.0,A Message from the Vice President,Cold Opening
+283,2580,31.0,2.0,200510081.0,Cronyism,Cold Opening
+284,2588,31.0,3.0,200510221.0,Troops Q&A,Cold Opening
+285,2592,34.0,19.0,200904041.0,Obama's Business Rulings,Cold Opening
+286,2604,34.0,17.0,200903071.0,1-800-IDEAS?,Cold Opening
+287,2608,34.0,15.0,200902071.0,Bipartisanship,Cold Opening
+288,2616,34.0,13.0,200901171.0,Vice President Dick Cheney: The Final Interview,Cold Opening
+289,2621,34.0,12.0,200901101.0,The Rachel Maddow Show,Cold Opening
+290,2624,34.0,21.0,200905091.0,The Bank Stress Test,Cold Opening
+291,2633,34.0,11.0,200812131.0,Blagojevich Hearing,Cold Opening
+292,2637,34.0,10.0,200812061.0,A Message from the Secretary of State Designate,Cold Opening
+293,2652,34.0,8.0,200811151.0,The Office of the Vice President Elect,Cold Opening
+294,2654,34.0,9.0,200811221.0,Automaker Bailout Hearings,Cold Opening
+295,2666,34.0,6.0,200810251.0,Biden/Murtha Rally,Cold Opening
+296,2680,34.0,20.0,200904111.0,Obama Returns,Cold Opening
+297,2691,34.0,18.0,200903141.0,Tracy Returns,Cold Opening
+298,2698,31.0,1.0,200510011.0,White House Press Briefing,Cold Opening
+299,2706,34.0,2.0,200809201.0,McCain Recording Session,Cold Opening
+300,2712,34.0,14.0,200901311.0,Obama Remembers,Cold Opening
+301,2718,32.0,13.0,200702101.0,Happy Valentine's Day From The Cheney Family,Cold Opening
+302,2728,32.0,12.0,200702031.0,American Idol,Cold Opening
+303,2734,32.0,11.0,200701201.0,Hardball,Cold Opening
+304,2740,32.0,14.0,200702241.0,The Situation Room,Cold Opening
+305,2750,32.0,9.0,200612161.0,Santa's My Boyfriend,Cold Opening
+306,2759,32.0,8.0,200612091.0,Bush's Plan for Iraq,Cold Opening
+307,2762,32.0,10.0,200701131.0,More Troops,Cold Opening
+308,2766,32.0,7.0,200612021.0,Iraq Press Conference,Cold Opening
+309,2769,32.0,6.0,200611181.0,A Message from the President,Cold Opening
+310,2774,32.0,5.0,200611111.0,A Message from the Speaker Elect,Cold Opening
+311,2780,32.0,4.0,200610281.0,Kazakhstan Ministry of Information,Cold Opening
+312,2786,32.0,3.0,200610211.0,Special Report,Cold Opening
+313,2789,32.0,2.0,200610071.0,A Message from the Speaker,Cold Opening
+314,2807,32.0,1.0,200609301.0,Comptroller Rally,Cold Opening
+315,2821,35.0,19.0,201004171.0,Larry King Live,Cold Opening
+316,2826,35.0,22.0,201005151.0,Oil Spill Press Conference,Cold Opening
+317,2843,35.0,21.0,201005081.0,The Lawrence Welk Show,Cold Opening
+318,2848,35.0,18.0,201004101.0,The Census,Cold Opening
+319,2851,35.0,20.0,201004241.0,Wall Street Lunch,Cold Opening
+320,2864,35.0,16.0,201003061.0,Health Care Reform,Cold Opening
+321,2871,35.0,13.0,201001301.0,State Of The Union 2010,Cold Opening
+322,2873,35.0,17.0,201003131.0,Massa Exit Interview,Cold Opening
+323,2876,35.0,14.0,201002061.0,On The Record,Cold Opening
+324,2881,35.0,9.0,200912121.0,Adulterers Press Conference,Cold Opening
+325,2897,35.0,11.0,201001091.0,The Situation Room,Cold Opening
+326,2904,35.0,10.0,200912191.0,The Lawrence Welk Show,Cold Opening
+327,2920,35.0,6.0,200911141.0,Biden Fixes Health Care,Cold Opening
+328,2925,35.0,7.0,200911211.0,China Press Conference,Cold Opening
+329,2929,35.0,1.0,200909261.0,United Nations General Assembly,Cold Opening
+330,2932,35.0,3.0,200910101.0,Obama's Nobel Prize,Cold Opening
+331,2942,35.0,8.0,200912051.0,White House Crashers,Cold Opening
+332,2944,35.0,2.0,200910031.0,Obama's Checklist,Cold Opening
+333,2960,35.0,5.0,200911071.0,End Of An Era,Cold Opening
+334,2993,36.0,5.0,201010301.0,A Message from the Vice President,Cold Opening
+335,3036,30.0,13.0,200502191.0,Neverland Ranch,Cold Opening
+336,3039,29.0,18.0,200405011.0,Preparation,Cold Opening
+337,3046,30.0,12.0,200502121.0,Press Conference,Cold Opening
+338,3059,29.0,20.0,200405151.0,Hardball,Cold Opening
+339,3064,29.0,19.0,200405081.0,Friends,Cold Opening
+340,3069,30.0,20.0,200505211.0,Hardball,Cold Opening
+341,3070,30.0,19.0,200505141.0,Backstage,Cold Opening
+342,3076,27.0,20.0,200205181.0,Jimmy Carter in Cuba,Cold Opening
+343,3086,27.0,18.0,200204201.0,Blake Murder Mystery,Cold Opening
+344,3091,27.0,19.0,200205111.0,Briefing,Cold Opening
+345,3093,27.0,17.0,200204131.0,Presidential Address,Cold Opening
+346,3098,27.0,16.0,200204061.0,Lamaze Class,Cold Opening
+347,3103,26.0,20.0,200105191.0,A Message from the Mayor,Cold Opening
+348,3115,24.0,19.0,199905151.0,Graduation Medley,Cold Opening
+349,3122,24.0,17.0,199904101.0,Back to Lying,Cold Opening
+350,3131,24.0,18.0,199905081.0,Dream,Cold Opening
+351,3135,24.0,14.0,199902201.0,The Ladies' Man,Cold Opening
+352,3141,24.0,15.0,199903131.0,Phone Sex,Cold Opening
+353,3153,24.0,11.0,199901161.0,White House,Cold Opening
+354,3155,24.0,12.0,199902061.0,No Gloating,Cold Opening
+355,3161,24.0,10.0,199901091.0,Mac's Bar,Cold Opening
+356,3166,24.0,5.0,199811071.0,Therapy,Cold Opening
+357,3168,24.0,9.0,199812121.0,Apology,Cold Opening
+358,3182,24.0,6.0,199811141.0,Opposites Attract,Cold Opening
+359,3187,24.0,8.0,199812051.0,Impeachment Hearings,Cold Opening
+360,3195,24.0,4.0,199810241.0,Rooftop Battle,Cold Opening
+361,3206,24.0,3.0,199810171.0,NBC Special Report,Cold Opening
+362,3214,24.0,2.0,199810031.0,Bedtime at the White House,Cold Opening
+363,3228,25.0,17.0,200004151.0,The Studio 8H Rules,Cold Opening
+364,3241,25.0,15.0,200003181.0,Backstage,Cold Opening
+365,3247,25.0,14.0,200003111.0,News Anchors,Cold Opening
+366,3253,25.0,13.0,200002191.0,Nightline,Cold Opening
+367,3257,25.0,12.0,200002121.0,A Message From Hillary Rodham Clinton,Cold Opening
+368,3265,25.0,20.0,200005201.0,The Ladies' Man,Cold Opening
+369,3273,25.0,11.0,200002051.0,Breakfast in New Hampshire,Cold Opening
+370,3277,25.0,19.0,200005131.0,Press Conference,Cold Opening
+371,3283,25.0,10.0,200001151.0,NBC Special Report,Cold Opening
+372,3288,25.0,9.0,200001081.0,Hillary Moves Out,Cold Opening
+373,3294,25.0,8.0,199912111.0,NBC Special Report,Cold Opening
+374,3298,25.0,7.0,199912041.0,The Republican Candidates,Cold Opening
+375,3308,25.0,6.0,199911201.0,A Message from Donald Trump,Cold Opening
+376,3319,25.0,5.0,199911131.0,NRA Headquarters,Cold Opening
+377,3324,25.0,3.0,199910231.0,World Series Bet,Cold Opening
+378,3332,25.0,4.0,199911061.0,The Practice,Cold Opening
+379,3338,25.0,2.0,199910161.0,Moderate Candidate,Cold Opening
+380,3343,25.0,1.0,199910021.0,Reform Party Headquarters,Cold Opening
+381,3345,26.0,19.0,200105121.0,Vice Presidential Address,Cold Opening
+382,3349,26.0,17.0,200104141.0,H&R Block,Cold Opening
+383,3353,26.0,14.0,200103101.0,Presidential Address,Cold Opening
+384,3355,26.0,16.0,200104071.0,Presidential Address,Cold Opening
+385,3360,26.0,13.0,200102241.0,The Clinton Gang,Cold Opening
+386,3364,26.0,15.0,200103171.0,Martha Stewart Living,Cold Opening
+387,3366,26.0,12.0,200102171.0,Presidential Address,Cold Opening
+388,3375,26.0,11.0,200102101.0,Backstage,Cold Opening
+389,3382,26.0,10.0,200101201.0,Presidential Address,Cold Opening
+390,3387,26.0,9.0,200101131.0,Vice Presidential Address,Cold Opening
+391,3391,26.0,8.0,200012161.0,Chi-Chi's,Cold Opening
+392,3399,26.0,7.0,200012091.0,Press Conference,Cold Opening
+393,3403,26.0,5.0,200011111.0,The Presidential Couple,Cold Opening
+394,3406,26.0,4.0,200011041.0,a Glimpse of our Possible Future,Cold Opening
+395,3416,26.0,1.0,200010071.0,First Presidential Debate,Cold Opening
+396,3420,26.0,6.0,200011181.0,Decision 2000,Cold Opening
+397,3429,27.0,11.0,200201191.0,Pretzel Incident,Cold Opening
+398,3431,27.0,15.0,200203161.0,Homeland Security System,Cold Opening
+399,3436,26.0,2.0,200010141.0,Second Presidential Debate,Cold Opening
+400,3442,27.0,13.0,200203021.0,Presidential Address,Cold Opening
+401,3452,27.0,12.0,200202021.0,The Women's Downhill,Cold Opening
+402,3459,27.0,10.0,200201121.0,Buddy's Memorial Service,Cold Opening
+403,3464,27.0,14.0,200203091.0,Vice Presidential Address,Cold Opening
+404,3474,27.0,9.0,200112151.0,CBS News Special Report,Cold Opening
+405,3477,27.0,5.0,200111101.0,Presidential Address,Cold Opening
+406,3480,27.0,7.0,200112011.0,You Might Be a Terrorist,Cold Opening
+407,3503,27.0,4.0,200111031.0,Press Conference,Cold Opening
+408,3507,27.0,1.0,200109291.0,9/11 Tribute,Cold Opening
+409,3508,27.0,8.0,200112081.0,White House Call,Cold Opening
+410,3510,27.0,6.0,200111171.0,Press Briefing,Cold Opening
+411,3516,27.0,2.0,200110061.0,Presidential Address,Cold Opening
+412,3529,27.0,3.0,200110131.0,Secret Location,Cold Opening
+413,3535,28.0,18.0,200305031.0,USS Abraham Lincoln,Cold Opening
+414,3537,28.0,16.0,200304051.0,Presidential Address,Cold Opening
+415,3558,28.0,17.0,200304121.0,Live Address,Cold Opening
+416,3565,28.0,15.0,200303151.0,Press Conference,Cold Opening
+417,3566,28.0,19.0,200305101.0,American Idol,Cold Opening
+418,3568,28.0,12.0,200302151.0,Presidential Address,Cold Opening
+419,3583,28.0,11.0,200302081.0,U.N. Security Council,Cold Opening
+420,3594,28.0,9.0,200301111.0,Address,Cold Opening
+421,3595,28.0,10.0,200301181.0,Press Conference,Cold Opening
+422,3607,28.0,5.0,200211091.0,Republican Majority,Cold Opening
+423,3616,28.0,8.0,200212141.0,Backstage,Cold Opening
+424,3630,28.0,4.0,200211021.0,Endorsement Ads,Cold Opening
+425,3635,28.0,6.0,200211161.0,The Chanukah Song,Cold Opening
+426,3641,28.0,3.0,200210191.0,Iraqi State Television,Cold Opening
+427,3644,28.0,2.0,200210121.0,Presidential Address,Cold Opening
+428,3653,28.0,1.0,200210051.0,NBC Special Report,Cold Opening
+429,3755,29.0,16.0,200404031.0,The Apprentice,Cold Opening
+430,3761,29.0,13.0,200402211.0,Hardball,Cold Opening
+431,3765,29.0,12.0,200402141.0,Endorsement,Cold Opening
+432,3771,29.0,11.0,200402071.0,Nightline,Cold Opening
+433,3774,29.0,9.0,200401101.0,A Message from Donald Trump,Cold Opening
+434,3778,29.0,10.0,200401171.0,Campaign Headquarters,Cold Opening
+435,3783,29.0,8.0,200312131.0,Hardball,Cold Opening
+436,3785,29.0,6.0,200311151.0,The New Iraqi Government,Cold Opening
+437,3787,29.0,4.0,200311011.0,Weapon Discoveries,Cold Opening
+438,3789,29.0,7.0,200312061.0,Equal Time TV,Cold Opening
+439,3794,29.0,5.0,200311081.0,20/20,Cold Opening
+440,3799,29.0,3.0,200310181.0,Press Conference,Cold Opening
+441,3811,29.0,2.0,200310111.0,Hardball,Cold Opening
+442,3818,29.0,1.0,200310041.0,Californians For Schwarzenegger,Cold Opening
+443,3832,30.0,18.0,200505071.0,Primetime Live,Cold Opening
+444,3853,30.0,10.0,200501221.0,The Bush Daughters,Cold Opening
+445,3856,30.0,17.0,200504161.0,A Message from Tom DeLay,Cold Opening
+446,3866,30.0,9.0,200501151.0,Tsunami Press Conference,Cold Opening
+447,3875,30.0,11.0,200502051.0,American Idol,Cold Opening
+448,3876,30.0,15.0,200503191.0,Hardball,Cold Opening
+449,3877,30.0,16.0,200504091.0,The Papal Debate,Cold Opening
+450,3883,30.0,4.0,200410301.0,Osama's Address,Cold Opening
+451,3893,30.0,7.0,200412111.0,Town Hall Meeting,Cold Opening
+452,3899,30.0,1.0,200410021.0,First Presidential Debate,Cold Opening
+453,3904,30.0,6.0,200411201.0,White House Apprentice,Cold Opening
+454,3909,30.0,3.0,200410231.0,Hardball,Cold Opening
+455,3915,30.0,5.0,200411131.0,Congratulatory Call,Cold Opening
+456,3937,30.0,2.0,200410091.0,Second Presidential Debate,Cold Opening
+457,3961,23.0,19.0,199805021.0,The Ladies' Man,Cold Opening
+458,3968,21.0,20.0,199605181.0,Nightline,Cold Opening
+459,3979,21.0,19.0,199605111.0,Dole & Rodman in '96,Cold Opening
+460,3992,23.0,20.0,199805091.0,The X Files,Cold Opening
+461,4005,21.0,18.0,199604201.0,Defense Team,Cold Opening
+462,4006,21.0,17.0,199604131.0,Class Reunion,Cold Opening
+463,4012,21.0,15.0,199603161.0,20/20,Cold Opening
+464,4030,22.0,20.0,199705171.0,Nightline,Cold Opening
+465,4031,21.0,14.0,199602241.0,Hotel,Cold Opening
+466,4033,22.0,18.0,199704191.0,Press Conference,Cold Opening
+467,4037,22.0,19.0,199705101.0,Oprah,Cold Opening
+468,4057,22.0,17.0,199704121.0,Nightline,Cold Opening
+469,4072,20.0,20.0,199505131.0,Beastman,Cold Opening
+470,4077,22.0,15.0,199703151.0,Replacements,Cold Opening
+471,4087,20.0,19.0,199505061.0,A Message From Tony Vallencourt,Cold Opening
+472,4102,20.0,18.0,199504151.0,El Orator De Motivacion,Cold Opening
+473,4105,20.0,17.0,199504081.0,A Statement from Judge Ito,Cold Opening
+474,4126,20.0,14.0,199502251.0,Black History Month,Cold Opening
+475,4128,20.0,12.0,199502111.0,Colin Ferguson Trial,Cold Opening
+476,4130,20.0,15.0,199503181.0,Press Conference,Cold Opening
+477,4157,20.0,11.0,199501211.0,Allowed Evidence,Cold Opening
+478,4163,20.0,10.0,199501141.0,104th Congress,Cold Opening
+479,4168,20.0,13.0,199502181.0,Simpson Jury Field Trip,Cold Opening
+480,4171,20.0,8.0,199412101.0,Press Conference,Cold Opening
+481,4175,20.0,9.0,199412171.0,Gifts for the Middle Class,Cold Opening
+482,4182,20.0,7.0,199412031.0,Press Conference,Cold Opening
+483,4186,20.0,4.0,199410221.0,A Message from George Bush,Cold Opening
+484,4193,20.0,5.0,199411121.0,Decision 94,Cold Opening
+485,4200,20.0,3.0,199410151.0,Stayin' Alive,Cold Opening
+486,4210,20.0,2.0,199410011.0,Universal Health Care,Cold Opening
+487,4224,20.0,1.0,199409241.0,Clinton Auditions,Cold Opening
+488,4229,22.0,13.0,199702151.0,Nightline,Cold Opening
+489,4234,22.0,8.0,199612071.0,Child Custody Hearing,Cold Opening
+490,4247,22.0,10.0,199701111.0,New Rating System,Cold Opening
+491,4259,22.0,11.0,199701181.0,Genitalia Line-Up,Cold Opening
+492,4262,22.0,12.0,199702081.0,Press Conference,Cold Opening
+493,4264,22.0,9.0,199612141.0,Clinton Helps Dole,Cold Opening
+494,4273,22.0,7.0,199611231.0,Trial Reenactment,Cold Opening
+495,4280,22.0,6.0,199611161.0,Dole Impression,Cold Opening
+496,4292,22.0,3.0,199610191.0,Dream Debate,Cold Opening
+497,4302,22.0,2.0,199610051.0,Debate Prep,Cold Opening
+498,4324,21.0,13.0,199602171.0,WMUR 9 CNN Debate,Cold Opening
+499,4335,21.0,12.0,199602101.0,Inside Politics,Cold Opening
+500,4345,21.0,11.0,199601201.0,Nightline,Cold Opening
+501,4349,21.0,10.0,199601131.0,The Blizzard of '96,Cold Opening
+502,4352,21.0,5.0,199511111.0,Late Night Snack,Cold Opening
+503,4361,21.0,6.0,199511181.0,Air Force One,Cold Opening
+504,4369,21.0,7.0,199512021.0,Inside Politics,Cold Opening
+505,4379,21.0,4.0,199510281.0,Halloween In New Hampshire,Cold Opening
+506,4387,21.0,8.0,199512091.0,Nightline,Cold Opening
+507,4398,21.0,9.0,199512161.0,NBC's Christmas Salute To Our Bosnian Troops,Cold Opening
+508,4408,21.0,3.0,199510211.0,Hootie's Million Man March,Cold Opening
+509,4409,21.0,2.0,199510071.0,NFL on NBC,Cold Opening
+510,4420,21.0,1.0,199509301.0,O.J. Today,Cold Opening
+511,4472,23.0,18.0,199804111.0,Martha Stewart Living,Cold Opening
+512,4486,23.0,17.0,199804041.0,Multiple Broadcasts,Cold Opening
+513,4494,23.0,16.0,199803141.0,The Starr Report,Cold Opening
+514,4519,23.0,15.0,199803071.0,Larry King Live,Cold Opening
+515,4525,23.0,14.0,199802281.0,Phone Chat,Cold Opening
+516,4531,23.0,9.0,199712131.0,Caroling,Cold Opening
+517,4538,23.0,13.0,199802141.0,ABC News Special Report,Cold Opening
+518,4545,23.0,10.0,199801101.0,Budget Surplus,Cold Opening
+519,4551,23.0,11.0,199801171.0,Self Defense Test,Cold Opening
+520,4563,23.0,6.0,199711151.0,Hillary's Time,Cold Opening
+521,4569,23.0,5.0,199711081.0,Controlling The Airwaves,Cold Opening
+522,4570,23.0,8.0,199712061.0,Well Babies Tragedy,Cold Opening
+523,4575,23.0,7.0,199711221.0,Backstage,Cold Opening
+524,4582,23.0,3.0,199710181.0,Janet's Bedroom,Cold Opening
+525,4588,23.0,4.0,199710251.0,Permission To Host,Cold Opening
+526,4591,23.0,2.0,199710041.0,Practice,Cold Opening
+527,4596,23.0,1.0,199709271.0,Oprah,Cold Opening
+528,4656,19.0,20.0,199405141.0,Coffee Talk,Cold Opening
+529,4659,16.0,19.0,199105111.0,Good Health,Cold Opening
+530,4662,16.0,20.0,199105181.0,Last Show,Cold Opening
+531,4674,18.0,19.0,199305081.0,Coffee Talk,Cold Opening
+532,4675,16.0,17.0,199104131.0,Affair,Cold Opening
+533,4681,16.0,18.0,199104201.0,Pumping Up With Hans & Franz,Cold Opening
+534,4686,16.0,16.0,199103231.0,Pumping Up With Hans & Franz,Cold Opening
+535,4693,12.0,20.0,198705231.0,Easy Rider,Cold Opening
+536,4700,14.0,19.0,198905131.0,Panama,Cold Opening
+537,4702,15.0,20.0,199005191.0,Presidential Address,Cold Opening
+538,4704,14.0,18.0,198904221.0,Presidential Address,Cold Opening
+539,4712,15.0,19.0,199005121.0,Guardian Devil,Cold Opening
+540,4722,12.0,19.0,198705161.0,Iran-Contra Hearings,Cold Opening
+541,4725,14.0,20.0,198905201.0,Presidential Address,Cold Opening
+542,4732,13.0,13.0,198802271.0,Pumping Up With Hans & Franz,Cold Opening
+543,4743,13.0,12.0,198802201.0,Calgary 1988,Cold Opening
+544,4754,13.0,7.0,198712121.0,Translator,Cold Opening
+545,4758,13.0,10.0,198801301.0,BushWhacked!,Cold Opening
+546,4766,13.0,3.0,198710311.0,"Lifestyles of the Rich, Famous and Scary",Cold Opening
+547,4769,13.0,9.0,198801231.0,Pumping Up With Hans & Franz,Cold Opening
+548,4780,13.0,8.0,198712191.0,30th Christmas,Cold Opening
+549,4790,13.0,4.0,198711141.0,The Rolling Paper Chase,Cold Opening
+550,4791,13.0,5.0,198711211.0,A Message From The Vice President,Cold Opening
+551,4800,13.0,1.0,198710171.0,White House Dinner,Cold Opening
+552,4805,12.0,18.0,198705091.0,The New Charlie's Angels,Cold Opening
+553,4814,13.0,2.0,198710241.0,Fatal Attraction II,Cold Opening
+554,4825,12.0,16.0,198704111.0,U.S. Embassy,Cold Opening
+555,4832,12.0,17.0,198704181.0,Pagan Easter Special,Cold Opening
+556,4838,12.0,15.0,198703281.0,Oral Roberts University,Cold Opening
+557,4844,12.0,14.0,198703211.0,Contract,Cold Opening
+558,4850,12.0,12.0,198702211.0,Afterlife Styles of The Rich and Famous,Cold Opening
+559,4852,12.0,11.0,198702141.0,Heaven,Cold Opening
+560,4856,12.0,13.0,198702281.0,Affair,Cold Opening
+561,4863,12.0,10.0,198701311.0,Hip,Cold Opening
+562,4871,12.0,9.0,198701241.0,NFL Video Countdown,Cold Opening
+563,4878,12.0,7.0,198612131.0,Iranian National Assembly,Cold Opening
+564,4885,12.0,6.0,198612061.0,Stumblebums Anonymous,Cold Opening
+565,4898,12.0,4.0,198611151.0,Church Chat,Cold Opening
+566,4907,12.0,2.0,198610181.0,Bartles & Jaymes,Cold Opening
+567,4914,12.0,3.0,198611081.0,Disclaimer,Miscellaneous
+568,4918,14.0,17.0,198904151.0,Oil Spill Cleanup,Cold Opening
+569,4922,12.0,1.0,198610111.0,It Was All A Dream,Cold Opening
+570,4929,14.0,16.0,198904011.0,Rain Man,Cold Opening
+571,4933,14.0,11.0,198901281.0,A Message from Ted Bundy,Cold Opening
+572,4939,14.0,14.0,198902251.0,Barnes & Noble,Cold Opening
+573,4944,14.0,15.0,198903251.0,The 61st Annual Academy Awards,Cold Opening
+574,4952,14.0,12.0,198902111.0,Cheers,Cold Opening
+575,4958,14.0,13.0,198902181.0,Iran's Most Wanted,Cold Opening
+576,4966,14.0,10.0,198901211.0,Super Bowl Call,Cold Opening
+577,4970,14.0,8.0,198812101.0,A Trump Christmas,Cold Opening
+578,4979,14.0,7.0,198812031.0,Pumping Up With Hans & Franz,Cold Opening
+579,4982,14.0,9.0,198812171.0,Christmas Eve,Cold Opening
+580,4989,14.0,5.0,198811121.0,Negative Ad,Cold Opening
+581,5000,14.0,6.0,198811191.0,The Oprah Winfrey Show,Cold Opening
+582,5015,14.0,4.0,198811051.0,Nicknames,Cold Opening
+583,5017,14.0,3.0,198810221.0,Alien Dukakis,Cold Opening
+584,5023,14.0,1.0,198810081.0,Pumping Up With Hans & Franz,Cold Opening
+585,5033,15.0,17.0,199004141.0,Cable Shopping Network,Cold Opening
+586,5038,15.0,15.0,199003171.0,Dressing Room,Cold Opening
+587,5041,15.0,18.0,199004211.0,Presidential Address,Cold Opening
+588,5044,15.0,16.0,199003241.0,The Census,Cold Opening
+589,5052,15.0,14.0,199002241.0,Church Chat,Cold Opening
+590,5058,15.0,13.0,199002171.0,Prenuptial Agreement,Cold Opening
+591,5065,15.0,12.0,199002101.0,Pumping Up With Hans & Franz,Cold Opening
+592,5074,15.0,9.0,198912161.0,Energizer Bunny,Cold Opening
+593,5078,15.0,10.0,199001131.0,Prison Visit,Cold Opening
+594,5082,15.0,5.0,198911111.0,Wimbledon,Cold Opening
+595,5091,15.0,8.0,198912091.0,Presidential Address,Cold Opening
+596,5095,15.0,6.0,198911181.0,Five Easy Pieces '89,Cold Opening
+597,5100,15.0,7.0,198912021.0,It Used To Be A Wonderful Life,Cold Opening
+598,5109,15.0,11.0,199001201.0,The Tonight Show,Cold Opening
+599,5110,15.0,4.0,198910281.0,The Tonight Show,Cold Opening
+600,5115,15.0,3.0,198910211.0,The Miracle of Fatima '89,Cold Opening
+601,5136,15.0,1.0,198909301.0,White House Report,Cold Opening
+602,5147,16.0,11.0,199101191.0,Wayne's World,Cold Opening
+603,5149,16.0,9.0,199012151.0,Presidential Address,Cold Opening
+604,5157,16.0,14.0,199102231.0,The McLaughlin Group,Cold Opening
+605,5164,16.0,13.0,199102161.0,Military Briefing,Cold Opening
+606,5178,16.0,12.0,199102091.0,Military Briefing,Cold Opening
+607,5182,16.0,8.0,199012081.0,Editorial Reply,Cold Opening
+608,5188,16.0,4.0,199010271.0,Dirty Square Dancing,Cold Opening
+609,5194,16.0,7.0,199012011.0,Church Chat,Cold Opening
+610,5197,16.0,5.0,199011101.0,Presidential Address,Cold Opening
+611,5208,16.0,10.0,199101121.0,Assassinating Hussein,Cold Opening
+612,5209,16.0,1.0,199009291.0,Iraqi Address,Cold Opening
+613,5220,16.0,3.0,199010201.0,Dream,Cold Opening
+614,5223,16.0,2.0,199010061.0,Remington Shavers,Cold Opening
+615,5228,16.0,6.0,199011171.0,Live With Regis & Kathie Lee,Cold Opening
+616,5290,17.0,17.0,199204111.0,Wayne's World,Cold Opening
+617,5300,17.0,20.0,199205161.0,The Tonight Show,Cold Opening
+618,5304,17.0,19.0,199205091.0,Perot for President,Cold Opening
+619,5310,17.0,18.0,199204181.0,Clinton-Brown Debate,Cold Opening
+620,5316,17.0,16.0,199203211.0,The McLaughlin Group,Cold Opening
+621,5319,17.0,14.0,199202221.0,Presidential Address,Cold Opening
+622,5327,17.0,15.0,199203141.0,17th Annual Star Trek Convention,Cold Opening
+623,5330,17.0,11.0,199201181.0,Wayne's World,Cold Opening
+624,5344,17.0,13.0,199202151.0,Olympic Figure Skating,Cold Opening
+625,5349,17.0,12.0,199202081.0,L.A. Law,Cold Opening
+626,5355,17.0,10.0,199201111.0,Cover-Up,Cold Opening
+627,5379,17.0,9.0,199112141.0,The Tonight Song,Cold Opening
+628,5382,17.0,8.0,199112071.0,Presidential Address,Cold Opening
+629,5410,17.0,7.0,199111231.0,Hosting Alone,Cold Opening
+630,5419,17.0,6.0,199111161.0,Campaign '91,Cold Opening
+631,5445,17.0,4.0,199110261.0,The McLaughlin Group,Cold Opening
+632,5447,17.0,5.0,199111021.0,Jury Selection,Cold Opening
+633,5448,17.0,3.0,199110121.0,Clarence Thomas Hearings,Cold Opening
+634,5459,17.0,1.0,199109281.0,Wayne's World,Cold Opening
+635,5516,18.0,18.0,199304171.0,Recurring Characters for Unity,Cold Opening
+636,5526,18.0,17.0,199304101.0,Summit,Cold Opening
+637,5533,18.0,16.0,199303201.0,The Crying Game,Cold Opening
+638,5540,18.0,15.0,199303131.0,Davidian Compound,Cold Opening
+639,5544,18.0,9.0,199212121.0,The Royal Separation,Cold Opening
+640,5549,18.0,6.0,199211141.0,White House,Cold Opening
+641,5552,18.0,13.0,199302131.0,Dateline NBC,Cold Opening
+642,5558,18.0,7.0,199211211.0,White House Tour,Cold Opening
+643,5561,18.0,8.0,199212051.0,Wayne's World,Cold Opening
+644,5573,18.0,3.0,199210101.0,Debate 92,Cold Opening
+645,5577,18.0,4.0,199210241.0,Joy Ride,Cold Opening
+646,5585,18.0,5.0,199210311.0,Press Conference,Cold Opening
+647,5589,18.0,2.0,199210031.0,"United We Stand, America",Cold Opening
+648,5604,19.0,19.0,199405071.0,The 1994 New York Gubernatorial Debate,Cold Opening
+649,5623,19.0,16.0,199403191.0,Rockers To Help Explain Whitewater,Cold Opening
+650,5629,19.0,14.0,199402191.0,A Message From Jeff Gillooly,Cold Opening
+651,5659,19.0,13.0,199402121.0,Goodfellas,Cold Opening
+652,5661,19.0,12.0,199402051.0,Operation Pedophile Not,Cold Opening
+653,5669,19.0,15.0,199403121.0,Press Conference,Cold Opening
+654,5674,19.0,11.0,199401151.0,The Bobbitt Trial,Cold Opening
+655,5682,19.0,9.0,199312111.0,Santa Don't Like Bad Boys,Cold Opening
+656,5683,19.0,10.0,199401081.0,Inaugural Speech,Cold Opening
+657,5700,19.0,6.0,199311131.0,The Packwood Diaries,Cold Opening
+658,5718,19.0,8.0,199312041.0,Planet of the Apes,Cold Opening
+659,5719,19.0,5.0,199310301.0,Coffee Talk,Cold Opening
+660,5737,19.0,3.0,199310091.0,Rock For Michael,Cold Opening
+661,5738,19.0,4.0,199310231.0,National Anthem,Cold Opening
+662,5746,19.0,2.0,199310021.0,Scratch Ticket,Cold Opening
+663,5754,19.0,1.0,199309251.0,Health Care Plan,Cold Opening
+664,5791,11.0,10.0,198602151.0,Bar,Cold Opening
+665,5797,11.0,9.0,198602081.0,Risky Business,Cold Opening
+666,5843,11.0,8.0,198601251.0,Monks,Cold Opening
+667,5844,11.0,17.0,198605171.0,Weigh-In,Cold Opening
+668,5847,11.0,18.0,198605241.0,Hands Across America,Cold Opening
+669,5854,11.0,7.0,198601181.0,Press Conference,Cold Opening
+670,5856,11.0,11.0,198602221.0,Studio Tour,Cold Opening
+671,5869,11.0,16.0,198605101.0,"""You Can Call Me Al""",Cold Opening
+672,5882,10.0,17.0,198504131.0,Willie & Frankie,Cold Opening
+673,5890,10.0,16.0,198504061.0,A.D. 13 Part V: A New Beginning,Cold Opening
+674,5903,11.0,1.0,198511091.0,Drug Testing,Cold Opening
+675,5915,10.0,15.0,198503301.0,I Am Also The World,Cold Opening
+676,5916,9.0,6.0,198311191.0,Surgery,Cold Opening
+677,5930,9.0,18.0,198405051.0,Simulated Cat Fight,Cold Opening
+678,5947,9.0,17.0,198404141.0,60 Minutes,Cold Opening
+679,5956,9.0,16.0,198404071.0,Lost Script,Cold Opening
+680,5972,9.0,15.0,198403171.0,St. Patrick's Day Wrap-Up,Cold Opening
+681,5981,9.0,13.0,198402181.0,Rappin' Jimmy B.,Cold Opening
+682,5982,9.0,14.0,198402251.0,Hairdressers,Cold Opening
+683,5984,9.0,11.0,198401281.0,TV President,Cold Opening
+684,5992,9.0,10.0,198401211.0,Donahue,Cold Opening
+685,5995,9.0,12.0,198402111.0,Winter Olympics,Cold Opening
+686,5998,9.0,9.0,198401141.0,National Phone-In Democratic Primary,Cold Opening
+687,6004,9.0,5.0,198311121.0,Cheerleaders,Cold Opening
+688,6009,9.0,8.0,198312101.0,Dion's,Cold Opening
+689,6027,9.0,7.0,198312031.0,Rain Delay,Cold Opening
+690,6037,9.0,2.0,198310151.0,Calvin Klein Cream Pies,Cold Opening
+691,6039,9.0,4.0,198311051.0,Astronaut,Cold Opening
+692,6040,9.0,3.0,198310221.0,Locker Room,Cold Opening
+693,6045,9.0,1.0,198310081.0,Brandon's Office,Cold Opening
+694,6071,10.0,14.0,198502161.0,,Monologue
+695,6079,10.0,13.0,198502091.0,Congress,Cold Opening
+696,6082,10.0,9.0,198412151.0,Buckwheat Lives!,Cold Opening
+697,6095,10.0,11.0,198501191.0,Inauguration,Cold Opening
+698,6097,10.0,12.0,198502021.0,Backstage,Cold Opening
+699,6109,10.0,10.0,198501121.0,Green Room,Cold Opening
+700,6119,10.0,7.0,198412011.0,Adopted Son,Cold Opening
+701,6121,10.0,8.0,198412081.0,Beatle Memorabilia Auction,Cold Opening
+702,6125,10.0,6.0,198411171.0,Syndication,Cold Opening
+703,6128,10.0,5.0,198411101.0,Mondale Impression,Cold Opening
+704,6130,10.0,4.0,198411031.0,Gerry And The Mon-Dells,Cold Opening
+705,6134,10.0,3.0,198410201.0,Advice,Cold Opening
+706,6138,10.0,1.0,198410061.0,Lifestyles of The Relatives of The Rich and Famous,Cold Opening
+707,6142,11.0,15.0,198604191.0,Vietnam Story,Cold Opening
+708,6146,10.0,2.0,198410131.0,Password,Cold Opening
+709,6152,11.0,14.0,198604121.0,Backstage,Cold Opening
+710,6164,11.0,13.0,198603221.0,Backstage,Cold Opening
+711,6168,11.0,12.0,198603151.0,Rumors,Cold Opening
+712,6172,11.0,6.0,198512211.0,Rapping Wrapper,Cold Opening
+713,6181,11.0,4.0,198512071.0,Halley's Comet,Cold Opening
+714,6187,11.0,2.0,198511161.0,Firefighters,Cold Opening
+715,6196,11.0,3.0,198511231.0,Tightrope,Cold Opening

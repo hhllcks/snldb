@@ -1,0 +1,460 @@
+,index,aid,name,isCast
+0,72,Bob Dryden,Bob Dryden,0.0
+1,74,JoBe,John Belushi,1.0
+2,76,JaCu,Jane Curtin,1.0
+3,78,LoMi,Lorne Michaels,0.0
+4,80,GiRa,Gilda Radner,1.0
+5,85,DaAy,Dan Aykroyd,1.0
+6,87,BrDM,Brian Doyle-Murray,1.0
+7,89,GaMo,Garrett Morris,1.0
+8,94,BoCr,Bob Cranshaw,0.0
+9,96,BiMu,Bill Murray,1.0
+10,102,HeRi,Heino Ripp,0.0
+11,104,WaWi,Walter Williams,0.0
+12,107,JoPi,Joe Piscopo,1.0
+13,109,AnRi,Ann Risley,1.0
+14,111,CaRo,Charles Rocket,1.0
+15,114,Chevy Chase,Chevy Chase,0.0
+16,116,DeDi,Denny Dillon,1.0
+17,125,LeDG,Lew Del Gatto,0.0
+18,127,ChHa,Cheryl Hardwick,0.0
+19,129,HwJo,Howard Johnson,0.0
+20,131,BeJo,Bert Jones,0.0
+21,133,DaWi,Dave Wilson,0.0
+22,137,StJo,Steve Jordan,0.0
+23,139,ToMa,Tom Malone,0.0
+24,141,LoMa,Lou Marini,0.0
+25,143,AlPR,Alan P. Rubin,0.0
+26,145,PaSh,Paul Shaffer,1.0
+27,147,HwSh,Howard Shore,0.0
+28,149,MrSm,Mauricio Smith,0.0
+29,154,Olivia Newton-John,Olivia Newton-John,0.0
+30,156,RoDu,Robin Duke,1.0
+31,159,Robert Culp,Robert Culp,0.0
+32,161,TiKa,Tim Kazurinsky,1.0
+33,163,NeLe,Neil Levy,0.0
+34,165,EdMu,Eddie Murphy,1.0
+35,169,Johnny Cash,Johnny Cash,0.0
+36,173,NeLy,Nelson Lyon,0.0
+37,176,Ed Koch,Ed Koch,0.0
+38,185,JuLD,Julia Louis-Dreyfus,1.0
+39,199,AnSm,Andrew Smith,0.0
+40,211,GaKr,Gary Kroeger,1.0
+41,215,Beau Bridges,Beau Bridges,0.0
+42,217,Jeff Bridges,Jeff Bridges,0.0
+43,221,Howard Hesseman,Howard Hesseman,0.0
+44,223,AnMu,Andy Murphy,0.0
+45,226,Sid Caesar,Sid Caesar,0.0
+46,228,Lily Tomlin,Lily Tomlin,0.0
+47,230,MaGr,Mary Gross,1.0
+48,235,ClSm,Clint Smith,0.0
+49,238,Milan Melvin,Milan Melvin,0.0
+50,247,BrHa,Brad Hall,1.0
+51,256,Robert Blake,Robert Blake,0.0
+52,258,Merv Griffin,Merv Griffin,0.0
+53,264,Michael Keaton,Michael Keaton,0.0
+54,266,Michael Palin,Michael Palin,0.0
+55,268,JoDi,Joe Dicso,0.0
+56,272,Drew Barrymore,Drew Barrymore,0.0
+57,288,Susan Saint James,Susan Saint James,0.0
+58,310,Daniel J. Travanti,Daniel J. Travanti,0.0
+59,313,ToRo,Tony Rosato,1.0
+60,326,Robert Urich,Robert Urich,0.0
+61,332,Bruce Dern,Bruce Dern,0.0
+62,335,ChEb,Christine Ebersole,1.0
+63,337,John Madden,John Madden,0.0
+64,355,Donald Pleasence,Donald Pleasence,0.0
+65,357,John Belushi,John Belushi,0.0
+66,363,George Kennedy,George Kennedy,0.0
+67,365,Regis Philbin,Regis Philbin,0.0
+68,367,Ron Howard,Ron Howard,0.0
+69,370,PeFa,Pete Fatovich,0.0
+70,372,PhHy,Phil Hyms,0.0
+71,379,Bill Murray,Bill Murray,0.0
+72,382,GiGo,Gilbert Gottfried,1.0
+73,384,GaMa,Gail Matthius,1.0
+74,392,Marc Weiner,Marc Weiner,0.0
+75,408,MaLa,Matthew Laurance,1.0
+76,412,PaWe,Patrick Weathers,1.0
+77,429,TeSw,Terry Sweeney,1.0
+78,431,LiWe,Liz Welch,0.0
+79,440,DoPa,Don Pardo,0.0
+80,470,Elliott Gould,Elliott Gould,0.0
+81,485,LaNe,Laraine Newman,1.0
+82,496,Marvin Goldhar,Marvin Goldhar,0.0
+83,522,Gary Busey,Gary Busey,0.0
+84,526,JiDo,Jim Downey,1.0
+85,527,Kate Jackson,Kate Jackson,0.0
+86,535,RoSu,Rosie Schuster,0.0
+87,537,AlZw,Alan Zweibel,1.0
+88,541,ToDa,Tom Davis,1.0
+89,556,AnBe,Anne Beatts,0.0
+90,560,LeMa,Lee Mayman,0.0
+91,564,NiNi,Nil Nichols,0.0
+92,578,Tom Scott,Tom Scott,0.0
+93,592,HaSh,Harry Shearer,1.0
+94,598,BiMc,Brian McConnachie,0.0
+95,624,DoNo,Don Novello,1.0
+96,627,DaSa,David Sanborn,0.0
+97,637,Burt Reynolds,Burt Reynolds,0.0
+98,648,Michael O'Donoghue,Michael O'Donoghue,0.0
+99,664,Rodney Dangerfield,Rodney Dangerfield,0.0
+100,672,KaRo,Karen Roston,0.0
+101,691,AkYo,Akira Yoshimura,0.0
+102,706,Kirk Douglas,Kirk Douglas,0.0
+103,708,Lucie Lancaster,Lucie Lancaster,0.0
+104,712,ToGa,Tom Gammill,0.0
+105,715,MaPr,Max Pross,0.0
+106,728,AlFr,Al Franken,1.0
+107,741,Buck Henry,Buck Henry,0.0
+108,744,YvHu,Yvonne Hudson,1.0
+109,746,ToSc,Tom Schiller,1.0
+110,750,PeAy,Peter Aykroyd,1.0
+111,754,WiDa,Willie Day,0.0
+112,757,SaPa,Sarah Paley,0.0
+113,760,MiLa,Mitchell Laurance,0.0
+114,889,MiOD,Michael O'Donoghue,1.0
+115,901,Connie Crawford,Connie Crawford,0.0
+116,903,David Lewis,David Lewis,0.0
+117,905,Deb Blair,Deb Blair,0.0
+118,907,Miskel Spillman,Miskel Spillman,0.0
+119,909,Richard Kneip,Richard Kneip,0.0
+120,918,Mary Kay Place,Mary Kay Place,0.0
+121,926,Charles Grodin,Charles Grodin,0.0
+122,1032,Shelley Duvall,Shelley Duvall,0.0
+123,1039,BVRy,Bob Van Ry,0.0
+124,1044,Steve Martin,Steve Martin,0.0
+125,1051,Eric Idle,Eric Idle,0.0
+126,1061,Linda Ronstadt,Linda Ronstadt,0.0
+127,1067,Sissy Spacek,Sissy Spacek,0.0
+128,1081,Fran Tarkenton,Fran Tarkenton,0.0
+129,1095,Ralph Nader,Ralph Nader,0.0
+130,1127,Paul Simon,Paul Simon,0.0
+131,1129,George Harrison,George Harrison,0.0
+132,1146,RiBe,Richard Belzer,0.0
+133,1148,ChCh,Chevy Chase,1.0
+134,1177,GaWe,Gary Weis,0.0
+135,1251,Kris Kristofferson,Kris Kristofferson,0.0
+136,1253,Rita Coolidge,Rita Coolidge,0.0
+137,1258,BeBe,Beck Bennett,1.0
+138,1260,StHi,Steve Higgins,0.0
+139,1262,KaMc,Kate McKinnon,1.0
+140,1265,Bryan Cranston,Bryan Cranston,0.0
+141,1272,DaHa,Darrell Hammond,1.0
+142,1274,TaKi,Taran Killam,1.0
+143,1276,CeSt,Cecily Strong,1.0
+144,1279,VaBa,Vanessa Bayer,1.0
+145,1282,BoMo,Bobby Moynihan,1.0
+146,1284,JaPh,Jay Pharoah,1.0
+147,1292,Julia Louis-Dreyfus,Julia Louis-Dreyfus,0.0
+148,1296,SaZa,Sasheer Zamata,1.0
+149,1305,KeTh,Kenan Thompson,1.0
+150,1337,NaPe,Nasim Pedrad,1.0
+151,1339,NoWe,Noël Wells,1.0
+152,1341,BrWh,Brooks Wheelan,1.0
+153,1353,AiBr,Aidy Bryant,1.0
+154,1357,JoMi,John Milhiser,1.0
+155,1358,MPOB,Mike O'Brien,1.0
+156,1363,KyMo,Kyle Mooney,1.0
+157,1370,Melissa McCarthy,Melissa McCarthy,0.0
+158,1372,Liam Neeson,Liam Neeson,0.0
+159,1382,JaAn,James Anderson,0.0
+160,1386,DaFl,Danielle Flora,0.0
+161,1400,Jimmy Fallon,Jimmy Fallon,0.0
+162,1432,Miley Cyrus,Miley Cyrus,0.0
+163,1454,Aaron Paul,Aaron Paul,0.0
+164,1481,PeDa,Pete Davidson,1.0
+165,1484,LeJo,Leslie Jones,1.0
+166,1556,Mike Myers,Mike Myers,0.0
+167,1617,MiDa,Mikey Day,1.0
+168,1670,CoJo,Colin Jost,1.0
+169,1676,JoRu,Jon Rudnitsky,1.0
+170,1694,PaPe,Paula Pell,0.0
+171,1753,DESh,Dahaud Elias Shaar,0.0
+172,1757,President Gerald Ford,President Gerald Ford,0.0
+173,1796,EdBa,Edie Baskin,0.0
+174,1814,GeCo,George Coe,1.0
+175,1840,BiHa,Bill Hader,1.0
+176,1845,TiRo,Tim Robinson,1.0
+177,1850,JaSu,Jason Sudeikis,1.0
+178,1854,FrAr,Fred Armisen,1.0
+179,1866,Jon Hamm,Jon Hamm,0.0
+180,1870,AbEl,Abby Elliott,1.0
+181,1875,KrWi,Kristen Wiig,1.0
+182,1912,AnSa,Andy Samberg,1.0
+183,1937,SeMe,Seth Meyers,1.0
+184,1994,PaBr,Paul Brittain,1.0
+185,2030,Dennis Rodman,Dennis Rodman,0.0
+186,2063,The New York City Children's Chorus,The New York City Children's Chorus,0.0
+187,2117,Tom Hanks,Tom Hanks,0.0
+188,2124,Usain Bolt,Usain Bolt,0.0
+189,2194,David Sanborn,David Sanborn,0.0
+190,2203,Elton John,Elton John,0.0
+191,2343,Sen. Charles Schumer,Sen. Charles Schumer,0.0
+192,2346,WiFo,Will Forte,1.0
+193,2349,MaRu,Maya Rudolph,1.0
+194,2369,RoSm,Robert Smigel,1.0
+195,2372,Chris Rock,Chris Rock,0.0
+196,2376,RaDr,Rachel Dratch,1.0
+197,2383,Al Gore,Al Gore,0.0
+198,2389,AmPo,Amy Poehler,1.0
+199,2392,Steve Carell,Steve Carell,0.0
+200,2399,RoKl,Rob Klein,0.0
+201,2402,SiRi,Simon Rich,0.0
+202,2405,MaSa,Marika Sawyer,0.0
+203,2410,CaWi,Casey Wilson,1.0
+204,2412,AlWo,Alan Wong,0.0
+205,2438,Hillary Clinton,Hillary Clinton,0.0
+206,2440,Vincent D'Onofrio,Vincent D'Onofrio,0.0
+207,2457,Amber Lee Ettinger,Amber Lee Ettinger,0.0
+208,2469,Jon Bon Jovi,Jon Bon Jovi,0.0
+209,2473,Barack Obama,Barack Obama,0.0
+210,2487,Lindsay Lohan,Lindsay Lohan,0.0
+211,2491,ChPa,Chris Parnell,1.0
+212,2498,FiMi,Finesse Mitchell,1.0
+213,2507,Alec Baldwin,Alec Baldwin,0.0
+214,2509,Kelly Ripa,Kelly Ripa,0.0
+215,2541,TiFe,Tina Fey,1.0
+216,2557,HrSa,Horatio Sanz,1.0
+217,2599,JoLu,John Lutz,0.0
+218,2648,MiWa,Michaela Watkins,1.0
+219,2655,Cindy McCain,Cindy McCain,0.0
+220,2657,Sen. John McCain,Sen. John McCain,0.0
+221,2669,Mark Wahlberg,Mark Wahlberg,0.0
+222,2671,Sarah Palin,Sarah Palin,0.0
+223,2682,Tracy Morgan,Tracy Morgan,0.0
+224,2684,Tina Fey,Tina Fey,0.0
+225,2686,John Cena,John Cena,0.0
+226,2689,EmSp,Emily Spivey,0.0
+227,2735,Rainn Wilson,Rainn Wilson,0.0
+228,2775,Ken Davitian,Ken Davitian,0.0
+229,2777,Sacha Baron Cohen,Sacha Baron Cohen,0.0
+230,2827,Betty White,Betty White,0.0
+231,2829,Amy Poehler,Amy Poehler,0.0
+232,2831,Ana Gasteyer,Ana Gasteyer,0.0
+233,2833,Maya Rudolph,Maya Rudolph,0.0
+234,2835,Molly Shannon,Molly Shannon,0.0
+235,2837,Rachel Dratch,Rachel Dratch,0.0
+236,2890,James Franco,James Franco,0.0
+237,2901,JeSl,Jenny Slate,1.0
+238,3047,Will Ferrell,Will Ferrell,0.0
+239,3072,WiFe,Will Ferrell,1.0
+240,3077,JiFa,Jimmy Fallon,1.0
+241,3080,AnGa,Ana Gasteyer,1.0
+242,3124,Monica Lewinsky,Monica Lewinsky,0.0
+243,3127,TiMe,Tim Meadows,1.0
+244,3129,TrMo,Tracy Morgan,1.0
+245,3132,Stephanie Seymour,Stephanie Seymour,0.0
+246,3138,ChOt,Cheri Oteri,1.0
+247,3148,MoSh,Molly Shannon,1.0
+248,3162,David Spade,David Spade,0.0
+249,3164,Brad Pitt,Brad Pitt,0.0
+250,3175,ChKa,Chris Kattan,1.0
+251,3192,Ben Stiller,Ben Stiller,0.0
+252,3202,DeMc,Dennis McNicholas,0.0
+253,3216,Cameron Diaz,Cameron Diaz,0.0
+254,3219,Tobey Maguire,Tobey Maguire,0.0
+255,3230,Big Show,Big Show,0.0
+256,3232,Mick Foley,Mick Foley,0.0
+257,3234,Triple H,Triple H,0.0
+258,3236,Vince McMahon,Vince McMahon,0.0
+259,3258,Florence Henderson,Florence Henderson,0.0
+260,3260,Gina Gershon,Gina Gershon,0.0
+261,3262,Sarah Michelle Gellar,Sarah Michelle Gellar,0.0
+262,3302,John Carpenter,John Carpenter,0.0
+263,3305,TiHe,Tim Herlihy,0.0
+264,3325,Dylan McDermott,Dylan McDermott,0.0
+265,3370,Jennifer Lopez,Jennifer Lopez,0.0
+266,3413,HuFi,Hugh Fink,0.0
+267,3444,Dan Aykroyd,Dan Aykroyd,0.0
+268,3481,DeEd,Dean Edwards,1.0
+269,3500,JeRi,Jeff Richards,1.0
+270,3504,Rudy Giuliani,Rudy Giuliani,0.0
+271,3563,ScWa,Scott Wainio,0.0
+272,3609,Tipper Gore,Tipper Gore,0.0
+273,3631,Adam Sandler,Adam Sandler,0.0
+274,3633,Rob Schneider,Rob Schneider,0.0
+275,3742,Donald Trump,Donald Trump,0.0
+276,3744,Carolyn Kepcher,Carolyn Kepcher,0.0
+277,3746,George Ross,George Ross,0.0
+278,3748,LiCa,Liz Cackowski,0.0
+279,3820,Paula Abdul,Paula Abdul,0.0
+280,3845,RoRi,Rob Riggle,1.0
+281,3959,CoQu,Colin Quinn,1.0
+282,3964,John Henry Kurtz,John Henry Kurtz,0.0
+283,3966,NoMa,Norm MacDonald,1.0
+284,3973,MaMc,Mark McKinney,1.0
+285,3975,RySh,Ryan Shiraki,0.0
+286,3977,NaWa,Nancy Walls,1.0
+287,3980,JiBr,Jim Breuer,1.0
+288,3985,DaKo,David Koechner,1.0
+289,3986,David Duchovny,David Duchovny,0.0
+290,3988,Nicholas Lea,Nicholas Lea,0.0
+291,4020,AdMc,Adam McKay,0.0
+292,4046,MoBa,Morwenna Banks,1.0
+293,4048,ElCl,Ellen Cleghorne,1.0
+294,4050,ChEl,Chris Elliott,1.0
+295,4052,ChFa,Chris Farley,1.0
+296,4054,MiMc,Michael McKean,1.0
+297,4061,KeNe,Kevin Nealon,1.0
+298,4063,AdSa,Adam Sandler,1.0
+299,4066,GESm,G.E. Smith,0.0
+300,4068,DaSp,David Spade,1.0
+301,4070,FrWo,Fred Wolf,1.0
+302,4100,JaMo,Jay Mohr,1.0
+303,4107,Bob Newhart,Bob Newhart,0.0
+304,4132,LaKi,Laura Kightlinger,1.0
+305,4137,MiMy,Mike Myers,1.0
+306,4142,JaGa,Janeane Garofalo,1.0
+307,4150,MaKl,Marci Klein,0.0
+308,4166,JoZo,John Zonars,0.0
+309,4183,President George Bush,President George Bush,0.0
+310,4196,John Travolta,John Travolta,0.0
+311,4243,John Cleese,John Cleese,0.0
+312,4248,StCo,Stephen Colbert,0.0
+313,4274,Bob Dole,Bob Dole,0.0
+314,4276,Elizabeth Dole,Elizabeth Dole,0.0
+315,4282,Bill Pullman,Bill Pullman,0.0
+316,4285,PaFe,Patrick Ferrell,0.0
+317,4293,David Lander,David Lander,0.0
+318,4346,George Pataki,George Pataki,0.0
+319,4370,Bill Bradley,Bill Bradley,0.0
+320,4372,Lamar Alexander,Lamar Alexander,0.0
+321,4468,Greg Kinnear,Greg Kinnear,0.0
+322,4475,Lewis Lapham,Lewis Lapham,0.0
+323,4498,RoCa,Robert Carlock,0.0
+324,4505,ToGi,Tom Gianas,0.0
+325,4511,LoNa,Lori Nasso,0.0
+326,4517,MiSh,Michael Shoemaker,0.0
+327,4526,Helen Hunt,Helen Hunt,0.0
+328,4583,Chris Farley,Chris Farley,0.0
+329,4646,Heather Locklear,Heather Locklear,0.0
+330,4648,MaSM,Marilyn Suzanne Miller,0.0
+331,4652,SpFe,Spike Feresten,0.0
+332,4657,DaCa,Dana Carvey,1.0
+333,4660,DeMi,Dennis Miller,1.0
+334,4663,PhHa,Phil Hartman,1.0
+335,4666,JaHo,Jan Hooks,1.0
+336,4672,JuSw,Julia Sweeney,1.0
+337,4676,Steven Seagal,Steven Seagal,0.0
+338,4687,Dennis Hopper,Dennis Hopper,0.0
+339,4691,JoLo,Jon Lovitz,1.0
+340,4707,Andrew Dice Clay,Andrew Dice Clay,0.0
+341,4727,Judge Reinhold,Judge Reinhold,0.0
+342,4749,NoDu,Nora Dunn,1.0
+343,4752,BoOd,Bob Odenkirk,0.0
+344,4755,JiPi,Jim Pitt,0.0
+345,4761,Ric Ocasek,Ric Ocasek,0.0
+346,4763,Elvira,Elvira,0.0
+347,4771,AWBr,A. Whitney Brown,1.0
+348,4787,ViJa,Victoria Jackson,1.0
+349,4796,Mark Harmon,Mark Harmon,0.0
+350,4809,Sean Penn,Sean Penn,0.0
+351,4811,LL Cool J,LL Cool J,0.0
+352,4817,John Lithgow,John Lithgow,0.0
+353,4827,John Larroquette,John Larroquette,0.0
+354,4834,Charlton Heston,Charlton Heston,0.0
+355,4858,Paul Shaffer,Paul Shaffer,0.0
+356,4866,Walter Payton,Walter Payton,0.0
+357,4882,Martin Short,Martin Short,0.0
+358,4888,Sam Kinison,Sam Kinison,0.0
+359,4890,Seka,Seka,0.0
+360,4892,AnBr,Andy Breckman,0.0
+361,4902,Ron Darling,Ron Darling,0.0
+362,4916,BeSt,Ben Stiller,1.0
+363,4920,Madonna,Madonna,0.0
+364,4934,Glenn Close,Glenn Close,0.0
+365,4945,Ted Danson,Ted Danson,0.0
+366,4972,Danny DeVito,Danny DeVito,0.0
+367,4974,Arnold Schwarzenegger,Arnold Schwarzenegger,0.0
+368,4986,Kirsten Dunst,Kirsten Dunst,0.0
+369,5002,Matthew Modine,Matthew Modine,0.0
+370,5028,Rob Lowe,Rob Lowe,0.0
+371,5046,Fred Savage,Fred Savage,0.0
+372,5079,Chris Evert,Chris Evert,0.0
+373,5089,JeRe,Jeff Renaudo,0.0
+374,5111,Kathleen Turner,Kathleen Turner,0.0
+375,5152,Joel Godard,Joel Godard,0.0
+376,5161,AnRo,Andrew Robin,0.0
+377,5173,CoOB,Conan O'Brien,0.0
+378,5175,RoSc,Rob Schneider,1.0
+379,5183,Patrick Swayze,Patrick Swayze,0.0
+380,5190,John Goodman,John Goodman,0.0
+381,5204,Joe Mantegna,Joe Mantegna,0.0
+382,5214,George Steinbrenner,George Steinbrenner,0.0
+383,5216,Bob Costas ,Bob Costas ,0.0
+384,5296,ChRo,Chris Rock,1.0
+385,5331,Susan Dey,Susan Dey,0.0
+386,5337,Jason Priestley,Jason Priestley,0.0
+387,5341,MeHu,Melanie Hutsell,1.0
+388,5357,BeCa,Beth Cahill,1.0
+389,5362,SiFa,Siobhan Fallon,1.0
+390,5365,WaFe,Wally Feresten,0.0
+391,5393,Macaulay Culkin,Macaulay Culkin,0.0
+392,5432,WaHu,Warren Hutcherson,0.0
+393,5438,John McLaughlin,John McLaughlin,0.0
+394,5528,Miranda Richardson,Miranda Richardson,0.0
+395,5530,Stephen Rea,Stephen Rea,0.0
+396,5571,GrTr,Grafton True,0.0
+397,5602,SaSi,Sarah Silverman,1.0
+398,5606,Cindy Crawford,Cindy Crawford,0.0
+399,5631,Kim Basinger,Kim Basinger,0.0
+400,5633,DaAt,Dave Attell,0.0
+401,5639,StKo,Steve Koren,0.0
+402,5642,IaMG,Ian Maxtone-Graham,0.0
+403,5645,Patrick Stewart,Patrick Stewart,0.0
+404,5705,Steven Tyler,Steven Tyler,0.0
+405,5707,Joe Perry,Joe Perry,0.0
+406,5786,Jerry Hall,Jerry Hall,0.0
+407,5788,Mick Jagger,Mick Jagger,0.0
+408,5792,Ron Reagan,Ron Reagan,0.0
+409,5794,RaQu,Randy Quaid,1.0
+410,5798,RoDJ,Robert Downey Jr.,1.0
+411,5805,DaWa,Damon Wayans,1.0
+412,5806,Marvelous Marvin Hagler,Marvelous Marvin Hagler,0.0
+413,5809,AnMH,Anthony Michael Hall,1.0
+414,5815,Billy Martin,Billy Martin,0.0
+415,5817,JoCu,Joan Cusack,1.0
+416,5823,Jay Leno,Jay Leno,0.0
+417,5825,The Neville Brothers,The Neville Brothers,0.0
+418,5827,Mike The Dog,Mike The Dog,0.0
+419,5837,CaLe,Carol Leifer,0.0
+420,5845,DaVa,Danitra Vance,1.0
+421,5850,JoSw,John Swartzwelder,0.0
+422,5860,LePe,Leon Pendarvis,0.0
+423,5862,LePi,Lenny Pickett,0.0
+424,5865,StTu,Steve Turre,0.0
+425,5867,TBWo,T-Bone Wolk,0.0
+426,5870,BiCr,Billy Crystal,1.0
+427,5872,ChGu,Christopher Guest,1.0
+428,5873,JiBe,Jim Belushi,1.0
+429,5878,RiHa,Rich Hall,1.0
+430,5884,RbRi,Rob Riley,0.0
+431,5886,MaSh,Martin Short,1.0
+432,5888,PaSt,Pamela Stephenson,1.0
+433,5891,Mr. T,Mr. T,0.0
+434,5893,Hulk Hogan,Hulk Hogan,0.0
+435,5900,Brandon Tartikoff,Brandon Tartikoff,0.0
+436,5904,Jerry Lewis,Jerry Lewis,0.0
+437,5926,Barry Bostwick,Barry Bostwick,0.0
+438,5949,Michael Douglas,Michael Douglas,0.0
+439,5961,NaHe,Nate Herman,0.0
+440,5963,Edwin Newman,Edwin Newman,0.0
+441,5979,KeKe,Kevin Kelton,0.0
+442,5985,Robin Williams,Robin Williams,0.0
+443,5999,Teri Garr,Teri Garr,0.0
+444,6005,Flip Wilson,Flip Wilson,0.0
+445,6011,Tom Smothers,Tom Smothers,0.0
+446,6013,Dick Smothers,Dick Smothers,0.0
+447,6015,Ron Luciano,Ron Luciano,0.0
+448,6017,Tom Seaver,Tom Seaver,0.0
+449,6028,John Candy,John Candy,0.0
+450,6068,Pamela Sue Martin,Pamela Sue Martin,0.0
+451,6087,LaDa,Larry David,0.0
+452,6089,AuPD,Audrey Peart Dickman,0.0
+453,6098,Ringo Starr,Ringo Starr,0.0
+454,6110,Ed Asner,Ed Asner,0.0
+455,6131,Jesse Jackson,Jesse Jackson,0.0
+456,6148,Oprah Winfrey,Oprah Winfrey,0.0
+457,6184,DaVi,Dan Vitale,1.0
+458,6188,Pee-Wee Herman,Pee-Wee Herman,0.0
