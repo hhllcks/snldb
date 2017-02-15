@@ -47,7 +47,7 @@ class snl(scrapy.Spider):
             yield scrapy.Request(self.base_url_imdb + str(sid), callback=self.parseRatingsSeason, meta={'season': item_season})
 
             # remove statement to scrape more than one season
-            # break
+            #break
 
     def parseRatingsSeason(self, response):
         # parsing the ratings of the episodes of a season
@@ -121,7 +121,9 @@ class snl(scrapy.Spider):
                 airedInfo = epInfoTd[1].css("td p ::text").extract()
                 episode['aired'] = airedInfo[0][:-2]
                 episode['eid'] = int(airedInfo[2].split(' ')[0][1:])
-                break
+            if epInfoTd[0].css("td p ::text").extract_first() == 'Host:':
+                host = epInfoTd[1].css("td p ::text").extract()
+                episode['host'] = host[0]
 
         yield episode
         # initially the titles tab is opened
@@ -138,17 +140,20 @@ class snl(scrapy.Spider):
                 sketch['title'] = ""
 
             sketch_url = self.base_url + href_url
-            yield scrapy.Request(sketch_url, callback=self.parseTitle, meta={'title': sketch})
+            yield scrapy.Request(sketch_url, callback=self.parseTitle, meta={'title': sketch, 'episode': episode})
             # remove statement to scrape more than one sketch
             #break
 
     def parseTitle(self, response):
         sketch = response.meta['title']
+        episode = response.meta['episode']
         actor_seen_title = set()
         for actor in response.css(".roleTable > tr"):
             actor_dict = {}
             actor_sketch = {}
             actor_dict['name'] = actor.css("td ::text").extract_first()
+            if actor_dict['name'] == ' ... ':
+                actor_dict['name'] = episode['host']
             if actor_dict['name'] != None:
                 actor_dict['type'] = 'actor'
                 href_url = actor.css("td > a ::attr(href)").extract_first()
