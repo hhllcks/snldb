@@ -124,6 +124,9 @@ class snl(scrapy.Spider):
             if epInfoTd[0].css("td p ::text").extract_first() == 'Host:':
                 host = epInfoTd[1].css("td p ::text").extract()
                 episode['host'] = host[0]
+            if epInfoTd[0].css("td p ::text").extract_first() == 'Hosts:':
+                host = epInfoTd[1].css("td p ::text").extract()
+                episode['host'] = host
 
         yield episode
         # initially the titles tab is opened
