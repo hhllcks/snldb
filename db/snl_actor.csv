@@ -1,405 +1,173 @@
 aid,name,isCast
-Candice Bergen,Candice Bergen,0
-DaCa,Dana Carvey,1
-ToDa,Tom Davis,1
-NoDu,Nora Dunn,1
-PhHa,Phil Hartman,1
-Andrew Dice Clay,Andrew Dice Clay,0
-JoLo,Jon Lovitz,1
-MaMc,Mark McKinney,1
-ViJa,Victoria Jackson,1
-KeNe,Kevin Nealon,1
-AnMu,Andy Murphy,0
-MiMy,Mike Myers,1
-CoOB,Conan O'Brien,0
-RoSc,Rob Schneider,1
-DaSp,David Spade,1
-The Notting Hillbillies,The Notting Hillbillies,0
-Jim Henson's Muppets,Jim Henson's Muppets,0
-Raquel Welch,Raquel Welch,0
-GiRa,Gilda Radner,1
-LoMi,Lorne Michaels,0
-DaAy,Dan Aykroyd,1
-JoBe,John Belushi,1
+Kris Kristofferson,Kris Kristofferson,0
+Alessia Cara,Alessia Cara,0
+DeDi,Denny Dillon,1
+RoDu,Robin Duke,1
+GaMa,Gail Matthius,1
+Kristen Stewart,Kristen Stewart,0
+VaBa,Vanessa Bayer,1
+PeDa,Pete Davidson,1
+MiDa,Mikey Day,1
+KaMc,Kate McKinnon,1
 ChCh,Chevy Chase,1
 GaMo,Garrett Morris,1
-LaNe,Laraine Newman,1
-BoCr,Bob Cranshaw,0
-DESh,Dahaud Elias Shaar,0
-PaSh,Paul Shaffer,1
-Phoebe Snow,Phoebe Snow,0
+DoPa,Don Pardo,0
+MiOD,Michael O'Donoghue,1
+GiRa,Gilda Radner,1
+Lily Tomlin,Lily Tomlin,0
+James Taylor,James Taylor,0
+DaAy,Dan Aykroyd,1
+JoBe,John Belushi,1
+JaCu,Jane Curtin,1
 ChHa,Cheryl Hardwick,0
 HwJo,Howard Johnson,0
 BeJo,Bert Jones,0
-MiOD,Michael O'Donoghue,1
-AlZw,Alan Zweibel,1
-Dave Chappelle,Dave Chappelle,0
-BeBe,Beck Bennett,1
-AiBr,Aidy Bryant,1
-MiDa,Mikey Day,1
-LeJo,Leslie Jones,1
-CoJo,Colin Jost,1
-AlMo,Alex Moffat,1
-KyMo,Kyle Mooney,1
-CeSt,Cecily Strong,1
-A Tribe Called Quest,A Tribe Called Quest,0
-Busta Rhymes,Busta Rhymes,0
-Consequence,Consequence,0
-VaBa,Vanessa Bayer,1
-PeDa,Pete Davidson,1
-KeTh,Kenan Thompson,1
-SaZa,Sasheer Zamata,1
-BoMo,Bobby Moynihan,1
-DaHa,Darrell Hammond,1
-MiCh,Michael Che,1
-KaMc,Kate McKinnon,1
-Chris Rock,Chris Rock,0
-StHi,Steve Higgins,0
-John Sebastian,John Sebastian,0
-JaCu,Jane Curtin,1
 ToMa,Tom Malone,0
 LoMa,Lou Marini,0
+LaNe,Laraine Newman,1
 AlPR,Alan P. Rubin,0
+DESh,Dahaud Elias Shaar,0
+PaSh,Paul Shaffer,1
 HwSh,Howard Shore,0
 MrSm,Mauricio Smith,0
-Madeline Kahn,Madeline Kahn,0
-Carly Simon,Carly Simon,0
-NeLe,Neil Levy,0
-MaSM,Marilyn Suzanne Miller,0
-Dyan Cannon,Dyan Cannon,0
-Leon & Mary Russell,Leon & Mary Russell,0
-Buck Henry,Buck Henry,0
-DaWi,Dave Wilson,0
-Gordon Lightfoot,Gordon Lightfoot,0
-DoPa,Don Pardo,0
-EdBa,Edie Baskin,0
-AnBe,Anne Beatts,0
-GeCo,George Coe,1
+AlZw,Alan Zweibel,1
+Sun Ra,Sun Ra,0
+ToDa,Tom Davis,1
 AlFr,Al Franken,1
-KaRo,Karen Roston,0
+Buck Henry,Buck Henry,0
+BiMu,Bill Murray,1
+DoNo,Don Novello,1
 ToSc,Tom Schiller,1
+Richard Dreyfuss,Richard Dreyfuss,0
+AnBe,Anne Beatts,0
+MiLa,Mitchell Laurance,0
+Gary Tigerman,Gary Tigerman,0
+LeMa,Lee Mayman,0
 RoSu,Rosie Schuster,0
+BoCr,Bob Cranshaw,0
+Jimmy Buffett,Jimmy Buffett,0
+AnMu,Andy Murphy,0
+Shelley Duvall,Shelley Duvall,0
+JiDo,Jim Downey,1
+NeLe,Neil Levy,0
+Joan Armatrading,Joan Armatrading,0
+Spalding Gray,Spalding Gray,0
+BrDM,Brian Doyle-Murray,1
+MaSM,Marilyn Suzanne Miller,0
+BVRy,Bob Van Ry,0
+Chevy Chase,Chevy Chase,0
+LoMi,Lorne Michaels,0
+Kenny Vance,Kenny Vance,0
+DaLa,David Lasley,0
+EmPr,Emily Prager,1
+KaRo,Karen Roston,0
+Jennifer Warnes,Jennifer Warnes,0
+EdBa,Edie Baskin,0
+Bella Abzug,Bella Abzug,0
+Ruth Gordon,Ruth Gordon,0
+Bob Dryden,Bob Dryden,0
+Ricky Jay,Ricky Jay,0
+WaWi,Walter Williams,0
+Chuck Berry,Chuck Berry,0
+RoCu,Ronnie Cuber,0
+DoGr,Don Grolnick,0
 JoDi,Joe Dicso,0
-Harlan Collins,Harlan Collins,0
-Joyce Everson,Joyce Everson,0
 AuPD,Audrey Peart Dickman,0
 Leon Redbone,Leon Redbone,0
 Jonathan Dorn,Jonathan Dorn,0
 Elliott Gould,Elliott Gould,0
 Charlie Lowe,Charlie Lowe,0
+Harlan Collins,Harlan Collins,0
+Joyce Everson,Joyce Everson,0
 Wendell Craig,Wendell Craig,0
 JaCa,Jacqueline Carlin,0
+GeCo,George Coe,1
 AkYo,Akira Yoshimura,0
+The Preservation Hall Jazz Band,The Preservation Hall Jazz Band,0
 Louise Lasser,Louise Lasser,0
 Michael Sarrazin,Michael Sarrazin,0
-The Preservation Hall Jazz Band,The Preservation Hall Jazz Band,0
+DaWi,Dave Wilson,0
 AlSi,Al Siegal,0
-Kris Kristofferson,Kris Kristofferson,0
-Rita Coolidge,Rita Coolidge,0
-JaHo,Jan Hooks,1
-Julee Cruise,Julee Cruise,0
-GESm,G.E. Smith,0
-DeMi,Dennis Miller,1
-The Spanic Boys,The Spanic Boys,0
-JiDo,Jim Downey,1
-AWBr,A. Whitney Brown,1
-HeRi,Heino Ripp,0
-WaWi,Walter Williams,0
-BiMu,Bill Murray,1
-Bette Midler,Bette Midler,0
-BiMc,Brian McConnachie,0
-Shelley Duvall,Shelley Duvall,0
-Milton Berle,Milton Berle,0
-Buddy Freed,Buddy Freed,0
-Aziz Ansari,Aziz Ansari,0
-MeVi,Melissa Villaseñor,1
-Big Sean,Big Sean,0
-Felicity Jones,Felicity Jones,0
-Sturgill Simpson,Sturgill Simpson,0
-BiCo,Bill Corsair,0
-Tina Fey,Tina Fey,0
-Kristen Stewart,Kristen Stewart,0
-Alessia Cara,Alessia Cara,0
-Alec Baldwin,Alec Baldwin,0
-Tracy Morgan,Tracy Morgan,0
-Ed Sheeran,Ed Sheeran,0
-EmPr,Emily Prager,1
-Kenny Vance,Kenny Vance,0
-DaLa,David Lasley,0
-Chevy Chase,Chevy Chase,0
-Bella Abzug,Bella Abzug,0
-Jennifer Warnes,Jennifer Warnes,0
-Joan Armatrading,Joan Armatrading,0
-Spalding Gray,Spalding Gray,0
-MiLa,Mitchell Laurance,0
-BVRy,Bob Van Ry,0
-Ornette Coleman,Ornette Coleman,0
-Prime Time,Prime Time,0
-BrDM,Brian Doyle-Murray,1
-Craig Nettles,Craig Nettles,0
-James Taylor,James Taylor,0
-Michael Palin,Michael Palin,0
-NiNi,Nil Nichols,0
-Don Grolnick,Don Grolnick,0
-The Section,The Section,0
-Maureen Stapleton,Maureen Stapleton,0
-Linda Ronstadt,Linda Ronstadt,0
-Robert Fripp,Robert Fripp,0
-LeDG,Lew Del Gatto,0
-BuWi,Buddy Williams,0
-Luther Vandross,Luther Vandross,0
-WiLe,Will Lee,0
-The Grateful Dead,The Grateful Dead,0
-DoNo,Don Novello,1
-Bill Kreutzmann,Bill Kreutzmann,0
-Alan Price,Alan Price,0
-Eric Idle,Eric Idle,0
-ElRa,Elliott Randall,0
-Neil Innes,Neil Innes,0
-FrLe,Franne Lee,0
-GaWe,Gary Weis,0
-Carrie Fisher,Carrie Fisher,0
-Tom Scott,Tom Scott,0
-StJo,Steve Jordan,0
-Walter Matthau,Walter Matthau,0
-Charlie Matthau,Charlie Matthau,0
-Kate Bush,Kate Bush,0
-LeMa,Lee Mayman,0
-PeFa,Pete Fatovich,0
-Peter Tosh,Peter Tosh,0
-Bob & Ray,Bob & Ray,0
-YvHu,Yvonne Hudson,1
-Mick Jagger,Mick Jagger,0
-The Doobie Brothers,The Doobie Brothers,0
-Talking Heads,Talking Heads,0
-Cicely Tyson,Cicely Tyson,0
-Cicely Tyson ,Cicely Tyson ,0
-Rick Nelson,Rick Nelson,0
-Judy Collins,Judy Collins,0
-Gary Busey,Gary Busey,0
-Paul Butterfield,Paul Butterfield,0
-Rick Danko,Rick Danko,0
-LiWe,Liz Welch,0
-Eubie Blake,Eubie Blake,0
-Gregory Hines,Gregory Hines,0
-Kate Jackson,Kate Jackson,0
-Delbert McClinton,Delbert McClinton,0
-Andy Kaufman,Andy Kaufman,0
-The Chieftans,The Chieftans,0
-Margot Kidder,Margot Kidder,0
-PhHy,Phil Hyms,0
-Rickie Lee Jones,Rickie Lee Jones,0
-Marv Albert ,Marv Albert ,0
-Richard Benjamin,Richard Benjamin,0
-Marvin Goldhar,Marvin Goldhar,0
-Rodney Dangerfield,Rodney Dangerfield,0
-Nelson Briles,Nelson Briles,0
-Steve Henderson,Steve Henderson,0
-Ed Kranepool,Ed Kranepool,0
-Emma Stone,Emma Stone,0
-Jennifer Aniston,Jennifer Aniston,0
-Shawn Mendes,Shawn Mendes,0
-John Cena,John Cena,0
-Maren Morris,Maren Morris,0
-Bryan Cranston,Bryan Cranston,0
-The xx,The xx,0
-Kristen Wiig,Kristen Wiig,0
-Casey Affleck,Casey Affleck,0
-Steve Martin,Steve Martin,0
-Will Forte,Will Forte,0
-Chance the Rapper,Chance the Rapper,0
-Fred Armisen,Fred Armisen,0
-Darryl McDaniels,Darryl McDaniels,0
-DaFl,Danielle Flora,0
-John Goodman,John Goodman,0
-Noname,Noname,0
-Jack Burns,Jack Burns,0
-Chuck Berry,Chuck Berry,0
-RoCu,Ronnie Cuber,0
-DoGr,Don Grolnick,0
-Ruth Gordon,Ruth Gordon,0
-Bob Dryden,Bob Dryden,0
-Ricky Jay,Ricky Jay,0
-Ralph Nader,Ralph Nader,0
-George Benson,George Benson,0
-Andrew Duncan,Andrew Duncan,0
-WiDa,Willie Day,0
-Desi Arnaz Jr.,Desi Arnaz Jr.,0
-Hal Holbrook,Hal Holbrook,0
-Steven Keats,Steven Keats,0
-The Rolling Stones,The Rolling Stones,0
-Charlie Watts,Charlie Watts,0
-Ron Wood,Ron Wood,0
-Ed Koch,Ed Koch,0
-Devo,Devo,0
-Fred Willard,Fred Willard,0
-Frank Zappa,Frank Zappa,0
-Van Morrison,Van Morrison,0
-Lin-Manuel Miranda,Lin-Manuel Miranda,0
-Twenty One Pilots,Twenty One Pilots,0
-Jimmy Fallon,Jimmy Fallon,0
-Margot Robbie,Margot Robbie,0
-The Weeknd,The Weeknd,0
-Solange,Solange,0
-Benedict Cumberbatch,Benedict Cumberbatch,0
-Anthony Rizzo,Anthony Rizzo,0
-David Ross,David Ross,0
-Dexter Fowler,Dexter Fowler,0
-Lady Gaga,Lady Gaga,0
-Mark Ronson,Mark Ronson,0
-Emily Blunt,Emily Blunt,0
-Tom Hanks,Tom Hanks,0
-Bruno Mars,Bruno Mars,0
-The Kinks,The Kinks,0
-Lily Tomlin,Lily Tomlin,0
-Buster Holmes,Buster Holmes,0
-Sissy Spacek,Sissy Spacek,0
-Richard Baskin,Richard Baskin,0
-Patti Smith,Patti Smith,0
-Julian Bond,Julian Bond,0
-Brick,Brick,0
-Roslyn Kind,Roslyn Kind,0
-Tom Waits,Tom Waits,0
-Fran Tarkenton,Fran Tarkenton,0
-Donny Harper & The Voices Of Tomorrow,Donny Harper & The Voices Of Tomorrow,0
-Leo Sayer,Leo Sayer,0
-The McGarrigle Sisters,The McGarrigle Sisters,0
-Santana,Santana,0
-The Meters,The Meters,0
-Dr. John,Dr. John,0
-Levon Helm,Levon Helm,0
-Broderick Crawford,Broderick Crawford,0
-Karen Black,Karen Black,0
-Dick Cavett,Dick Cavett,0
-Al Alen Petersen,Al Alen Petersen,0
-Jimmy Cliff,Jimmy Cliff,0
-Neil Sedaka,Neil Sedaka,0
-Abbie Hoffman,Abbie Hoffman,0
-Dudley Moore,Dudley Moore,0
-Peter Cook,Peter Cook,0
-Marshall Efron,Marshall Efron,0
-Peter Boyle,Peter Boyle,0
-Al Jarreau,Al Jarreau,0
-The Shapiro Sisters,The Shapiro Sisters,0
-Jenny Shapiro,Jenny Shapiro,0
-Desi Arnaz,Desi Arnaz,0
-ChCH,Chevy Chase,1
 Taylor Mead,Taylor Mead,0
-Bill Wegman,Bill Wegman,0
-Jill Clayburgh,Jill Clayburgh,0
-The Singing Idlers,The Singing Idlers,0
-Anthony Perkins,Anthony Perkins,0
-George Plimpton,George Plimpton,0
-Betty Carter,Betty Carter,0
-Chuck Scarborough,Chuck Scarborough,0
-Patti Smith Group,Patti Smith Group,0
-Ron Nessen,Ron Nessen,0
-Billy Crystal,Billy Crystal,0
-President Gerald Ford,President Gerald Ford,0
-Jerry Rubin,Jerry Rubin,0
+GaWe,Gary Weis,0
+Jim Henson's Muppets,Jim Henson's Muppets,0
 David Sanborn,David Sanborn,0
-Norman Lear,Norman Lear,0
-Kate Lear,Kate Lear,0
-Boz Scaggs,Boz Scaggs,0
-Bea Arthur,Bea Arthur,0
-Bernadette Peters,Bernadette Peters,0
-Caroll O'Connor,Caroll O'Connor,0
-Isabel Sanford,Isabel Sanford,0
-Jean Stapleton,Jean Stapleton,0
-Nancy Walker,Nancy Walker,0
-Richard Crenna,Richard Crenna,0
-Sherman Helmsley,Sherman Helmsley,0
-The Band,The Band,0
-BuMc,Bruce McCall,0
-Paul Simon,Paul Simon,0
-George Harrison,George Harrison,0
-Olivia Harrison,Olivia Harrison,0
-Jim Keltner,Jim Keltner,0
-Stuff,Stuff,0
-Joe Cocker,Joe Cocker,0
-Garry Trudeau,Garry Trudeau,0
-RiBe,Richard Belzer,0
-Brian Wilson,Brian Wilson,0
-Jodie Foster,Jodie Foster,0
-Kinky Friedman,Kinky Friedman,0
-Ry Cooder,Ry Cooder,0
-Flaco Jiménez,Flaco Jiménez,0
-AnRi,Ann Risley,1
-George Schultz,George Schultz,0
-John Prine,John Prine,0
-Diana Nyad,Diana Nyad,0
-Anne Murray,Anne Murray,0
-Rob Reiner,Rob Reiner,0
-Penny Marshall,Penny Marshall,0
-Albert Brooks,Albert Brooks,0
-Clifford Einstein,Clifford Einstein,0
-Bill Bradley,Bill Bradley,0
-Art Garfunkel,Art Garfunkel,0
-Jesse Dixon Singers,Jesse Dixon Singers,0
-Janis Ian,Janis Ian,0
-Billy Preston,Billy Preston,0
-George Carlin,George Carlin,0
+The Section,The Section,0
+Rita Coolidge,Rita Coolidge,0
+AiBr,Aidy Bryant,1
+KyMo,Kyle Mooney,1
+CeSt,Cecily Strong,1
+AlMo,Alex Moffat,1
+BoMo,Bobby Moynihan,1
+MeVi,Melissa Villaseñor,1
+SaZa,Sasheer Zamata,1
+DaHa,Darrell Hammond,1
+CoJo,Colin Jost,1
+MiCh,Michael Che,1
+KeTh,Kenan Thompson,1
+BeBe,Beck Bennett,1
+Christopher Reeve,Christopher Reeve,0
+Robin Williams,Robin Williams,0
+TiKa,Tim Kazurinsky,1
+JoPi,Joe Piscopo,1
+EdMu,Eddie Murphy,1
+ToRo,Tony Rosato,1
+Jr. Walker & The All Stars,Jr. Walker & The All Stars,0
+LiWe,Liz Welch,0
+LaMe,Laurie Metcalf,1
+Al Franken,Al Franken,0
+YvHu,Yvonne Hudson,1
+Steve Martin,Steve Martin,0
+Gravity,Gravity,0
+StJo,Steve Jordan,0
+WiDa,Willie Day,0
+Michael Palin,Michael Palin,0
+Eugene Record,Eugene Record,0
+Cheetah Chrome,Cheetah Chrome,0
 Valri Bromfield,Valri Bromfield,0
-Connie Hawkins,Connie Hawkins,0
-Marv Albert,Marv Albert,0
-Randy Newman,Randy Newman,0
-Denny Dillon,Denny Dillon,0
-Mark Hampton,Mark Hampton,0
-The Lockers,The Lockers,0
-Esther Phillips,Esther Phillips,0
-Kay Lenz,Kay Lenz,0
-Rene Auberjonois,Rene Auberjonois,0
-Shelley Pryor,Shelley Pryor,0
-Gil Scott-Heron,Gil Scott-Heron,0
-Richard Pryor,Richard Pryor,0
-HaSh,Harry Shearer,1
-Thalmus Rasulala,Thalmus Rasulala,0
-Annazette Chase,Annazette Chase,0
-Kathrine McKee,Kathrine McKee,0
+Billy Joel,Billy Joel,0
 Robert Klein,Robert Klein,0
-Abba,Abba,0
-Loudon Wainwright III,Loudon Wainwright III,0
-Margaret Kuhn,Margaret Kuhn,0
-Martha Reeves,Martha Reeves,0
-The Stylistics,The Stylistics,0
-Toni Basil,Toni Basil,0
-Bill Withers,Bill Withers,0
-James L. Brooks,James L. Brooks,0
-Julie Payne,Julie Payne,0
-Paula Kahn,Paula Kahn,0
-Richard Dreyfuss,Richard Dreyfuss,0
-Sun Ra,Sun Ra,0
-Gary Tigerman,Gary Tigerman,0
+Bonnie Raitt,Bonnie Raitt,0
+LeDG,Lew Del Gatto,0
+FrLe,Franne Lee,0
 O.J. Simpson,O.J. Simpson,0
 Ashford & Simpson,Ashford & Simpson,0
-Billy Joel,Billy Joel,0
+Andy Kaufman,Andy Kaufman,0
+Art Garfunkel,Art Garfunkel,0
 Stephen Bishop,Stephen Bishop,0
+NiNi,Nil Nichols,0
+Jill Clayburgh,Jill Clayburgh,0
 Eddie Money,Eddie Money,0
-Cheetah Chrome,Cheetah Chrome,0
 Meat Loaf,Meat Loaf,0
 Christopher Lee,Christopher Lee,0
+RiBe,Richard Belzer,0
 Rick Overton,Rick Overton,0
 Stacy Keach,Stacy Keach,0
-Eugene Record,Eugene Record,0
-Gravity,Gravity,0
+Marv Albert ,Marv Albert ,0
 Keith Jarrett,Keith Jarrett,0
 Toni Basil ,Toni Basil ,0
-Jimmy Buffett,Jimmy Buffett,0
-Bonnie Raitt,Bonnie Raitt,0
-Mary Kay Place,Mary Kay Place,0
-Willie Nelson,Willie Nelson,0
+Andrew Gold,Andrew Gold,0
+Elvis Costello,Elvis Costello,0
+The Dirt Band,The Dirt Band,0
+Miskel Spillman,Miskel Spillman,0
+Hugh Hefner,Hugh Hefner,0
 Connie Crawford,Connie Crawford,0
 David Lewis,David Lewis,0
 Deb Blair,Deb Blair,0
-Miskel Spillman,Miskel Spillman,0
 Richard Kneip,Richard Kneip,0
+Mary Kay Place,Mary Kay Place,0
+Madeline Kahn,Madeline Kahn,0
 Barry Humphries,Barry Humphries,0
 Jackson Browne,Jackson Browne,0
 David Lindley,David Lindley,0
+ElRa,Elliott Randall,0
 Taj Mahal,Taj Mahal,0
+Willie Nelson,Willie Nelson,0
 Charles Grodin,Charles Grodin,0
+Paul Simon,Paul Simon,0
 The Persuasions,The Persuasions,0
 Toots Thielemans,Toots Thielemans,0
+The Original Sloth Band,The Original Sloth Band,0
 Ray Charles,Ray Charles,0
 "David ""Fathead"" Newman","David ""Fathead"" Newman",0
 Hank Crawford,Hank Crawford,0
@@ -408,133 +176,1663 @@ Marcus Belgrave,Marcus Belgrave,0
 Phillip Guilbeau,Phillip Guilbeau,0
 The Raelettes,The Raelettes,0
 Franklyn Ajaye,Franklyn Ajaye,0
-Hugh Hefner,Hugh Hefner,0
 Hugh Hefner ,Hugh Hefner ,0
-The Original Sloth Band,The Original Sloth Band,0
 Libby Titus,Libby Titus,0
-Elvis Costello,Elvis Costello,0
+Randy Newman,Randy Newman,0
 Joe Franken (I),Joe Franken (I),0
 Phoebe Franken,Phoebe Franken,0
-Andrew Gold,Andrew Gold,0
-The Dirt Band,The Dirt Band,0
-Paulina Porizkova,Paulina Porizkova,0
-Wayne Gretzky,Wayne Gretzky,0
-SpFe,Spike Feresten,0
+Eric Idle,Eric Idle,0
+Roslyn Kind,Roslyn Kind,0
+Julian Bond,Julian Bond,0
+The Meters,The Meters,0
+The Kinks,The Kinks,0
+Buster Holmes,Buster Holmes,0
+Donny Harper & The Voices Of Tomorrow,Donny Harper & The Voices Of Tomorrow,0
+Leo Sayer,Leo Sayer,0
+Fran Tarkenton,Fran Tarkenton,0
+Richard Baskin,Richard Baskin,0
+Sissy Spacek,Sissy Spacek,0
+PeFa,Pete Fatovich,0
+HeRi,Heino Ripp,0
+Dr. John,Dr. John,0
+Levon Helm,Levon Helm,0
+Paul Butterfield,Paul Butterfield,0
+Broderick Crawford,Broderick Crawford,0
+Jack Burns,Jack Burns,0
+Santana,Santana,0
+Linda Ronstadt,Linda Ronstadt,0
+Patti Smith,Patti Smith,0
+Brick,Brick,0
+Tom Waits,Tom Waits,0
+The McGarrigle Sisters,The McGarrigle Sisters,0
+Neil Innes,Neil Innes,0
+Alan Price,Alan Price,0
+The Band,The Band,0
+Andrew Duncan,Andrew Duncan,0
+Karen Black,Karen Black,0
+Raquel Welch,Raquel Welch,0
+Phoebe Snow,Phoebe Snow,0
+Ron Nessen,Ron Nessen,0
+Jerry Rubin,Jerry Rubin,0
+President Gerald Ford,President Gerald Ford,0
+Patti Smith Group,Patti Smith Group,0
+Billy Crystal,Billy Crystal,0
+John Sebastian,John Sebastian,0
+Carly Simon,Carly Simon,0
+Gordon Lightfoot,Gordon Lightfoot,0
+Dyan Cannon,Dyan Cannon,0
+Leon & Mary Russell,Leon & Mary Russell,0
+Norman Lear,Norman Lear,0
+Kate Lear,Kate Lear,0
+Boz Scaggs,Boz Scaggs,0
+WiLe,Will Lee,0
+Bea Arthur,Bea Arthur,0
+Bernadette Peters,Bernadette Peters,0
+Caroll O'Connor,Caroll O'Connor,0
+Isabel Sanford,Isabel Sanford,0
+Jean Stapleton,Jean Stapleton,0
+Nancy Walker,Nancy Walker,0
+Richard Crenna,Richard Crenna,0
+Sherman Helmsley,Sherman Helmsley,0
+Stuff,Stuff,0
+Garry Trudeau,Garry Trudeau,0
+Joe Cocker,Joe Cocker,0
+John Prine,John Prine,0
+George Schultz,George Schultz,0
+Bill Wegman,Bill Wegman,0
+Jodie Foster,Jodie Foster,0
+Kinky Friedman,Kinky Friedman,0
+Brian Wilson,Brian Wilson,0
+Dick Cavett,Dick Cavett,0
+Ry Cooder,Ry Cooder,0
+Flaco Jiménez,Flaco Jiménez,0
+AnRi,Ann Risley,1
+George Harrison,George Harrison,0
+Jim Keltner,Jim Keltner,0
+Olivia Harrison,Olivia Harrison,0
+Ron Wood,Ron Wood,0
+Tom Scott,Tom Scott,0
+Ralph Nader,Ralph Nader,0
+George Benson,George Benson,0
+PhHy,Phil Hyms,0
+BuMc,Bruce McCall,0
+Candice Bergen,Candice Bergen,0
+Frank Zappa,Frank Zappa,0
+Diana Nyad,Diana Nyad,0
+Peter Cook,Peter Cook,0
+Dudley Moore,Dudley Moore,0
+Rob Reiner,Rob Reiner,0
+Penny Marshall,Penny Marshall,0
+Jesse Dixon Singers,Jesse Dixon Singers,0
+Bill Bradley,Bill Bradley,0
+Albert Brooks,Albert Brooks,0
+Clifford Einstein,Clifford Einstein,0
+Janis Ian,Janis Ian,0
+Billy Preston,Billy Preston,0
+George Carlin,George Carlin,0
+Connie Hawkins,Connie Hawkins,0
+Marv Albert,Marv Albert,0
+Denny Dillon,Denny Dillon,0
+Mark Hampton,Mark Hampton,0
+The Lockers,The Lockers,0
+Esther Phillips,Esther Phillips,0
+Kay Lenz,Kay Lenz,0
+Rene Auberjonois,Rene Auberjonois,0
+Abba,Abba,0
+Loudon Wainwright III,Loudon Wainwright III,0
+Gil Scott-Heron,Gil Scott-Heron,0
+Shelley Pryor,Shelley Pryor,0
+Richard Pryor,Richard Pryor,0
+Thalmus Rasulala,Thalmus Rasulala,0
+HaSh,Harry Shearer,1
+Annazette Chase,Annazette Chase,0
+Kathrine McKee,Kathrine McKee,0
+Margaret Kuhn,Margaret Kuhn,0
+Martha Reeves,Martha Reeves,0
+The Stylistics,The Stylistics,0
+Anne Murray,Anne Murray,0
+James L. Brooks,James L. Brooks,0
+Julie Payne,Julie Payne,0
+Paula Kahn,Paula Kahn,0
+Al Alen Petersen,Al Alen Petersen,0
+Jimmy Cliff,Jimmy Cliff,0
+Marshall Efron,Marshall Efron,0
+Al Jarreau,Al Jarreau,0
+Peter Boyle,Peter Boyle,0
+The Shapiro Sisters,The Shapiro Sisters,0
+Jenny Shapiro,Jenny Shapiro,0
+Neil Sedaka,Neil Sedaka,0
+Abbie Hoffman,Abbie Hoffman,0
+Toni Basil,Toni Basil,0
+Bill Withers,Bill Withers,0
+Desi Arnaz,Desi Arnaz,0
+Desi Arnaz Jr.,Desi Arnaz Jr.,0
+ChCH,Chevy Chase,1
+Anthony Perkins,Anthony Perkins,0
+Betty Carter,Betty Carter,0
+George Plimpton,George Plimpton,0
+Chuck Scarborough,Chuck Scarborough,0
+The Singing Idlers,The Singing Idlers,0
+Olivia Newton-John,Olivia Newton-John,0
+ChEb,Christine Ebersole,1
+MaGr,Mary Gross,1
+Graham Chapman,Graham Chapman,0
+Michael Davis,Michael Davis,0
+The Chainsmokers,The Chainsmokers,0
+Louis C.K.,Louis C.K.,0
+StHi,Steve Higgins,0
+Octavia Spencer,Octavia Spencer,0
+Emma Stone,Emma Stone,0
+Jennifer Aniston,Jennifer Aniston,0
+LeJo,Leslie Jones,1
+Shawn Mendes,Shawn Mendes,0
+Kristen Wiig,Kristen Wiig,0
+Will Forte,Will Forte,0
+The xx,The xx,0
+Casey Affleck,Casey Affleck,0
+Chance the Rapper,Chance the Rapper,0
+Darryl McDaniels,Darryl McDaniels,0
+DaFl,Danielle Flora,0
+Fred Armisen,Fred Armisen,0
+Noname,Noname,0
+Alec Baldwin,Alec Baldwin,0
+John Goodman,John Goodman,0
+John Cena,John Cena,0
+Maren Morris,Maren Morris,0
+Bryan Cranston,Bryan Cranston,0
+Sturgill Simpson,Sturgill Simpson,0
+Felicity Jones,Felicity Jones,0
+BiCo,Bill Corsair,0
+Big Sean,Big Sean,0
+Tina Fey,Tina Fey,0
+Aziz Ansari,Aziz Ansari,0
+Ed Sheeran,Ed Sheeran,0
+Tracy Morgan,Tracy Morgan,0
+Father John Misty,Father John Misty,0
+Scarlett Johansson,Scarlett Johansson,0
+Lorde,Lorde,0
+Jack Antonoff,Jack Antonoff,0
+Emily Warren,Emily Warren,0
+Benedict Cumberbatch,Benedict Cumberbatch,0
+Solange,Solange,0
+Dave Chappelle,Dave Chappelle,0
+Chris Rock,Chris Rock,0
+Lin-Manuel Miranda,Lin-Manuel Miranda,0
+Lady Gaga,Lady Gaga,0
+Mark Ronson,Mark Ronson,0
+Tom Hanks,Tom Hanks,0
+Margot Robbie,Margot Robbie,0
+The Weeknd,The Weeknd,0
+Twenty One Pilots,Twenty One Pilots,0
+Jimmy Fallon,Jimmy Fallon,0
+Emily Blunt,Emily Blunt,0
+Bruno Mars,Bruno Mars,0
+A Tribe Called Quest,A Tribe Called Quest,0
+Busta Rhymes,Busta Rhymes,0
+Consequence,Consequence,0
+Anthony Rizzo,Anthony Rizzo,0
+David Ross,David Ross,0
+Dexter Fowler,Dexter Fowler,0
+Charlene Tilton,Charlene Tilton,0
+GiGo,Gilbert Gottfried,1
+CaRo,Charles Rocket,1
+Prince,Prince,0
+PeAy,Peter Aykroyd,1
+Andrae Crouch,Andrae Crouch,0
+The Voices Of Unity,The Voices Of Unity,0
+Paul McCartney,Paul McCartney,0
+Linda McCartney,Linda McCartney,0
+ToGa,Tom Gammill,0
+SaPa,Sarah Paley,0
+MaPr,Max Pross,0
+MaNe,Matt Neuman,0
+3-D,3-D,0
+Kid Creole & The Coconuts,Kid Creole & The Coconuts,0
+MiKr,Mitchell Kriegman,0
+Captain Beefheart & The Magic Band,Captain Beefheart & The Magic Band,0
+Malcolm McDowell,Malcolm McDowell,0
+MaLa,Matthew Laurance,1
+Ellen Shipley,Ellen Shipley,0
+Jamie Lee Curtis,Jamie Lee Curtis,0
+Danny DeVito,Danny DeVito,0
+William Duff-Griffin,William Duff-Griffin,0
+James Brown,James Brown,0
+PaWe,Patrick Weathers,1
+GeWa,Georg Wadenius,0
+Keith Sykes,Keith Sykes,0
+Ellen Burstyn,Ellen Burstyn,0
+Bill Paxton,Bill Paxton,0
+Aretha Franklin,Aretha Franklin,0
+MaMi,Marcus Miller,0
+DaSa,David Sanborn,0
+BuWi,Buddy Williams,0
+Jack Bruce & Friends,Jack Bruce & Friends,0
+Ray Sharkey,Ray Sharkey,0
+"Joe ""King"" Carrasco & The Crowns","Joe ""King"" Carrasco & The Crowns",0
+Robert Hays,Robert Hays,0
+14 Karat Soul,14 Karat Soul,0
+Harry Osborne,Harry Osborne,0
+AlCa,Al Camoin,0
+Michael Nesmith,Michael Nesmith,0
+Bill Irwin,Bill Irwin,0
+George Rose,George Rose,0
+David Carradine,David Carradine,0
+Rex Smith,Rex Smith,0
+"The cast of ""The Pirates of Penzance""","The cast of ""The Pirates of Penzance""",0
+Stanley Clarke Trio,Stanley Clarke Trio,0
+Cheap Trick,Cheap Trick,0
+Delbert McClinton,Delbert McClinton,0
+Bonnie Bramlett,Bonnie Bramlett,0
+Bill Murray,Bill Murray,0
+Mark King,Mark King,0
+Funky 4 + 1 More,Funky 4 + 1 More,0
+Deborah Harry,Deborah Harry,0
+Chris Stein,Chris Stein,0
+Clem Burke,Clem Burke,0
+Janice Pendarvis,Janice Pendarvis,0
+Marc Weiner,Marc Weiner,0
+LePe,Leon Pendarvis,0
+Sally Kellerman,Sally Kellerman,0
+Jim Fowler,Jim Fowler,0
+BaBl,Barry W. Blaustein,0
+DaSh,David Sheffield,0
+TeSw,Terry Sweeney,1
+Todd Rundgren,Todd Rundgren,0
+Don King,Don King,0
+Chicago,Chicago,0
+Bill Russell,Bill Russell,0
+Bob Zmuda,Bob Zmuda,0
+Bob Dylan,Bob Dylan,0
+Fred Tackett,Fred Tackett,0
+Ed Herlihy,Ed Herlihy,0
+Tom Petty & The Heartbreakers,Tom Petty & The Heartbreakers,0
+The Roches,The Roches,0
+Howard Hesseman,Howard Hesseman,0
+David Bowie,David Bowie,0
+Martin Sheen,Martin Sheen,0
+Desmond Child & Rouge,Desmond Child & Rouge,0
+GESm,G.E. Smith,0
+Ted Knight,Ted Knight,0
+Teri Garr,Teri Garr,0
+Buddy Rogers,Buddy Rogers,0
+Diana Peckham,Diana Peckham,0
+The B-52's,The B-52's,0
+John B. Anderson,John B. Anderson,0
+Gary Numan,Gary Numan,0
+Marianne Faithfull,Marianne Faithfull,0
+Bert Convy,Bert Convy,0
+Kirk Douglas,Kirk Douglas,0
+Sam & Dave,Sam & Dave,0
+Jack Garner,Jack Garner,0
+Joan Hackett,Joan Hackett,0
+Rodney Dangerfield,Rodney Dangerfield,0
+Lucie Lancaster,Lucie Lancaster,0
+The J. Geils Band,The J. Geils Band,0
+Jerry Mathers,Jerry Mathers,0
+Rob Morrow,Rob Morrow,0
+Tony Dow,Tony Dow,0
+The Grateful Dead,The Grateful Dead,0
+Richard Benjamin,Richard Benjamin,0
+Paula Prentiss,Paula Prentiss,0
+Burt Reynolds,Burt Reynolds,0
+Strother Martin,Strother Martin,0
+The Specials,The Specials,0
+Steve Jordan,Steve Jordan,0
+John Belushi,John Belushi,0
+Sen. Daniel P. Moynihan,Sen. Daniel P. Moynihan,0
+Carrie Fisher,Carrie Fisher,0
+Michael O'Donoghue,Michael O'Donoghue,0
+Bob Newhart,Bob Newhart,0
+Bruce Cockburn,Bruce Cockburn,0
+The Amazing Rhythm Aces,The Amazing Rhythm Aces,0
+Johnny Cash,Johnny Cash,0
+The Charlie Daniels Band,The Charlie Daniels Band,0
+Julia DeVito,Julia DeVito,0
+FrKo,Frederick Koehler,0
+BiMc,Brian McConnachie,0
+Bette Midler,Bette Midler,0
+Robert Fripp,Robert Fripp,0
+Maureen Stapleton,Maureen Stapleton,0
+Luther Vandross,Luther Vandross,0
+John Madden,John Madden,0
+Brent Musburger,Brent Musburger,0
+Marv Throneberry,Marv Throneberry,0
+Jennifer Holliday,Jennifer Holliday,0
+The Allman Brothers Band,The Allman Brothers Band,0
+Robert Conrad,Robert Conrad,0
+NaHe,Nate Herman,0
+Bruce Dern,Bruce Dern,0
+ClSm,Clint Smith,0
+DiEb,Dick Ebersol,0
+James Coburn,James Coburn,0
+Lindsey Buckingham,Lindsey Buckingham,0
+The Cholos,The Cholos,0
+Mink De Ville,Mink De Ville,0
+Robert Urich,Robert Urich,0
+Daryl Hall,Daryl Hall,0
+John Oates,John Oates,0
+TBWo,T-Bone Wolk,0
+Elizabeth Ashley,Elizabeth Ashley,0
+Joseph Papp,Joseph Papp,0
+Harry Anderson,Harry Anderson,0
+Rickie Lee Jones,Rickie Lee Jones,0
+Blythe Danner,Blythe Danner,0
+Barry Mitchell,Barry Mitchell,0
+John Cougar,John Cougar,0
+Daniel J. Travanti,Daniel J. Travanti,0
+Bruce Weitz,Bruce Weitz,0
+Susan Saint James,Susan Saint James,0
+BoFr,Bobby Fraraccio,0
+Sparks,Sparks,0
+Jerry Lawler,Jerry Lawler,0
+Ron Mael,Ron Mael,0
+Christopher Lloyd,Christopher Lloyd,0
+Judd Hirsch,Judd Hirsch,0
+Marilu Henner,Marilu Henner,0
 Tony Danza,Tony Danza,0
+Robert Culp,Robert Culp,0
+Elton John,Elton John,0
+NeLy,Nelson Lyon,0
+Blondie,Blondie,0
+The Doobie Brothers,The Doobie Brothers,0
+Peter Tosh,Peter Tosh,0
+Bob & Ray,Bob & Ray,0
+Mick Jagger,Mick Jagger,0
+Cicely Tyson ,Cicely Tyson ,0
+Cicely Tyson,Cicely Tyson,0
+Talking Heads,Talking Heads,0
+Rick Nelson,Rick Nelson,0
+Judy Collins,Judy Collins,0
+Kate Jackson,Kate Jackson,0
+Gary Busey,Gary Busey,0
+Rick Danko,Rick Danko,0
+Eubie Blake,Eubie Blake,0
+Gregory Hines,Gregory Hines,0
+The Chieftans,The Chieftans,0
+Margot Kidder,Margot Kidder,0
+Andy Warhol,Andy Warhol,0
+George Kennedy,George Kennedy,0
+Miles Davis,Miles Davis,0
+Marcus Miller,Marcus Miller,0
+John Candy,John Candy,0
+Regis Philbin,Regis Philbin,0
+Ron Howard,Ron Howard,0
+Fear,Fear,0
+Donald Pleasence,Donald Pleasence,0
+Rick James,Rick James,0
+Stone City Band,Stone City Band,0
+William Burroughs,William Burroughs,0
+Lauren Hutton,Lauren Hutton,0
+The Go-Go's,The Go-Go's,0
+MaOD,Mark O'Donnell,0
+ElWa,Eliot Wald,0
+The Yale Whiffenpoofs,The Yale Whiffenpoofs,0
+The Spinners,The Spinners,0
+Tim Curry,Tim Curry,0
+Milton Berle,Milton Berle,0
+Buddy Freed,Buddy Freed,0
+Ornette Coleman,Ornette Coleman,0
+Prime Time,Prime Time,0
+Craig Nettles,Craig Nettles,0
+Nelson Briles,Nelson Briles,0
+Steve Henderson,Steve Henderson,0
+Ed Kranepool,Ed Kranepool,0
+Marvin Goldhar,Marvin Goldhar,0
+Don Grolnick,Don Grolnick,0
+Kate Bush,Kate Bush,0
+BrHa,Brad Hall,1
+GaKr,Gary Kroeger,1
+JuLD,Julia Louis-Dreyfus,1
+Beau Bridges,Beau Bridges,0
+Jeff Bridges,Jeff Bridges,0
+LaZa,Laurie Zaks,0
+James Pickens Jr.,James Pickens Jr.,0
+Lloyd Bridges,Lloyd Bridges,0
+JoDi ,Joe Dicso,0
+Duran Duran,Duran Duran,0
+Robert Guillaume,Robert Guillaume,0
+Joan Rivers,Joan Rivers,0
+AnSm,Andrew Smith,0
+Musical Youth,Musical Youth,0
+David Susskind,David Susskind,0
+Michael McDonald,Michael McDonald,0
+Steven Wright,Steven Wright,0
+Edgar Winter,Edgar Winter,0
+Stevie Wonder,Stevie Wonder,0
+Greg Dean,Greg Dean,0
+Ed Koch,Ed Koch,0
+Kevin Rowland & Dexy's Midnight Runners,Kevin Rowland & Dexy's Midnight Runners,0
+Leslie Pollack,Leslie Pollack,0
+Fred Willard,Fred Willard,0
+Devo,Devo,0
+Walter Matthau,Walter Matthau,0
+Charlie Matthau,Charlie Matthau,0
+Bill Kreutzmann,Bill Kreutzmann,0
+Van Morrison,Van Morrison,0
+Rod Stewart,Rod Stewart,0
+Tina Turner,Tina Turner,0
+Laura Branigan,Laura Branigan,0
+Queen,Queen,0
+Gene Siskel,Gene Siskel,0
+Roger Ebert,Roger Ebert,0
+Amy Poehler,Amy Poehler,0
+Bruce Springsteen & The E Street Band,Bruce Springsteen & The E Street Band,0
+Maya Rudolph,Maya Rudolph,0
+TaKi,Taran Killam,1
+JaPh,Jay Pharoah,1
+JoRu,Jon Rudnitsky,1
+Matthew McConaughey,Matthew McConaughey,0
+Adele,Adele,0
+Daisy Ridley,Daisy Ridley,0
+J.J. Abrams,J.J. Abrams,0
+John Boyega,John Boyega,0
+Jon Hamm,Jon Hamm,0
+Michael Bublé,Michael Bublé,0
+Elizabeth Banks,Elizabeth Banks,0
+Disclosure,Disclosure,0
+MPOB,Mike O'Brien,1
+Sam Smith,Sam Smith,0
+Don Roy King ,Don Roy King ,0
+LePi,Lenny Pickett,0
+DoRi,Donna Richards,0
+PaPe,Paula Pell,0
+Leon Bridges,Leon Bridges,0
+Ryan Gosling,Ryan Gosling,0
+Mike Myers,Mike Myers,0
+Chris Hemsworth,Chris Hemsworth,0
+Jeremih,Jeremih,0
+WaFe,Wally Feresten,0
+Amy Schumer,Amy Schumer,0
+Gayle King,Gayle King,0
+Adam Driver,Adam Driver,0
+Chris Stapleton,Chris Stapleton,0
+Liev Schreiber,Liev Schreiber,0
+Ronda Rousey,Ronda Rousey,0
+Selena Gomez,Selena Gomez,0
+Larry David,Larry David,0
+Owen Wilson,Owen Wilson,0
+Ben Stiller,Ben Stiller,0
+The 1975,The 1975,0
+Bernie Sanders,Bernie Sanders,0
+Melissa McCarthy,Melissa McCarthy,0
+Kanye West,Kanye West,0
+Al Roker,Al Roker,0
+Dylan Dreyer,Dylan Dreyer,0
+El DeBarge,El DeBarge,0
+Kelly Price,Kelly Price,0
+Natalie Morales,Natalie Morales,0
+The-Dream,The-Dream,0
+Young Thug,Young Thug,0
+Kirk Franklin,Kirk Franklin,0
+Von Miller,Von Miller,0
+Gwen Stefani,Gwen Stefani,0
+Peter Dinklage,Peter Dinklage,0
+Future,Future,0
+Jonah Hill,Jonah Hill,0
+Julia Louis-Dreyfus,Julia Louis-Dreyfus,0
+Nick Jonas,Nick Jonas,0
+Tove Lo,Tove Lo,0
+Tony Hale,Tony Hale,0
+Jason Sudeikis,Jason Sudeikis,0
+Russell Crowe,Russell Crowe,0
+Margo Price,Margo Price,0
+Al Sharpton,Al Sharpton,0
+Ariana Grande,Ariana Grande,0
+Brie Larson,Brie Larson,0
+Alicia Keys,Alicia Keys,0
+Amy Davidson,Amy Davidson,0
+Drake,Drake,0
+Heather Desaulniers,Heather Desaulniers,0
+Laura Campbell,Laura Campbell,0
+Courtney Barnett,Courtney Barnett,0
+Andy Samberg,Andy Samberg,0
+Carrie Brownstein,Carrie Brownstein,0
+Louis Gossett Jr.,Louis Gossett Jr.,0
+George Thorogood & The Destroyers,George Thorogood & The Destroyers,0
+Demi Lovato,Demi Lovato,0
+Donald Trump,Donald Trump,0
+Sia,Sia,0
+GeRo,Gena Rositano,0
+Ivanka Trump,Ivanka Trump,0
+Jack McBrayer,Jack McBrayer,0
+Jane Krakowski,Jane Krakowski,0
+Miley Cyrus,Miley Cyrus,0
+Nicki Minaj,Nicki Minaj,0
+The Flaming Lips,The Flaming Lips,0
+Hillary Clinton,Hillary Clinton,0
+Mr. T,Mr. T,0
+The Clash,The Clash,0
+Rex Reed,Rex Reed,0
+Andy Griffith,Andy Griffith,0
+Men At Work,Men At Work,0
+Milan Melvin,Milan Melvin,0
+The New Joe Jackson Band,The New Joe Jackson Band,0
+Michael Keaton,Michael Keaton,0
+Kenny Loggins,Kenny Loggins,0
+Robert Blake,Robert Blake,0
+Merv Griffin,Merv Griffin,0
+Drew Barrymore,Drew Barrymore,0
+Squeeze,Squeeze,0
+Ed Asner,Ed Asner,0
+Dave Thomas,Dave Thomas,0
+Rick Moranis,Rick Moranis,0
+Tom Smothers,Tom Smothers,0
+Dick Smothers,Dick Smothers,0
+Lawrence K. Grossman,Lawrence K. Grossman,0
+Hal Holbrook,Hal Holbrook,0
+Steven Keats,Steven Keats,0
+The Rolling Stones,The Rolling Stones,0
+Charlie Watts,Charlie Watts,0
+Lionel Richie,Lionel Richie,0
+Seth Green,Seth Green,0
+Sid Caesar,Sid Caesar,0
+The Bus Boys,The Bus Boys,0
+Arcade Fire,Arcade Fire,0
+Foo Fighters,Foo Fighters,0
+Jeff Beck,Jeff Beck,0
+Chris Kattan,Chris Kattan,0
+Chris Parnell,Chris Parnell,0
+Nikolai Fraiture,Nikolai Fraiture,0
+Rachel Dratch,Rachel Dratch,0
+FrAr,Fred Armisen,1
+AbEl,Abby Elliott,1
+BiHa,Bill Hader,1
+SeMe,Seth Meyers,1
+NaPe,Nasim Pedrad,1
+AnSa,Andy Samberg,1
+JaSu,Jason Sudeikis,1
+KrWi,Kristen Wiig,1
+PaBr,Paul Brittain,1
+Helen Mirren,Helen Mirren,0
+Dave Grohl,Dave Grohl,0
+KeAy,Ken Aymong,0
+Zach Braff,Zach Braff,0
+MaRu,Maya Rudolph,1
+Maroon 5,Maroon 5,0
+AmPo,Amy Poehler,1
+DoAb,Doug Abeles,0
+WiFo,Will Forte,1
+JoLu,John Lutz,0
+JoSo,John Solomon,0
+Molly Shannon,Molly Shannon,0
+Linkin Park,Linkin Park,0
+RoSm,Robert Smigel,1
+JoTa,Jorma Taccone,0
+Steve Carell,Steve Carell,0
+Usher,Usher,0
+Young Jeezy,Young Jeezy,0
+Sen. John McCain,Sen. John McCain,0
+Ricky Gervais,Ricky Gervais,0
+CaWi,Casey Wilson,1
+Nancy Walls,Nancy Walls,0
+RoKl,Rob Klein,0
+SiRi,Simon Rich,0
+MaSa,Marika Sawyer,0
+AlWo,Alan Wong,0
+Ellie Goulding,Ellie Goulding,0
+Michael Bolton,Michael Bolton,0
+Robin Wright,Robin Wright,0
+AkSc,Akiva Schaffer,0
+Ed Helms,Ed Helms,0
+Stephen Colbert,Stephen Colbert,0
+Chris Colfer,Chris Colfer,0
+StCo,Stephen Colbert,0
+Justin Timberlake,Justin Timberlake,0
+Bradley Cooper,Bradley Cooper,0
+The Shins,The Shins,0
+John McEnroe,John McEnroe,0
+Sofia Vergara,Sofia Vergara,0
+One Direction,One Direction,0
+Harry Styles,Harry Styles,0
+Liam Payne,Liam Payne,0
+Louis Tomlinson,Louis Tomlinson,0
+Niall Horan,Niall Horan,0
+Zayn Malik,Zayn Malik,0
+Manolo Gonzalez,Manolo Gonzalez,0
+Josh Brolin,Josh Brolin,0
+Gotye,Gotye,0
+Kimbra,Kimbra,0
+Steven Spielberg,Steven Spielberg,0
+Eli Manning,Eli Manning,0
+Rihanna,Rihanna,0
+Sacha Baron Cohen,Sacha Baron Cohen,0
+Martin Scorsese,Martin Scorsese,0
+Abby McGrew,Abby McGrew,0
+Chris Snee,Chris Snee,0
+David Baas,David Baas,0
+David Diehl,David Diehl,0
+Shaun O'Hara,Shaun O'Hara,0
+Will Ferrell,Will Ferrell,0
+Liam Neeson,Liam Neeson,0
+keTh,Kenan Thompson,1
+Adam Epstein,Adam Epstein,0
+Kay Ferrell,Kay Ferrell,0
+Bjork,Bjork,0
+Annette Bening,Annette Bening,0
+Akon,Akon,0
+Matthew Fox,Matthew Fox,0
+EmSp,Emily Spivey,0
+Tenacious D,Tenacious D,0
+BrTu,Bryan Tucker,0
+Jake Gyllenhaal,Jake Gyllenhaal,0
+LiCa,Liz Cackowski,0
+AFI,AFI,0
+Jeremy Piven,Jeremy Piven,0
+Common,Common,0
+Lily Allen,Lily Allen,0
+Keith Urban,Keith Urban,0
+Forest Whitaker,Forest Whitaker,0
+KaBa,Katreese Barnes,0
+Snow Patrol,Snow Patrol,0
+Rainn Wilson,Rainn Wilson,0
+MiSh,Michael Shoemaker,0
+Rashida Jones,Rashida Jones,0
+Dan Aykroyd,Dan Aykroyd,0
+Peyton Manning,Peyton Manning,0
+Carrie Underwood,Carrie Underwood,0
+Archie Manning,Archie Manning,0
+Olivia Manning,Olivia Manning,0
+Shia LaBeouf,Shia LaBeouf,0
+Avril Lavigne,Avril Lavigne,0
+Sen. Charles Schumer,Sen. Charles Schumer,0
+Christina Aguilera,Christina Aguilera,0
+Tony Bennett,Tony Bennett,0
+Brian Williams,Brian Williams,0
+Feist,Feist,0
+StTu,Steve Turre,0
+Jon Bon Jovi,Jon Bon Jovi,0
+Jack Nicholson,Jack Nicholson,0
+Bon Jovi,Bon Jovi,0
+Taylor Hawkins,Taylor Hawkins,0
+Richie Sambora,Richie Sambora,0
+MaKl,Marci Klein,0
+Bono,Bono,0
+Matt Lauer,Matt Lauer,0
+Barack Obama,Barack Obama,0
+Mike Huckabee,Mike Huckabee,0
+Amber Lee Ettinger,Amber Lee Ettinger,0
+Ellen Page,Ellen Page,0
+Wilco,Wilco,0
+Rudy Giuliani,Rudy Giuliani,0
+Vincent D'Onofrio,Vincent D'Onofrio,0
+Amy Adams,Amy Adams,0
+Vampire Weekend,Vampire Weekend,0
+Mariah Carey,Mariah Carey,0
+T-Pain,T-Pain,0
+Christopher Walken,Christopher Walken,0
+Panic At The Disco,Panic At The Disco,0
+Christopher Dodd,Christopher Dodd,0
+Dane Cook,Dane Cook,0
+The Killers,The Killers,0
+Ashton Kutcher,Ashton Kutcher,0
+Gnarls Barkley,Gnarls Barkley,0
+Demi Moore,Demi Moore,0
+My Morning Jacket,My Morning Jacket,0
+AlBa,Alex Baze,0
+Jaime Pressly,Jaime Pressly,0
+Corinne Bailey Rae,Corinne Bailey Rae,0
+John C. Reilly,John C. Reilly,0
+My Chemical Romance,My Chemical Romance,0
+Hugh Laurie,Hugh Laurie,0
+Beck,Beck,0
+Ken Davitian,Ken Davitian,0
+Martin Short,Martin Short,0
+Takeru Kobayashi,Takeru Kobayashi,0
+Ludacris,Ludacris,0
+Mary J. Blige,Mary J. Blige,0
+LeBron James,LeBron James,0
+Charles Barkley,Charles Barkley,0
+JeSl,Jenny Slate,1
+James Franco,James Franco,0
+Muse,Muse,0
+Mike Tyson,Mike Tyson,0
+HaBu,Hannibal Buress,0
+JeKl,Jessi Klein,0
+Sigourney Weaver,Sigourney Weaver,0
+The Ting Tings,The Ting Tings,0
+James Cameron,James Cameron,0
+JoMu,John Mulaney,0
+Sharon Jones,Sharon Jones,0
+KeSl,Kent Sublette,0
+Them Crooked Vultures,Them Crooked Vultures,0
+Jennifer Lopez,Jennifer Lopez,0
+Zach Galifianakis,Zach Galifianakis,0
+Biha,Bill Hader,1
+Frank Rich,Frank Rich,0
+Paul Rudd,Paul Rudd,0
+Anthony Anderson,Anthony Anderson,0
+Dr. Mehmet Oz,Dr. Mehmet Oz,0
+Jeremy Sisto,Jeremy Sisto,0
+Jude Law,Jude Law,0
+Pearl Jam,Pearl Jam,0
+Jerry Seinfeld,Jerry Seinfeld,0
+Julian Casablancas,Julian Casablancas,0
+Justin Bieber,Justin Bieber,0
+Mark Sanchez,Mark Sanchez,0
+Ryan Phillippe,Ryan Phillippe,0
+Ke$ha,Ke$ha,0
+Betty White,Betty White,0
+Jay-Z,Jay-Z,0
+Mr Hudson,Mr Hudson,0
+Ana Gasteyer,Ana Gasteyer,0
+Bridget Kelly,Bridget Kelly,0
+Tom Petty,Tom Petty,0
+Gabourey Sidibe,Gabourey Sidibe,0
+MGMT,MGMT,0
+Adam Levine,Adam Levine,0
+Seth Rogen,Seth Rogen,0
+Spoon,Spoon,0
+Joseph Gordon-Levitt,Joseph Gordon-Levitt,0
+Black Eyed Peas,Black Eyed Peas,0
+U2,U2,0
+Phoenix,Phoenix,0
+MiWa,Michaela Watkins,1
+Kelly Clarkson,Kelly Clarkson,0
+JaAn,James Anderson,0
+Zac Efron,Zac Efron,0
+Yeah Yeah Yeahs,Yeah Yeah Yeahs,0
+Ciara,Ciara,0
+Chris Pine,Chris Pine,0
+Zachary Quinto,Zachary Quinto,0
+Leonard Nimoy,Leonard Nimoy,0
+Green Day,Green Day,0
+Anne Hathaway,Anne Hathaway,0
+Artie Lange,Artie Lange,0
+Elisabeth Moss,Elisabeth Moss,0
+Norm MacDonald,Norm MacDonald,0
+Megan Fox,Megan Fox,0
+Brian Austin Green,Brian Austin Green,0
+Ryan Reynolds,Ryan Reynolds,0
+Madonna,Madonna,0
+Elijah Wood,Elijah Wood,0
+Regina Spektor,Regina Spektor,0
+Gerard Butler,Gerard Butler,0
+Shakira,Shakira,0
+Taylor Swift,Taylor Swift,0
+January Jones,January Jones,0
+Taylor Lautner,Taylor Lautner,0
+Blake Lively,Blake Lively,0
+Dave Matthews Band,Dave Matthews Band,0
+Al Gore,Al Gore,0
+Mindy Kaling,Mindy Kaling,0
+Anna Faris,Anna Faris,0
+Coldplay,Coldplay,0
+Duffy,Duffy,0
+Kings of Leon,Kings of Leon,0
+Kumail Nanjiani,Kumail Nanjiani,0
+Sarah Palin,Sarah Palin,0
+Mark Wahlberg,Mark Wahlberg,0
+Oliver Stone,Oliver Stone,0
+John Slattery,John Slattery,0
+Beyoncé,Beyoncé,0
+Ben Affleck,Ben Affleck,0
+David Cook,David Cook,0
+Tim McGraw,Tim McGraw,0
+Cindy McCain,Cindy McCain,0
+T.I.,T.I.,0
+Swizz Beatz,Swizz Beatz,0
+Jamie-Lynn Sigler,Jamie-Lynn Sigler,0
+Molly Sims,Molly Sims,0
+John Malkovich,John Malkovich,0
+Rosario Dawson,Rosario Dawson,0
+Fleet Foxes,Fleet Foxes,0
+Neil Patrick Harris,Neil Patrick Harris,0
+Liza Minnelli,Liza Minnelli,0
+Dwayne Johnson,Dwayne Johnson,0
+Ray LaMontagne,Ray LaMontagne,0
+Richard Dean Anderson,Richard Dean Anderson,0
+Jessica Biel,Jessica Biel,0
+TV on the Radio,TV on the Radio,0
+James Lipton,James Lipton,0
+Jonas Brothers,Jonas Brothers,0
+Jason Mraz,Jason Mraz,0
+Colbie Caillat,Colbie Caillat,0
+Britney Haas,Britney Haas,0
+Craig Eastman,Craig Eastman,0
+Michael Daves,Michael Daves,0
+Skip Ward,Skip Ward,0
+Dex Carvey,Dex Carvey,0
+Tom Carvey,Tom Carvey,0
+Jane Lynch,Jane Lynch,0
+David Spade,David Spade,0
+Florence + The Machine,Florence + The Machine,0
+ShGo,Shelly Gossman,0
+Dana Carvey,Dana Carvey,0
+Robert DeNiro,Robert DeNiro,0
+Diddy-Dirty Money,Diddy-Dirty Money,0
+Sean Combs,Sean Combs,0
+Mario Batali,Mario Batali,0
+Eminem,Eminem,0
+Lil Wayne,Lil Wayne,0
+Jessica Alba,Jessica Alba,0
+Cookie Monster,Cookie Monster,0
+Gwyneth Paltrow,Gwyneth Paltrow,0
+Cee Lo Green,Cee Lo Green,0
+Anderson Cooper,Anderson Cooper,0
+Pee-Wee Herman,Pee-Wee Herman,0
+Jim Carrey,Jim Carrey,0
+The Black Keys,The Black Keys,0
+Jesse Eisenberg,Jesse Eisenberg,0
+John Waters,John Waters,0
+Mark Zuckerberg,Mark Zuckerberg,0
+Leon Russell,Leon Russell,0
+Carmelo Anthony,Carmelo Anthony,0
+Jessie J,Jessie J,0
+B.o.B,B.o.B,0
+Jon Lovitz,Jon Lovitz,0
+Russell Brand,Russell Brand,0
+Chris Brown,Chris Brown,0
+The Strokes,The Strokes,0
+Michael Phelps,Michael Phelps,0
+Jared Fogel,Jared Fogel,0
+Debbie Phelps,Debbie Phelps,0
+William Shatner,William Shatner,0
+Foster The People,Foster The People,0
+Kenny G,Kenny G,0
+Lady Antebellum,Lady Antebellum,0
+Charlie Day,Charlie Day,0
+Travie McCoy,Travie McCoy,0
+Chris Martin,Chris Martin,0
+Andrew Garfield,Andrew Garfield,0
+Jason Segel,Jason Segel,0
+Florence Welch,Florence Welch,0
+Olivia Wilde,Olivia Wilde,0
+Jon Huntsman,Jon Huntsman,0
+Kermit The Frog,Kermit The Frog,0
+Steve Buscemi,Steve Buscemi,0
+Robyn,Robyn,0
+Katy Perry,Katy Perry,0
+Matt Damon,Matt Damon,0
+Val Kilmer,Val Kilmer,0
+Horatio Sanz,Horatio Sanz,0
+Pusha T,Pusha T,0
+Ernest Borgnine,Ernest Borgnine,0
+Morgan Freeman,Morgan Freeman,0
+Zooey Deschanel,Zooey Deschanel,0
+Karmin,Karmin,0
+Nicolas Cage,Nicolas Cage,0
+Jean Dujardin,Jean Dujardin,0
+Sleigh Bells,Sleigh Bells,0
+Bill O'Reilly,Bill O'Reilly,0
+Kate Upton,Kate Upton,0
+Daniel Radcliffe,Daniel Radcliffe,0
+Lana Del Rey,Lana Del Rey,0
+Peter Sarsgaard,Peter Sarsgaard,0
+David Paterson,David Paterson,0
+Channing Tatum,Channing Tatum,0
+Bon Iver,Bon Iver,0
+Lindsay Lohan,Lindsay Lohan,0
+Jack White,Jack White,0
+Ruby Amanfu,Ruby Amanfu,0
+Radiohead,Radiohead,0
+Charlize Theron,Charlize Theron,0
+St. Vincent,St. Vincent,0
+Bill Hader,Bill Hader,0
+BrWh,Brooks Wheelan,1
+The National,The National,0
+Lena Dunham,Lena Dunham,0
+JoMi,John Milhiser,1
+Imagine Dragons,Imagine Dragons,0
+NoWe,Noël Wells,1
+Kendrick Lamar,Kendrick Lamar,0
+Jim Parsons,Jim Parsons,0
+Anna Kendrick,Anna Kendrick,0
+Pharrell Williams,Pharrell Williams,0
+Hans Zimmer,Hans Zimmer,0
+Icona Pop,Icona Pop,0
+Kiefer Sutherland,Kiefer Sutherland,0
+Mary Lynn Rajskub,Mary Lynn Rajskub,0
+Barbara Walters,Barbara Walters,0
+Lil Jon,Lil Jon,0
+Seth Meyers,Seth Meyers,0
+Aaron Paul,Aaron Paul,0
+Régine Chassagne,Régine Chassagne,0
+William Butler,William Butler,0
+Win Butler,Win Butler,0
+Bruce Willis,Bruce Willis,0
+Edward Norton,Edward Norton,0
+Janelle Monáe,Janelle Monáe,0
+Kerry Washington,Kerry Washington,0
+Skylar Grey,Skylar Grey,0
+Rick Rubin,Rick Rubin,0
+R. Kelly,R. Kelly,0
+Josh Hutcherson,Josh Hutcherson,0
+HAIM,HAIM,0
+Jhené Aiko,Jhené Aiko,0
+Bastille,Bastille,0
+Michael Cera,Michael Cera,0
+Leonardo DiCaprio,Leonardo DiCaprio,0
+David Koechner,David Koechner,0
+Wale,Wale,0
+Sylvester Stallone,Sylvester Stallone,0
+Michael Bloomberg,Michael Bloomberg,0
+Aimee Mann,Aimee Mann,0
+J. Mascis,J. Mascis,0
+Kim Gordon,Kim Gordon,0
+Michael Penn,Michael Penn,0
+Steve Jones,Steve Jones,0
+TiRo,Tim Robinson,1
+Jennifer Lawrence,Jennifer Lawrence,0
+The Lumineers,The Lumineers,0
+Joe Walsh,Joe Walsh,0
+Krist Novoselic,Krist Novoselic,0
+Pat Smear,Pat Smear,0
+The New York City Children's Chorus,The New York City Children's Chorus,0
+Paul Shaffer,Paul Shaffer,0
+Samuel L. Jackson,Samuel L. Jackson,0
+Mickey Madden,Mickey Madden,0
+Danny McBride,Danny McBride,0
+Cameron Diaz,Cameron Diaz,0
+Whoopi Goldberg,Whoopi Goldberg,0
+Christoph Waltz,Christoph Waltz,0
+Alabama Shakes,Alabama Shakes,0
+Kevin Hart,Kevin Hart,0
+Macklemore,Macklemore,0
+Ryan Lewis,Ryan Lewis,0
+Ray Dalton,Ray Dalton,0
+Wanz,Wanz,0
+Vince Vaughn,Vince Vaughn,0
+Dennis Rodman,Dennis Rodman,0
+Miguel,Miguel,0
+Of Monsters And Men,Of Monsters And Men,0
+Nikolaj Coster-Waldau,Nikolaj Coster-Waldau,0
+Jennifer Garner,Jennifer Garner,0
+Zac Brown Band,Zac Brown Band,0
+Chris Cornell,Chris Cornell,0
+Dakota Johnson,Dakota Johnson,0
+Don Johnson,Don Johnson,0
+Melanie Griffith,Melanie Griffith,0
+Liam Hemsworth,Liam Hemsworth,0
+Luke Hemsworth,Luke Hemsworth,0
+Carly Rae Jepsen,Carly Rae Jepsen,0
+Norman Reedus,Norman Reedus,0
+George Ezra,George Ezra,0
+Taraji P. Henson,Taraji P. Henson,0
+Mumford & Sons,Mumford & Sons,0
+Daniel Craig,Daniel Craig,0
+Big Bird,Big Bird,0
+Reese Witherspoon,Reese Witherspoon,0
+Betty Witherspoon,Betty Witherspoon,0
+Carolyn Bayer,Carolyn Bayer,0
+Elizabeth Thompson,Elizabeth Thompson,0
+Georganne Bryant,Georganne Bryant,0
+Ivory Steward,Ivory Steward,0
+Julie Moynihan,Julie Moynihan,0
+Linda Mooney,Linda Mooney,0
+Penny Strong,Penny Strong,0
+Ramona Farrow,Ramona Farrow,0
+Sarah Bennett,Sarah Bennett,0
+Frank Ocean,Frank Ocean,0
+John Mayer,John Mayer,0
+Seth MacFarlane,Seth MacFarlane,0
+Psy,Psy,0
+Wiz Khalifa,Wiz Khalifa,0
+Charlie Puth,Charlie Puth,0
+Jeremy Renner,Jeremy Renner,0
+Chris Christie,Chris Christie,0
+Jamie Foxx,Jamie Foxx,0
+Ne-Yo,Ne-Yo,0
+Dermot Mulroney,Dermot Mulroney,0
+2 Chainz,2 Chainz,0
+Fun.,Fun.,0
+Christina Applegate,Christina Applegate,0
+Passion Pit,Passion Pit,0
+Usain Bolt,Usain Bolt,0
+Chris Pratt,Chris Pratt,0
+JiFa,Jimmy Fallon,1
+TiFe,Tina Fey,1
+Lance Armstrong,Lance Armstrong,0
+HrSa,Horatio Sanz,1
+Sheryl Crow,Sheryl Crow,0
+Franz Ferdinand,Franz Ferdinand,0
+RaDr,Rachel Dratch,1
+FiMi,Finesse Mitchell,1
+Scott Podsednik,Scott Podsednik,0
+Catherine Zeta-Jones,Catherine Zeta-Jones,0
+ChPa,Chris Parnell,1
+JBSm,J.B. Smoove,0
+Jason Lee,Jason Lee,0
+Eva Longoria,Eva Longoria,0
+Korn,Korn,0
+James Blunt,James Blunt,0
+Alejandro Sanz,Alejandro Sanz,0
+Dave Foley ,Dave Foley ,0
+Phil Gordon ,Phil Gordon ,0
+Neil Young,Neil Young,0
+Jack Black,Jack Black,0
+Kyle Gass,Kyle Gass,0
+Tim Meadows,Tim Meadows,0
+Darlene Love ,Darlene Love ,0
+Johnny Knoxville,Johnny Knoxville,0
+Death Cab For Cutie,Death Cab For Cutie,0
+Michael Lohan,Michael Lohan,0
+Natalie Portman,Natalie Portman,0
+Fall Out Boy,Fall Out Boy,0
+Dennis Haysbert,Dennis Haysbert,0
+Red Hot Chili Peppers,Red Hot Chili Peppers,0
+Antonio Banderas,Antonio Banderas,0
+Tamar,Tamar,0
+Conan O'Brien,Conan O'Brien,0
+Gideon Yago,Gideon Yago,0
+Arctic Monkeys,Arctic Monkeys,0
+Kelly Ripa,Kelly Ripa,0
+Matt Dillon,Matt Dillon,0
+Jason Alexander,Jason Alexander,0
+Nelly Furtado,Nelly Furtado,0
+Kevin Spacey,Kevin Spacey,0
+StFo,Stacey Foster,0
+Timbaland,Timbaland,0
+Sarah Silverman,Sarah Silverman,0
+Jon Heder,Jon Heder,0
+Ashlee Simpson,Ashlee Simpson,0
+Iggy Azalea,Iggy Azalea,0
+MØ,MØ,0
+Rita Ora,Rita Ora,0
+Jeff Daniels,Jeff Daniels,0
+Hozier,Hozier,0
+Harvey Fierstein,Harvey Fierstein,0
+3RDEYEGIRL,3RDEYEGIRL,0
+Woody Harrelson,Woody Harrelson,0
+Chantal Kreviazuk,Chantal Kreviazuk,0
+Jay Rock,Jay Rock,0
+Uzo Aduba,Uzo Aduba,0
+Mystikal,Mystikal,0
+Blake Shelton,Blake Shelton,0
+Martin Freeman,Martin Freeman,0
+Charli XCX,Charli XCX,0
+D'Angelo,D'Angelo,0
+J.K. Simmons,J.K. Simmons,0
+WiFe,Will Ferrell,1
+AnGa,Ana Gasteyer,1
+Jack Handey ,Jack Handey ,0
+David Duchovny,David Duchovny,0
+JiBr,Jim Breuer,1
+TiMe,Tim Meadows,1
+ChKa,Chris Kattan,1
+MoSh,Molly Shannon,1
+HuFi,Hugh Fink,0
+ScWa,Scott Wainio,0
+RoCa,Robert Carlock,0
+PaFe,Patrick Ferrell,0
+CoQu,Colin Quinn,1
+TrMo,Tracy Morgan,1
+NoMa,Norm MacDonald,1
+Jeff Goldblum,Jeff Goldblum,0
+MaMc,Mark McKinney,1
+ChOt,Cheri Oteri,1
+En Vogue,En Vogue,0
+DeMc,Dennis McNicholas,0
+IaRo,Ian Roberts,0
+JoZo,John Zonars,0
+Puff Daddy,Puff Daddy,0
+Jimmy Page,Jimmy Page,0
+Cuba Gooding Jr.,Cuba Gooding Jr.,0
+Paula Abdul,Paula Abdul,0
+Nicholas Lea,Nicholas Lea,0
+Ricky Martin,Ricky Martin,0
+Monica Lewinsky,Monica Lewinsky,0
+Sarah Michelle Gellar,Sarah Michelle Gellar,0
+Backstreet Boys,Backstreet Boys,0
+RySh,Ryan Shiraki,0
+RiFr,Rich Francese,0
+Kid Rock,Kid Rock,0
+Trey Anastasio,Trey Anastasio,0
+Jackie Chan,Jackie Chan,0
+Joe C.,Joe C.,0
+Florence Henderson,Florence Henderson,0
+Gina Gershon,Gina Gershon,0
+A.J. Benza,A.J. Benza,0
+Rick Ludwin,Rick Ludwin,0
+Dean Winters,Dean Winters,0
+Harold Perrineau,Harold Perrineau,0
+Lee Tergesen,Lee Tergesen,0
+P.O.D.,P.O.D.,0
+JeRi,Jeff Richards,1
+DeEd,Dean Edwards,1
+Kirsten Dunst,Kirsten Dunst,0
+Proof,Proof,0
+David Spade ,David Spade ,0
+Jared Fogel ,Jared Fogel ,0
+Moby,Moby,0
+Winona Ryder,Winona Ryder,0
+Neil Diamond,Neil Diamond,0
+Bruce Springsteen,Bruce Springsteen,0
+Soozie Tyrell,Soozie Tyrell,0
+Snoop Dogg,Snoop Dogg,0
+Mary-Kate Olsen,Mary-Kate Olsen,0
+Ashley Olsen,Ashley Olsen,0
+J-Kwon,J-Kwon,0
+RoRi,Rob Riggle,1
+Rob Lowe,Rob Lowe,0
+MiMc,Michael McKean,1
+The Wallflowers,The Wallflowers,0
+Dr. Dre,Dr. Dre,0
+AdMc,Adam McKay,0
+Robert Downey Jr.,Robert Downey Jr.,0
+Fiona Apple,Fiona Apple,0
+Bob Dole,Bob Dole,0
+Evander Holyfield,Evander Holyfield,0
+Elizabeth Dole,Elizabeth Dole,0
+Phil Hartman,Phil Hartman,0
+Bush,Bush,0
+No Doubt,No Doubt,0
+Cliff Robertson,Cliff Robertson,0
+MaPi,Matt Piedmont,0
+Rosie O'Donnell,Rosie O'Donnell,0
+Whitney Houston,Whitney Houston,0
+Georgia Mass Choir,Georgia Mass Choir,0
+Mike Judge,Mike Judge,0
+John Cleese,John Cleese,0
+David Alan Grier,David Alan Grier,0
+Snoop Doggy Dogg,Snoop Doggy Dogg,0
+Charlie Wilson,Charlie Wilson,0
+Daz Dillinger,Daz Dillinger,0
+Live,Live,0
+Neve Campbell,Neve Campbell,0
+Howard Stern,Howard Stern,0
+NoHi,Norm Hiscock,0
+Pamela Lee,Pamela Lee,0
+Rollins Band,Rollins Band,0
+Tommy Lee,Tommy Lee,0
+Spice Girls,Spice Girls,0
+Aerosmith,Aerosmith,0
+Sting,Sting,0
+Veruca Salt,Veruca Salt,0
+Trudie Styler,Trudie Styler,0
+Mark Hamill,Mark Hamill,0
+Jewel,Jewel,0
+Sarah McLachlan,Sarah McLachlan,0
+Claire Danes,Claire Danes,0
+LoNa,Lori Nasso,0
+Nathan Lane,Nathan Lane,0
+Metallica,Metallica,0
+Ernie Sabella,Ernie Sabella,0
+The Dallas Cowboys Cheerleaders,The Dallas Cowboys Cheerleaders,0
+Helen Hunt,Helen Hunt,0
+Hanson,Hanson,0
+Cliff Floyd,Cliff Floyd,0
+David Howard,David Howard,0
+Gerald Williams,Gerald Williams,0
+Gregg Jefferies,Gregg Jefferies,0
+Jeff Fassero,Jeff Fassero,0
+Mark Grudzielanek,Mark Grudzielanek,0
+Mark Wohlers,Mark Wohlers,0
+Marty Cordova,Marty Cordova,0
+Mike Sweeney,Mike Sweeney,0
+Pedro Borbón Jr.,Pedro Borbón Jr.,0
+Rondell White,Rondell White,0
+Russ Davis,Russ Davis,0
+Scott Rolen,Scott Rolen,0
+Todd Hundley,Todd Hundley,0
+Todd Zeile,Todd Zeile,0
+Ben Folds Five,Ben Folds Five,0
+Portishead,Portishead,0
+MiSc,Michael Schur,0
+FrSe,Frank Sebastiano,0
+Paula Cole,Paula Cole,0
+Roma Downey,Roma Downey,0
+CiCa,Cindy Caponera,0
+"Missy ""Misdemeanor"" Elliott","Missy ""Misdemeanor"" Elliott",0
+Magoo,Magoo,0
+Garth Brooks,Garth Brooks,0
+Robert Duvall,Robert Duvall,0
+Julianne Moore,Julianne Moore,0
+Gilbert Gottfried ,Gilbert Gottfried ,0
+Jason Alexander ,Jason Alexander ,0
+Mark Elliot ,Mark Elliot ,0
+Molly Ringwald ,Molly Ringwald ,0
+Whoopi Goldberg ,Whoopi Goldberg ,0
+Natasha Henstridge,Natasha Henstridge,0
+Third Eye Blind,Third Eye Blind,0
+John Hurt,John Hurt,0
+Lewis Lapham,Lewis Lapham,0
+Didi Conn,Didi Conn,0
+Scott Wolf,Scott Wolf,0
+Natalie Imbruglia,Natalie Imbruglia,0
+Greg Kinnear,Greg Kinnear,0
+Bob Hoskins,Bob Hoskins,0
+ToGi,Tom Gianas,0
+All Saints,All Saints,0
+LuGo,Lukasz Gottwald,0
+Lisa Kudrow,Lisa Kudrow,0
+FrWo,Fred Wolf,1
+David Lander,David Lander,0
+MaWa,Matt Walsh,0
+New Edition,New Edition,0
+Bill Pullman,Bill Pullman,0
+Matthew Broderick,Matthew Broderick,0
+Natalie Merchant,Natalie Merchant,0
+Kerri Strug,Kerri Strug,0
+Beastie Boys,Beastie Boys,0
+Jennifer Love Hewitt,Jennifer Love Hewitt,0
+Joan Allen,Joan Allen,0
+Adam Horovitz,Adam Horovitz,0
+Muse Watson,Muse Watson,0
+Lauryn Hill,Lauryn Hill,0
+Vanessa Williams,Vanessa Williams,0
+Luciano Pavarotti,Luciano Pavarotti,0
+James Van Der Beek,James Van Der Beek,0
+Debbie Matenopoulos,Debbie Matenopoulos,0
+StCr,Steven Cragg,0
+TSSh,T. Sean Shannon,0
+Everlast,Everlast,0
+Barenaked Ladies,Barenaked Ladies,0
+The Roots,The Roots,0
+Brendan Fraser,Brendan Fraser,0
+Tom Davis,Tom Davis,0
+Lucinda Williams,Lucinda Williams,0
+Stephanie Seymour,Stephanie Seymour,0
+Ray Romano,Ray Romano,0
+The Corrs,The Corrs,0
+Doris Roberts,Doris Roberts,0
+Garbage,Garbage,0
+Jamiroquai,Jamiroquai,0
+Richard Jewell,Richard Jewell,0
+Oasis,Oasis,0
+Matthew Perry,Matthew Perry,0
+Jane's Addiction,Jane's Addiction,0
+Flea,Flea,0
+Chris Farley,Chris Farley,0
+The Mighty Mighty Bosstones,The Mighty Mighty Bosstones,0
+Eric Dickerson,Eric Dickerson,0
+Fat Joe,Fat Joe,0
+Alan Cumming,Alan Cumming,0
+Freddie Prinze Jr.,Freddie Prinze Jr.,0
+Macy Gray,Macy Gray,0
+Angie Everhart,Angie Everhart,0
+Julianna Margulies,Julianna Margulies,0
+DMX,DMX,0
+Noah Wyle,Noah Wyle,0
+Joshua Jackson,Joshua Jackson,0
+'N Sync,'N Sync,0
+KeBr,Kevin Brennan,0
+Chris Kirkpatrick,Chris Kirkpatrick,0
+J.C. Chasez,J.C. Chasez,0
+Joey Fatone,Joey Fatone,0
+Lance Bass,Lance Bass,0
+The Statler Brothers,The Statler Brothers,0
+AC/DC,AC/DC,0
+The Rock,The Rock,0
+Big Show,Big Show,0
+Mick Foley,Mick Foley,0
+Triple H,Triple H,0
+Vince McMahon,Vince McMahon,0
+Tobey Maguire,Tobey Maguire,0
+Sisqo,Sisqo,0
+The Smashing Pumpkins,The Smashing Pumpkins,0
+Jonathan Richman,Jonathan Richman,0
+Tommy Larkins,Tommy Larkins,0
+Kelsey Grammer,Kelsey Grammer,0
+Shaquille O'Neal,Shaquille O'Neal,0
+Wendy Melvoin,Wendy Melvoin,0
+Christine Baranski,Christine Baranski,0
+Hal Linden,Hal Linden,0
+Patti LuPone,Patti LuPone,0
+Eagle-Eye Cherry,Eagle-Eye Cherry,0
+Brad Pitt,Brad Pitt,0
+Lucy Lawless,Lucy Lawless,0
+Elliott Smith,Elliott Smith,0
+Chucky,Chucky,0
+Judge Judy Sheindlin,Judge Judy Sheindlin,0
+Alanis Morissette,Alanis Morissette,0
+Chili Davis,Chili Davis,0
+David Cone,David Cone,0
+David Wells,David Wells,0
+Graeme Lloyd,Graeme Lloyd,0
+Tino Martinez,Tino Martinez,0
+Britney Spears,Britney Spears,0
+Cheri Oteri's mother,Cheri Oteri's mother,0
+R.E.M.,R.E.M.,0
+Pink,Pink,0
+Josh Hartnett,Josh Hartnett,0
+Jonny Moseley,Jonny Moseley,0
+Outkast,Outkast,0
+Rip Taylor,Rip Taylor,0
+India.Arie,India.Arie,0
+Jon Stewart,Jon Stewart,0
+Kurt Loder ,Kurt Loder ,0
+Ian McKellen,Ian McKellen,0
+Kylie Minogue,Kylie Minogue,0
+Jimmy Eat World,Jimmy Eat World,0
+Andrew W.K.,Andrew W.K.,0
+Heather Graham,Heather Graham,0
+Marc Anthony,Marc Anthony,0
+Dylan McDermott,Dylan McDermott,0
+Chris Gaines,Chris Gaines,0
+Blink-182,Blink-182,0
+Joe Franken (II),Joe Franken (II),0
+The Rockettes,The Rockettes,0
+Michael Stipe,Michael Stipe,0
+Cheb Mami,Cheb Mami,0
+Christina Ricci,Christina Ricci,0
+John Carpenter,John Carpenter,0
+TiHe,Tim Herlihy,0
+Hugh Jackman,Hugh Jackman,0
+Ellen DeGeneres,Ellen DeGeneres,0
+Seann William Scott,Seann William Scott,0
+Sum41,Sum41,0
+Tom Green,Tom Green,0
+Colin Quinn,Colin Quinn,0
+Ja Rule,Ja Rule,0
+Case,Case,0
+Ashanti,Ashanti,0
+Creed,Creed,0
+Billy Bob Thornton,Billy Bob Thornton,0
+Ryan Adams,Ryan Adams,0
+Derek Jeter,Derek Jeter,0
+Bubba Sparxxx,Bubba Sparxxx,0
+Lara Flynn Boyle,Lara Flynn Boyle,0
+Pierce Brosnan,Pierce Brosnan,0
+Sean Hayes,Sean Hayes,0
+JeMi,Jerry Minor,1
+Shaggy,Shaggy,0
+Rayvon,Rayvon,0
+Rikrok,Rikrok,0
+Katie Holmes,Katie Holmes,0
+Don Henley,Don Henley,0
+Becky Weinberg,Becky Weinberg,0
+Max Weinberg,Max Weinberg,0
+Julia Stiles,Julia Stiles,0
+David Copperfield,David Copperfield,0
+Eve,Eve,0
+Renee Zellweger,Renee Zellweger,0
+Destiny's Child,Destiny's Child,0
+Kelly Rowland,Kelly Rowland,0
+Michelle Williams,Michelle Williams,0
+Lou Reed,Lou Reed,0
+Weezer,Weezer,0
+Kevin Nealon,Kevin Nealon,0
+Charlie Sheen,Charlie Sheen,0
+David Gray,David Gray,0
+Derek Harvie,Derek Harvie,0
+Glenn Humplik,Glenn Humplik,0
+Mary Jane Green,Mary Jane Green,0
+Richard Green,Richard Green,0
+Shawn Greenson,Shawn Greenson,0
+Kate Hudson,Kate Hudson,0
+Dido,Dido,0
+Nomar Garciaparra,Nomar Garciaparra,0
+Baha Men,Baha Men,0
+Beanie Sigel,Beanie Sigel,0
+Memphis Bleek,Memphis Bleek,0
+HaWi,Hal Willner,0
+Lucy Liu,Lucy Liu,0
+Calista Flockhart,Calista Flockhart,0
+Lenny Kravitz,Lenny Kravitz,0
+Mena Suvari,Mena Suvari,0
+Janet Reno,Janet Reno,0
+Adrien Brody,Adrien Brody,0
+ErSl,Eric Slovin,0
+The Dixie Chicks,The Dixie Chicks,0
+Queen Latifah,Queen Latifah,0
+Jeff Bergman,Jeff Bergman,0
+Tom Kenny,Tom Kenny,0
+Ms. Dynamite,Ms. Dynamite,0
+Salma Hayek,Salma Hayek,0
+Lorenzo Lamas ,Lorenzo Lamas ,0
+Bernie Mac,Bernie Mac,0
+Good Charlotte,Good Charlotte,0
+JfRi,Jeff Richmond,0
+Zwan,Zwan,0
+50 Cent,50 Cent,0
+G Unit,G Unit,0
+Nate Dogg,Nate Dogg,0
+Jifa,Jimmy Fallon,1
+Wayne Wonder,Wayne Wonder,0
+Sean Paul,Sean Paul,0
+Elliot Brody,Elliot Brody,0
+Sylvia Plachy,Sylvia Plachy,0
+Kip King,Kip King,0
+Jim Belushi,Jim Belushi,0
+Kelis,Kelis,0
+Clay Aiken,Clay Aiken,0
+Megan Mullally,Megan Mullally,0
+Nick Offerman,Nick Offerman,0
+Norah Jones,Norah Jones,0
+Colin Firth,Colin Firth,0
+N.E.R.D.,N.E.R.D.,0
+Toots and the Maytals,Toots and the Maytals,0
+Bootsy Collins,Bootsy Collins,0
+Ben Harper,Ben Harper,0
+Jack Johnson,Jack Johnson,0
+Carolyn Kepcher,Carolyn Kepcher,0
+George Ross,George Ross,0
+Janet Jackson,Janet Jackson,0
+Simon Cowell,Simon Cowell,0
+Faith Hill,Faith Hill,0
+Eric McCormack,Eric McCormack,0
+The White Stripes,The White Stripes,0
+Nia Vardalos,Nia Vardalos,0
+The Donnas,The Donnas,0
+Jean Fey,Jean Fey,0
+Ray Liotta,Ray Liotta,0
+LeAl,Leo Allen,0
+Jeff Gordon,Jeff Gordon,0
+Phish,Phish,0
+Brad Pitt ,Brad Pitt ,0
+Allison Janney,Allison Janney,0
+Bradley Whitford,Bradley Whitford,0
+John Spencer,John Spencer,0
+Richard Schiff,Richard Schiff,0
+Tipper Gore,Tipper Gore,0
+Brittany Murphy,Brittany Murphy,0
+Nelly,Nelly,0
+Garrett Morris,Garrett Morris,0
+Adam Sandler,Adam Sandler,0
+Rob Schneider,Rob Schneider,0
+Jessica Simpson,Jessica Simpson,0
+Tom Brady,Tom Brady,0
+System of a Down,System of a Down,0
+Patti Forte,Patti Forte,0
+Queens of the Stone Age,Queens of the Stone Age,0
+Carl Weathers,Carl Weathers,0
+Halle Berry,Halle Berry,0
+ChGr,Charlie Grandy,0
+Andy Roddick,Andy Roddick,0
+Dave Matthews,Dave Matthews,0
+Missy Elliott,Missy Elliott,0
+Jet,Jet,0
+Paris Hilton,Paris Hilton,0
+Joe,Joe,0
+Nick Lachey,Nick Lachey,0
+G. Love,G. Love,0
+James Gandolfini,James Gandolfini,0
+Jaheim,Jaheim,0
+Catherine Forbes,Catherine Forbes,0
+Elizabeth Forbes,Elizabeth Forbes,0
+Moira Forbes,Moira Forbes,0
+Roberta Forbes,Roberta Forbes,0
+Sabina Beekman,Sabina Beekman,0
+Sabina Forbes,Sabina Forbes,0
+Quentin Tarantino,Quentin Tarantino,0
+Robert Hegyes,Robert Hegyes,0
+DaSp,David Spade,1
+DaKo,David Koechner,1
+Gabriel Byrne,Gabriel Byrne,0
+Chipper Jones,Chipper Jones,0
+Chrissie Hynde,Chrissie Hynde,0
+Tom Glavine,Tom Glavine,0
+NaWa,Nancy Walls,1
+Lamar Alexander,Lamar Alexander,0
+Laura Leighton,Laura Leighton,0
+Rancid,Rancid,0
+Sean Penn,Sean Penn,0
+Grant Show,Grant Show,0
+Sam Waterston,Sam Waterston,0
+Anthony Edwards,Anthony Edwards,0
+Silverchair,Silverchair,0
+ErMa,Erin Maroney,0
+George Pataki,George Pataki,0
+Joan Osborne,Joan Osborne,0
+Tori Amos,Tori Amos,0
+Tupac Shakur,Tupac Shakur,0
+Danny Boy,Danny Boy,0
+Tom Arnold,Tom Arnold,0
+Roger Troutman,Roger Troutman,0
+Coolio,Coolio,0
+L.V.,L.V.,0
+Danny Aiello,Danny Aiello,0
+Larry Brown,Larry Brown,0
+Gin Blossoms,Gin Blossoms,0
+Jim Gaffigan,Jim Gaffigan,0
+The Cure,The Cure,0
+Everclear,Everclear,0
+Kurt Loder,Kurt Loder,0
+Elle MacPherson,Elle MacPherson,0
+Teri Hatcher,Teri Hatcher,0
+Steve Forbes,Steve Forbes,0
+Rage Against The Machine,Rage Against The Machine,0
+Soundgarden,Soundgarden,0
+John Henry Kurtz,John Henry Kurtz,0
+Jennifer Turner,Jennifer Turner,0
+Katell Keineg,Katell Keineg,0
+David Schwimmer,David Schwimmer,0
+Lisa Loeb,Lisa Loeb,0
+Blues Traveler,Blues Traveler,0
+Mariel Hemingway,Mariel Hemingway,0
+BMcM,Beth McCarthy Miller,0
+Barry Williams,Barry Williams,0
+Gary Coleman,Gary Coleman,0
+Jimmie Walker,Jimmie Walker,0
+Keth,Kenan Thompson,1
+Modest Mouse,Modest Mouse,0
+Kate Winslet,Kate Winslet,0
+Johnny Damon,Johnny Damon,0
+Luke Wilson,Luke Wilson,0
+Colin Farrell,Colin Farrell,0
+Scissor Sisters,Scissor Sisters,0
+Brett Hull,Brett Hull,0
+Paul Giamatti,Paul Giamatti,0
+Topher Grace,Topher Grace,0
+Keane,Keane,0
+Jason Bateman,Jason Bateman,0
+Hilary Swank,Hilary Swank,0
+Olivia,Olivia,0
+ElCl,Ellen Cleghorne,1
+ChFa,Chris Farley,1
+PhHa,Phil Hartman,1
+MeHu,Melanie Hutsell,1
+JaMo,Jay Mohr,1
+MiMy,Mike Myers,1
+KeNe,Kevin Nealon,1
+AdSa,Adam Sandler,1
+RoSc,Rob Schneider,1
+SaSi,Sarah Silverman,1
+JuSw,Julia Sweeney,1
+JoLo,Jon Lovitz,1
+NoDu,Nora Dunn,1
+JaHo,Jan Hooks,1
+Paulina Porizkova,Paulina Porizkova,0
+Timothy Busfield,Timothy Busfield,0
+ViJa,Victoria Jackson,1
+Branford Marsalis,Branford Marsalis,0
+DaCa,Dana Carvey,1
+DeMi,Dennis Miller,1
+Bruce Babbitt,Bruce Babbitt,0
+AWBr,A. Whitney Brown,1
+GrDa,Gregory Daniels,0
+CoOB,Conan O'Brien,0
+Julee Cruise,Julee Cruise,0
+Andrew Dice Clay,Andrew Dice Clay,0
+The Spanic Boys,The Spanic Boys,0
+The Notting Hillbillies,The Notting Hillbillies,0
+BoOd,Bob Odenkirk,0
+Steven Seagal,Steven Seagal,0
+ChRo,Chris Rock,1
+ChZa,Christine Zander,0
+Joel Godard,Joel Godard,0
+Delta Burke,Delta Burke,0
+Chris Isaak,Chris Isaak,0
+Silvertone,Silvertone,0
+BoTu,Bonnie Turner,0
+George Wendt,George Wendt,0
+JiPi,Jim Pitt,0
+AnRo,Andrew Robin,0
+SpFe,Spike Feresten,0
+BeCa,Beth Cahill,1
+SiFa,Siobhan Fallon,1
+StKo,Steve Koren,0
+GrTr,Grafton True,0
+Cher,Cher,0
+Bobby Brown,Bobby Brown,0
+TeTu,Terry Turner,0
+Emilio Estevez,Emilio Estevez,0
+The Pretenders,The Pretenders,0
+Manute Bol,Manute Bol,0
+Rafael Fuchs,Rafael Fuchs,0
+Heather Locklear,Heather Locklear,0
+Jay Leno,Jay Leno,0
+MoBa,Morwenna Banks,1
+ChEl,Chris Elliott,1
+LaKi,Laura Kightlinger,1
+Naomi Campbell,Naomi Campbell,0
+Michael Angarano,Michael Angarano,0
+Judge Reinhold,Judge Reinhold,0
+"10,000 Maniacs","10,000 Maniacs",0
+Justine Bateman,Justine Bateman,0
+Terrance Trent D'Arby,Terrance Trent D'Arby,0
+MrSh,Marc Shaiman,0
+David Gilmour,David Gilmour,0
+Angie Dickinson,Angie Dickinson,0
+Buster Poindexter,Buster Poindexter,0
+The Banshees of Blue,The Banshees of Blue,0
+The Uptown Horns,The Uptown Horns,0
+The Mariachi Vargas de Tecalitlán,The Mariachi Vargas de Tecalitlán,0
+Sen. Paul Simon,Sen. Paul Simon,0
+Leland Sklar,Leland Sklar,0
+Robbie Robertson,Robbie Robertson,0
+BoDeans,BoDeans,0
+Maria McKee,Maria McKee,0
+Randy Travis,Randy Travis,0
+Rhea Perlman,Rhea Perlman,0
+Little Feat,Little Feat,0
+Kevin Kline,Kevin Kline,0
+Bobby McFerrin,Bobby McFerrin,0
+Anita Baker,Anita Baker,0
 John Hiatt,John Hiatt,0
 The Goners,The Goners,0
-ChZa,Christine Zander,0
-Anita Baker,Anita Baker,0
-TBWo,T-Bone Wolk,0
-John Malkovich,John Malkovich,0
-LePe,Leon Pendarvis,0
+Ted Danson,Ted Danson,0
+JoBo,John Bowman,0
 Leslie Nielsen,Leslie Nielsen,0
 Cowboy Junkies,Cowboy Junkies,0
 Beverly Johnson,Beverly Johnson,0
 Cheryl Tiegs,Cheryl Tiegs,0
 Kim Alexis,Kim Alexis,0
-The Gipsy Kings,The Gipsy Kings,0
 Glenn Close,Glenn Close,0
+The Gipsy Kings,The Gipsy Kings,0
 William Hurt,William Hurt,0
-Ted Danson,Ted Danson,0
-JoBo,John Bowman,0
 Mary Tyler Moore,Mary Tyler Moore,0
 BeSt,Ben Stiller,1
-LePi,Lenny Pickett,0
-MrSh,Marc Shaiman,0
+Wayne Gretzky,Wayne Gretzky,0
+Fine Young Cannibals,Fine Young Cannibals,0
+Janet Jones,Janet Jones,0
+Dolly Parton,Dolly Parton,0
 Mel Gibson,Mel Gibson,0
 Danny Glover,Danny Glover,0
 Living Colour,Living Colour,0
-BoTu,Bonnie Turner,0
-John Henry Kurtz,John Henry Kurtz,0
-Dolly Parton,Dolly Parton,0
-BoOd,Bob Odenkirk,0
 Geena Davis,Geena Davis,0
 John Mellencamp,John Mellencamp,0
-Fine Young Cannibals,Fine Young Cannibals,0
-Janet Jones,Janet Jones,0
-Tom Petty & The Heartbreakers,Tom Petty & The Heartbreakers,0
-Timothy Busfield,Timothy Busfield,0
-Don Johnson,Don Johnson,0
+The Pull,The Pull,0
+LL Cool J,LL Cool J,0
+Robert Mitchum,Robert Mitchum,0
+Simply Red,Simply Red,0
+Bentley Mitchum,Bentley Mitchum,0
+Jane Greer,Jane Greer,0
+Dabney Coleman,Dabney Coleman,0
+The Cars,The Cars,0
+Elvira,Elvira,0
+Ric Ocasek,Ric Ocasek,0
+Bryan Ferry,Bryan Ferry,0
+Sydney Biddle Barrows,Sydney Biddle Barrows,0
 John Lithgow,John Lithgow,0
-Eric Clapton,Eric Clapton,0
-Debra Winger,Debra Winger,0
-The Pogues,The Pogues,0
-Rob Lowe,Rob Lowe,0
-TeTu,Terry Turner,0
-ToGa,Tom Gammill,0
-SaPa,Sarah Paley,0
-Paul McCartney,Paul McCartney,0
-Linda McCartney,Linda McCartney,0
-3-D,3-D,0
-MaPr,Max Pross,0
-Andrae Crouch,Andrae Crouch,0
-The Voices Of Unity,The Voices Of Unity,0
-PeAy,Peter Aykroyd,1
-MaNe,Matt Neuman,0
-The B-52's,The B-52's,0
-GrDa,Gregory Daniels,0
-The Smithereens,The Smithereens,0
-Corbin Bernsen,Corbin Bernsen,0
-Keith Richards,Keith Richards,0
-Ivan Neville,Ivan Neville,0
-Steve Jordan,Steve Jordan,0
-Matthew Broderick,Matthew Broderick,0
-The Sugarcubes,The Sugarcubes,0
-Catherine O'Hara,Catherine O'Hara,0
-Douglas McGrath,Douglas McGrath,0
-Fred Newman,Fred Newman,0
-Laurie Metcalf,Laurie Metcalf,0
-Johnny Clegg & Savuka,Johnny Clegg & Savuka,0
-Demi Moore,Demi Moore,0
-Kirsten Dunst,Kirsten Dunst,0
-John Larroquette,John Larroquette,0
-Mark Knopfler,Mark Knopfler,0
-Matthew Modine,Matthew Modine,0
-Edie Brickell & New Bohemians,Edie Brickell & New Bohemians,0
-Morton Downey Jr.,Morton Downey Jr.,0
-GrTr,Grafton True,0
-Danny DeVito,Danny DeVito,0
-The Bangles,The Bangles,0
-Arnold Schwarzenegger,Arnold Schwarzenegger,0
-Little Feat,Little Feat,0
-Melanie Griffith,Melanie Griffith,0
-Tracy Chapman,Tracy Chapman,0
-Kevin Kline,Kevin Kline,0
-Bobby McFerrin,Bobby McFerrin,0
-Paula Prentiss,Paula Prentiss,0
-John Belushi,John Belushi,0
-Sen. Daniel P. Moynihan,Sen. Daniel P. Moynihan,0
-GeWa,Georg Wadenius,0
-Michael O'Donoghue,Michael O'Donoghue,0
-DaSa,David Sanborn,0
-Burt Reynolds,Burt Reynolds,0
-Strother Martin,Strother Martin,0
-The Specials,The Specials,0
-Bruce Cockburn,Bruce Cockburn,0
-Bob Newhart,Bob Newhart,0
-The Amazing Rhythm Aces,The Amazing Rhythm Aces,0
-James Woods,James Woods,0
-Don Henley,Don Henley,0
-MaKl,Marci Klein,0
-Chris Evert,Chris Evert,0
-Eurythmics,Eurythmics,0
-JeRe,Jeff Renaudo,0
-Woody Harrelson,Woody Harrelson,0
-David Byrne,David Byrne,0
-Joel Godard,Joel Godard,0
-K.D. Lang & The Reclines,K.D. Lang & The Reclines,0
-RoSm,Robert Smigel,1
-Ed O'Neill,Ed O'Neill,0
-Harry Connick Jr.,Harry Connick Jr.,0
-Maury Povich,Maury Povich,0
 Andie MacDowell,Andie MacDowell,0
-Joe Franken (II),Joe Franken (II),0
-StTu,Steve Turre,0
-Aaron Neville,Aaron Neville,0
+Tracy Chapman,Tracy Chapman,0
 Robert Wagner,Robert Wagner,0
-Aerosmith,Aerosmith,0
-MiSh,Michael Shoemaker,0
+Aaron Neville,Aaron Neville,0
+JeRe,Jeff Renaudo,0
+Harry Connick Jr.,Harry Connick Jr.,0
+Ed O'Neill,Ed O'Neill,0
+Maury Povich,Maury Povich,0
 Technotronic,Technotronic,0
 Rosie Perez,Rosie Perez,0
 Fred Savage,Fred Savage,0
@@ -549,1322 +1847,249 @@ Melle Mel,Melle Mel,0
 Quincy D III,Quincy D III,0
 Siedah Garrett,Siedah Garrett,0
 Take 6,Take 6,0
-Christopher Walken,Christopher Walken,0
-Kirk Douglas,Kirk Douglas,0
-David Bowie,David Bowie,0
-Bob Dylan,Bob Dylan,0
-Fred Tackett,Fred Tackett,0
-Bob Zmuda,Bob Zmuda,0
-Blondie,Blondie,0
-MaMi,Marcus Miller,0
-Bill Russell,Bill Russell,0
-Chicago,Chicago,0
-Ed Herlihy,Ed Herlihy,0
-The Roches,The Roches,0
-Bruce Willis,Bruce Willis,0
-Neil Young,Neil Young,0
-Rick Moranis,Rick Moranis,0
+The Pogues,The Pogues,0
+Eric Clapton,Eric Clapton,0
+Debra Winger,Debra Winger,0
+Corbin Bernsen,Corbin Bernsen,0
+The Smithereens,The Smithereens,0
+The Bangles,The Bangles,0
+Arnold Schwarzenegger,Arnold Schwarzenegger,0
+John Larroquette,John Larroquette,0
+Mark Knopfler,Mark Knopfler,0
+The Sugarcubes,The Sugarcubes,0
+Catherine O'Hara,Catherine O'Hara,0
+Douglas McGrath,Douglas McGrath,0
+Fred Newman,Fred Newman,0
+Laurie Metcalf,Laurie Metcalf,0
+Johnny Clegg & Savuka,Johnny Clegg & Savuka,0
+Keith Richards,Keith Richards,0
+Ivan Neville,Ivan Neville,0
+Edie Brickell & New Bohemians,Edie Brickell & New Bohemians,0
+Matthew Modine,Matthew Modine,0
+Morton Downey Jr.,Morton Downey Jr.,0
+Vanilla Ice,Vanilla Ice,0
+Joe Mantegna,Joe Mantegna,0
+Dennis Quaid,Dennis Quaid,0
+The Neville Brothers,The Neville Brothers,0
+Kevin Bacon,Kevin Bacon,0
+INXS,INXS,0
+Roseanne Barr,Roseanne Barr,0
+Deee-Lite,Deee-Lite,0
+Bootsy Collins & The Rubber Band,Bootsy Collins & The Rubber Band,0
+Arthur Kent,Arthur Kent,0
+Jeremy Irons,Jeremy Irons,0
+Fishbone,Fishbone,0
+Razor Ruddock,Razor Ruddock,0
+Michael J. Fox,Michael J. Fox,0
+The Black Crowes,The Black Crowes,0
+Kate Pierson,Kate Pierson,0
+Randy Quaid,Randy Quaid,0
+James Woods,James Woods,0
 Kathleen Turner,Kathleen Turner,0
-Howard Hesseman,Howard Hesseman,0
-Gary Numan,Gary Numan,0
-Marianne Faithfull,Marianne Faithfull,0
-Bert Convy,Bert Convy,0
-Teri Garr,Teri Garr,0
-John B. Anderson,John B. Anderson,0
-Martin Sheen,Martin Sheen,0
-Ted Knight,Ted Knight,0
-Desmond Child & Rouge,Desmond Child & Rouge,0
-Buddy Rogers,Buddy Rogers,0
-Diana Peckham,Diana Peckham,0
-The J. Geils Band,The J. Geils Band,0
-Jerry Mathers,Jerry Mathers,0
-Tony Dow,Tony Dow,0
-Rob Morrow,Rob Morrow,0
-Sam & Dave,Sam & Dave,0
-Jack Garner,Jack Garner,0
-Joan Hackett,Joan Hackett,0
-Lucie Lancaster,Lucie Lancaster,0
-Funky 4 + 1 More,Funky 4 + 1 More,0
-Prince,Prince,0
-Bill Murray,Bill Murray,0
-DeDi,Denny Dillon,1
-Peter Dinklage,Peter Dinklage,0
-Brie Larson,Brie Larson,0
-Gwen Stefani,Gwen Stefani,0
-Louis C.K.,Louis C.K.,0
-JaPh,Jay Pharoah,1
-JoRu,Jon Rudnitsky,1
-TaKi,Taran Killam,1
-Drake,Drake,0
-Michael Keaton,Michael Keaton,0
-Dwayne Johnson,Dwayne Johnson,0
-Mumford & Sons,Mumford & Sons,0
-Reese Witherspoon,Reese Witherspoon,0
-Wiz Khalifa,Wiz Khalifa,0
-Charlie Puth,Charlie Puth,0
-Carly Rae Jepsen,Carly Rae Jepsen,0
-Chris Hemsworth,Chris Hemsworth,0
-Taraji P. Henson,Taraji P. Henson,0
-MPOB,Mike O'Brien,1
-Liam Hemsworth,Liam Hemsworth,0
-Dakota Johnson,Dakota Johnson,0
-Luke Hemsworth,Luke Hemsworth,0
-Norman Reedus,Norman Reedus,0
-Zac Brown Band,Zac Brown Band,0
-George Ezra,George Ezra,0
-Alabama Shakes,Alabama Shakes,0
-Chris Cornell,Chris Cornell,0
-Scarlett Johansson,Scarlett Johansson,0
-Florence + The Machine,Florence + The Machine,0
-Nikolaj Coster-Waldau,Nikolaj Coster-Waldau,0
-Rihanna,Rihanna,0
-Jason Sudeikis,Jason Sudeikis,0
-Russell Crowe,Russell Crowe,0
-Amy Davidson,Amy Davidson,0
-Betty Witherspoon,Betty Witherspoon,0
-Carolyn Bayer,Carolyn Bayer,0
-Elizabeth Thompson,Elizabeth Thompson,0
-Georganne Bryant,Georganne Bryant,0
-Ivory Steward,Ivory Steward,0
-Julie Moynihan,Julie Moynihan,0
-Laura Campbell,Laura Campbell,0
-Linda Mooney,Linda Mooney,0
-Penny Strong,Penny Strong,0
-Ramona Farrow,Ramona Farrow,0
-Sarah Bennett,Sarah Bennett,0
-Margo Price,Margo Price,0
-Julia Louis-Dreyfus,Julia Louis-Dreyfus,0
-Jonah Hill,Jonah Hill,0
-Future,Future,0
-Nick Jonas,Nick Jonas,0
-Tove Lo,Tove Lo,0
-Al Sharpton,Al Sharpton,0
-Ariana Grande,Ariana Grande,0
-Tony Hale,Tony Hale,0
-Alicia Keys,Alicia Keys,0
-Heather Desaulniers,Heather Desaulniers,0
-Courtney Barnett,Courtney Barnett,0
-Larry David,Larry David,0
-Andy Samberg,Andy Samberg,0
-Carrie Brownstein,Carrie Brownstein,0
-Maya Rudolph,Maya Rudolph,0
-DoRi,Donna Richards,0
-Ronda Rousey,Ronda Rousey,0
-Selena Gomez,Selena Gomez,0
-Adam Driver,Adam Driver,0
-Chris Stapleton,Chris Stapleton,0
-Liev Schreiber,Liev Schreiber,0
-WaFe,Wally Feresten,0
-The 1975,The 1975,0
-Owen Wilson,Owen Wilson,0
-Ben Stiller,Ben Stiller,0
-Bernie Sanders,Bernie Sanders,0
-Melissa McCarthy,Melissa McCarthy,0
-Kanye West,Kanye West,0
-Al Roker,Al Roker,0
-Dylan Dreyer,Dylan Dreyer,0
-El DeBarge,El DeBarge,0
-Kelly Price,Kelly Price,0
-Natalie Morales,Natalie Morales,0
-The-Dream,The-Dream,0
-Kirk Franklin,Kirk Franklin,0
-Young Thug,Young Thug,0
-Von Miller,Von Miller,0
-Chris Pratt,Chris Pratt,0
-Anna Faris,Anna Faris,0
-Sarah Silverman,Sarah Silverman,0
-Maroon 5,Maroon 5,0
-Adam Levine,Adam Levine,0
-Bill Hader,Bill Hader,0
-Hozier,Hozier,0
-Jim Carrey,Jim Carrey,0
-Iggy Azalea,Iggy Azalea,0
-Harvey Fierstein,Harvey Fierstein,0
-MØ,MØ,0
-Rita Ora,Rita Ora,0
-Jeff Daniels,Jeff Daniels,0
-3RDEYEGIRL,3RDEYEGIRL,0
-Kendrick Lamar,Kendrick Lamar,0
-Chantal Kreviazuk,Chantal Kreviazuk,0
-Jay Rock,Jay Rock,0
-Uzo Aduba,Uzo Aduba,0
-Jennifer Lawrence,Jennifer Lawrence,0
-Josh Hutcherson,Josh Hutcherson,0
-Nicki Minaj,Nicki Minaj,0
-James Franco,James Franco,0
-Seth Rogen,Seth Rogen,0
-Skylar Grey,Skylar Grey,0
-Blake Shelton,Blake Shelton,0
-KeSl,Kent Sublette,0
-Kevin Hart,Kevin Hart,0
-Sia,Sia,0
-J.K. Simmons,J.K. Simmons,0
-D'Angelo,D'Angelo,0
-Martin Freeman,Martin Freeman,0
-Charli XCX,Charli XCX,0
-Mystikal,Mystikal,0
-Cameron Diaz,Cameron Diaz,0
-Amy Adams,Amy Adams,0
-One Direction,One Direction,0
-Harry Styles,Harry Styles,0
-Liam Payne,Liam Payne,0
-Louis Tomlinson,Louis Tomlinson,0
-Niall Horan,Niall Horan,0
-Zayn Malik,Zayn Malik,0
-GeRo,Gena Rositano,0
-Mike Myers,Mike Myers,0
-GaMa,Gail Matthius,1
-JoPi,Joe Piscopo,1
-GiGo,Gilbert Gottfried,1
-CaRo,Charles Rocket,1
-Kid Creole & The Coconuts,Kid Creole & The Coconuts,0
-MiKr,Mitchell Kriegman,0
-Amy Poehler,Amy Poehler,0
-Bruce Springsteen & The E Street Band,Bruce Springsteen & The E Street Band,0
-Amy Schumer,Amy Schumer,0
-Demi Lovato,Demi Lovato,0
-Miley Cyrus,Miley Cyrus,0
-The Flaming Lips,The Flaming Lips,0
-Hillary Clinton,Hillary Clinton,0
-Jack McBrayer,Jack McBrayer,0
-Jane Krakowski,Jane Krakowski,0
-PaPe,Paula Pell,0
-Donald Trump,Donald Trump,0
-Ivanka Trump,Ivanka Trump,0
-Ryan Gosling,Ryan Gosling,0
-Leon Bridges,Leon Bridges,0
-Matthew McConaughey,Matthew McConaughey,0
-Adele,Adele,0
-Daisy Ridley,Daisy Ridley,0
-J.J. Abrams,J.J. Abrams,0
-John Boyega,John Boyega,0
-Jon Hamm,Jon Hamm,0
-Michael Bublé,Michael Bublé,0
-Elizabeth Banks,Elizabeth Banks,0
-Disclosure,Disclosure,0
-Sam Smith,Sam Smith,0
-Lorde,Lorde,0
-Don Roy King ,Don Roy King ,0
-Jeremih,Jeremih,0
-Gayle King,Gayle King,0
-Captain Beefheart & The Magic Band,Captain Beefheart & The Magic Band,0
-Malcolm McDowell,Malcolm McDowell,0
-MaLa,Matthew Laurance,1
-EdMu,Eddie Murphy,1
-Ellen Burstyn,Ellen Burstyn,0
-Keith Sykes,Keith Sykes,0
-PaWe,Patrick Weathers,1
-Aretha Franklin,Aretha Franklin,0
-Bill Paxton,Bill Paxton,0
-Jamie Lee Curtis,Jamie Lee Curtis,0
-William Duff-Griffin,William Duff-Griffin,0
-Ellen Shipley,Ellen Shipley,0
-James Brown,James Brown,0
-George Rose,George Rose,0
-Rex Smith,Rex Smith,0
-"The cast of ""The Pirates of Penzance""","The cast of ""The Pirates of Penzance""",0
-David Carradine,David Carradine,0
-Bill Irwin,Bill Irwin,0
-"Joe ""King"" Carrasco & The Crowns","Joe ""King"" Carrasco & The Crowns",0
-Robert Hays,Robert Hays,0
-14 Karat Soul,14 Karat Soul,0
-Harry Osborne,Harry Osborne,0
-Michael Nesmith,Michael Nesmith,0
-AlCa,Al Camoin,0
-Stanley Clarke Trio,Stanley Clarke Trio,0
-Cheap Trick,Cheap Trick,0
-Bonnie Bramlett,Bonnie Bramlett,0
-Mark King,Mark King,0
-Jack Bruce & Friends,Jack Bruce & Friends,0
-Ray Sharkey,Ray Sharkey,0
-Sally Kellerman,Sally Kellerman,0
-Jim Fowler,Jim Fowler,0
-BaBl,Barry W. Blaustein,0
-DaSh,David Sheffield,0
-Marc Weiner,Marc Weiner,0
-Charlene Tilton,Charlene Tilton,0
-TeSw,Terry Sweeney,1
-Todd Rundgren,Todd Rundgren,0
-Don King,Don King,0
-Deborah Harry,Deborah Harry,0
-Chris Stein,Chris Stein,0
-Clem Burke,Clem Burke,0
-Janice Pendarvis,Janice Pendarvis,0
-RoDu,Robin Duke,1
-ToRo,Tony Rosato,1
-Jr. Walker & The All Stars,Jr. Walker & The All Stars,0
-Christopher Reeve,Christopher Reeve,0
-Robin Williams,Robin Williams,0
-TiKa,Tim Kazurinsky,1
-LaMe,Laurie Metcalf,1
-Al Franken,Al Franken,0
-Coldplay,Coldplay,0
-Charlize Theron,Charlize Theron,0
-NaPe,Nasim Pedrad,1
-Radiohead,Radiohead,0
-FrAr,Fred Armisen,1
-SeMe,Seth Meyers,1
-Arcade Fire,Arcade Fire,0
-Jeff Beck,Jeff Beck,0
-Foo Fighters,Foo Fighters,0
-BiHa,Bill Hader,1
-AbEl,Abby Elliott,1
-JaSu,Jason Sudeikis,1
-Chris Parnell,Chris Parnell,0
-Chris Kattan,Chris Kattan,0
-AnSa,Andy Samberg,1
-KrWi,Kristen Wiig,1
-Nikolai Fraiture,Nikolai Fraiture,0
-Rachel Dratch,Rachel Dratch,0
-PaBr,Paul Brittain,1
-Taylor Swift,Taylor Swift,0
-Andrew Garfield,Andrew Garfield,0
-JoMi,John Milhiser,1
-Zooey Deschanel,Zooey Deschanel,0
-Chris Martin,Chris Martin,0
-Kiefer Sutherland,Kiefer Sutherland,0
-BrWh,Brooks Wheelan,1
-NoWe,Noël Wells,1
-Mary Lynn Rajskub,Mary Lynn Rajskub,0
-The Black Keys,The Black Keys,0
-Barbara Walters,Barbara Walters,0
-St. Vincent,St. Vincent,0
-Paul Rudd,Paul Rudd,0
-Lil Jon,Lil Jon,0
-Martin Short,Martin Short,0
-Seth Meyers,Seth Meyers,0
-Dex Carvey,Dex Carvey,0
-Tom Carvey,Tom Carvey,0
-Dana Carvey,Dana Carvey,0
-Robert DeNiro,Robert DeNiro,0
-Diddy-Dirty Money,Diddy-Dirty Money,0
-Swizz Beatz,Swizz Beatz,0
-Sean Combs,Sean Combs,0
-RoKl,Rob Klein,0
-Mario Batali,Mario Batali,0
-AlWo,Alan Wong,0
-Jeff Bridges,Jeff Bridges,0
-Eminem,Eminem,0
-Lil Wayne,Lil Wayne,0
-ShGo,Shelly Gossman,0
-JoTa,Jorma Taccone,0
-Cookie Monster,Cookie Monster,0
-Akon,Akon,0
-Blake Lively,Blake Lively,0
-Jessica Alba,Jessica Alba,0
-John McEnroe,John McEnroe,0
-AkSc,Akiva Schaffer,0
-Gwyneth Paltrow,Gwyneth Paltrow,0
-Cee Lo Green,Cee Lo Green,0
-Anderson Cooper,Anderson Cooper,0
-Pee-Wee Herman,Pee-Wee Herman,0
-Jesse Eisenberg,Jesse Eisenberg,0
-John Waters,John Waters,0
-Mark Zuckerberg,Mark Zuckerberg,0
-Linkin Park,Linkin Park,0
-Justin Bieber,Justin Bieber,0
-Jon Lovitz,Jon Lovitz,0
-Chris Brown,Chris Brown,0
-Russell Brand,Russell Brand,0
-The Strokes,The Strokes,0
-Zach Galifianakis,Zach Galifianakis,0
-Jessie J,Jessie J,0
-B.o.B,B.o.B,0
-Elton John,Elton John,0
-Leon Russell,Leon Russell,0
-Jake Gyllenhaal,Jake Gyllenhaal,0
-Carmelo Anthony,Carmelo Anthony,0
-Helen Mirren,Helen Mirren,0
-Dave Grohl,Dave Grohl,0
-KeAy,Ken Aymong,0
-Ellie Goulding,Ellie Goulding,0
-Michael Bolton,Michael Bolton,0
-Robin Wright,Robin Wright,0
-Ed Helms,Ed Helms,0
-Stephen Colbert,Stephen Colbert,0
-Steve Carell,Steve Carell,0
-StCo,Stephen Colbert,0
-Justin Timberlake,Justin Timberlake,0
-Chris Colfer,Chris Colfer,0
-Lindsey Buckingham,Lindsey Buckingham,0
-Bradley Cooper,Bradley Cooper,0
-Anne Hathaway,Anne Hathaway,0
-Pusha T,Pusha T,0
-Katy Perry,Katy Perry,0
-Peter Sarsgaard,Peter Sarsgaard,0
-David Paterson,David Paterson,0
-Ernest Borgnine,Ernest Borgnine,0
-Morgan Freeman,Morgan Freeman,0
-Jane Lynch,Jane Lynch,0
-JoMu,John Mulaney,0
-Kings of Leon,Kings of Leon,0
-David Spade,David Spade,0
-Will Ferrell,Will Ferrell,0
-Usher,Usher,0
-Adam Epstein,Adam Epstein,0
-Eli Manning,Eli Manning,0
-Lana Del Rey,Lana Del Rey,0
-Charles Barkley,Charles Barkley,0
-Steve Buscemi,Steve Buscemi,0
-Horatio Sanz,Horatio Sanz,0
-Daniel Radcliffe,Daniel Radcliffe,0
-keTh,Kenan Thompson,1
-Foster The People,Foster The People,0
-Charlie Day,Charlie Day,0
-Kenny G,Kenny G,0
-Travie McCoy,Travie McCoy,0
-Jason Segel,Jason Segel,0
-Florence Welch,Florence Welch,0
-Robyn,Robyn,0
-Olivia Wilde,Olivia Wilde,0
-Kelly Clarkson,Kelly Clarkson,0
-Jon Huntsman,Jon Huntsman,0
-Kermit The Frog,Kermit The Frog,0
-Jude Law,Jude Law,0
-Karmin,Karmin,0
-Matt Damon,Matt Damon,0
-Val Kilmer,Val Kilmer,0
-JaAn,James Anderson,0
-JoSo,John Solomon,0
-Channing Tatum,Channing Tatum,0
-Sleigh Bells,Sleigh Bells,0
-Bon Iver,Bon Iver,0
-Lindsay Lohan,Lindsay Lohan,0
-Jack White,Jack White,0
-Josh Brolin,Josh Brolin,0
-Sofia Vergara,Sofia Vergara,0
-The Shins,The Shins,0
-Gotye,Gotye,0
-Nicolas Cage,Nicolas Cage,0
-Bill O'Reilly,Bill O'Reilly,0
-Kate Upton,Kate Upton,0
-Jean Dujardin,Jean Dujardin,0
-Kimbra,Kimbra,0
-Ruby Amanfu,Ruby Amanfu,0
-Sacha Baron Cohen,Sacha Baron Cohen,0
-Martin Scorsese,Martin Scorsese,0
-Steven Spielberg,Steven Spielberg,0
-Liam Neeson,Liam Neeson,0
-Manolo Gonzalez,Manolo Gonzalez,0
-Abby McGrew,Abby McGrew,0
-Chris Snee,Chris Snee,0
-David Baas,David Baas,0
-David Diehl,David Diehl,0
-Shaun O'Hara,Shaun O'Hara,0
-Kay Ferrell,Kay Ferrell,0
-Mickey Madden,Mickey Madden,0
-TiRo,Tim Robinson,1
-Danny McBride,Danny McBride,0
-Jerry Seinfeld,Jerry Seinfeld,0
-Whoopi Goldberg,Whoopi Goldberg,0
-Christoph Waltz,Christoph Waltz,0
-Jay-Z,Jay-Z,0
-Dan Aykroyd,Dan Aykroyd,0
-Macklemore,Macklemore,0
-Ryan Lewis,Ryan Lewis,0
-Ray Dalton,Ray Dalton,0
-Wanz,Wanz,0
-Phoenix,Phoenix,0
-Dennis Rodman,Dennis Rodman,0
-Vince Vaughn,Vince Vaughn,0
-Miguel,Miguel,0
-Steve Jones,Steve Jones,0
-Vampire Weekend,Vampire Weekend,0
-Of Monsters And Men,Of Monsters And Men,0
-Aimee Mann,Aimee Mann,0
-J. Mascis,J. Mascis,0
-Kim Gordon,Kim Gordon,0
-Michael Penn,Michael Penn,0
-Ben Affleck,Ben Affleck,0
-Jennifer Garner,Jennifer Garner,0
-Lady Antebellum,Lady Antebellum,0
-Beck,Beck,0
-Bastille,Bastille,0
-Wale,Wale,0
-David Koechner,David Koechner,0
-Sylvester Stallone,Sylvester Stallone,0
-HAIM,HAIM,0
-Michael Bloomberg,Michael Bloomberg,0
-Jhené Aiko,Jhené Aiko,0
-Michael Cera,Michael Cera,0
-Leonardo DiCaprio,Leonardo DiCaprio,0
-Imagine Dragons,Imagine Dragons,0
-Jim Parsons,Jim Parsons,0
-The National,The National,0
-Lena Dunham,Lena Dunham,0
-Joseph Gordon-Levitt,Joseph Gordon-Levitt,0
-Seth MacFarlane,Seth MacFarlane,0
-Frank Ocean,Frank Ocean,0
-John Mayer,John Mayer,0
-Psy,Psy,0
-Muse,Muse,0
-Daniel Craig,Daniel Craig,0
-Big Bird,Big Bird,0
-Anna Kendrick,Anna Kendrick,0
-Pharrell Williams,Pharrell Williams,0
-Hans Zimmer,Hans Zimmer,0
-Icona Pop,Icona Pop,0
-Christina Applegate,Christina Applegate,0
-Passion Pit,Passion Pit,0
-Usain Bolt,Usain Bolt,0
-Fun.,Fun.,0
-Edward Norton,Edward Norton,0
-Aaron Paul,Aaron Paul,0
-Ryan Phillippe,Ryan Phillippe,0
-Gabourey Sidibe,Gabourey Sidibe,0
-WiFo,Will Forte,1
-MGMT,MGMT,0
-JeSl,Jenny Slate,1
-MiWa,Michaela Watkins,1
-Jonas Brothers,Jonas Brothers,0
-CaWi,Casey Wilson,1
-Drew Barrymore,Drew Barrymore,0
-TV on the Radio,TV on the Radio,0
-T-Pain,T-Pain,0
-James Lipton,James Lipton,0
-Ray LaMontagne,Ray LaMontagne,0
-Jessica Biel,Jessica Biel,0
-Richard Dean Anderson,Richard Dean Anderson,0
-JoLu,John Lutz,0
-BrTu,Bryan Tucker,0
-SiRi,Simon Rich,0
-EmSp,Emily Spivey,0
-Zac Efron,Zac Efron,0
-Yeah Yeah Yeahs,Yeah Yeah Yeahs,0
-Ciara,Ciara,0
-Chris Pine,Chris Pine,0
-Zachary Quinto,Zachary Quinto,0
-Leonard Nimoy,Leonard Nimoy,0
-Green Day,Green Day,0
-Artie Lange,Artie Lange,0
-Elisabeth Moss,Elisabeth Moss,0
-Norm MacDonald,Norm MacDonald,0
-Betty White,Betty White,0
-Ana Gasteyer,Ana Gasteyer,0
-Molly Shannon,Molly Shannon,0
-Mr Hudson,Mr Hudson,0
-Bridget Kelly,Bridget Kelly,0
-JeKl,Jessi Klein,0
-Tom Petty,Tom Petty,0
-Ke$ha,Ke$ha,0
-Mark Sanchez,Mark Sanchez,0
-Frank Rich,Frank Rich,0
-Biha,Bill Hader,1
-Jennifer Lopez,Jennifer Lopez,0
-Anthony Anderson,Anthony Anderson,0
-Brian Williams,Brian Williams,0
-Dr. Mehmet Oz,Dr. Mehmet Oz,0
-Jeremy Sisto,Jeremy Sisto,0
-Pearl Jam,Pearl Jam,0
-Julian Casablancas,Julian Casablancas,0
-Michael Phelps,Michael Phelps,0
-Jared Fogel,Jared Fogel,0
-AmPo,Amy Poehler,1
-Debbie Phelps,Debbie Phelps,0
-William Shatner,William Shatner,0
-Kumail Nanjiani,Kumail Nanjiani,0
-Duffy,Duffy,0
-The Killers,The Killers,0
-Mark Wahlberg,Mark Wahlberg,0
-Sarah Palin,Sarah Palin,0
-Oliver Stone,Oliver Stone,0
-John Slattery,John Slattery,0
-David Cook,David Cook,0
-Sen. John McCain,Sen. John McCain,0
-T.I.,T.I.,0
-Cindy McCain,Cindy McCain,0
-Jamie-Lynn Sigler,Jamie-Lynn Sigler,0
-Molly Sims,Molly Sims,0
-Tim McGraw,Tim McGraw,0
-Ludacris,Ludacris,0
-Beyoncé,Beyoncé,0
-Hugh Laurie,Hugh Laurie,0
-Rosario Dawson,Rosario Dawson,0
-Fleet Foxes,Fleet Foxes,0
-Britney Haas,Britney Haas,0
-Craig Eastman,Craig Eastman,0
-Michael Daves,Michael Daves,0
-Skip Ward,Skip Ward,0
-Jason Mraz,Jason Mraz,0
-Colbie Caillat,Colbie Caillat,0
-LiCa,Liz Cackowski,0
-Neil Patrick Harris,Neil Patrick Harris,0
-Liza Minnelli,Liza Minnelli,0
-Black Eyed Peas,Black Eyed Peas,0
-Ryan Reynolds,Ryan Reynolds,0
-Madonna,Madonna,0
-U2,U2,0
-Megan Fox,Megan Fox,0
-Brian Austin Green,Brian Austin Green,0
-HaBu,Hannibal Buress,0
-Elijah Wood,Elijah Wood,0
-Regina Spektor,Regina Spektor,0
-Shakira,Shakira,0
-Gerard Butler,Gerard Butler,0
-January Jones,January Jones,0
-Dave Matthews Band,Dave Matthews Band,0
-Al Gore,Al Gore,0
-Mindy Kaling,Mindy Kaling,0
-Young Jeezy,Young Jeezy,0
-Bon Jovi,Bon Jovi,0
-Taylor Lautner,Taylor Lautner,0
-Sigourney Weaver,Sigourney Weaver,0
-The Ting Tings,The Ting Tings,0
-James Cameron,James Cameron,0
-Sharon Jones,Sharon Jones,0
-Mike Tyson,Mike Tyson,0
-Ashton Kutcher,Ashton Kutcher,0
-Them Crooked Vultures,Them Crooked Vultures,0
-The New York City Children's Chorus,The New York City Children's Chorus,0
-Krist Novoselic,Krist Novoselic,0
-Pat Smear,Pat Smear,0
-Joe Walsh,Joe Walsh,0
-Paul Shaffer,Paul Shaffer,0
-Samuel L. Jackson,Samuel L. Jackson,0
-Jeremy Renner,Jeremy Renner,0
-Chris Christie,Chris Christie,0
-Jamie Foxx,Jamie Foxx,0
-Ne-Yo,Ne-Yo,0
-Dermot Mulroney,Dermot Mulroney,0
-2 Chainz,2 Chainz,0
-The Lumineers,The Lumineers,0
-Régine Chassagne,Régine Chassagne,0
-William Butler,William Butler,0
-Win Butler,Win Butler,0
-Janelle Monáe,Janelle Monáe,0
-Kerry Washington,Kerry Washington,0
-Rick Rubin,Rick Rubin,0
-R. Kelly,R. Kelly,0
-Snoop Dogg,Snoop Dogg,0
-Sarah Michelle Gellar,Sarah Michelle Gellar,0
-RaDr,Rachel Dratch,1
-ChPa,Chris Parnell,1
-JeRi,Jeff Richards,1
-TrMo,Tracy Morgan,1
-MaRu,Maya Rudolph,1
-Faith Hill,Faith Hill,0
-JiFa,Jimmy Fallon,1
-WiFe,Will Ferrell,1
-TiFe,Tina Fey,1
-AnGa,Ana Gasteyer,1
-ChKa,Chris Kattan,1
-HrSa,Horatio Sanz,1
-Moby,Moby,0
-Winona Ryder,Winona Ryder,0
-DeEd,Dean Edwards,1
-Neil Diamond,Neil Diamond,0
-Avril Lavigne,Avril Lavigne,0
-FiMi,Finesse Mitchell,1
-JBSm,J.B. Smoove,0
-Mary-Kate Olsen,Mary-Kate Olsen,0
-Ashley Olsen,Ashley Olsen,0
-J-Kwon,J-Kwon,0
-Tom Brady,Tom Brady,0
-RoRi,Rob Riggle,1
-Johnny Knoxville,Johnny Knoxville,0
-System of a Down,System of a Down,0
-Patti Forte,Patti Forte,0
-Queens of the Stone Age,Queens of the Stone Age,0
-LeAl,Leo Allen,0
-Paula Abdul,Paula Abdul,0
-ErSl,Eric Slovin,0
-DoAb,Doug Abeles,0
-Forest Whitaker,Forest Whitaker,0
-KaBa,Katreese Barnes,0
-Keith Urban,Keith Urban,0
-Queen Latifah,Queen Latifah,0
-Keth,Kenan Thompson,1
-ChGr,Charlie Grandy,0
-Zach Braff,Zach Braff,0
-Brittany Murphy,Brittany Murphy,0
-Jack Handey ,Jack Handey ,0
-Nelly,Nelly,0
-Garrett Morris,Garrett Morris,0
-Nia Vardalos,Nia Vardalos,0
-Kelly Rowland,Kelly Rowland,0
-Eve,Eve,0
-Jean Fey,Jean Fey,0
-Adam Sandler,Adam Sandler,0
-Rob Schneider,Rob Schneider,0
-Norah Jones,Norah Jones,0
-Phish,Phish,0
-Brad Pitt ,Brad Pitt ,0
-Allison Janney,Allison Janney,0
-Bradley Whitford,Bradley Whitford,0
-John Spencer,John Spencer,0
-Richard Schiff,Richard Schiff,0
-Tipper Gore,Tipper Gore,0
-Jeff Gordon,Jeff Gordon,0
-Ray Liotta,Ray Liotta,0
-JfRi,Jeff Richmond,0
-The Donnas,The Donnas,0
-The Dixie Chicks,The Dixie Chicks,0
-TSSh,T. Sean Shannon,0
-Britney Spears,Britney Spears,0
-Ray Romano,Ray Romano,0
-Zwan,Zwan,0
-Jeff Bergman,Jeff Bergman,0
-Tom Kenny,Tom Kenny,0
-Ms. Dynamite,Ms. Dynamite,0
-50 Cent,50 Cent,0
-G Unit,G Unit,0
-Nate Dogg,Nate Dogg,0
-LuGo,Lukasz Gottwald,0
-Jifa,Jimmy Fallon,1
-Salma Hayek,Salma Hayek,0
-Christina Aguilera,Christina Aguilera,0
-Lorenzo Lamas ,Lorenzo Lamas ,0
-Bernie Mac,Bernie Mac,0
-Good Charlotte,Good Charlotte,0
-ScWa,Scott Wainio,0
-Adrien Brody,Adrien Brody,0
-Wayne Wonder,Wayne Wonder,0
-Sean Paul,Sean Paul,0
-Elliot Brody,Elliot Brody,0
-Sylvia Plachy,Sylvia Plachy,0
-Jim Belushi,Jim Belushi,0
-Kip King,Kip King,0
-Bubba Sparxxx,Bubba Sparxxx,0
-Derek Jeter,Derek Jeter,0
-Creed,Creed,0
-Billy Bob Thornton,Billy Bob Thornton,0
-David Cone,David Cone,0
-David Wells,David Wells,0
-PaFe,Patrick Ferrell,0
-Hugh Jackman,Hugh Jackman,0
-MaPi,Matt Piedmont,0
-No Doubt,No Doubt,0
-Ellen DeGeneres,Ellen DeGeneres,0
-Rudy Giuliani,Rudy Giuliani,0
-Pink,Pink,0
-Josh Hartnett,Josh Hartnett,0
-Jack Black,Jack Black,0
-Kyle Gass,Kyle Gass,0
-Jonny Moseley,Jonny Moseley,0
-Outkast,Outkast,0
-Rip Taylor,Rip Taylor,0
-India.Arie,India.Arie,0
-Jon Stewart,Jon Stewart,0
-Kurt Loder ,Kurt Loder ,0
-Mike Judge,Mike Judge,0
-Andrew W.K.,Andrew W.K.,0
-The Rock,The Rock,0
-Ian McKellen,Ian McKellen,0
-Kylie Minogue,Kylie Minogue,0
-Jimmy Eat World,Jimmy Eat World,0
-P.O.D.,P.O.D.,0
-The White Stripes,The White Stripes,0
-Proof,Proof,0
-David Spade ,David Spade ,0
-Jared Fogel ,Jared Fogel ,0
-Eric McCormack,Eric McCormack,0
-Lenny Kravitz,Lenny Kravitz,0
-Bruce Springsteen,Bruce Springsteen,0
-Soozie Tyrell,Soozie Tyrell,0
-Seann William Scott,Seann William Scott,0
-Pierce Brosnan,Pierce Brosnan,0
-JeMi,Jerry Minor,1
-MoSh,Molly Shannon,1
-Sean Hayes,Sean Hayes,0
-Shaggy,Shaggy,0
-Rayvon,Rayvon,0
-Rikrok,Rikrok,0
-Mark Elliot ,Mark Elliot ,0
-MiSc,Michael Schur,0
-Katie Holmes,Katie Holmes,0
-Julia Stiles,Julia Stiles,0
-DeMc,Dennis McNicholas,0
-David Copperfield,David Copperfield,0
-Conan O'Brien,Conan O'Brien,0
-Becky Weinberg,Becky Weinberg,0
-Max Weinberg,Max Weinberg,0
-Kid Rock,Kid Rock,0
-Renee Zellweger,Renee Zellweger,0
-AdMc,Adam McKay,0
-Destiny's Child,Destiny's Child,0
-Michelle Williams,Michelle Williams,0
-Weezer,Weezer,0
-Kevin Nealon,Kevin Nealon,0
-Lara Flynn Boyle,Lara Flynn Boyle,0
-Lou Reed,Lou Reed,0
-Jon Bon Jovi,Jon Bon Jovi,0
-Richie Sambora,Richie Sambora,0
-Ryan Adams,Ryan Adams,0
-JoZo,John Zonars,0
-Sum41,Sum41,0
-Macy Gray,Macy Gray,0
-Colin Quinn,Colin Quinn,0
-Tom Green,Tom Green,0
-Ja Rule,Ja Rule,0
-Ashanti,Ashanti,0
-Case,Case,0
-Mena Suvari,Mena Suvari,0
-David Gray,David Gray,0
-Derek Harvie,Derek Harvie,0
-Glenn Humplik,Glenn Humplik,0
-Mary Jane Green,Mary Jane Green,0
-Richard Green,Richard Green,0
-Shawn Greenson,Shawn Greenson,0
-The Wallflowers,The Wallflowers,0
-MaWa,Matt Walsh,0
-Baha Men,Baha Men,0
-Brendan Fraser,Brendan Fraser,0
-Dido,Dido,0
-HuFi,Hugh Fink,0
-Kate Hudson,Kate Hudson,0
-Nomar Garciaparra,Nomar Garciaparra,0
-Charlie Sheen,Charlie Sheen,0
-Nelly Furtado,Nelly Furtado,0
-Calista Flockhart,Calista Flockhart,0
-Ricky Martin,Ricky Martin,0
-HaWi,Hal Willner,0
-Beanie Sigel,Beanie Sigel,0
-Memphis Bleek,Memphis Bleek,0
-Lucy Liu,Lucy Liu,0
-Janet Reno,Janet Reno,0
-Ricky Gervais,Ricky Gervais,0
-Nancy Walls,Nancy Walls,0
-MaSa,Marika Sawyer,0
-Halle Berry,Halle Berry,0
-Carl Weathers,Carl Weathers,0
-Kelly Ripa,Kelly Ripa,0
-Andy Roddick,Andy Roddick,0
-Dave Matthews,Dave Matthews,0
-Trey Anastasio,Trey Anastasio,0
-Missy Elliott,Missy Elliott,0
-Paris Hilton,Paris Hilton,0
-Jet,Jet,0
-Jessica Simpson,Jessica Simpson,0
-Nick Lachey,Nick Lachey,0
-Joe,Joe,0
-Kelis,Kelis,0
-Clay Aiken,Clay Aiken,0
-Megan Mullally,Megan Mullally,0
-Nick Offerman,Nick Offerman,0
-Toots and the Maytals,Toots and the Maytals,0
-Bootsy Collins,Bootsy Collins,0
-The Roots,The Roots,0
-Ben Harper,Ben Harper,0
-Jack Johnson,Jack Johnson,0
-Carolyn Kepcher,Carolyn Kepcher,0
-George Ross,George Ross,0
-N.E.R.D.,N.E.R.D.,0
-Colin Firth,Colin Firth,0
-Janet Jackson,Janet Jackson,0
-Simon Cowell,Simon Cowell,0
-Ashlee Simpson,Ashlee Simpson,0
-Jaheim,Jaheim,0
-James Gandolfini,James Gandolfini,0
-Kate Winslet,Kate Winslet,0
-Johnny Damon,Johnny Damon,0
-Modest Mouse,Modest Mouse,0
-Luke Wilson,Luke Wilson,0
-Scissor Sisters,Scissor Sisters,0
-Colin Farrell,Colin Farrell,0
-Brett Hull,Brett Hull,0
-Topher Grace,Topher Grace,0
-Paul Giamatti,Paul Giamatti,0
-Keane,Keane,0
-Hilary Swank,Hilary Swank,0
-Olivia,Olivia,0
-Jason Bateman,Jason Bateman,0
-G. Love,G. Love,0
-Tamar,Tamar,0
-Gideon Yago,Gideon Yago,0
-Natalie Portman,Natalie Portman,0
-Fall Out Boy,Fall Out Boy,0
-Dennis Haysbert,Dennis Haysbert,0
-Matt Dillon,Matt Dillon,0
-Arctic Monkeys,Arctic Monkeys,0
-Antonio Banderas,Antonio Banderas,0
-Mary J. Blige,Mary J. Blige,0
-Red Hot Chili Peppers,Red Hot Chili Peppers,0
-Michael Lohan,Michael Lohan,0
-Kevin Spacey,Kevin Spacey,0
-Jason Alexander,Jason Alexander,0
-Timbaland,Timbaland,0
-Dane Cook,Dane Cook,0
-James Blunt,James Blunt,0
-Jon Heder,Jon Heder,0
-Catherine Zeta-Jones,Catherine Zeta-Jones,0
-Franz Ferdinand,Franz Ferdinand,0
-Jason Lee,Jason Lee,0
-Lance Armstrong,Lance Armstrong,0
-Sheryl Crow,Sheryl Crow,0
-Scott Podsednik,Scott Podsednik,0
-Eva Longoria,Eva Longoria,0
-Korn,Korn,0
-Darlene Love ,Darlene Love ,0
-Alejandro Sanz,Alejandro Sanz,0
-Dave Foley ,Dave Foley ,0
-Phil Gordon ,Phil Gordon ,0
-Tim Meadows,Tim Meadows,0
-Bjork,Bjork,0
-Shia LaBeouf,Shia LaBeouf,0
-Annette Bening,Annette Bening,0
-Matthew Fox,Matthew Fox,0
-AFI,AFI,0
-Jeremy Piven,Jeremy Piven,0
-Common,Common,0
-Lily Allen,Lily Allen,0
-Rainn Wilson,Rainn Wilson,0
-Rashida Jones,Rashida Jones,0
-Snow Patrol,Snow Patrol,0
-Peyton Manning,Peyton Manning,0
-Carrie Underwood,Carrie Underwood,0
-Archie Manning,Archie Manning,0
-Olivia Manning,Olivia Manning,0
-Sen. Charles Schumer,Sen. Charles Schumer,0
-Tenacious D,Tenacious D,0
-My Chemical Romance,My Chemical Romance,0
-John C. Reilly,John C. Reilly,0
-Jaime Pressly,Jaime Pressly,0
-Corinne Bailey Rae,Corinne Bailey Rae,0
-Ken Davitian,Ken Davitian,0
-Tony Bennett,Tony Bennett,0
-Takeru Kobayashi,Takeru Kobayashi,0
-StFo,Stacey Foster,0
-Spoon,Spoon,0
-LeBron James,LeBron James,0
-Jack Nicholson,Jack Nicholson,0
-Taylor Hawkins,Taylor Hawkins,0
-Feist,Feist,0
-Bono,Bono,0
-Matt Lauer,Matt Lauer,0
-Barack Obama,Barack Obama,0
-Mike Huckabee,Mike Huckabee,0
-Amber Lee Ettinger,Amber Lee Ettinger,0
-Ellen Page,Ellen Page,0
-Wilco,Wilco,0
-Vincent D'Onofrio,Vincent D'Onofrio,0
-Panic At The Disco,Panic At The Disco,0
-Christopher Dodd,Christopher Dodd,0
-Mariah Carey,Mariah Carey,0
-My Morning Jacket,My Morning Jacket,0
-AlBa,Alex Baze,0
-Gnarls Barkley,Gnarls Barkley,0
-NaWa,Nancy Walls,1
-FrWo,Fred Wolf,1
-Soundgarden,Soundgarden,0
-ElCl,Ellen Cleghorne,1
-TiMe,Tim Meadows,1
-MiMc,Michael McKean,1
-AdSa,Adam Sandler,1
-JuSw,Julia Sweeney,1
-The Pretenders,The Pretenders,0
-ChFa,Chris Farley,1
-JaMo,Jay Mohr,1
-Emilio Estevez,Emilio Estevez,0
-MeHu,Melanie Hutsell,1
-SaSi,Sarah Silverman,1
-Manute Bol,Manute Bol,0
-Heather Locklear,Heather Locklear,0
-NoMa,Norm MacDonald,1
-Rafael Fuchs,Rafael Fuchs,0
-Jay Leno,Jay Leno,0
-Courteney Cox,Courteney Cox,0
-LaKi,Laura Kightlinger,1
-MoBa,Morwenna Banks,1
-ChEl,Chris Elliott,1
-David Duchovny,David Duchovny,0
-Rod Stewart,Rod Stewart,0
-Naomi Campbell,Naomi Campbell,0
-Michael Angarano,Michael Angarano,0
-TLC,TLC,0
-Bob Saget,Bob Saget,0
-Jim Gaffigan,Jim Gaffigan,0
-Christine Baranski,Christine Baranski,0
-DaKo,David Koechner,1
-The Cure,The Cure,0
-JiBr,Jim Breuer,1
-CoQu,Colin Quinn,1
-ChOt,Cheri Oteri,1
-ToGi,Tom Gianas,0
-CiCa,Cindy Caponera,0
-RySh,Ryan Shiraki,0
-Backstreet Boys,Backstreet Boys,0
-RiFr,Rich Francese,0
-RoCa,Robert Carlock,0
-Puff Daddy,Puff Daddy,0
-Jimmy Page,Jimmy Page,0
-Nicholas Lea,Nicholas Lea,0
-Jeff Goldblum,Jeff Goldblum,0
-En Vogue,En Vogue,0
-IaRo,Ian Roberts,0
-Kelsey Grammer,Kelsey Grammer,0
-Helen Hunt,Helen Hunt,0
-Nancy Kerrigan,Nancy Kerrigan,0
+David Byrne,David Byrne,0
+Chris Evert,Chris Evert,0
+Eurythmics,Eurythmics,0
+K.D. Lang & The Reclines,K.D. Lang & The Reclines,0
+Dennis Hopper,Dennis Hopper,0
+Jimmy Smits,Jimmy Smits,0
+World Party,World Party,0
+Bob Costas,Bob Costas,0
+Olodum,Olodum,0
+Bert Parks,Bert Parks,0
+Hothouse Flowers,Hothouse Flowers,0
+Susan Lucci,Susan Lucci,0
+Gene Rayburn,Gene Rayburn,0
+Patrick Swayze,Patrick Swayze,0
+Lisa Niemi,Lisa Niemi,0
+George Steinbrenner,George Steinbrenner,0
+The Time,The Time,0
+Sinead O'Connor,Sinead O'Connor,0
+Bob Costas ,Bob Costas ,0
+Kyle MacLachlan,Kyle MacLachlan,0
+Faith No More,Faith No More,0
+Sharon Stone,Sharon Stone,0
+Roseanne Arnold,Roseanne Arnold,0
+Jason Priestley,Jason Priestley,0
+WaHu,Warren Hutcherson,0
+Teenage Fanclub,Teenage Fanclub,0
+Barbra Streisand,Barbra Streisand,0
+Ken Stabler,Ken Stabler,0
+Mary Stuart Masterson,Mary Stuart Masterson,0
+Annie Lennox,Annie Lennox,0
+AkCl,Akeyla Cleghorne,0
+Susan Dey,Susan Dey,0
+C+C Music Factory,C+C Music Factory,0
+Linda Hamilton,Linda Hamilton,0
+Color Me Badd,Color Me Badd,0
+Michael Jordan,Michael Jordan,0
+Jesse Jackson,Jesse Jackson,0
+Spike Lee,Spike Lee,0
+Public Enemy,Public Enemy,0
+Kirstie Alley,Kirstie Alley,0
+Christian Slater,Christian Slater,0
+John McLaughlin,John McLaughlin,0
+Skid Row,Skid Row,0
+Bruce Hornsby,Bruce Hornsby,0
+Monk Boudreaux,Monk Boudreaux,0
+Hammer,Hammer,0
+Jimmy Workman,Jimmy Workman,0
+Nirvana,Nirvana,0
+Macaulay Culkin,Macaulay Culkin,0
+Kieran Culkin,Kieran Culkin,0
+Tin Machine,Tin Machine,0
+Edward Furlong,Edward Furlong,0
+Phha,Phil Hartman,1
+Cora Blige,Cora Blige,0
+DaMa,David Mandel,0
+Harvey Keitel,Harvey Keitel,0
+IaMG,Ian Maxtone-Graham,0
+Luke Perry,Luke Perry,0
+The Bravados,The Bravados,0
+Miranda Richardson,Miranda Richardson,0
+Soul Asylum,Soul Asylum,0
+Stephen Rea,Stephen Rea,0
+Peter Gabriel,Peter Gabriel,0
+Midnight Oil,Midnight Oil,0
+Susan Sarandon,Susan Sarandon,0
+Jason Patric,Jason Patric,0
+Blind Melon,Blind Melon,0
+DaAt,Dave Attell,0
+Richard Simmons,Richard Simmons,0
+Sally Field,Sally Field,0
 Tony! Toni! Toné!,Tony! Toni! Toné!,0
 Lili Haydn,Lili Haydn,0
-Sally Field,Sally Field,0
-Charlton Heston,Charlton Heston,0
-Paul Westerberg,Paul Westerberg,0
-Jason Patric,Jason Patric,0
-DaAt,Dave Attell,0
-Blind Melon,Blind Melon,0
-Richard Simmons,Richard Simmons,0
 Sara Gilbert,Sara Gilbert,0
 Counting Crows,Counting Crows,0
-StKo,Steve Koren,0
-DaMa,David Mandel,0
 Patrick Stewart,Patrick Stewart,0
-Salt-N-Pepa,Salt-N-Pepa,0
 Bernie Kopell,Bernie Kopell,0
+Salt-N-Pepa,Salt-N-Pepa,0
 Kim Basinger,Kim Basinger,0
 UB40,UB40,0
 Billy Baldwin,Billy Baldwin,0
 Stephen Baldwin,Stephen Baldwin,0
-IaMG,Ian Maxtone-Graham,0
 Martin Lawrence,Martin Lawrence,0
 StLo,Steve Lookner,0
 LeMo,Lew Morton,0
 Crash Test Dummies,Crash Test Dummies,0
-AkCl,Akeyla Cleghorne,0
+Nancy Kerrigan,Nancy Kerrigan,0
 Mike Judge ,Mike Judge ,0
-Snoop Doggy Dogg,Snoop Doggy Dogg,0
 Cindy Crawford,Cindy Crawford,0
 Dwight Yoakham,Dwight Yoakham,0
 Sy Sperling,Sy Sperling,0
+Tim Robbins,Tim Robbins,0
+Arrested Development,Arrested Development,0
+Jan Hooks,Jan Hooks,0
+Morrissey,Morrissey,0
+Sinbad,Sinbad,0
+Sade,Sade,0
+Joe Pesci,Joe Pesci,0
+Spin Doctors,Spin Doctors,0
+Mary Beth Hurt,Mary Beth Hurt,0
 Suzanne Pleshette,Suzanne Pleshette,0
-JaGa,Janeane Garofalo,1
-Live,Live,0
-David Hyde Pierce,David Hyde Pierce,0
-Luscious Jackson,Luscious Jackson,0
 Des'ree,Des'ree,0
+JaGa,Janeane Garofalo,1
+David Hyde Pierce,David Hyde Pierce,0
 Deion Sanders,Deion Sanders,0
+The Cranberries,The Cranberries,0
 BrMc,Bruce McCulloch,0
 George Clooney,George Clooney,0
-The Cranberries,The Cranberries,0
-NoHi,Norm Hiscock,0
 Paul Reiser,Paul Reiser,0
-Annie Lennox,Annie Lennox,0
 Billy Grundfest,Billy Grundfest,0
 The Tragically Hip,The Tragically Hip,0
 Dionne Farris,Dionne Farris,0
 Damon Wayans,Damon Wayans,0
-David Alan Grier,David Alan Grier,0
+Courteney Cox,Courteney Cox,0
+TLC,TLC,0
+Bob Saget,Bob Saget,0
+Muggsy Bogues,Muggsy Bogues,0
+RuPaul,RuPaul,0
 Shannen Doherty,Shannen Doherty,0
 Cypress Hill,Cypress Hill,0
-Ashley Hamilton,Ashley Hamilton,0
-Nirvana,Nirvana,0
-RuPaul,RuPaul,0
-Muggsy Bogues,Muggsy Bogues,0
-Skid Row,Skid Row,0
-Christian Slater,Christian Slater,0
-The Smashing Pumpkins,The Smashing Pumpkins,0
-Jan Hooks,Jan Hooks,0
-Rosie O'Donnell,Rosie O'Donnell,0
-Steven Tyler,Steven Tyler,0
-Laura Dern,Laura Dern,0
-Joe Perry,Joe Perry,0
 Stone Temple Pilots,Stone Temple Pilots,0
+Ashley Hamilton,Ashley Hamilton,0
 Nicole Kidman,Nicole Kidman,0
-Christina Ricci,Christina Ricci,0
-Jimmy Workman,Jimmy Workman,0
+Steven Tyler,Steven Tyler,0
+Joe Perry,Joe Perry,0
+Laura Dern,Laura Dern,0
+Charlton Heston,Charlton Heston,0
+Paul Westerberg,Paul Westerberg,0
 John Turturro,John Turturro,0
-John Travolta,John Travolta,0
-Seal,Seal,0
-David Lander,David Lander,0
-Catherine Forbes,Catherine Forbes,0
-Elizabeth Forbes,Elizabeth Forbes,0
-Moira Forbes,Moira Forbes,0
-Roberta Forbes,Roberta Forbes,0
-Sabina Beekman,Sabina Beekman,0
-Sabina Forbes,Sabina Forbes,0
-Tupac Shakur,Tupac Shakur,0
-Danny Boy,Danny Boy,0
-Tom Arnold,Tom Arnold,0
-Danny Aiello,Danny Aiello,0
-Coolio,Coolio,0
-L.V.,L.V.,0
-Chris Farley,Chris Farley,0
-Larry Brown,Larry Brown,0
-Roger Troutman,Roger Troutman,0
-ErMa,Erin Maroney,0
-LoNa,Lori Nasso,0
-Elle MacPherson,Elle MacPherson,0
-Sting,Sting,0
-FrSe,Frank Sebastiano,0
-Everclear,Everclear,0
-Kurt Loder,Kurt Loder,0
-Gin Blossoms,Gin Blossoms,0
-Phil Hartman,Phil Hartman,0
-Steve Forbes,Steve Forbes,0
-Rage Against The Machine,Rage Against The Machine,0
-TiHe,Tim Herlihy,0
-Teri Hatcher,Teri Hatcher,0
-Sam Waterston,Sam Waterston,0
-Bobby Bonilla,Bobby Bonilla,0
-Jack McDowell,Jack McDowell,0
-Lenny Dykstra,Lenny Dykstra,0
-Mo Vaughn,Mo Vaughn,0
-Roger Clemens,Roger Clemens,0
-Edie Brickell,Edie Brickell,0
-President George Bush,President George Bush,0
 Marisa Tomei,Marisa Tomei,0
-Roseanne,Roseanne,0
-David Hasselhoff,David Hasselhoff,0
-Joey Buttafuoco,Joey Buttafuoco,0
-Beastie Boys,Beastie Boys,0
-R.E.M.,R.E.M.,0
-Sarah Jessica Parker,Sarah Jessica Parker,0
-George Foreman,George Foreman,0
-Hole,Hole,0
-Michael Buffer,Michael Buffer,0
-Sisqo,Sisqo,0
-Tobey Maguire,Tobey Maguire,0
-KeBr,Kevin Brennan,0
-Cheri Oteri's mother,Cheri Oteri's mother,0
-Jackie Chan,Jackie Chan,0
-Joe C.,Joe C.,0
-Florence Henderson,Florence Henderson,0
-Gina Gershon,Gina Gershon,0
-Mariel Hemingway,Mariel Hemingway,0
-Blues Traveler,Blues Traveler,0
-BMcM,Beth McCarthy Miller,0
-Lisa Loeb,Lisa Loeb,0
-David Schwimmer,David Schwimmer,0
-Natalie Merchant,Natalie Merchant,0
-Jennifer Turner,Jennifer Turner,0
-Katell Keineg,Katell Keineg,0
-Gabriel Byrne,Gabriel Byrne,0
-Barry Williams,Barry Williams,0
-Gary Coleman,Gary Coleman,0
-Jimmie Walker,Jimmie Walker,0
-Lisa Kudrow,Lisa Kudrow,0
-Chipper Jones,Chipper Jones,0
-Chrissie Hynde,Chrissie Hynde,0
-Mark Wohlers,Mark Wohlers,0
-Tom Glavine,Tom Glavine,0
-Alanis Morissette,Alanis Morissette,0
-Lamar Alexander,Lamar Alexander,0
-Quentin Tarantino,Quentin Tarantino,0
-Robert Hegyes,Robert Hegyes,0
-Rancid,Rancid,0
-Laura Leighton,Laura Leighton,0
-Sean Penn,Sean Penn,0
-Grant Show,Grant Show,0
-Anthony Edwards,Anthony Edwards,0
-Bush,Bush,0
-Joan Osborne,Joan Osborne,0
-George Pataki,George Pataki,0
-Silverchair,Silverchair,0
-Tori Amos,Tori Amos,0
-Jewel,Jewel,0
-Pamela Lee,Pamela Lee,0
-Tommy Lee,Tommy Lee,0
-Rollins Band,Rollins Band,0
-Dean Winters,Dean Winters,0
-Harold Perrineau,Harold Perrineau,0
-Lee Tergesen,Lee Tergesen,0
-A.J. Benza,A.J. Benza,0
-Rick Ludwin,Rick Ludwin,0
-Heather Graham,Heather Graham,0
-Marc Anthony,Marc Anthony,0
-Dr. Dre,Dr. Dre,0
-Dylan McDermott,Dylan McDermott,0
-Garth Brooks,Garth Brooks,0
-Chris Gaines,Chris Gaines,0
-Cheb Mami,Cheb Mami,0
-John Carpenter,John Carpenter,0
-The Rockettes,The Rockettes,0
-Michael Stipe,Michael Stipe,0
-Blink-182,Blink-182,0
-Freddie Prinze Jr.,Freddie Prinze Jr.,0
-Angie Everhart,Angie Everhart,0
-Fiona Apple,Fiona Apple,0
-Alan Cumming,Alan Cumming,0
-Fat Joe,Fat Joe,0
-Julianna Margulies,Julianna Margulies,0
-DMX,DMX,0
-Noah Wyle,Noah Wyle,0
-AC/DC,AC/DC,0
-Big Show,Big Show,0
-Mick Foley,Mick Foley,0
-Triple H,Triple H,0
-Vince McMahon,Vince McMahon,0
-StCr,Steven Cragg,0
-Joshua Jackson,Joshua Jackson,0
-'N Sync,'N Sync,0
-Chris Kirkpatrick,Chris Kirkpatrick,0
-J.C. Chasez,J.C. Chasez,0
-Joey Fatone,Joey Fatone,0
-Lance Bass,Lance Bass,0
-The Statler Brothers,The Statler Brothers,0
-Neve Campbell,Neve Campbell,0
-Bill Pullman,Bill Pullman,0
-New Edition,New Edition,0
-Robert Downey Jr.,Robert Downey Jr.,0
-Bob Dole,Bob Dole,0
-Evander Holyfield,Evander Holyfield,0
-Elizabeth Dole,Elizabeth Dole,0
-Cliff Robertson,Cliff Robertson,0
-Whitney Houston,Whitney Houston,0
-Georgia Mass Choir,Georgia Mass Choir,0
-John Cleese,John Cleese,0
-Trudie Styler,Trudie Styler,0
-Veruca Salt,Veruca Salt,0
-Mark Hamill,Mark Hamill,0
-Spice Girls,Spice Girls,0
-Charlie Wilson,Charlie Wilson,0
-Daz Dillinger,Daz Dillinger,0
-Howard Stern,Howard Stern,0
-Tina Turner,Tina Turner,0
-Claire Danes,Claire Danes,0
-Jane's Addiction,Jane's Addiction,0
-Flea,Flea,0
-Sarah McLachlan,Sarah McLachlan,0
-Metallica,Metallica,0
-Nathan Lane,Nathan Lane,0
-The Dallas Cowboys Cheerleaders,The Dallas Cowboys Cheerleaders,0
-Ernie Sabella,Ernie Sabella,0
-Hanson,Hanson,0
-Cliff Floyd,Cliff Floyd,0
-David Howard,David Howard,0
-Gerald Williams,Gerald Williams,0
-Gregg Jefferies,Gregg Jefferies,0
-Jeff Fassero,Jeff Fassero,0
-Mark Grudzielanek,Mark Grudzielanek,0
-Marty Cordova,Marty Cordova,0
-Mike Sweeney,Mike Sweeney,0
-Pedro Borbón Jr.,Pedro Borbón Jr.,0
-Rondell White,Rondell White,0
-Russ Davis,Russ Davis,0
-Scott Rolen,Scott Rolen,0
-Todd Hundley,Todd Hundley,0
-Todd Zeile,Todd Zeile,0
-Ben Folds Five,Ben Folds Five,0
-Portishead,Portishead,0
-Paula Cole,Paula Cole,0
-Roma Downey,Roma Downey,0
-"Missy ""Misdemeanor"" Elliott","Missy ""Misdemeanor"" Elliott",0
-Magoo,Magoo,0
-Robert Duvall,Robert Duvall,0
-Scott Wolf,Scott Wolf,0
-Natalie Imbruglia,Natalie Imbruglia,0
-Kerri Strug,Kerri Strug,0
-Regis Philbin,Regis Philbin,0
-Natasha Henstridge,Natasha Henstridge,0
-Third Eye Blind,Third Eye Blind,0
-Gilbert Gottfried ,Gilbert Gottfried ,0
-Jason Alexander ,Jason Alexander ,0
-Molly Ringwald ,Molly Ringwald ,0
-Whoopi Goldberg ,Whoopi Goldberg ,0
-Lewis Lapham,Lewis Lapham,0
-Julianne Moore,Julianne Moore,0
-Didi Conn,Didi Conn,0
-John Hurt,John Hurt,0
-Greg Kinnear,Greg Kinnear,0
-Bob Hoskins,Bob Hoskins,0
-All Saints,All Saints,0
-Jennifer Love Hewitt,Jennifer Love Hewitt,0
-Adam Horovitz,Adam Horovitz,0
-Muse Watson,Muse Watson,0
-Lauryn Hill,Lauryn Hill,0
-Vanessa Williams,Vanessa Williams,0
-Luciano Pavarotti,Luciano Pavarotti,0
-Debbie Matenopoulos,Debbie Matenopoulos,0
-James Van Der Beek,James Van Der Beek,0
-Everlast,Everlast,0
-Barenaked Ladies,Barenaked Ladies,0
-Lucinda Williams,Lucinda Williams,0
-Stephanie Seymour,Stephanie Seymour,0
-Tom Davis,Tom Davis,0
-Garbage,Garbage,0
-The Corrs,The Corrs,0
-Doris Roberts,Doris Roberts,0
-Cuba Gooding Jr.,Cuba Gooding Jr.,0
-Monica Lewinsky,Monica Lewinsky,0
-Eric Dickerson,Eric Dickerson,0
-Matthew Perry,Matthew Perry,0
-Oasis,Oasis,0
-Jamiroquai,Jamiroquai,0
-Richard Jewell,Richard Jewell,0
-The Mighty Mighty Bosstones,The Mighty Mighty Bosstones,0
-Jonathan Richman,Jonathan Richman,0
-Tommy Larkins,Tommy Larkins,0
-Shaquille O'Neal,Shaquille O'Neal,0
-Wendy Melvoin,Wendy Melvoin,0
-Hal Linden,Hal Linden,0
-Patti LuPone,Patti LuPone,0
-Lucy Lawless,Lucy Lawless,0
-Chucky,Chucky,0
-Elliott Smith,Elliott Smith,0
-Judge Judy Sheindlin,Judge Judy Sheindlin,0
-Chili Davis,Chili Davis,0
-Graeme Lloyd,Graeme Lloyd,0
-Tino Martinez,Tino Martinez,0
-Joan Allen,Joan Allen,0
-Eagle-Eye Cherry,Eagle-Eye Cherry,0
-Brad Pitt,Brad Pitt,0
-Death Cab For Cutie,Death Cab For Cutie,0
-Julia DeVito,Julia DeVito,0
-Johnny Cash,Johnny Cash,0
-Olivia Newton-John,Olivia Newton-John,0
 Princess Elizabeth of Yugoslavia,Princess Elizabeth of Yugoslavia,0
-George Wendt,George Wendt,0
-ChRo,Chris Rock,1
-JiPi,Jim Pitt,0
-AnRo,Andrew Robin,0
-Dennis Hopper,Dennis Hopper,0
-Roy Orbison,Roy Orbison,0
-Robbie Robertson,Robbie Robertson,0
-BoDeans,BoDeans,0
-Maria McKee,Maria McKee,0
-Justine Bateman,Justine Bateman,0
-Terrance Trent D'Arby,Terrance Trent D'Arby,0
-Randy Travis,Randy Travis,0
-Judge Reinhold,Judge Reinhold,0
-"10,000 Maniacs","10,000 Maniacs",0
-Oprah Winfrey,Oprah Winfrey,0
+Jerry Hall,Jerry Hall,0
 JoCu,Joan Cusack,1
 RoDJ,Robert Downey Jr.,1
 RaQu,Randy Quaid,1
-DaVa,Danitra Vance,1
-AnMH,Anthony Michael Hall,1
-Joe Jackson,Joe Jackson,0
-JoSw,John Swartzwelder,0
-Laurie Anderson,Laurie Anderson,0
-Penn & Teller,Penn & Teller,0
-Catherine Oxenberg,Catherine Oxenberg,0
-Ladysmith Black Mambazo,Ladysmith Black Mambazo,0
-BoCh,Bob Christianson,0
+Carol Burnett,Carol Burnett,0
+RiHa,Rich Hall,1
+Bryan Adams,Bryan Adams,0
+ChGu,Christopher Guest,1
+BiCr,Billy Crystal,1
+Waylon Jennings,Waylon Jennings,0
+JiBe,Jim Belushi,1
+MaSh,Martin Short,1
+PaSt,Pamela Stephenson,1
+June Carter Cash,June Carter Cash,0
+LaDa,Larry David,0
+KeKe,Kevin Kelton,0
+Alex Karras,Alex Karras,0
+Power Station,Power Station,0
+RbRi,Rob Riley,0
+Ann-Margret,Ann-Margret,0
+Lynn Swann,Lynn Swann,0
+Morgan Fairchild,Morgan Fairchild,0
+Pamela Sue Martin,Pamela Sue Martin,0
+The Commodores,The Commodores,0
+Hulk Hogan,Hulk Hogan,0
+Bob Orton,Bob Orton,0
+Rowdy Roddy Piper,Rowdy Roddy Piper,0
+Liberace,Liberace,0
+Steve Landesberg,Steve Landesberg,0
+Calvert DeForest,Calvert DeForest,0
+Greg Kihn,Greg Kihn,0
+Howard Cosell,Howard Cosell,0
+Stevie Ray Vaughan,Stevie Ray Vaughan,0
+Double Trouble,Double Trouble,0
+Jimmie Vaughan,Jimmie Vaughan,0
 Sam Kinison,Sam Kinison,0
+DaVa,Danitra Vance,1
+Rosanne Cash,Rosanne Cash,0
+Griffin Dunne,Griffin Dunne,0
+Penn & Teller,Penn & Teller,0
+AnMH,Anthony Michael Hall,1
+DaWa,Damon Wayans,1
+Mike The Dog,Mike The Dog,0
+JoSw,John Swartzwelder,0
+Roy Orbison,Roy Orbison,0
+Oprah Winfrey,Oprah Winfrey,0
+Joe Jackson,Joe Jackson,0
 E.G. Daily,E.G. Daily,0
-Jimmy Breslin,Jimmy Breslin,0
 Marvelous Marvin Hagler,Marvelous Marvin Hagler,0
+BoCh,Bob Christianson,0
+Jimmy Breslin,Jimmy Breslin,0
 Level 42,Level 42,0
+Laurie Anderson,Laurie Anderson,0
+Ladysmith Black Mambazo,Ladysmith Black Mambazo,0
+Catherine Oxenberg,Catherine Oxenberg,0
+Francis Ford Coppola,Francis Ford Coppola,0
+Philip Glass,Philip Glass,0
 Anjelica Huston,Anjelica Huston,0
 Billy Martin,Billy Martin,0
 George Clinton & The Parliament Funkadelic,George Clinton & The Parliament Funkadelic,0
-DaWa,Damon Wayans,1
 CaLe,Carol Leifer,0
 Thomas Dolby,Thomas Dolby,0
-Sparks,Sparks,0
-NaHe,Nate Herman,0
-MaGr,Mary Gross,1
-ChEb,Christine Ebersole,1
-Jerry Lawler,Jerry Lawler,0
-Ron Mael,Ron Mael,0
-Christopher Lloyd,Christopher Lloyd,0
-Judd Hirsch,Judd Hirsch,0
-Marilu Henner,Marilu Henner,0
-Michael Davis,Michael Davis,0
-Graham Chapman,Graham Chapman,0
-WaHu,Warren Hutcherson,0
-BeCa,Beth Cahill,1
-SiFa,Siobhan Fallon,1
-FrKo,Frederick Koehler,0
-ClSm,Clint Smith,0
-NeLy,Nelson Lyon,0
-Carol Burnett,Carol Burnett,0
-RiHa,Rich Hall,1
-BoFr,Bobby Fraraccio,0
-Wintley Phipps,Wintley Phipps,0
-Jesse Jackson,Jesse Jackson,0
-ChGu,Christopher Guest,1
-MaSh,Martin Short,1
-JiBe,Jim Belushi,1
+Eddie Murphy,Eddie Murphy,0
+Bob Uecker,Bob Uecker,0
+The Cult,The Cult,0
+Dream Academy,Dream Academy,0
+The Replacements,The Replacements,0
+Harry Dean Stanton,Harry Dean Stanton,0
+Al Green,Al Green,0
+The Nelsons,The Nelsons,0
+Ron Reagan,Ron Reagan,0
+DaVi,Dan Vitale,1
+The Thompson Twins,The Thompson Twins,0
+Reginald VelJohnson,Reginald VelJohnson,0
 Peter Wolf,Peter Wolf,0
 Elliot Easton,Elliot Easton,0
 "Gordon ""Megabucks"" Worthy","Gordon ""Megabucks"" Worthy",0
@@ -1872,332 +2097,112 @@ Leon Mobley,Leon Mobley,0
 Maurice Starr,Maurice Starr,0
 "Michael ""Spaceman"" Jonzun","Michael ""Spaceman"" Jonzun",0
 Thommy Price,Thommy Price,0
-Bob Uecker,Bob Uecker,0
-BiCr,Billy Crystal,1
-JuLD,Julia Louis-Dreyfus,1
 Dave Winfield,Dave Winfield,0
 Yogi Berra,Yogi Berra,0
-GaKr,Gary Kroeger,1
-PaSt,Pamela Stephenson,1
-KeKe,Kevin Kelton,0
-DiEb,Dick Ebersol,0
+Wintley Phipps,Wintley Phipps,0
 Chaka Khan,Chaka Khan,0
 Edwin Newman,Edwin Newman,0
 Michael McKean,Michael McKean,0
 AnBr,Andy Breckman,0
-RbRi,Rob Riley,0
 Frankie Goes To Hollywood,Frankie Goes To Hollywood,0
-LaDa,Larry David,0
-AnSm,Andrew Smith,0
-Ed Asner,Ed Asner,0
-Billy Squier,Billy Squier,0
 Ed Begley Jr.,Ed Begley Jr.,0
-Eddie Murphy,Eddie Murphy,0
-Robert Plant & The Honeydrippers,Robert Plant & The Honeydrippers,0
+Billy Squier,Billy Squier,0
 Herbie Hancock,Herbie Hancock,0
 Ringo Starr,Ringo Starr,0
 Barbara Bach,Barbara Bach,0
-James Pickens Jr.,James Pickens Jr.,0
 John Waite,John Waite,0
 Billy Ocean,Billy Ocean,0
-Steven Wright,Steven Wright,0
 Roy Scheider,Roy Scheider,0
-Mr. T,Mr. T,0
-The Commodores,The Commodores,0
-Steve Landesberg,Steve Landesberg,0
-Liberace,Liberace,0
-Hulk Hogan,Hulk Hogan,0
-Bob Orton,Bob Orton,0
-Rowdy Roddy Piper,Rowdy Roddy Piper,0
-Alex Karras,Alex Karras,0
-Power Station,Power Station,0
-Ann-Margret,Ann-Margret,0
-Lynn Swann,Lynn Swann,0
-Morgan Fairchild,Morgan Fairchild,0
-Susan Lucci,Susan Lucci,0
-Pamela Sue Martin,Pamela Sue Martin,0
-Bryan Adams,Bryan Adams,0
-Harry Anderson,Harry Anderson,0
-Waylon Jennings,Waylon Jennings,0
-June Carter Cash,June Carter Cash,0
-Greg Kihn,Greg Kihn,0
-Howard Cosell,Howard Cosell,0
-Calvert DeForest,Calvert DeForest,0
-Dennis Quaid,Dennis Quaid,0
-Jimmy Smits,Jimmy Smits,0
-World Party,World Party,0
-Patrick Swayze,Patrick Swayze,0
-Lisa Niemi,Lisa Niemi,0
-Bob Costas,Bob Costas,0
-Olodum,Olodum,0
-Bert Parks,Bert Parks,0
-Faith No More,Faith No More,0
-The Neville Brothers,The Neville Brothers,0
-Joe Mantegna,Joe Mantegna,0
-Vanilla Ice,Vanilla Ice,0
-INXS,INXS,0
-Kevin Bacon,Kevin Bacon,0
-Deee-Lite,Deee-Lite,0
-Bootsy Collins & The Rubber Band,Bootsy Collins & The Rubber Band,0
-Roseanne Barr,Roseanne Barr,0
-Jeremy Irons,Jeremy Irons,0
-Fishbone,Fishbone,0
-Razor Ruddock,Razor Ruddock,0
-Michael J. Fox,Michael J. Fox,0
-The Black Crowes,The Black Crowes,0
-Steven Seagal,Steven Seagal,0
-Arthur Kent,Arthur Kent,0
-Delta Burke,Delta Burke,0
-Chris Isaak,Chris Isaak,0
-Silvertone,Silvertone,0
-Kate Pierson,Kate Pierson,0
-Randy Quaid,Randy Quaid,0
-The Thompson Twins,The Thompson Twins,0
-Reginald VelJohnson,Reginald VelJohnson,0
+Robert Plant & The Honeydrippers,Robert Plant & The Honeydrippers,0
 Timbuk 3,Timbuk 3,0
-Steve Guttenberg,Steve Guttenberg,0
-Buster Poindexter,Buster Poindexter,0
-Eriq La Salle,Eriq La Salle,0
-Fisher Stevens,Fisher Stevens,0
-Tim Robbins,Tim Robbins,0
-Griffin Dunne,Griffin Dunne,0
-Kevin Meaney,Kevin Meaney,0
-Lone Justice,Lone Justice,0
 Joe Montana,Joe Montana,0
-Walter Payton,Walter Payton,0
 Debbie Harry,Debbie Harry,0
+Walter Payton,Walter Payton,0
+Lone Justice,Lone Justice,0
+Kevin Meaney,Kevin Meaney,0
 Bruce Hornsby & The Range,Bruce Hornsby & The Range,0
-Bronson Pinchot,Bronson Pinchot,0
 Paul Young,Paul Young,0
+Bronson Pinchot,Bronson Pinchot,0
 Valerie Bertinelli,Valerie Bertinelli,0
 The Robert Cray Band,The Robert Cray Band,0
 Eddie Van Halen,Eddie Van Halen,0
 Percy Sledge,Percy Sledge,0
-Hothouse Flowers,Hothouse Flowers,0
-Gene Rayburn,Gene Rayburn,0
-Los Lobos,Los Lobos,0
-Garry Shandling,Garry Shandling,0
-Tracey Ullman,Tracey Ullman,0
-Nell Campbell,Nell Campbell,0
-Sinead O'Connor,Sinead O'Connor,0
-Kyle MacLachlan,Kyle MacLachlan,0
 Wynton Marsalis,Wynton Marsalis,0
 Bob Hurst,Bob Hurst,0
 Don Braden,Don Braden,0
 Jeff Watts,Jeff Watts,0
 Marcus Roberts,Marcus Roberts,0
 Anne Meara,Anne Meara,0
-Suzanne Vega,Suzanne Vega,0
 Mark Harmon,Mark Harmon,0
-George Steinbrenner,George Steinbrenner,0
-The Time,The Time,0
-Bob Costas ,Bob Costas ,0
-Rhea Perlman,Rhea Perlman,0
-Rosanne Cash,Rosanne Cash,0
-Mike The Dog,Mike The Dog,0
-Francis Ford Coppola,Francis Ford Coppola,0
-Philip Glass,Philip Glass,0
-Branford Marsalis,Branford Marsalis,0
-Bruce Babbitt,Bruce Babbitt,0
-The Pull,The Pull,0
-LL Cool J,LL Cool J,0
-Dabney Coleman,Dabney Coleman,0
-The Cars,The Cars,0
-Elvira,Elvira,0
-Robert Mitchum,Robert Mitchum,0
-Simply Red,Simply Red,0
-Ric Ocasek,Ric Ocasek,0
-Bentley Mitchum,Bentley Mitchum,0
-Jane Greer,Jane Greer,0
-Cher,Cher,0
-Sydney Biddle Barrows,Sydney Biddle Barrows,0
-Bryan Ferry,Bryan Ferry,0
-The Mariachi Vargas de Tecalitlán,The Mariachi Vargas de Tecalitlán,0
-Sen. Paul Simon,Sen. Paul Simon,0
-Leland Sklar,Leland Sklar,0
-Angie Dickinson,Angie Dickinson,0
-The Banshees of Blue,The Banshees of Blue,0
-The Uptown Horns,The Uptown Horns,0
-David Gilmour,David Gilmour,0
+Suzanne Vega,Suzanne Vega,0
+Los Lobos,Los Lobos,0
+Tracey Ullman,Tracey Ullman,0
+Garry Shandling,Garry Shandling,0
+Nell Campbell,Nell Campbell,0
+Queen Ida,Queen Ida,0
+Mr. Mister,Mr. Mister,0
+Sheila E.,Sheila E.,0
+Simple Minds,Simple Minds,0
+Brandon Tartikoff,Brandon Tartikoff,0
+Bobby Bonilla,Bobby Bonilla,0
+Jack McDowell,Jack McDowell,0
+Lenny Dykstra,Lenny Dykstra,0
+Mo Vaughn,Mo Vaughn,0
+Roger Clemens,Roger Clemens,0
 Christopher Durang,Christopher Durang,0
 Rosanna Arquette,Rosanna Arquette,0
 Ron Darling,Ron Darling,0
 Malcolm-Jamal Warner,Malcolm-Jamal Warner,0
 Run DMC,Run DMC,0
-Spike Lee,Spike Lee,0
 Seka,Seka,0
-Jerry Hall,Jerry Hall,0
-Al Green,Al Green,0
-DaVi,Dan Vitale,1
-Sheila E.,Sheila E.,0
-Simple Minds,Simple Minds,0
-Brandon Tartikoff,Brandon Tartikoff,0
-Queen Ida,Queen Ida,0
-Harry Dean Stanton,Harry Dean Stanton,0
-The Replacements,The Replacements,0
-The Nelsons,The Nelsons,0
-Ron Reagan,Ron Reagan,0
-Mr. Mister,Mr. Mister,0
-Sade,Sade,0
-The Cult,The Cult,0
-Dream Academy,Dream Academy,0
-Stevie Ray Vaughan,Stevie Ray Vaughan,0
-Double Trouble,Double Trouble,0
-Jimmie Vaughan,Jimmie Vaughan,0
-The Charlie Daniels Band,The Charlie Daniels Band,0
-Blythe Danner,Blythe Danner,0
-The Allman Brothers Band,The Allman Brothers Band,0
-The Yale Whiffenpoofs,The Yale Whiffenpoofs,0
-Tim Curry,Tim Curry,0
-The Spinners,The Spinners,0
-MaOD,Mark O'Donnell,0
-Robert Conrad,Robert Conrad,0
-The Cholos,The Cholos,0
-James Coburn,James Coburn,0
-John Madden,John Madden,0
-Brent Musburger,Brent Musburger,0
-Jennifer Holliday,Jennifer Holliday,0
-Marv Throneberry,Marv Throneberry,0
-Bruce Dern,Bruce Dern,0
-Daryl Hall,Daryl Hall,0
-John Oates,John Oates,0
-Elizabeth Ashley,Elizabeth Ashley,0
-Joseph Papp,Joseph Papp,0
-Barry Mitchell,Barry Mitchell,0
-John Cougar,John Cougar,0
-Daniel J. Travanti,Daniel J. Travanti,0
-Bruce Weitz,Bruce Weitz,0
-Susan Saint James,Susan Saint James,0
-Mink De Ville,Mink De Ville,0
-Robert Urich,Robert Urich,0
-Robert Culp,Robert Culp,0
-Cora Blige,Cora Blige,0
-Andy Warhol,Andy Warhol,0
-George Kennedy,George Kennedy,0
-John Candy,John Candy,0
-Miles Davis,Miles Davis,0
-Marcus Miller,Marcus Miller,0
-Fear,Fear,0
-Ron Howard,Ron Howard,0
-Donald Pleasence,Donald Pleasence,0
-Rick James,Rick James,0
-Stone City Band,Stone City Band,0
-William Burroughs,William Burroughs,0
-Lauren Hutton,Lauren Hutton,0
-Harvey Keitel,Harvey Keitel,0
-Luke Perry,Luke Perry,0
-Peter Gabriel,Peter Gabriel,0
-Midnight Oil,Midnight Oil,0
-The Bravados,The Bravados,0
-Kirstie Alley,Kirstie Alley,0
-Miranda Richardson,Miranda Richardson,0
-Soul Asylum,Soul Asylum,0
-Stephen Rea,Stephen Rea,0
-The Go-Go's,The Go-Go's,0
-ElWa,Eliot Wald,0
-Mary Beth Hurt,Mary Beth Hurt,0
-Sinbad,Sinbad,0
-Susan Sarandon,Susan Sarandon,0
-Bobby Brown,Bobby Brown,0
-Joe Pesci,Joe Pesci,0
-Spin Doctors,Spin Doctors,0
-Arrested Development,Arrested Development,0
-Morrissey,Morrissey,0
-Roseanne Arnold,Roseanne Arnold,0
-Sharon Stone,Sharon Stone,0
-Jason Priestley,Jason Priestley,0
-Teenage Fanclub,Teenage Fanclub,0
-Susan Dey,Susan Dey,0
-C+C Music Factory,C+C Music Factory,0
-Barbra Streisand,Barbra Streisand,0
-Mary Stuart Masterson,Mary Stuart Masterson,0
-Ken Stabler,Ken Stabler,0
-Michael Jordan,Michael Jordan,0
-Public Enemy,Public Enemy,0
-Color Me Badd,Color Me Badd,0
-John McLaughlin,John McLaughlin,0
-Linda Hamilton,Linda Hamilton,0
-Edward Furlong,Edward Furlong,0
-Hammer,Hammer,0
-Macaulay Culkin,Macaulay Culkin,0
-Kieran Culkin,Kieran Culkin,0
-Tin Machine,Tin Machine,0
-Bruce Hornsby,Bruce Hornsby,0
-Monk Boudreaux,Monk Boudreaux,0
-Phha,Phil Hartman,1
-Father Guido Sarducci,Father Guido Sarducci,0
-Huey Lewis & The News,Huey Lewis & The News,0
-BrHa,Brad Hall,1
-Leslie Pollack,Leslie Pollack,0
-Kevin Rowland & Dexy's Midnight Runners,Kevin Rowland & Dexy's Midnight Runners,0
-Stevie Wonder,Stevie Wonder,0
-Greg Dean,Greg Dean,0
+Eriq La Salle,Eriq La Salle,0
+Fisher Stevens,Fisher Stevens,0
+Steve Guttenberg,Steve Guttenberg,0
+John Travolta,John Travolta,0
+Seal,Seal,0
+Sarah Jessica Parker,Sarah Jessica Parker,0
+Edie Brickell,Edie Brickell,0
+President George Bush,President George Bush,0
+David Hasselhoff,David Hasselhoff,0
+Joey Buttafuoco,Joey Buttafuoco,0
+Roseanne,Roseanne,0
+Luscious Jackson,Luscious Jackson,0
+George Foreman,George Foreman,0
+Hole,Hole,0
+Michael Buffer,Michael Buffer,0
+Eleanor McGovern,Eleanor McGovern,0
+Deniece Williams,Deniece Williams,0
+Michael Douglas,Michael Douglas,0
+Madness,Madness,0
+George McGovern,George McGovern,0
+Frankie Pace,Frankie Pace,0
+Clara Peller,Clara Peller,0
 Barry Bostwick,Barry Bostwick,0
 Spinal Tap,Spinal Tap,0
 A. Whitney Brown,A. Whitney Brown,0
 Soupy Sales,Soupy Sales,0
+Father Guido Sarducci,Father Guido Sarducci,0
 Betty Thomas,Betty Thomas,0
-Joel Hodgson,Joel Hodgson,0
 Timothy Hutton,Timothy Hutton,0
+Joel Hodgson,Joel Hodgson,0
+Eddy Grant,Eddy Grant,0
 Stray Cats,Stray Cats,0
 Mick Fleetwood's Zoo,Mick Fleetwood's Zoo,0
-Jerry Lewis,Jerry Lewis,0
-Loverboy,Loverboy,0
-Big Country,Big Country,0
-Dick Smothers,Dick Smothers,0
-Tom Smothers,Tom Smothers,0
-Ron Luciano,Ron Luciano,0
-Larry Holmes,Larry Holmes,0
-Tom Seaver,Tom Seaver,0
+Huey Lewis & The News,Huey Lewis & The News,0
+Flip Wilson,Flip Wilson,0
+Stevie Nicks,Stevie Nicks,0
+The Motels,The Motels,0
+Mary Palin,Mary Palin,0
 Billy Idol,Billy Idol,0
 Don Rickles,Don Rickles,0
 Dr. Joyce Brothers,Dr. Joyce Brothers,0
-The Fixx,The Fixx,0
-Stevie Nicks,Stevie Nicks,0
-Flip Wilson,Flip Wilson,0
+Big Country,Big Country,0
+Ron Luciano,Ron Luciano,0
+Larry Holmes,Larry Holmes,0
+Tom Seaver,Tom Seaver,0
 Paula Poundstone,Paula Poundstone,0
 Adam Ant,Adam Ant,0
-The Motels,The Motels,0
-Mary Palin,Mary Palin,0
-Gene Siskel,Gene Siskel,0
-Roger Ebert,Roger Ebert,0
-Michael McDonald,Michael McDonald,0
-Musical Youth,Musical Youth,0
-Kenny Loggins,Kenny Loggins,0
-Robert Blake,Robert Blake,0
-The New Joe Jackson Band,The New Joe Jackson Band,0
-Merv Griffin,Merv Griffin,0
-Squeeze,Squeeze,0
-Laura Branigan,Laura Branigan,0
-Lawrence K. Grossman,Lawrence K. Grossman,0
-Lionel Richie,Lionel Richie,0
-Seth Green,Seth Green,0
-Dave Thomas,Dave Thomas,0
-The Bus Boys,The Bus Boys,0
-Sid Caesar,Sid Caesar,0
-Milan Melvin,Milan Melvin,0
-Beau Bridges,Beau Bridges,0
-Lloyd Bridges,Lloyd Bridges,0
-JoDi ,Joe Dicso,0
-LaZa,Laurie Zaks,0
-Robert Guillaume,Robert Guillaume,0
-Duran Duran,Duran Duran,0
-Joan Rivers,Joan Rivers,0
-David Susskind,David Susskind,0
-Edgar Winter,Edgar Winter,0
-Frankie Pace,Frankie Pace,0
-George McGovern,George McGovern,0
-Clara Peller,Clara Peller,0
-Eleanor McGovern,Eleanor McGovern,0
+Jerry Lewis,Jerry Lewis,0
+Loverboy,Loverboy,0
 Kool & The Gang,Kool & The Gang,0
-Eddy Grant,Eddy Grant,0
-Men At Work,Men At Work,0
-The Clash,The Clash,0
-Rex Reed,Rex Reed,0
-Andy Griffith,Andy Griffith,0
-George Thorogood & The Destroyers,George Thorogood & The Destroyers,0
-Louis Gossett Jr.,Louis Gossett Jr.,0
-Queen,Queen,0
-Deniece Williams,Deniece Williams,0
-Michael Douglas,Michael Douglas,0
-Madness,Madness,0
+The Fixx,The Fixx,0
