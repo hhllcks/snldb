@@ -9,7 +9,7 @@ def removeTags(sXML):
   return sText
 
 
-class snl(scrapy.Spider):
+class Snl(scrapy.Spider):
   name = 'snl'
   start_urls = ['http://www.snlarchives.net/Seasons/']
   base_url = "http://www.snlarchives.net"
@@ -19,14 +19,22 @@ class snl(scrapy.Spider):
   cleanr = re.compile('<.*?>')
   printable = set(string.printable)
 
-  def removeTags(self, sXML):
-    sText = re.sub(self.cleanr, '', sXML)
+  custom_settings = dict(
+      CONCURRENT_REQUESTS_PER_DOMAIN=1,
+      DOWNLOAD_DELAY=.5,
+  )
+
+  def __init__(self, mini=False, *args, **kwargs):
+    super(Snl, self).__init__(*args, **kwargs)
+    self.mini = mini
+
+  @classmethod
+  def removeTags(cls, sXML):
+    sText = re.sub(cls.cleanr, '', sXML)
     return sText
 
   def parse(self, response):
-
     snl = {}
-
     # parsing snlarchives. Entrypoint is the seasons page at www.snlarchives.net/Seasons/
     for season in response.css('div.thumbRectInner'):
       sid = int(season.css('::text').extract_first())
@@ -48,8 +56,8 @@ class snl(scrapy.Spider):
       # an we can select a certain episode like this http://www.imdb.com/title/tt0072562/episodes?season=1
       yield scrapy.Request(self.base_url_imdb + str(sid), callback=self.parseRatingsSeason, meta={'season': item_season})
 
-      # remove statement to scrape more than one season
-      # break
+      if self.mini:
+        break
 
   def parseRatingsSeason(self, response):
     # parsing the ratings of the episodes of a season
@@ -65,6 +73,8 @@ class snl(scrapy.Spider):
       url_split = href_url.split("?")
       href_url = "http://www.imdb.com" + url_split[0] + "ratings"
       yield scrapy.Request(href_url, callback=self.parseRatingsEpisode, meta={'season': item_season, 'rating': item_rating})
+      if self.mini:
+        break
 
   def parseRatingsEpisode(self, response):
     item_season = response.meta['season']
@@ -108,8 +118,8 @@ class snl(scrapy.Spider):
       if href_url.startswith("/Episodes/?") and len(href_url) == 19:
         episode_url = self.base_url + href_url
         yield scrapy.Request(episode_url, callback=self.parseEpisode, meta={'season': item_season})
-        # remove statement to scrape more than one episode
-        # break
+        if self.mini:
+          break
 
   def parseEpisode(self, response):
     item_season = response.meta['season']
@@ -124,7 +134,12 @@ class snl(scrapy.Spider):
       if epInfoTd[0].css("td p ::text").extract_first() == 'Aired:':
         airedInfo = epInfoTd[1].css("td p ::text").extract()
         episode['aired'] = airedInfo[0][:-2]
-        episode['eid'] = int(airedInfo[2].split(' ')[0][1:])
+        try:
+          episode['eid'] = int(airedInfo[2].split(' ')[0][1:])
+        except ValueError:
+          raise Exception("Couldn't parse eid from airedInfo = {}. (Was this a special?)".format(
+            airedInfo, response.url))
+          episode['eid'] = -1
       if epInfoTd[0].css("td p ::text").extract_first() == 'Host:':
         host = epInfoTd[1].css("td p ::text").extract()
         episode['host'] = host[0]
@@ -148,8 +163,8 @@ class snl(scrapy.Spider):
 
       sketch_url = self.base_url + href_url
       yield scrapy.Request(sketch_url, callback=self.parseTitle, meta={'title': sketch, 'episode': episode})
-      # remove statement to scrape more than one sketch
-      # break
+      if self.mini:
+        break
 
   def parseTitle(self, response):
     sketch = response.meta['title']
@@ -173,6 +188,9 @@ class snl(scrapy.Spider):
             actor_dict['aid'] = href_url.split('?')[1]
             actor_dict['isCast'] = 0
             actor_sketch['actorType'] = 'crew'
+          else:
+            raise Exception("Couldn't handle actor url {} on title page {}".format(
+              href_url, response.url))
 
         else:
           actor_dict['aid'] = actor_dict['name']
