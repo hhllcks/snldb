@@ -126,7 +126,6 @@ class Snl(scrapy.Spider):
 
     episode = {}
     episode['sid'] = item_season['sid']
-    episode['year'] = item_season['year']
     episode['type'] = 'episode'
 
     for epInfoTr in response.css("table.epGuests tr"):
