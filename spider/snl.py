@@ -2,6 +2,10 @@ import scrapy
 import re
 import string
 
+from collections import defaultdict
+
+# TODO:
+# - rename 'type' to 'entityType' for clarity?
 
 def removeTags(sXML):
   cleanr = re.compile('<.*?>')
@@ -15,6 +19,9 @@ class Snl(scrapy.Spider):
   base_url = "http://www.snlarchives.net"
   base_url_imdb = "http://www.imdb.com/title/tt0072562/episodes?season="
 
+  # TODO: will need to do something similar to avoid dupes for...
+  #     sketches, impressions, characters
+  # Contains aids
   actor_seen = set()
   cleanr = re.compile('<.*?>')
   printable = set(string.printable)
@@ -24,9 +31,16 @@ class Snl(scrapy.Spider):
       DOWNLOAD_DELAY=.5,
   )
 
-  def __init__(self, mini=False, *args, **kwargs):
+  def __init__(self, season_limit=None, ep_limit=None, title_limit=None, mini=False, 
+                scrape_ratings=False, *args, **kwargs):
     super(Snl, self).__init__(*args, **kwargs)
-    self.mini = mini
+    self.season_limit = float('inf') if season_limit is None else int(season_limit)
+    self.ep_limit = float('inf') if ep_limit is None else int(ep_limit)
+    self.title_limit = float('inf') if title_limit is None else int(title_limit)
+    if mini:
+      self.season_limit = self.ep_limit = self.title_limit = 1
+    self.scraped = defaultdict(int)
+    self.scrape_ratings = scrape_ratings
 
   @classmethod
   def removeTags(cls, sXML):
@@ -47,6 +61,7 @@ class Snl(scrapy.Spider):
       item_season['type'] = 'season'
 
       yield item_season
+      self.scraped['seasons'] += 1
 
       yield scrapy.Request(response.urljoin(next_page), callback=self.parseSeason, meta={'season': item_season})
 
@@ -54,20 +69,21 @@ class Snl(scrapy.Spider):
       # the root URL for SNL is http://www.imdb.com/title/tt0072562
       # we can find the episodes at http://www.imdb.com/title/tt0072562/episodes
       # an we can select a certain episode like this http://www.imdb.com/title/tt0072562/episodes?season=1
-      yield scrapy.Request(self.base_url_imdb + str(sid), callback=self.parseRatingsSeason, meta={'season': item_season})
+      if self.scrape_ratings:
+        yield scrapy.Request(self.base_url_imdb + str(sid), callback=self.parseRatingsSeason, meta={'season': item_season})
 
-      if self.mini:
+      if self.scraped['seasons'] >= self.season_limit:
         break
 
   def parseRatingsSeason(self, response):
     # parsing the ratings of the episodes of a season
     item_season = response.meta['season']
-    eid = 0
+    epno = 0
     for episode in response.css(".eplist > .list_item > .image > a"):
       item_rating = {}
-      eid += 1
+      epno += 1
       item_rating["type"] = "rating"
-      item_rating["eid"] = eid
+      item_rating["epno"] = epno
       item_rating["sid"] = item_season["sid"]
       href_url = episode.css("a ::attr(href)").extract_first()
       url_split = href_url.split("?")
@@ -118,8 +134,30 @@ class Snl(scrapy.Spider):
       if href_url.startswith("/Episodes/?") and len(href_url) == 19:
         episode_url = self.base_url + href_url
         yield scrapy.Request(episode_url, callback=self.parseEpisode, meta={'season': item_season})
-        if self.mini:
+        self.scraped['episodes'] += 1
+        if self.scraped['episodes'] >= self.ep_limit:
           break
+
+  @classmethod
+  def actor_from_link(self, anchor):
+    href = anchor.css('::attr(href)').extract_first()
+    qmark_idx = href.rfind('?')
+    id = href[qmark_idx+1:]
+    if href.startswith('/Guests/'):
+      prefix = 'g_'
+      atype = 'guest'
+    elif href.startswith('/Cast/'):
+      prefix = 'c_'
+      atype = 'cast'
+    elif href.startswith('/Crew/'):
+      prefix = 'cr_'
+      atype = 'crew'
+    name = anchor.css('::text').extract_first()
+    return dict(
+        aid=prefix+id,
+        name=name,
+        actorType=atype,
+        )
 
   def parseEpisode(self, response):
     item_season = response.meta['season']
@@ -128,28 +166,43 @@ class Snl(scrapy.Spider):
     episode['sid'] = item_season['sid']
     episode['type'] = 'episode'
 
+    hosts = []
+    # Parse table with basic episode metadata (date, host, musical guest, cameos...)
+    # TODO: Some fields not currently parsed (musical guest, cameo, filmed cameos), which
+    # may be worth parsing.
     for epInfoTr in response.css("table.epGuests tr"):
       epInfoTd = epInfoTr.css("td")
-      if epInfoTd[0].css("td p ::text").extract_first() == 'Aired:':
-        airedInfo = epInfoTd[1].css("td p ::text").extract()
-        episode['aired'] = airedInfo[0][:-2]
+      fieldTd, valueTd = epInfoTd # e.g. ("<td><p>Host:</p></td>", "<td><p>Anna Faris</p></td>")
+      field = fieldTd.css("td p ::text").extract_first()
+      values = valueTd.css("td p ::text").extract()
+      if field == 'Aired:':
+        # e.g. "October 4, 2014 (", "<a href="/Seasons/?2014">S40</a>", "E2 / #768)"
+        datestr, seasonlink, epstr = values
+        episode['aired'] = datestr[:-2]
+        # TODO: Maybe should use whatever string snlarchive uses in the url
+        # (which I think is just a munged date)
+        # That's what we do for tids for sketches (which, incidentally, also seem to be munged
+        # dates, just with an ordinal tacked on)
+        episode['eid'] = int(epstr.split(' ')[2].strip('#) \n\t'))
         try:
-          episode['eid'] = int(airedInfo[2].split(' ')[0][1:])
+          episode['epno'] = int(epstr.split(' ')[0][1:])
         except ValueError:
-          raise Exception("Couldn't parse eid from airedInfo = {}. (Was this a special?)".format(
-            airedInfo, response.url))
-          episode['eid'] = -1
-      if epInfoTd[0].css("td p ::text").extract_first() == 'Host:':
-        host = epInfoTd[1].css("td p ::text").extract()
-        episode['host'] = host[0]
-      if epInfoTd[0].css("td p ::text").extract_first() == 'Hosts:':
-        host = epInfoTd[1].css("td p ::text").extract()
-        episode['host'] = host
+          raise Exception("Couldn't parse epno from values = {}. (Was this a special?)".format(
+            values, response.url))
+          episode['epno'] = None
+      elif field in ('Host:', 'Hosts:'):
+        for host_ele in valueTd.css('a'):
+          actor = self.actor_from_link(host_ele)
+          hosts.append(actor)
 
     yield episode
+    assert len(hosts) > 0
+    for host_actor in hosts:
+      yield dict(type='host', eid=episode['eid'], aid=host_actor['aid'])
     # initially the titles tab is opened
     for sketchInfo in response.css("div.sketchWrapper"):
       sketch = {}
+      # e.g. /Episodes/?197510111
       href_url = sketchInfo.css("a ::attr(href)").extract_first()
       sketch['sid'] = item_season['sid']
       sketch['eid'] = episode['eid']
@@ -161,8 +214,11 @@ class Snl(scrapy.Spider):
         sketch['title'] = ""
 
       sketch_url = self.base_url + href_url
-      yield scrapy.Request(sketch_url, callback=self.parseTitle, meta={'title': sketch, 'episode': episode})
-      if self.mini:
+      yield scrapy.Request(sketch_url, callback=self.parseTitle, 
+            meta={'title': sketch, 'episode': episode, 'host': hosts[0]['name']} # XXX
+          )
+      self.scraped['titles'] += 1
+      if self.scraped['titles'] >= self.title_limit:
         break
 
   def parseTitle(self, response):
@@ -174,7 +230,8 @@ class Snl(scrapy.Spider):
       actor_sketch = {}
       actor_dict['name'] = actor.css("td ::text").extract_first()
       if actor_dict['name'] == ' ... ':
-        actor_dict['name'] = episode['host']
+        # TODO: ????
+        actor_dict['name'] = response.meta['host']
       if actor_dict['name'] != None:
         actor_dict['type'] = 'actor'
         href_url = actor.css("td > a ::attr(href)").extract_first()
