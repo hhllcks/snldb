@@ -307,6 +307,8 @@ class Snl(scrapy.Spider):
       sketch['sid'] = sid
       sketch['eid'] = episode['eid']
       sketch['tid'] = int(href_url.split('?')[1])
+      if target_tid is not None and sketch['tid'] != int(target_tid):
+        continue
       sketch['title'] = sketchInfo.css(".title ::text").extract_first()
       sketch['type'] = 'title'
       sketch['titleType'] = sketchInfo.css(".type ::text").extract_first()
