@@ -1,17 +1,25 @@
 import scrapy
 import re
 import string
+import logging
 
 from collections import defaultdict
 
 # TODO:
 # - rename 'type' to 'entityType' for clarity?
+# - also, rename those types (i.e. the table names) for clarity and formatting consistency
+# - this seems... hard to parse. Is this typical? http://www.snlarchives.net/Episodes/?200604158
+#       - further complicated by the fact that (rarely) an actor can legitimately appear in multiple
+#         roles in a single sketch. Example: http://www.snlarchives.net/Episodes/?2005111211
+#         Chris Parnell has a role in the live sketch (Mr. Singer), but also did recorded voice work
 
 def removeTags(sXML):
   cleanr = re.compile('<.*?>')
   sText = re.sub(cleanr, '', sXML)
   return sText
 
+class UnrecognizedActorException(Exception):
+  pass
 
 class Snl(scrapy.Spider):
   name = 'snl'
@@ -23,15 +31,18 @@ class Snl(scrapy.Spider):
   #     sketches, impressions, characters
   # Contains aids
   actor_seen = set()
+  seen_charids = set()
+  seen_impids = set()
   cleanr = re.compile('<.*?>')
   printable = set(string.printable)
 
   custom_settings = dict(
       CONCURRENT_REQUESTS_PER_DOMAIN=1,
-      DOWNLOAD_DELAY=.5,
+      DOWNLOAD_DELAY=1.5,
   )
 
   def __init__(self, season_limit=None, ep_limit=None, title_limit=None, mini=False, 
+                episode=None,
                 scrape_ratings=False, *args, **kwargs):
     super(Snl, self).__init__(*args, **kwargs)
     self.season_limit = float('inf') if season_limit is None else int(season_limit)
@@ -41,11 +52,73 @@ class Snl(scrapy.Spider):
       self.season_limit = self.ep_limit = self.title_limit = 1
     self.scraped = defaultdict(int)
     self.scrape_ratings = scrape_ratings
+    if episode is not None:
+      ep_url = self.base_url + '/Episodes/?' + str(episode)
+      self.start_urls = [ep_url]
+
+  def start_requests(self):
+    url = self.start_urls[0]
+    yield scrapy.Request(url, 
+        callback = self.parseEpisode if 'Episodes' in url else self.parse
+        )
 
   @classmethod
   def removeTags(cls, sXML):
     sText = re.sub(cls.cleanr, '', sXML)
     return sText
+
+  def parse_role_cell(self, role_td, actor_title):
+    rolename = role_td.css('::text').extract_first()
+    voice_suffix = ' (voice)'
+    if rolename.endswith(voice_suffix):
+      rolename = rolename[:-len(voice_suffix)]
+      actor_title['voice'] = True
+    actor_title['role'] = rolename
+    role_link = role_td.css('a')
+    if role_link:
+      href = role_link.css('::attr(href)').extract_first()
+      id = int(self.id_from_url(href))
+      if href.startswith('/Impressions/'):
+        actor_title['impid'] = id
+      elif href.startswith('/Characters/'):
+        actor_title['charid'] = id
+      else:
+        raise Exception('Unrecognized role URL: {}'.format(href))
+    return actor_title
+
+  def parse_cast_entry_tr(self, row, extra_cast_lookup, tid):
+    cells = row.css('td')
+    actor_cell = cells[0]
+    actor_class = actor_cell.css('::attr(class)').extract_first()
+    actor_link = actor_cell.css('a')
+    # What's the context of this actor's appearance? Default is that they're appearing
+    # as a cast member, but could also be host, cameo, etc.
+    capacity = 'cast'
+    if not actor_link:
+      # Actor name is not linkified. This means they're not cast members. They could
+      # be the host, cameos, or musical guest (though this code path currently isn't
+      # reached for musical titles). The td class gives a hint.
+      actor_name = actor_cell.css('::text').extract_first()
+      assert actor_class, "No class found in actor cell {}".format(actor_cell)
+      if actor_class not in ('host', 'cameo'):
+        logging.warn('Unrecognized actor class {}'.format(actor_class))
+      capacity = actor_class
+      try:
+        actor = extra_cast_lookup[actor_name]
+      except KeyError:
+        raise UnrecognizedActorException
+    else:
+      actor = self.actor_from_link(actor_link)
+
+    actor_title = dict(type='actor_title', aid=actor['aid'], tid=tid,
+        role=None, impid=None, charid=None, capacity=capacity, voice=False)
+    if len(cells) == 3:
+      _dots, role_td = cells[1:]
+      actor_title = self.parse_role_cell(role_td, actor_title)
+    else:
+      assert len(cells) == 1
+
+    return actor, actor_title
 
   def parse(self, response):
     snl = {}
@@ -157,16 +230,33 @@ class Snl(scrapy.Spider):
         aid=prefix+id,
         name=name,
         actorType=atype,
+        type='actor',
         )
 
-  def parseEpisode(self, response):
-    item_season = response.meta['season']
+  @staticmethod
+  def id_from_url(url):
+    qmark_idx = url.rfind('?')
+    return url[qmark_idx+1:]
+
+  def parseEpisode(self, response, target_tid=None):
+    # XXX. Hack for the single episode flag.
+    if 'season' in response.meta:
+      item_season = response.meta['season']
+      sid = item_season['sid']
+    else:
+      sid = -1
 
     episode = {}
-    episode['sid'] = item_season['sid']
+    episode['sid'] = sid
     episode['type'] = 'episode'
 
     hosts = []
+    cameos = []
+    musical_guests = []
+    actor_fieldname_to_list = {'Host:': hosts, 'Hosts:': hosts,
+        'Cameo:': cameos, 'Cameos:': cameos,
+        'Musical Guest:': musical_guests, 'Musical Guests:': musical_guests,
+        }
     # Parse table with basic episode metadata (date, host, musical guest, cameos...)
     # TODO: Some fields not currently parsed (musical guest, cameo, filmed cameos), which
     # may be worth parsing.
@@ -190,32 +280,57 @@ class Snl(scrapy.Spider):
           raise Exception("Couldn't parse epno from values = {}. (Was this a special?)".format(
             values, response.url))
           episode['epno'] = None
-      elif field in ('Host:', 'Hosts:'):
-        for host_ele in valueTd.css('a'):
-          actor = self.actor_from_link(host_ele)
-          hosts.append(actor)
+      elif field in actor_fieldname_to_list:
+        dest = actor_fieldname_to_list[field]
+        for actor_ele in valueTd.css('a'):
+          actor = self.actor_from_link(actor_ele)
+          dest.append(actor)
+
+    extra_actors = hosts + cameos + musical_guests
+    extra_lookup = {a['name']: a for a in extra_actors}
 
     yield episode
     assert len(hosts) > 0
     for host_actor in hosts:
       yield dict(type='host', eid=episode['eid'], aid=host_actor['aid'])
     # initially the titles tab is opened
+    order = 0 # Record the relative order of sketches
     for sketchInfo in response.css("div.sketchWrapper"):
+      order += 1
       sketch = {}
       # e.g. /Episodes/?197510111
       href_url = sketchInfo.css("a ::attr(href)").extract_first()
-      sketch['sid'] = item_season['sid']
+      # TODO: almost all of this metadata (everything except order, which is kind
+      # of inferrable from the url anyways), is accessible from the sketch page.
+      # Scraping it there (and therefore in the parseTitle method) would make for
+      # a much cleaner separation of concerns.
+      sketch['sid'] = sid
       sketch['eid'] = episode['eid']
       sketch['tid'] = int(href_url.split('?')[1])
       sketch['title'] = sketchInfo.css(".title ::text").extract_first()
       sketch['type'] = 'title'
       sketch['titleType'] = sketchInfo.css(".type ::text").extract_first()
-      if sketch['title'] == None:
+      sketch['order'] = order
+      sketch['skid'] = None
+
+      title_url = sketchInfo.css(".title a ::attr(href)")
+      if title_url:
+        if title_url.startswith('/Sketches/'):
+          # Could yield sketch entities here, but maybe just makes more sense
+          # to build that table as a postprocessing step?
+          sketch['skid'] = self.id_from_url(title_url)
+        elif title_url.startswith('/Commercials/'):
+          # meh
+          pass
+        else:
+          logging.warn('Unrecognized title url format: {}'.format(title_url))
+
+      if sketch['title'] is None:
         sketch['title'] = ""
 
       sketch_url = self.base_url + href_url
       yield scrapy.Request(sketch_url, callback=self.parseTitle, 
-            meta={'title': sketch, 'episode': episode, 'host': hosts[0]['name']} # XXX
+            meta={'title': sketch, 'episode': episode, 'extra_cast': extra_lookup},
           )
       self.scraped['titles'] += 1
       if self.scraped['titles'] >= self.title_limit:
@@ -223,50 +338,48 @@ class Snl(scrapy.Spider):
 
   def parseTitle(self, response):
     sketch = response.meta['title']
-    episode = response.meta['episode']
-    actor_seen_title = set()
-    for actor in response.css(".roleTable > tr"):
-      actor_dict = {}
-      actor_sketch = {}
-      actor_dict['name'] = actor.css("td ::text").extract_first()
-      if actor_dict['name'] == ' ... ':
-        # TODO: ????
-        actor_dict['name'] = response.meta['host']
-      if actor_dict['name'] != None:
-        actor_dict['type'] = 'actor'
-        href_url = actor.css("td > a ::attr(href)").extract_first()
-        if href_url != None:
-          if href_url.split('?')[0] == '/Cast/':
-            actor_dict['aid'] = href_url.split('?')[1]
-            actor_dict['isCast'] = 1
-            actor_sketch['actorType'] = 'cast'
-          elif href_url.split('?')[0] == '/Crew/':
-            actor_dict['aid'] = href_url.split('?')[1]
-            actor_dict['isCast'] = 0
-            actor_sketch['actorType'] = 'crew'
-          else:
-            raise Exception("Couldn't handle actor url {} on title page {}".format(
-              href_url, response.url))
+    extra_cast = response.meta['extra_cast']
+    if sketch['titleType'] in ('Musical Performance', 
+      'Guest Performance',
+      ):
+      # Nothing to do here. There are no roles, no 'ActorTitle' rows to add,
+      # no impressions or characters. (Probably)
+      yield sketch
+      raise StopIteration
+    # I guess this is to avoid counting the same performer twice in one sketch.
+    aids_this_title = {}
+    for cast_entry in response.css(".roleTable > tr"):
+      try:
+        actor, actor_title = self.parse_cast_entry_tr(cast_entry, extra_cast,
+            sketch['tid'])
+      except UnrecognizedActorException as e:
+        logging.warn('Skipping unparseable row in sketch {}:\n{}'.format(
+          response.url, cast_entry))
+        continue
+      aid, impid, charid = actor['aid'], actor_title['impid'], actor_title['charid']
+      if impid and impid not in self.seen_impids:
+        yield dict(type='impression', impid=impid, aid=aid, name=actor_title['role'])
+        self.seen_impids.add(impid)
+      if charid and charid not in self.seen_charids:
+        yield dict(type='character', charid=charid, aid=aid, name=actor_title['role'])
+        self.seen_charids.add(charid)
+      if aid not in self.actor_seen:
+        yield actor
+        self.actor_seen.add(aid)
 
-        else:
-          actor_dict['aid'] = actor_dict['name']
-          actor_dict['isCast'] = 0
-          actor_sketch['actorType'] = actor.css(
-              "td ::attr(class)").extract_first()
-          if actor_sketch['actorType'] == None:
-            actor_sketch['actorType'] = "unknown"
+      if aid not in aids_this_title:
+        yield actor_title
+        aids_this_title[aid] = actor_title
+      else:
+        logging.warn('Actor {} appeared multiple times in sketch at {}'.format(
+          actor['name'], response.url))
+        prev = aids_This_title[aid]
+        # if both roles have a name, and those names are distinct, then maybe they
+        # did legit appear in the same sketch twice in two different roles/capacities.
+        # can happen rarely.
+        if prev['role'] and actor_title['role'] and prev['role'] != actor_title['role']:
+          yield actor_title
+        # (God help us if actors appear more than twice in the same sketch...)
 
-        if not actor_dict['aid'] in self.actor_seen:
-          self.actor_seen.add(actor_dict['aid'])
-          yield actor_dict
-
-        actor_sketch['tid'] = sketch['tid']
-        actor_sketch['sid'] = sketch['sid']
-        actor_sketch['eid'] = sketch['eid']
-        actor_sketch['aid'] = actor_dict['aid']
-        actor_sketch['type'] = 'actor_sketch'
-
-        if not actor_sketch['aid'] in actor_seen_title:
-          actor_seen_title.add(actor_sketch['aid'])
-          yield actor_sketch
+      # NB: the td class might be a useful hint for some failure cases
     yield sketch
