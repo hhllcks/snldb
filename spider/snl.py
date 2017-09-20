@@ -12,6 +12,9 @@ from collections import defaultdict
 #       - further complicated by the fact that (rarely) an actor can legitimately appear in multiple
 #         roles in a single sketch. Example: http://www.snlarchives.net/Episodes/?2005111211
 #         Chris Parnell has a role in the live sketch (Mr. Singer), but also did recorded voice work
+# - here's an even more mind-blowing example: http://www.snlarchives.net/Episodes/?201311021
+#       - Kerry Washington does 2 impersonations (Michelle Obama and Oprah)
+#       - and there are 6 different actors impersonating the same character (Matthew McConaughey)
 
 def removeTags(sXML):
   cleanr = re.compile('<.*?>')
