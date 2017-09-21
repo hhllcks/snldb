@@ -24,8 +24,10 @@ NEWSPIDER_MODULE = 'snlscrape.spiders'
 
 ITEM_PIPELINES = {
     'snlscrape.pipelines.EntityDedupePipeline': 300,
+    'snlscrape.pipelines.DefaultValueSetterPipeline': 400,
+    'snlscrape.pipelines.ValidatorPipeline': 500,
     'snlscrape.pipelines.MultiJsonExportPipeline': 700,
-}    
+} 
 
 LOG_LEVEL = 'INFO'
 

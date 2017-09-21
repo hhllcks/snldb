@@ -15,6 +15,11 @@ from snlscrape.items import *
 #         roles in a single sketch. Example: http://www.snlarchives.net/Episodes/?2005111211
 #         Chris Parnell has a role in the live sketch (Mr. Singer), but also did recorded voice work
 
+# TODO: The 'full summary' tab in snlarchive episode pages has all the information that we're
+# currently getting by scraping a page per sketch/segment. Using that could reduce the number
+# of requests needed by an order of magnitude. However, those tabs seemingly don't have permalinks -
+# the navigation is with js. So probably technically tricky.
+
 class UnrecognizedActorException(Exception):
   pass
 
@@ -62,8 +67,6 @@ class SnlSpider(scrapy.Spider):
       # reached for musical titles). The td class gives a hint.
       actor_name = actor_cell.css('::text').extract_first()
       assert actor_class, "No class found in actor cell {}".format(actor_cell)
-      if actor_class not in ('host', 'cameo'):
-        logging.warn('Unrecognized actor class {}'.format(actor_class))
       capacity = actor_class
       try:
         actor = extra_cast_lookup[actor_name]
@@ -82,7 +85,7 @@ class SnlSpider(scrapy.Spider):
     return actor, app
 
   def parse_role_cell(self, role_td, appearance):
-    rolename = role_td.css('::text').extract_first()
+    rolename = role_td.css('::text').extract_first().strip()
     voice_suffix = ' (voice)'
     if rolename.endswith(voice_suffix):
       rolename = rolename[:-len(voice_suffix)]
@@ -227,9 +230,10 @@ class SnlSpider(scrapy.Spider):
       title_url = sketchInfo.css(".title a ::attr(href)").extract_first()
       if title_url:
         if title_url.startswith('/Sketches/'):
-          # Could yield sketch entities here, but maybe just makes more sense
-          # to build that table as a postprocessing step?
-          sketch['skid'] = self.id_from_url(title_url)
+          skid = self.id_from_url(title_url)
+          sketch['skid'] = skid 
+          rec_sketch = Sketch(skid=skid, name=sketch['name'])
+          yield rec_sketch
         elif title_url.startswith('/Commercials/'):
           # meh
           pass

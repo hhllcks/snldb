@@ -62,3 +62,48 @@ class MultiJsonExportPipeline(object):
     exporter = self.exporter_for_item(item)
     exporter.export_item(item)
     return item
+
+class FieldValidationException(Exception):
+  pass
+
+
+# TODO: Would be really nice to tie validation failures in this pipeline into
+# unit tests. Probably need to implement another testing exception that intercepts
+# the pipeline exceptions.
+class ValidatorPipeline(object):
+
+  def process_item(self, item, spider):
+    for fieldname, meta in item.fields.iteritems(): 
+      value = item.get(fieldname)
+      try:
+        self.validate_field_value(meta, value, fieldname)
+      except AssertionError as e:
+        raise FieldValidationException(e.message)
+    return item
+
+  def validate_field_value(self, field, value, fieldname):
+    if value is None:
+      assert field.get('optional'), "No value for non-optional field {}".format(fieldname)
+      # If an optional field has no value, the other rules don't apply.
+      return
+    if 'type' in field:
+      assert isinstance(value, field['type']), "Got value {} for field {}. Expected type {}.".format(
+          value, fieldname, field['type'])
+    if 'min' in field:
+      assert value >= field['min'], "Value {} for field {} less than minimum = {}".format(
+          value, fieldname, field['min'])
+    if 'possible_values' in field:
+      assert (value in field['possible_values'],
+        "Value {} for field {} not among possible values: {}".format(
+            value, fieldname, field['possible_values'])
+        )
+
+class DefaultValueSetterPipeline(object):
+
+  def process_item(self, item, spider):
+    for fieldname, meta in item.fields.iteritems():
+      val = item.get(fieldname)
+      if val is None:
+        item[fieldname] = meta.get('default')
+    return item
+

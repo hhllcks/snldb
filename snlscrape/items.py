@@ -7,6 +7,20 @@
 
 import scrapy
 
+"""
+TODO: I'm tempted to 'denormalize' here and add a bunch of redundant fields that
+will make life easier. e.g. everywhere there's an aid, also have an actor_name field?
+The ultimate size of the whole dataset should be pretty puny, so it's not like 
+optimizing for compact storage or efficient queries is particularly important.
+
+Could probably even do the denormalization automagically with a pipeline and some
+field metadata, without having to touch the spider.
+
+TODO: Be more consistent about whether id fields should be ints or strs?
+Main advantage of using strs for epid/tid is that it makes it simpler to 
+break them up into their component parts (year, mo, day, no)
+"""
+
 class BaseSnlItem(scrapy.Item):
   
   @classmethod
@@ -27,27 +41,26 @@ class BaseSnlItem(scrapy.Item):
 class Season(BaseSnlItem):
   sid = scrapy.Field(type=int, min=1)
   # Year in which the season began (e.g. season 1 has year 1975)
-  year = scrapy.Field()
+  year = scrapy.Field(type=int)
 
 class Episode(BaseSnlItem):
-  epid = scrapy.Field()
+  # We use the ids snlarchives use in their urls. In practice, these look
+  # like dates, e.g. '20020518'
+  epid = scrapy.Field(type=basestring)
   # epno = n -> this is the nth episode of the season (starting from 0)
   # may be None if this is a special episode (e.g. anniversary special)
-  epno = scrapy.Field()
+  epno = scrapy.Field(type=int, min=0, optional=True)
+  # Could maybe do the 'foreign key' thing more elegantly with some 
+  # metaclass magic, but don't want to mess around with that too much
+  # since scrapy is clearly already doing some metaclass magic here.
   sid = scrapy.Field()
-  aired = scrapy.Field()
-
-class Host(BaseSnlItem):
-  # NB: an episode may have more than one host.
-  # (Might even have zero? Probably only if it's a special)
-  epid = scrapy.Field()
-  aid = scrapy.Field()
+  aired = scrapy.Field(type=basestring)
 
 # Not sure if I want to track info about musical guests and performances.
 # If so, might want to rename this 'Performer'
 class Actor(BaseSnlItem):
-  aid = scrapy.Field(pkey=True)
-  name = scrapy.Field()
+  aid = scrapy.Field(pkey=True, type=basestring)
+  name = scrapy.Field(type=basestring)
   # This is based on snlarchive's schema, which assigns exactly one of these
   # categories to each person. I believe cast > crew > guest in terms of precedence.
   # That is, if someone has been a crew member and a cast member (e.g. Mike O'Brien)
@@ -58,29 +71,44 @@ class Actor(BaseSnlItem):
   # vs. host vs. cameo vs. ...)
   type = scrapy.Field(possible_values = {'cast', 'guest', 'crew'})
 
+class Host(BaseSnlItem):
+  # NB: an episode may have more than one host.
+  # (Might even have zero? Probably only if it's a special)
+  epid = scrapy.Field(type=basestring)
+  aid = scrapy.Field(type=basestring)
+
 class Title(BaseSnlItem):
-  tid = scrapy.Field()
-  epid = scrapy.Field()
-  name = scrapy.Field()
+  tid = scrapy.Field(type=basestring)
+  epid = scrapy.Field(type=basestring)
   category = scrapy.Field(possible_values = {
     'Cold Opening', 'Monologue', 'Sketch', 'Show', 'Film', 'Musical Performance',
     'Weekend Update', 'Goodnights', 'Guest Performance',
     })
-  skid = scrapy.Field(optional=True)
-  # Counting from cold opening = 0
-  order = scrapy.Field()
+  # Name is empty for certain categories such as Monologue, Weekend Update, and 
+  # Goodnights.
+  name = scrapy.Field(type=basestring, optional=True)
+  skid = scrapy.Field(optional=True, type=basestring)
+  order = scrapy.Field(type=int, min=0)
+
+# A recurring sketch (having a /Sketches url on snlarchive)
+class Sketch(BaseSnlItem):
+  skid = scrapy.Field(pkey=True, type=basestring)
+  name = scrapy.Field(type=basestring)
 
 class Appearance(BaseSnlItem):
   aid = scrapy.Field()
   tid = scrapy.Field()
-  capacity = scrapy.Field()
-  role = scrapy.Field()
-  impid = scrapy.Field()
-  charid = scrapy.Field()
+  # 'music' basically just means a cameo by the week's musical guest
+  capacity = scrapy.Field(possible_values = {'cast', 'host', 'cameo', 'music'})
+  # The name of the credited role. Occasionally, this may be empty. This mostly happens
+  # in the monologue and Weekend Update, and means they're playing themselves. 
+  role = scrapy.Field(optional=True)
+  impid = scrapy.Field(optional=True)
+  charid = scrapy.Field(optional=True, type=int)
   voice = scrapy.Field(default=False)
 
 class Character(BaseSnlItem):
-  charid = scrapy.Field(pkey=True)
+  charid = scrapy.Field(pkey=True, type=int)
   name = scrapy.Field()
   aid = scrapy.Field()
 
