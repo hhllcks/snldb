@@ -130,17 +130,28 @@ def crawl(tids):
   return collector.items
 
 named_tids = dict(
-  # S27 E20
+  # S27 E20 (Winona Ryder)
   jeopardy = '200205183',
   botox = '200205186',
   lovers = '2002051810',
 
-  # S39 E4
+  # S39 E4 (Edward Norton)
   cold_open_obamacare = '201310261',
   monologue_ed_norton = '201310262',
 )
 
 all_tids = named_tids.values()
+
+# Useful as a check to make sure that if an episode has n titles, then that many get scraped.
+# But as long as there's no on-disk caching layer, I'm going to leave it off by default, to
+# keep the number of requests per test invocation low.
+SCRAPE_FULL_EP = 0
+if SCRAPE_FULL_EP:
+  full_episode = dict(epid='20020518', ntitles=14)
+  full_episode_tids = [ full_episode['epid'] + str(i+1) for i in range(full_episode['ntitles']) ]
+
+  dedupe_list = lambda lst: list(set(lst))
+  all_tids = dedupe_list(all_tids + full_episode_tids)
 
 @pytest.fixture(scope="module")
 def basket():
