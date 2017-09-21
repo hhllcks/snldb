@@ -25,9 +25,19 @@ class Sid(object):
     date = Tid.to_date(tid)
     return cls.from_date(date)
 
+  @classmethod
+  def from_epid(cls, epid):
+    date = Epid.to_date(epid)
+    return cls.from_date(date)
+
 class Epid(object):
 
   @staticmethod
   def from_tid(tid):
     epid_len = 4 + 2 + 2
     return tid[:epid_len]
+  
+  @staticmethod
+  def to_date(epid):
+    year, month, day = map(int, [epid[:4], epid[4:6], epid[6:8]])
+    return datetime.date(year, month, day)

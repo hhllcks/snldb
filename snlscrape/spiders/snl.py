@@ -21,35 +21,53 @@ from snlscrape.items import *
 # the navigation is with js. So probably technically tricky.
 
 class UnrecognizedActorException(Exception):
-  pass
+  def __init__(self, name, *args, **kwargs):
+    super(UnrecognizedActorException, self).__init__(*args, **kwargs)
+    self.name = name
 
 class SnlSpider(scrapy.Spider):
   name = 'snlspider'
   start_urls = ['http://www.snlarchives.net/Seasons/']
   base_url = "http://www.snlarchives.net"
 
+  def _target_ids_from_settings(self, idtype):
+    assert idtype in ('tid', 'epid', 'sid')
+    id_attr = 'SNL_TARGET_{}'.format(idtype.upper())
+    single_target = self.settings.get(id_attr)
+    multi_attr = id_attr + 'S'
+    multi_target = self.settings.getlist(multi_attr)
+    assert not (single_target and multi_target)
+    if single_target:
+      return {single_target}
+    elif multi_target:
+      return set(multi_target)
+    else:
+      return set()
+
+  # target_* properties: an empty value is intepreted as "everything"
   @property
   def target_tids(self):
-    return self.settings.getlist('SNL_TARGET_TIDS', default=[])
-
-  @lazy
-  def target_sids(self):
-    return set([helpers.Sid.from_tid(tid) for tid in self.target_tids])
+    return self._target_ids_from_settings('tid')
 
   @lazy
   def target_epids(self):
-    return set([helpers.Epid.from_tid(tid) for tid in self.target_tids])
+    inherited = set([helpers.Epid.from_tid(tid) for tid in self.target_tids])
+    return set.union(inherited, self._target_ids_from_settings('epid'))
+
+  @lazy
+  def target_sids(self):
+    inherited = set([helpers.Sid.from_epid(epid) for epid in self.target_epids])
+    return set.union(inherited, self._target_ids_from_settings('sid'))
+
 
   def interested(self, item):
     """Do we want to recurse on this item?"""
-    if not self.target_tids:
-      return True
     if isinstance(item, Season):
-      return item['sid'] in self.target_sids
+      return not self.target_sids or item['sid'] in self.target_sids
     elif isinstance(item, Episode):
-      return item['epid'] in self.target_epids
+      return not self.target_epids or item['epid'] in self.target_epids
     elif isinstance(item, Title):
-      return item['tid'] in self.target_tids
+      return not self.target_tids or item['tid'] in self.target_tids
     else:
       assert False, "What're you doing passing this: {}".format(item)
 
@@ -71,7 +89,7 @@ class SnlSpider(scrapy.Spider):
       try:
         actor = extra_cast_lookup[actor_name]
       except KeyError:
-        raise UnrecognizedActorException
+        raise UnrecognizedActorException(name=actor_name)
     else:
       actor = self.actor_from_link(actor_link)
 
@@ -172,11 +190,15 @@ class SnlSpider(scrapy.Spider):
     episode = Episode(sid=sid, epid=epid)
 
     hosts = []
+    # NB: I don't think there's any reason to distinguish between the below lists (they just get lumped together at the end)
     cameos = []
     musical_guests = []
+    filmed_cameos = []
     actor_fieldname_to_list = {'Host:': hosts, 'Hosts:': hosts,
         'Cameo:': cameos, 'Cameos:': cameos,
+        'Special Guest:': cameos, 'Special Guests:': cameos,
         'Musical Guest:': musical_guests, 'Musical Guests:': musical_guests,
+        'Filmed Cameo:': filmed_cameos, 'Filmed Cameos:': filmed_cameos,
         }
     # Parse table with basic episode metadata (date, host, musical guest, cameos...)
     # TODO: Some fields not currently parsed (musical guest, cameo, filmed cameos), which
@@ -195,14 +217,13 @@ class SnlSpider(scrapy.Spider):
         except ValueError:
           raise Exception("Couldn't parse epno from values = {}. (Was this a special?)".format(
             values, response.url))
-          episode['epno'] = None
       elif field in actor_fieldname_to_list:
         dest = actor_fieldname_to_list[field]
         for actor_ele in valueTd.css('a'):
           actor = self.actor_from_link(actor_ele)
           dest.append(actor)
 
-    extra_actors = hosts + cameos + musical_guests
+    extra_actors = hosts + cameos + musical_guests + filmed_cameos
     extra_lookup = {a['name']: a for a in extra_actors}
 
     yield episode
@@ -264,8 +285,8 @@ class SnlSpider(scrapy.Spider):
         actor, actor_title = self.parse_cast_entry_tr(cast_entry, extra_cast,
             sketch['tid'])
       except UnrecognizedActorException as e:
-        logging.warn('Skipping unparseable row in sketch {}:\n{}'.format(
-          response.url, cast_entry))
+        logging.warn('Skipping unparseable row in sketch {}:\n{}\n{} not among extra_cast = {}'.format(
+          response.url, cast_entry, e.name, extra_cast))
         continue
       yield actor
       
@@ -284,14 +305,17 @@ class SnlSpider(scrapy.Spider):
         yield actor_title
         aids_this_title[aid] = actor_title
       else:
-        logging.warn('Actor {} appeared multiple times in sketch at {}'.format(
-          actor['name'], response.url))
         prev = aids_this_title[aid]
         # if both roles have a name, and those names are distinct, then maybe they
         # did legit appear in the same sketch twice in two different roles/capacities.
         # can happen rarely.
         a_role, b_role = actor_title.get('role'), prev.get('role')
         if a_role and b_role and (a_role != b_role):
+          yield actor_title
+        else:
+          logging.warn('Actor {} appeared multiple times in sketch at {}, and one role was empty, or both were the same.'.format(
+            actor['name'], response.url))
+          # Y'know what, just yield it anyways for now.
           yield actor_title
         # (God help us if actors appear more than twice in the same sketch...)
 

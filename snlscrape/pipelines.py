@@ -6,6 +6,7 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 import os
+import logging
 from collections import defaultdict
 
 import scrapy.exporters
@@ -49,6 +50,9 @@ class MultiJsonExportPipeline(object):
   def exporter_for_item(self, item):
     classname = item.__class__.__name__ 
     table_name = classname.lower() + 's'
+    # sketchs is enough to drive me crazy
+    if classname == 'Sketch':
+      table_name = 'sketches'
     if table_name not in self.exporters:
       fname = '{}.json'.format(table_name)
       path = os.path.join(self.output_dir, fname)
@@ -78,7 +82,13 @@ class ValidatorPipeline(object):
       try:
         self.validate_field_value(meta, value, fieldname)
       except AssertionError as e:
-        raise FieldValidationException(e.message)
+        #raise FieldValidationException(e.message)
+        # Actually, raising an exception here is probably a bit too harsh, since
+        # I believe it'll have the affect of supressing the item from the output.
+        # And it'd be annoying for an otherwise good full scrape to have a few missing
+        # items here and there because there was a title category I forgot to include
+        # or something.
+        logging.warn('Validation error on item: {}\n{}'.format(item, e.message))
     return item
 
   def validate_field_value(self, field, value, fieldname):
@@ -93,7 +103,7 @@ class ValidatorPipeline(object):
       assert value >= field['min'], "Value {} for field {} less than minimum = {}".format(
           value, fieldname, field['min'])
     if 'possible_values' in field:
-      assert (value in field['possible_values'],
+      assert value in field['possible_values'], (
         "Value {} for field {} not among possible values: {}".format(
             value, fieldname, field['possible_values'])
         )

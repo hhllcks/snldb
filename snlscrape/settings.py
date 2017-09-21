@@ -11,9 +11,15 @@
 
 ######### SNL custom settings
 
-#SNL_TARGET_TIDS = None
-# XXX
-SNL_TARGET_TIDS = ['2002051810', '2005111211']
+# (See the target_* properties on SnlSpider)
+SNL_TARGET_TIDS = None
+SNL_TARGET_TID = None
+
+SNL_TARGET_EPIDS = None
+SNL_TARGET_EPID = None
+
+SNL_TARGET_SIDS = None
+SNL_TARGET_SID = None
 
 #########
 
@@ -21,6 +27,8 @@ BOT_NAME = 'snlscrape'
 
 SPIDER_MODULES = ['snlscrape.spiders']
 NEWSPIDER_MODULE = 'snlscrape.spiders'
+
+LOG_FORMATTER = 'snlscrape.format.SilentDropFormatter'
 
 ITEM_PIPELINES = {
     'snlscrape.pipelines.EntityDedupePipeline': 300,
@@ -35,7 +43,7 @@ LOG_LEVEL = 'INFO'
 CONCURRENT_REQUESTS = 1
 
 # See also autothrottle settings and docs
-DOWNLOAD_DELAY = .25
+DOWNLOAD_DELAY = .5
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16

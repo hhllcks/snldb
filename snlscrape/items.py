@@ -48,8 +48,9 @@ class Episode(BaseSnlItem):
   # like dates, e.g. '20020518'
   epid = scrapy.Field(type=basestring)
   # epno = n -> this is the nth episode of the season (starting from 0)
-  # may be None if this is a special episode (e.g. anniversary special)
-  epno = scrapy.Field(type=int, min=0, optional=True)
+  # Specials have no epno, but for the moment I'm making a deliberate 
+  # decision to exclude them from the scrape.
+  epno = scrapy.Field(type=int, min=0)
   # Could maybe do the 'foreign key' thing more elegantly with some 
   # metaclass magic, but don't want to mess around with that too much
   # since scrapy is clearly already doing some metaclass magic here.
@@ -82,7 +83,14 @@ class Title(BaseSnlItem):
   epid = scrapy.Field(type=basestring)
   category = scrapy.Field(possible_values = {
     'Cold Opening', 'Monologue', 'Sketch', 'Show', 'Film', 'Musical Performance',
-    'Weekend Update', 'Goodnights', 'Guest Performance',
+    'Weekend Update', 'Goodnights', 'Guest Performance', 'Commercial',
+    'Miscellaneous', 'Game Show',
+    # This one only seems to show up in 81-82
+    'Talent Entrance',
+    # I guess like an intro to a musical act or something? e.g. http://www.snlarchives.net/Episodes/?1982121112
+    'Intro', 
+    # Off-brand Weekend Update during Ebersol years
+    'Saturday Night News', 'SNL Newsbreak',
     })
   # Name is empty for certain categories such as Monologue, Weekend Update, and 
   # Goodnights.
@@ -98,8 +106,12 @@ class Sketch(BaseSnlItem):
 class Appearance(BaseSnlItem):
   aid = scrapy.Field()
   tid = scrapy.Field()
-  # 'music' basically just means a cameo by the week's musical guest
-  capacity = scrapy.Field(possible_values = {'cast', 'host', 'cameo', 'music'})
+  capacity = scrapy.Field(possible_values = {
+    'cast', 'host', 'cameo', 
+    'music', # cameo by musical guest  
+    'filmed', # filmed cameo
+    'guest', # 'special guest' - so far only seen for muppets in 75
+    })
   # The name of the credited role. Occasionally, this may be empty. This mostly happens
   # in the monologue and Weekend Update, and means they're playing themselves. 
   role = scrapy.Field(optional=True)
