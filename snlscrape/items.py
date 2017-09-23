@@ -84,13 +84,18 @@ class Title(BaseSnlItem):
   category = scrapy.Field(possible_values = {
     'Cold Opening', 'Monologue', 'Sketch', 'Show', 'Film', 'Musical Performance',
     'Weekend Update', 'Goodnights', 'Guest Performance', 'Commercial',
-    'Miscellaneous', 'Game Show',
+    'Miscellaneous', 'Game Show', 'In Memoriam', 
+    'Cartoon',
+    'Musical Sketch',
     # This one only seems to show up in 81-82
     'Talent Entrance',
     # I guess like an intro to a musical act or something? e.g. http://www.snlarchives.net/Episodes/?1982121112
     'Intro', 
     # Off-brand Weekend Update during Ebersol years
     'Saturday Night News', 'SNL Newsbreak',
+    # idk what this is. Example: http://www.snlarchives.net/Episodes/?201410118
+    'Encore Presentation',
+    'Award Show',
     })
   # Name is empty for certain categories such as Monologue, Weekend Update, and 
   # Goodnights.

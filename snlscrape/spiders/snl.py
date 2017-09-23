@@ -215,8 +215,9 @@ class SnlSpider(scrapy.Spider):
         try:
           episode['epno'] = int(epstr.split(' ')[0][1:]) - 1
         except ValueError:
-          raise Exception("Couldn't parse epno from values = {}. (Was this a special?)".format(
+          logging.warn("Couldn't parse epno from values = {}. (Was this a special?)".format(
             values, response.url))
+          return
       elif field in actor_fieldname_to_list:
         dest = actor_fieldname_to_list[field]
         for actor_ele in valueTd.css('a'):
