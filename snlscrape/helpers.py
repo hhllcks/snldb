@@ -20,6 +20,13 @@ class Sid(object):
       sid -= 1
     return sid
 
+  @staticmethod
+  def from_year(year):
+    """Sometimes snlarchive gives a single year to represent a season (e.g. in the
+    season urls). It always refers to the year in which the season starts.
+    """
+    return 1 + (year - 1975)
+
   @classmethod
   def from_tid(cls, tid):
     date = Tid.to_date(tid)

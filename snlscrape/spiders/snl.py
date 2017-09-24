@@ -1,5 +1,4 @@
 import scrapy
-import re
 import string
 import logging
 
@@ -19,6 +18,9 @@ from snlscrape.items import *
 # currently getting by scraping a page per sketch/segment. Using that could reduce the number
 # of requests needed by an order of magnitude. However, those tabs seemingly don't have permalinks -
 # the navigation is with js. So probably technically tricky.
+
+# XXX: Y'know what, it actually looks like the content of all those tabs is present in the
+# html on load. The js just deals with hiding/showing. So this shouldn't actually be that hard.
 
 class UnrecognizedActorException(Exception):
   def __init__(self, name, *args, **kwargs):

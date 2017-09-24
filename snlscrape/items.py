@@ -43,20 +43,6 @@ class Season(BaseSnlItem):
   # Year in which the season began (e.g. season 1 has year 1975)
   year = scrapy.Field(type=int)
 
-class Episode(BaseSnlItem):
-  # We use the ids snlarchives use in their urls. In practice, these look
-  # like dates, e.g. '20020518'
-  epid = scrapy.Field(type=basestring)
-  # epno = n -> this is the nth episode of the season (starting from 0)
-  # Specials have no epno, but for the moment I'm making a deliberate 
-  # decision to exclude them from the scrape.
-  epno = scrapy.Field(type=int, min=0)
-  # Could maybe do the 'foreign key' thing more elegantly with some 
-  # metaclass magic, but don't want to mess around with that too much
-  # since scrapy is clearly already doing some metaclass magic here.
-  sid = scrapy.Field()
-  aired = scrapy.Field(type=basestring)
-
 # Not sure if I want to track info about musical guests and performances.
 # If so, might want to rename this 'Performer'
 class Actor(BaseSnlItem):
@@ -71,6 +57,33 @@ class Actor(BaseSnlItem):
   # which lets us distinguish times that the same person has appeared as cast member
   # vs. host vs. cameo vs. ...)
   type = scrapy.Field(possible_values = {'cast', 'guest', 'crew'})
+
+class Cast(BaseSnlItem):
+  """A cast member on a particular season."""
+  aid = scrapy.Field(type=basestring)
+  sid = scrapy.Field(type=int, min=1)
+  # Was this cast member a "featured player" during this season? (This is the level
+  # most cast members start at)
+  featured = scrapy.Field(type=bool, default=False)
+  update_anchor = scrapy.Field(type=bool, default=False)
+  # These fields are only present if this person wasn't present for the full
+  # season (i.e. they started in the middle of a season, or left early)
+  first_epid = scrapy.Field(type=basestring, optional=True)
+  last_epid = scrapy.Field(type=basestring, optional=True)
+
+class Episode(BaseSnlItem):
+  # We use the ids snlarchives use in their urls. In practice, these look
+  # like dates, e.g. '20020518'
+  epid = scrapy.Field(type=basestring)
+  # epno = n -> this is the nth episode of the season (starting from 0)
+  # Specials have no epno, but for the moment I'm making a deliberate 
+  # decision to exclude them from the scrape.
+  epno = scrapy.Field(type=int, min=0)
+  # Could maybe do the 'foreign key' thing more elegantly with some 
+  # metaclass magic, but don't want to mess around with that too much
+  # since scrapy is clearly already doing some metaclass magic here.
+  sid = scrapy.Field()
+  aired = scrapy.Field(type=basestring)
 
 class Host(BaseSnlItem):
   # NB: an episode may have more than one host.
