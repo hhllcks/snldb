@@ -103,11 +103,15 @@ class SnlSpider(scrapy.Spider):
     return actor, app
 
   def parse_role_cell(self, role_td, appearance):
-    rolename = role_td.css('::text').extract_first().strip()
-    voice_suffix = ' (voice)'
-    if rolename.endswith(voice_suffix):
-      rolename = rolename[:-len(voice_suffix)]
-      appearance['voice'] = True
+    rolenames = role_td.css('::text').extract()
+    rolename = rolenames[0].strip()
+    if len(rolenames) > 1:
+      if rolenames[1].strip() == '(voice)':
+        appearance['voice'] = True
+      else:
+        logging.warn('Unrecognized role part: {} in role td {}'.format(rolenames[1], role_td))
+      if len(rolenames) > 2:
+        logging.warn('Unexpectedly large number of elements in role td: {}'.format(rolenames))
     appearance['role'] = rolename
     role_link = role_td.css('a')
     if role_link:

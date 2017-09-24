@@ -247,8 +247,10 @@ def test_multiple_appearances(basket):
   aid = basket.get(Actor, key='aid', name='Ana Gasteyer')
   apps = basket.get_matches(Appearance, by='role', tid=tid, aid=aid)
   assert len(apps) == 2
-  
   assert set(apps.keys()) == {'announcer', 'user'}
+
+  announcer = apps['announcer']
+  assert announcer['voice']
 
 def test_impression(basket):
   tid = named_tids['cold_open_obamacare']

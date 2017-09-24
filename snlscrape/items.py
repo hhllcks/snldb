@@ -82,20 +82,37 @@ class Title(BaseSnlItem):
   tid = scrapy.Field(type=basestring)
   epid = scrapy.Field(type=basestring)
   category = scrapy.Field(possible_values = {
-    'Cold Opening', 'Monologue', 'Sketch', 'Show', 'Film', 'Musical Performance',
-    'Weekend Update', 'Goodnights', 'Guest Performance', 'Commercial',
-    'Miscellaneous', 'Game Show', 'In Memoriam', 
-    'Cartoon',
-    'Musical Sketch',
+    # Standard 1-every-episode things
+    'Cold Opening', 'Monologue', 'Goodnights', 
+    # Update, and a couple off-brand versions that ran during Ebersol years
+    'Weekend Update', 'Saturday Night News', 'SNL Newsbreak',
+
+    # Sketches
+    'Sketch', 'Musical Sketch',
+    # These are just (live) sketches that take the format of a tv show / game show
+    # (May be a fake show, or a parody of a real show.)
+    'Show', 'Game Show',
+    # Again, just a live sketch that takes the form of an awards show (real or fake)
+    'Award Show',
+
+    # Recorded segments
+    'Film', 'Commercial', 'Cartoon',
+
+    'Musical Performance',
+    # In recent years, this category has been mostly used for musical performances by 
+    # someone other than the musical guest (e.g. whatever the hell happened with the Baha
+    # men in 2000 here: http://www.snlarchives.net/Episodes/?200010217)
+    # Back in the 70's and 80's, they did some other stuff like guest magic performances
+    # by Penn and Teller (which I guess were a regular thing around '86?) and guests
+    # doing a set of stand-up comedy
+    'Guest Performance', 
+    'Miscellaneous', 'In Memoriam', 
     # This one only seems to show up in 81-82
     'Talent Entrance',
     # I guess like an intro to a musical act or something? e.g. http://www.snlarchives.net/Episodes/?1982121112
     'Intro', 
-    # Off-brand Weekend Update during Ebersol years
-    'Saturday Night News', 'SNL Newsbreak',
     # idk what this is. Example: http://www.snlarchives.net/Episodes/?201410118
     'Encore Presentation',
-    'Award Show',
     })
   # Name is empty for certain categories such as Monologue, Weekend Update, and 
   # Goodnights.
