@@ -119,7 +119,18 @@ class Title(BaseSnlItem):
     # by Penn and Teller (which I guess were a regular thing around '86?) and guests
     # doing a set of stand-up comedy
     'Guest Performance', 
-    'Miscellaneous', 'In Memoriam', 
+    # 'Miscellaneous' examples:
+    # - Jan Hooks Tribute (http://www.snlarchives.net/Episodes/?201410117). Is this different from In Memoriam?
+    # - Sometimes they look a lot like normal bits. e.g. 
+    #   - 'Backstage' (2015) looks pretty much like a live sketch? http://www.snlarchives.net/Episodes/?2015110711
+    #           - (these 'Backstage' bits seem to be a long-running thing. Lots of examples going back to at least the early 90's
+    #   - 'Star Wars Auditions' (2015). Wasn't this basically a digital short? http://www.snlarchives.net/Episodes/?201511216
+    #   - Melania Moments (2016)
+    #   - These two untitled segments from a 2017 ep featuring Kate's Kellyanne Conway: Episodes/?201703046, ?201703049
+    # Seems like the vast majority of these are 'bits', so I'm inclined to lump them in with sketches etc. for the
+    # purposes of computing airtime etc. 
+    'Miscellaneous', 
+    'In Memoriam', 
     # This one only seems to show up in 81-82
     'Talent Entrance',
     # I guess like an intro to a musical act or something? e.g. http://www.snlarchives.net/Episodes/?1982121112
