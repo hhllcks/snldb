@@ -9,14 +9,6 @@ from lazy import lazy
 from snlscrape import helpers
 from snlscrape.items import *
 
-# TODO: The 'full summary' tab in snlarchive episode pages has all the information that we're
-# currently getting by scraping a page per sketch/segment. Using that could reduce the number
-# of requests needed by an order of magnitude. However, those tabs seemingly don't have permalinks -
-# the navigation is with js. So probably technically tricky.
-
-# Actually, y'know what, it looks like the content of all those tabs is present in the
-# html on load. The js just deals with hiding/showing. So this shouldn't actually be that hard.
-
 def removeTags(sXML):
   cleanr = re.compile('<.*?>')
   sText = re.sub(cleanr, '', sXML)
@@ -224,66 +216,53 @@ class SnlSpider(scrapy.Spider):
 
     for host_actor in hosts:
       yield Host(epid=epid, aid=host_actor['aid'])
-    # initially the titles tab is opened
+
     order = -1 # Record the relative order of sketches
     for sketchInfo in response.css("div.sketchWrapper"):
       order += 1
-      sketch = Title(epid=epid, order=order)
-      # e.g. /Episodes/?197510111
-      href_url = sketchInfo.css("a ::attr(href)").extract_first()
-      # TODO: almost all of this metadata (everything except order, which is kind
-      # of inferrable from the url anyways), is accessible from the sketch page.
-      # Scraping it there (and therefore in the parseTitle method) would make for
-      # a much cleaner separation of concerns.
-      sketch['tid'] = href_url.split('?')[1]
-      if not self.interested(sketch):
-        continue
-      # In some cases, the sketch name may not be contained to a single node. e.g. the SNL
-      # digital short in this episode: http://www.snlarchives.net/Episodes/?20051217
-      sketch['name'] = ''.join(sketchInfo.css(".title ::text").extract())
-      sketch['category'] = sketchInfo.css(".type ::text").extract_first()
+      for thing in self.parseSketchDiv(sketchInfo, order, episode['epid'], extra_lookup):
+        yield thing
 
-      title_url = sketchInfo.css(".title a ::attr(href)").extract_first()
-      if title_url:
-        if title_url.startswith('/Sketches/'):
-          skid = self.id_from_url(title_url)
-          sketch['skid'] = skid 
-          # The name for the series of recurring sketches may not be the same as the name of
-          # this instance of the recurring sketch. e.g. 'SNL Digital Short - Lazy Sunday' vs.
-          # 'SNL Digital Short'
-          name = sketchInfo.css('.title a ::text').extract_first()
-          rec_sketch = Sketch(skid=skid, name=name)
-          yield rec_sketch
-        elif title_url.startswith('/Commercials/'):
-          # meh. We could add another item type for Commercials and add a foreign key
-          # here. I'm not sure it's worth it though - commercial parodies that are
-          # repeated seem to be *very* rare.
-          pass
-        else:
-          logging.warn('Unrecognized title url format: {}'.format(title_url))
 
-      sketch_url = self.base_url + href_url
-      if not self.interested(sketch):
-        continue
-      yield scrapy.Request(sketch_url, callback=self.parseTitle, 
-            meta={'title': sketch, 'episode': episode, 'extra_cast': extra_lookup},
-          )
-
-  def parseTitle(self, response):
-    """Example url: http://www.snlarchives.net/Episodes/?201503287
+  def parseSketchDiv(self, sketchInfo, order, epid, extra_cast):
+    """Yield a Title, and any other associated entities, given a 'div.sketchWrapper'
+    from an snlarchive episode page.
     """
-    sketch = response.meta['title']
-    extra_cast = response.meta['extra_cast']
-    if sketch['category'] in ('Musical Performance', 
-      'Guest Performance',
-      ):
-      # Nothing to do here. There are no roles, no 'ActorTitle' rows to add,
-      # no impressions or characters. (Probably)
-      yield sketch
+    title = Title(order=order, epid=epid)
+    # e.g. /Episodes/?197510111
+    href_url = sketchInfo.css("a ::attr(href)").extract_first()
+    title['tid'] = href_url.split('?')[1]
+    if not self.interested(title):
       raise StopIteration
+    # In some cases, the sketch name may not be contained to a single node. e.g. the SNL
+    # digital short in this episode: http://www.snlarchives.net/Episodes/?20051217
+    title['name'] = ''.join(sketchInfo.css(".title ::text").extract())
+    title['category'] = sketchInfo.css(".type ::text").extract_first()
+
+    title_url = sketchInfo.css(".title a ::attr(href)").extract_first()
+    # If the title is linkfified, that means it has an snlarchive page under /Sketches or /Commercials
+    if title_url:
+      if title_url.startswith('/Sketches/'):
+        skid = self.id_from_url(title_url)
+        title['skid'] = skid 
+        # The name for the series of recurring sketches may not be the same as the name of
+        # this instance of the recurring sketch. e.g. 'SNL Digital Short - Lazy Sunday' vs.
+        # 'SNL Digital Short'
+        name = sketchInfo.css('.title a ::text').extract_first()
+        rec_sketch = Sketch(skid=skid, name=name)
+        yield rec_sketch
+      elif title_url.startswith('/Commercials/'):
+        # meh. We could add another item type for Commercials and add a foreign key
+        # here. I'm not sure it's worth it though - commercial parodies that are
+        # repeated seem to be *very* rare.
+        pass
+      else:
+        logging.warn('Unrecognized title url format: {}'.format(title_url))
+
     aids_this_title = {}
-    for cast_entry in response.css(".roleTable > tr"):
-      actor, app = self.parse_cast_entry_tr(cast_entry, extra_cast, sketch['tid'])
+    # Parse the Appearances in this title
+    for cast_entry in sketchInfo.css(".roleTable > tr"):
+      actor, app = self.parse_cast_entry_tr(cast_entry, extra_cast, title['tid'])
       yield actor
       
       aid = actor['aid']
@@ -310,13 +289,14 @@ class SnlSpider(scrapy.Spider):
           yield app
         else:
           # Example where this happens: http://www.snlarchives.net/Episodes/?200604158
-          logging.warn('Actor {} appeared multiple times in sketch at {}, and one role was empty, or both were the same.'.format(
-            actor['aid'], response.url))
+          logging.warn('Actor {} appeared multiple times in sketch with tid={}, and one '
+          'role was empty, or both were the same.'.format(
+            actor['aid'], title['tid']))
           # Y'know what, just yield it anyways for now.
           yield app
         # (God help us if actors appear more than twice in the same sketch...)
 
-    yield sketch
+    yield title
 
   def parse_cast_entry_tr(self, row, extra_cast_lookup, tid):
     """Parse a row that describes a cast member in a particular segment, and their role."""
