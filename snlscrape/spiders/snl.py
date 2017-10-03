@@ -1,6 +1,7 @@
 import scrapy
 import string
 import logging
+import re
 
 from collections import defaultdict
 from lazy import lazy
@@ -22,6 +23,11 @@ from snlscrape.items import *
 # XXX: Y'know what, it actually looks like the content of all those tabs is present in the
 # html on load. The js just deals with hiding/showing. So this shouldn't actually be that hard.
 
+def removeTags(sXML):
+  cleanr = re.compile('<.*?>')
+  sText = re.sub(cleanr, '', sXML)
+  return sText
+
 class UnrecognizedActorException(Exception):
   def __init__(self, name, *args, **kwargs):
     super(UnrecognizedActorException, self).__init__(*args, **kwargs)
@@ -31,6 +37,8 @@ class SnlSpider(scrapy.Spider):
   name = 'snlspider'
   start_urls = ['http://www.snlarchives.net/Seasons/']
   base_url = "http://www.snlarchives.net"
+  base_url_imdb = "http://www.imdb.com/title/tt0072562/episodes?season="
+  printable = set(string.printable)
 
   def _target_ids_from_settings(self, idtype):
     assert idtype in ('tid', 'epid', 'sid')
@@ -140,6 +148,11 @@ class SnlSpider(scrapy.Spider):
       if not self.interested(item_season):
         continue
       yield item_season
+    
+      if self.settings.getbool('SNL_SCRAPE_IMDB'):
+        imdb_season_url = self.base_url_imdb + str(item_season['sid'])
+        yield scrapy.Request(imdb_season_url, callback=self.parseRatingsSeason, 
+            meta=dict(season=item_season))
 
       yield scrapy.Request(response.urljoin(next_page), callback=self.parseSeason, meta={'season': item_season})
 
@@ -161,6 +174,56 @@ class SnlSpider(scrapy.Spider):
             self.logger.warning('Lovers ep not interesting')
           continue
         yield scrapy.Request(episode_url, callback=self.parseEpisode, meta={'season': item_season})
+
+  def parseRatingsSeason(self, response):
+    # parsing the ratings of the episodes of a season
+    item_season = response.meta['season']
+    eid = 0
+    for episode in response.css(".eplist > .list_item > .image > a"):
+      item_rating = EpisodeRating(epno=eid, sid=item_season['sid'])
+      eid +=1
+      href_url = episode.css("a ::attr(href)").extract_first()
+      url_split = href_url.split("?")
+      href_url = "http://www.imdb.com" + url_split[0] + "ratings"
+      yield scrapy.Request(href_url, callback=self.parseRatingsEpisode, meta={'rating': item_rating})
+  
+  def parseRatingsEpisode(self, response): 
+    item_rating = response.meta['rating']
+    tables = response.css("table[cellpadding='0']")
+    
+    # 1st table is vote distribution on rating
+    # 2nd table is vote distribution on age and gender
+    ratingTable = tables[0]
+    ageGenderTable = tables[1]
+
+    trCount = 0
+    # histogram of ratings from 1-10
+    score_counts = {}
+    for tableTr in ratingTable.css("tr"):
+      if trCount > 0:
+        score = 11 - trCount
+        count = int(removeTags(tableTr.css("td")[0].extract()))
+        score_counts[score] = count
+      trCount += 1
+    item_rating['score_counts'] = score_counts
+    
+    trCount = 0
+    # Map from named demographic groups to avg scores, and counts
+    demo_avgs = {}
+    demo_counts = {}
+    for tableTr in ageGenderTable.css("tr"):
+      if trCount > 0:
+        tableTd = tableTr.css("td").extract()
+        if len(tableTd) > 1:
+          sKey = removeTags(tableTd[0]).lstrip().rstrip()
+          sValue = int(removeTags("".join(filter(lambda x: x in self.printable, tableTd[1]))))
+          sValueAvg = float(removeTags("".join(filter(lambda x: x in self.printable, tableTd[2]))))
+          demo_counts[sKey] = sValue
+          demo_avgs[sKey] = sValueAvg
+      trCount+=1
+    item_rating['demographic_averages'] = demo_avgs
+    item_rating['demographic_counts'] = demo_counts
+    yield item_rating
 
   @classmethod
   def actor_from_link(self, anchor):
@@ -234,6 +297,7 @@ class SnlSpider(scrapy.Spider):
     extra_lookup = {a['name']: a for a in extra_actors}
 
     yield episode
+
     assert len(hosts) > 0
     for host_actor in hosts:
       yield Host(epid=epid, aid=host_actor['aid'])

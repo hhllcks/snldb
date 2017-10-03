@@ -174,3 +174,14 @@ class Impression(BaseSnlItem):
   impid = scrapy.Field(pkey=True)
   name = scrapy.Field()
   aid = scrapy.Field()
+
+class EpisodeRating(BaseSnlItem):
+  """How an episode was rated by IMDB users."""
+  epno = scrapy.Field()
+  sid = scrapy.Field()
+  # For each possible score from 1-10, how many users chose that score for this episode?
+  score_counts = scrapy.Field(type=dict, keys=set(range(1, 11)))
+  # Map from demographic string (e.g. 'Females age 45+') to average score.
+  demographic_averages = scrapy.Field(type=dict)
+  # Same keys as above, mapped to number of votes
+  demographic_counts = scrapy.Field(type=dict)

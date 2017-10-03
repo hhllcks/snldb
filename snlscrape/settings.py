@@ -21,6 +21,12 @@ SNL_TARGET_EPID = None
 SNL_TARGET_SIDS = None
 SNL_TARGET_SID = None
 
+# Whether to scrape IMDB user ratings of episodes.
+SNL_SCRAPE_IMDB = True
+
+# The name of the directory to write json files to (one file per class in items.py)
+SNL_OUTPUT_DIR = 'output'
+
 #########
 
 BOT_NAME = 'snlscrape'

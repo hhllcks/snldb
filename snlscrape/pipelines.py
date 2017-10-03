@@ -35,9 +35,13 @@ class MultiJsonExportPipeline(object):
   """Export to json - one json file for every entity type in items.py
   """
 
-  # TODO: This should probably be specified in settings or something? And using rel've
-  # paths can get wonky...
-  output_dir = 'output'
+  def __init__(self, output_dir):
+    self.output_dir = output_dir
+    assert os.path.isdir(output_dir), 'Directory {} does not exist'.format(output_dir)
+
+  @classmethod
+  def from_crawler(cls, crawler):
+    return cls(output_dir=crawler.settings.get('SNL_OUTPUT_DIR'))
 
   def open_spider(self, spider):
     self.exporters = {}
@@ -107,6 +111,8 @@ class ValidatorPipeline(object):
         "Value {} for field {} not among possible values: {}".format(
             value, fieldname, field['possible_values'])
         )
+    if 'keys' in field:
+      assert set(value.keys()) == set(field['keys'])
 
 class DefaultValueSetterPipeline(object):
 

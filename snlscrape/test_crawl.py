@@ -115,7 +115,6 @@ class CollectorExtension(object):
   def item_scraped(self, item, spider):
     self.items.add_item(item)
 
-
 def crawl(tids):
   settings = get_project_settings()
   settings.setmodule(snlscrape.settings_testing)
