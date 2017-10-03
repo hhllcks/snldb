@@ -19,6 +19,8 @@ from items import *
 # version that came before it. Could make allowances for somehow letting 'new' information
 # through. In practice, I'm dubious as to whether this would actually come up.
 class EntityDedupePipeline(object):
+  """Keeps track of seen entities and drops dupes (after matching on the 'pkey' field, if present).
+  """
 
   def open_spider(self, spider):
     self.seen = defaultdict(set)
@@ -75,11 +77,10 @@ class MultiJsonExportPipeline(object):
 class FieldValidationException(Exception):
   pass
 
-
-# TODO: Would be really nice to tie validation failures in this pipeline into
-# unit tests. Probably need to implement another testing exception that intercepts
-# the pipeline exceptions.
 class ValidatorPipeline(object):
+  """Validates an item's field values according to the per-field metadata in items.py.
+  Logs warnings on any validation failures.
+  """
 
   def process_item(self, item, spider):
     for fieldname, meta in item.fields.iteritems(): 
@@ -89,7 +90,7 @@ class ValidatorPipeline(object):
       except AssertionError as e:
         #raise FieldValidationException(e.message)
         # Actually, raising an exception here is probably a bit too harsh, since
-        # I believe it'll have the affect of supressing the item from the output.
+        # it'll have the affect of supressing the item from the output.
         # And it'd be annoying for an otherwise good full scrape to have a few missing
         # items here and there because there was a title category I forgot to include
         # or something.
@@ -99,7 +100,7 @@ class ValidatorPipeline(object):
   def validate_field_value(self, field, value, fieldname):
     if value is None:
       assert field.get('optional'), "No value for non-optional field {}".format(fieldname)
-      # If an optional field has no value, the other rules don't apply.
+      # If a field has no value, the other rules don't apply.
       return
     if 'type' in field:
       assert isinstance(value, field['type']), "Got value {} for field {}. Expected type {}.".format(
@@ -116,6 +117,8 @@ class ValidatorPipeline(object):
       assert set(value.keys()) == set(field['keys'])
 
 class DefaultValueSetterPipeline(object):
+  """If a field has no value but has a default specified in its metadata, set that default value.
+  """
 
   def process_item(self, item, spider):
     for fieldname, meta in item.fields.iteritems():

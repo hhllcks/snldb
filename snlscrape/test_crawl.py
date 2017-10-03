@@ -1,136 +1,22 @@
-import scrapy
-import scrapy.crawler
-from scrapy.utils.project import get_project_settings
-
 import pytest
 import datetime
 
 from snlscrape.items import *
 from snlscrape import helpers
-import snlscrape.items
-import snlscrape.settings_testing
-from snlscrape.spiders.snl import SnlSpider
+from snlscrape.crawl_test_helpers import crawl, assert_item_props
 
-# TODO: offline, Betamax, middleware, whatever
+# TODO: Right now this hits snlarchive servers on every run. Should try caching
+# responses using Betamax (as is done in test_cast_spider.py).
 
-# TODO: Organize this module, maybe split into additional modules.
-
-# TODO: Unfortunately the current mechanics of crawling and testing are good
+# NB: Unfortunately the current mechanics of crawling and testing are good
 # for testing recall but not precision. i.e. it's easy to declare which items
 # *should* be scraped and detect if they're missing, but harder to identify
 # items that were scraped but shouldn't have been. (Basically because we scrape
-# everything in one go, for technical twisted reasons, all scraped items are
+# everything in one go, for technical twisted reasons, and all scraped items are
 # in the same pool, so it'd be exhausting to enumerate every single item that
 # should be scraped.)
 
-# Sorry, this class was already pretty sprawling and crufty, and it got even more
-# crufty after refactoring Actor items to use name as primary key instead of old 'aid's
-class ItemBasket(object):
-
-  def __init__(self):
-    self.items = []
-
-  def add_item(self, item):
-    self.items.append(item)
-
-  def of_type(self, entity_type):
-    return [item for item in self.items if isinstance(item, entity_type)]
-
-  def actor_names(self):
-    return set(self.actor_lookup().keys())
-
-  def actor_lookup(self):
-    return self._get_name_lookup(Actor)
-
-  def _get_by_name(self, name, entity_type):
-    return self._get_name_lookup(entity_type)[name]
-
-  def _get_name_lookup(self, entity_type):
-    namekey = 'aid' if entity_type == Actor else 'name'
-    return {entity[namekey] : entity for entity in self.of_type(entity_type)}
-
-  def get_title(self, name):
-    return self._get_by_name(name, Title)
-
-  def get_actor(self, name):
-    return self._get_by_name(name, Actor)
-
-  def query(self, entity_type, **kwargs):
-    """Yield all items matching criteria.
-    """
-    cands = self.of_type(entity_type)
-    for cand in cands:
-      for (fieldname, target_val) in kwargs.items():
-        if cand.get(fieldname) != target_val:
-          break
-      # If we didn't break (i.e. no mismatch), then this is a good candidate
-      else:
-        yield cand
-
-  def get_matches(self, entity_type, by=None, **kwargs):
-    if by:
-      return {thing[by]: thing for thing in self.query(entity_type, **kwargs)}
-    return list(self.query(entity_type, **kwargs))
-
-  def get(self, entity_type, key=None, **kwargs):
-    """Return only item matching criteria.
-    """
-    things = self.get_matches(entity_type, **kwargs)
-    assert len(things) == 1
-    thing = things[0]
-    if key:
-      return thing[key]
-    else:
-      return thing
-
-  def by_actor(self, entities):
-    actor_lookup = self.get_matches(Actor, by='aid')
-    res = {}
-    for thing in entities:
-      name = thing['aid']
-      if name in res:
-        # We're not going above 2 for now
-        assert not isinstance(res[name], list)
-        res[name] = [res[name], thing]
-      else:
-        res[name] = thing
-    return res
-
-  def appearance_lookup(self, **kwargs):
-    apps = self.query(Appearance, **kwargs)
-    return self.by_actor(apps)
-
-  def get_host(self, name):
-    aid = self.get_actor(name)['aid']
-    return self.get(Host, aid=aid)
-
-class CollectorExtension(object):
-
-  def __init__(self):
-    self.items = ItemBasket()
-
-  @classmethod
-  def from_crawler(cls, crawler):
-    ext = cls()
-    crawler.signals.connect(ext.item_scraped, signal=scrapy.signals.item_scraped)
-    return ext
-
-  def item_scraped(self, item, spider):
-    self.items.add_item(item)
-
-def crawl(tids):
-  settings = get_project_settings()
-  settings.setmodule(snlscrape.settings_testing)
-  settings.set('SNL_TARGET_TIDS', tids)
-  crawler = scrapy.crawler.Crawler(SnlSpider, settings)
-
-  collector = CollectorExtension.from_crawler(crawler)
-
-  cp = scrapy.crawler.CrawlerProcess(settings)
-  cp.crawl(crawler)
-  cp.start()
-  return collector.items
-
+# tids for some particular sketches we want to crawl
 named_tids = dict(
   # S27 E20 (Winona Ryder)
   jeopardy = '200205183',
@@ -226,23 +112,6 @@ def test_lovers(basket):
   jf = apps['Jimmy Fallon']
   assert_item_props(jf, capacity='cast', role='Dave', charid=570)
 
-def assert_item_props(item, **kwargs):
-  """Do the given key, values match the given Item? i.e. are they a subset of
-  the Item's items (in the lowercase, dict sense)"""
-  for k, v in kwargs.items():
-    assert item.get(k) == v
-
-
-# Test the id utils in the helpers module
-def test_helpers():
-  tid = '2002051810' # lovers
-  date = helpers.Tid.to_date(tid)
-  assert date == datetime.date(2002, 5, 18)
-  sid = helpers.Sid.from_tid(tid)
-  assert sid == 27
-  epid = helpers.Epid.from_tid(tid)
-  assert epid == '20020518'
-
 # Test the case where the same actor appears in a sketch more than once.
 def test_multiple_appearances(basket):
   tid = named_tids['botox']
@@ -277,3 +146,14 @@ def test_recurring_sketch(basket):
   skid = title['skid']
   sketch = basket.get(Sketch, skid=skid)
   assert title['name'] == sketch['name'] == 'Jeopardy!'
+
+# Test the id utils in the helpers module
+def test_helpers():
+  tid = '2002051810' # lovers
+  date = helpers.Tid.to_date(tid)
+  assert date == datetime.date(2002, 5, 18)
+  sid = helpers.Sid.from_tid(tid)
+  assert sid == 27
+  epid = helpers.Epid.from_tid(tid)
+  assert epid == '20020518'
+

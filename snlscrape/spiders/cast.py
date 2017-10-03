@@ -4,6 +4,8 @@ from snlscrape import helpers
 from snlscrape.items import Cast
 
 class CastSpider(scrapy.Spider):
+  """A spider just responsible for scraping Cast items.
+  """
   name = 'castspider'
   start_urls = ['http://www.snlarchives.net/Cast/?FullList']
 

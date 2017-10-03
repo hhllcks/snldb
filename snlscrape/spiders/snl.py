@@ -14,7 +14,7 @@ from snlscrape.items import *
 # of requests needed by an order of magnitude. However, those tabs seemingly don't have permalinks -
 # the navigation is with js. So probably technically tricky.
 
-# XXX: Y'know what, it actually looks like the content of all those tabs is present in the
+# Actually, y'know what, it looks like the content of all those tabs is present in the
 # html on load. The js just deals with hiding/showing. So this shouldn't actually be that hard.
 
 def removeTags(sXML):
@@ -68,7 +68,8 @@ class SnlSpider(scrapy.Spider):
     return set.union(inherited, self._target_ids_from_settings('sid'))
 
   def interested(self, item):
-    """Do we want to recurse on this item?"""
+    """Should we yield this item and recurse on it (i.e. continue to the
+    episodes in this season, or the titles in this episode)?"""
     if isinstance(item, Season):
       return not self.target_sids or item['sid'] in self.target_sids
     elif isinstance(item, Episode):
@@ -77,6 +78,239 @@ class SnlSpider(scrapy.Spider):
       return not self.target_tids or item['tid'] in self.target_tids
     else:
       assert False, "What're you doing passing this: {}".format(item)
+
+  def parse(self, response):
+    """Parse the entry page - the listing of all seasons."""
+    # parsing snlarchives. Entrypoint is the seasons page at www.snlarchives.net/Seasons/
+    for season in response.css('div.thumbRectInner'):
+      sid = int(season.css('::text').extract_first())
+      year = 1974 + sid
+      next_page = '?{}'.format(year)
+
+      item_season = Season(sid=sid, year=year)
+      if not self.interested(item_season):
+        continue
+      yield item_season
+    
+      if self.settings.getbool('SNL_SCRAPE_IMDB'):
+        imdb_season_url = self.base_url_imdb + str(item_season['sid'])
+        yield scrapy.Request(imdb_season_url, callback=self.parseRatingsSeason, 
+            meta=dict(season=item_season))
+
+      yield scrapy.Request(response.urljoin(next_page), callback=self.parseSeason, meta={'season': item_season})
+
+  def parseRatingsSeason(self, response):
+    """From the IMDB page for a particular SNL season, crawl the user ratings for
+    all episodes in that season.
+    Example url: http://www.imdb.com/title/tt0072562/episodes?season=42
+    """
+    item_season = response.meta['season']
+    eid = 0
+    for episode in response.css(".eplist > .list_item > .image > a"):
+      item_rating = EpisodeRating(epno=eid, sid=item_season['sid'])
+      eid +=1
+      href_url = episode.css("a ::attr(href)").extract_first()
+      url_split = href_url.split("?")
+      href_url = "http://www.imdb.com" + url_split[0] + "ratings"
+      yield scrapy.Request(href_url, callback=self.parseRatingsEpisode, meta={'rating': item_rating})
+  
+  def parseRatingsEpisode(self, response):
+    """Parse the user ratings for a particular episode.
+    Example url: http://www.imdb.com/title/tt6075310/?ref_=ttep_ep1
+    """
+    item_rating = response.meta['rating']
+    tables = response.css("table[cellpadding='0']")
+    
+    # 1st table is vote distribution on rating
+    # 2nd table is vote distribution on age and gender
+    ratingTable = tables[0]
+    ageGenderTable = tables[1]
+
+    trCount = 0
+    # histogram of ratings from 1-10
+    score_counts = {}
+    for tableTr in ratingTable.css("tr"):
+      if trCount > 0:
+        score = 11 - trCount
+        count = int(removeTags(tableTr.css("td")[0].extract()))
+        score_counts[score] = count
+      trCount += 1
+    item_rating['score_counts'] = score_counts
+    
+    trCount = 0
+    # Map from named demographic groups to avg scores, and counts
+    demo_avgs = {}
+    demo_counts = {}
+    for tableTr in ageGenderTable.css("tr"):
+      if trCount > 0:
+        tableTd = tableTr.css("td").extract()
+        if len(tableTd) > 1:
+          sKey = removeTags(tableTd[0]).lstrip().rstrip()
+          sValue = int(removeTags("".join(filter(lambda x: x in self.printable, tableTd[1]))))
+          sValueAvg = float(removeTags("".join(filter(lambda x: x in self.printable, tableTd[2]))))
+          demo_counts[sKey] = sValue
+          demo_avgs[sKey] = sValueAvg
+      trCount+=1
+    item_rating['demographic_averages'] = demo_avgs
+    item_rating['demographic_counts'] = demo_counts
+    yield item_rating
+
+  def parseSeason(self, response):
+    """Parse a season, recursing into its episodes.
+    Example url: snlarchives.net/Seasons/?1975
+    """
+    item_season = response.meta['season']
+
+    for episode in response.css('a'):
+      href_url = episode.css("a ::attr(href)").extract_first()
+      if href_url.startswith("/Episodes/?") and len(href_url) == 19:
+        episode_url = self.base_url + href_url
+        dummy_ep = Episode(epid=self.id_from_url(episode_url))
+        if not self.interested(dummy_ep):
+          continue
+        yield scrapy.Request(episode_url, callback=self.parseEpisode, meta={'season': item_season})
+
+  def parseEpisode(self, response, target_tid=None):
+    """Parse an episode, recursing into its titles.
+    Example url: http://www.snlarchives.net/Episodes/?20150328
+    """
+    item_season = response.meta['season']
+    sid = item_season['sid']
+
+    epid = self.id_from_url(response.url)
+    episode = Episode(sid=sid, epid=epid)
+
+    hosts = []
+    # NB: I don't think there's any reason to distinguish between the below lists (they just get lumped together at the end)
+    cameos = []
+    musical_guests = []
+    filmed_cameos = []
+    actor_fieldname_to_list = {'Host:': hosts, 'Hosts:': hosts,
+        'Cameo:': cameos, 'Cameos:': cameos,
+        'Special Guest:': cameos, 'Special Guests:': cameos,
+        'Musical Guest:': musical_guests, 'Musical Guests:': musical_guests,
+        'Filmed Cameo:': filmed_cameos, 'Filmed Cameos:': filmed_cameos,
+        }
+    # Parse table with basic episode metadata (date, host, musical guest, cameos...)
+    for epInfoTr in response.css("table.epGuests tr"):
+      epInfoTd = epInfoTr.css("td")
+      fieldTd, valueTd = epInfoTd # e.g. ("<td><p>Host:</p></td>", "<td><p>Anna Faris</p></td>")
+      field = fieldTd.css("td p ::text").extract_first()
+      values = valueTd.css("td p ::text").extract()
+      if field == 'Aired:':
+        # e.g. "October 4, 2014 (", "<a href="/Seasons/?2014">S40</a>", "E2 / #768)"
+        datestr, seasonlink, epstr = values
+        episode['aired'] = datestr[:-2]
+        try:
+          episode['epno'] = int(epstr.split(' ')[0][1:]) - 1
+        except ValueError:
+          # NB: Currently deliberately skipping episodes that aren't part of a normal season.
+          logging.warn("Couldn't parse epno from values = {}. (Was this a special?)".format(
+            values, response.url))
+          return
+      elif field in actor_fieldname_to_list:
+        dest = actor_fieldname_to_list[field]
+        for actor_ele in valueTd.css('a'):
+          actor = self.actor_from_link(actor_ele)
+          dest.append(actor)
+
+    extra_actors = hosts + cameos + musical_guests + filmed_cameos
+    # We pass these extra people on when we parse this episodes titles. Just because of how snlarchive
+    # structures its pages, there's certain actor metadata available here that isn't available on
+    # the title pages, specifically in the case of hosts, cameos, and musical guests.
+    extra_lookup = {a['aid']: a for a in extra_actors}
+
+    yield episode
+
+    for host_actor in hosts:
+      yield Host(epid=epid, aid=host_actor['aid'])
+    # initially the titles tab is opened
+    order = -1 # Record the relative order of sketches
+    for sketchInfo in response.css("div.sketchWrapper"):
+      order += 1
+      sketch = Title(epid=epid, order=order)
+      # e.g. /Episodes/?197510111
+      href_url = sketchInfo.css("a ::attr(href)").extract_first()
+      # TODO: almost all of this metadata (everything except order, which is kind
+      # of inferrable from the url anyways), is accessible from the sketch page.
+      # Scraping it there (and therefore in the parseTitle method) would make for
+      # a much cleaner separation of concerns.
+      sketch['tid'] = href_url.split('?')[1]
+      if not self.interested(sketch):
+        continue
+      sketch['name'] = sketchInfo.css(".title ::text").extract_first()
+      sketch['category'] = sketchInfo.css(".type ::text").extract_first()
+
+      title_url = sketchInfo.css(".title a ::attr(href)").extract_first()
+      if title_url:
+        if title_url.startswith('/Sketches/'):
+          skid = self.id_from_url(title_url)
+          sketch['skid'] = skid 
+          rec_sketch = Sketch(skid=skid, name=sketch['name'])
+          yield rec_sketch
+        elif title_url.startswith('/Commercials/'):
+          # meh. We could add another item type for Commercials and add a foreign key
+          # here. I'm not sure it's worth it though - commercial parodies that are
+          # repeated seem to be *very* rare.
+          pass
+        else:
+          logging.warn('Unrecognized title url format: {}'.format(title_url))
+
+      sketch_url = self.base_url + href_url
+      if not self.interested(sketch):
+        continue
+      yield scrapy.Request(sketch_url, callback=self.parseTitle, 
+            meta={'title': sketch, 'episode': episode, 'extra_cast': extra_lookup},
+          )
+
+  def parseTitle(self, response):
+    """Example url: http://www.snlarchives.net/Episodes/?201503287
+    """
+    sketch = response.meta['title']
+    extra_cast = response.meta['extra_cast']
+    if sketch['category'] in ('Musical Performance', 
+      'Guest Performance',
+      ):
+      # Nothing to do here. There are no roles, no 'ActorTitle' rows to add,
+      # no impressions or characters. (Probably)
+      yield sketch
+      raise StopIteration
+    aids_this_title = {}
+    for cast_entry in response.css(".roleTable > tr"):
+      actor, app = self.parse_cast_entry_tr(cast_entry, extra_cast, sketch['tid'])
+      yield actor
+      
+      aid = actor['aid']
+      # Since Character and Impression entities are derivable from the corresponding
+      # Appearance entities, I was hoping to put the logic for generating them in a 
+      # pipeline, but scrapy pipelines can't yield multiple items :(
+      # https://github.com/scrapy/scrapy/issues/1915
+      impid, charid = app.get('impid'), app.get('charid')
+      if impid:
+        yield Impression(impid=impid, aid=aid, name=app['role'])
+      if charid:
+        yield Character(charid=charid, aid=aid, name=app['role'])
+
+      if aid not in aids_this_title:
+        yield app
+        aids_this_title[aid] = app
+      else:
+        prev = aids_this_title[aid]
+        # if both roles have a name, and those names are distinct, then maybe they
+        # did legit appear in the same sketch twice in two different roles/capacities.
+        # can happen rarely. e.g. http://www.snlarchives.net/Episodes/?2005111211
+        a_role, b_role = app.get('role'), prev.get('role')
+        if a_role and b_role and (a_role != b_role):
+          yield app
+        else:
+          # Example where this happens: http://www.snlarchives.net/Episodes/?200604158
+          logging.warn('Actor {} appeared multiple times in sketch at {}, and one role was empty, or both were the same.'.format(
+            actor['aid'], response.url))
+          # Y'know what, just yield it anyways for now.
+          yield app
+        # (God help us if actors appear more than twice in the same sketch...)
+
+    yield sketch
 
   def parse_cast_entry_tr(self, row, extra_cast_lookup, tid):
     """Parse a row that describes a cast member in a particular segment, and their role."""
@@ -158,96 +392,6 @@ class SnlSpider(scrapy.Spider):
         raise Exception('Unrecognized role URL: {}'.format(href))
     return appearance
 
-  def parse(self, response):
-    """Parse the entry page - the listing of all seasons."""
-    snl = {}
-    # parsing snlarchives. Entrypoint is the seasons page at www.snlarchives.net/Seasons/
-    for season in response.css('div.thumbRectInner'):
-      sid = int(season.css('::text').extract_first())
-      year = 1974 + sid
-      next_page = '?{}'.format(year)
-
-      item_season = Season(sid=sid, year=year)
-      if not self.interested(item_season):
-        continue
-      yield item_season
-    
-      if self.settings.getbool('SNL_SCRAPE_IMDB'):
-        imdb_season_url = self.base_url_imdb + str(item_season['sid'])
-        yield scrapy.Request(imdb_season_url, callback=self.parseRatingsSeason, 
-            meta=dict(season=item_season))
-
-      yield scrapy.Request(response.urljoin(next_page), callback=self.parseSeason, meta={'season': item_season})
-
-
-  def parseSeason(self, response):
-    # parsing a season (e.g. www.snlarchives.net/Seasons/?1975)
-    # episodes is already chosen
-    item_season = response.meta['season']
-
-    for episode in response.css('a'):
-      href_url = episode.css("a ::attr(href)").extract_first()
-      if href_url.startswith("/Episodes/?") and len(href_url) == 19:
-        episode_url = self.base_url + href_url
-        dummy_ep = Episode(epid=self.id_from_url(episode_url))
-        if not self.interested(dummy_ep):
-          if dummy_ep['epid'] == '20051112':
-            self.logger.warning('Butt ep not interesting.')
-          elif dummy_ep['epid'] == '20020518':
-            self.logger.warning('Lovers ep not interesting')
-          continue
-        yield scrapy.Request(episode_url, callback=self.parseEpisode, meta={'season': item_season})
-
-  def parseRatingsSeason(self, response):
-    # parsing the ratings of the episodes of a season
-    item_season = response.meta['season']
-    eid = 0
-    for episode in response.css(".eplist > .list_item > .image > a"):
-      item_rating = EpisodeRating(epno=eid, sid=item_season['sid'])
-      eid +=1
-      href_url = episode.css("a ::attr(href)").extract_first()
-      url_split = href_url.split("?")
-      href_url = "http://www.imdb.com" + url_split[0] + "ratings"
-      yield scrapy.Request(href_url, callback=self.parseRatingsEpisode, meta={'rating': item_rating})
-  
-  def parseRatingsEpisode(self, response): 
-    item_rating = response.meta['rating']
-    tables = response.css("table[cellpadding='0']")
-    
-    # 1st table is vote distribution on rating
-    # 2nd table is vote distribution on age and gender
-    ratingTable = tables[0]
-    ageGenderTable = tables[1]
-
-    trCount = 0
-    # histogram of ratings from 1-10
-    score_counts = {}
-    for tableTr in ratingTable.css("tr"):
-      if trCount > 0:
-        score = 11 - trCount
-        count = int(removeTags(tableTr.css("td")[0].extract()))
-        score_counts[score] = count
-      trCount += 1
-    item_rating['score_counts'] = score_counts
-    
-    trCount = 0
-    # Map from named demographic groups to avg scores, and counts
-    demo_avgs = {}
-    demo_counts = {}
-    for tableTr in ageGenderTable.css("tr"):
-      if trCount > 0:
-        tableTd = tableTr.css("td").extract()
-        if len(tableTd) > 1:
-          sKey = removeTags(tableTd[0]).lstrip().rstrip()
-          sValue = int(removeTags("".join(filter(lambda x: x in self.printable, tableTd[1]))))
-          sValueAvg = float(removeTags("".join(filter(lambda x: x in self.printable, tableTd[2]))))
-          demo_counts[sKey] = sValue
-          demo_avgs[sKey] = sValueAvg
-      trCount+=1
-    item_rating['demographic_averages'] = demo_avgs
-    item_rating['demographic_counts'] = demo_counts
-    yield item_rating
-
   @classmethod
   def actor_from_link(self, anchor):
     href = anchor.css('::attr(href)').extract_first()
@@ -271,139 +415,3 @@ class SnlSpider(scrapy.Spider):
     qmark_idx = url.rfind('?')
     return url[qmark_idx+1:]
 
-  def parseEpisode(self, response, target_tid=None):
-    item_season = response.meta['season']
-    sid = item_season['sid']
-
-    epid = self.id_from_url(response.url)
-    episode = Episode(sid=sid, epid=epid)
-
-    hosts = []
-    # NB: I don't think there's any reason to distinguish between the below lists (they just get lumped together at the end)
-    cameos = []
-    musical_guests = []
-    filmed_cameos = []
-    actor_fieldname_to_list = {'Host:': hosts, 'Hosts:': hosts,
-        'Cameo:': cameos, 'Cameos:': cameos,
-        'Special Guest:': cameos, 'Special Guests:': cameos,
-        'Musical Guest:': musical_guests, 'Musical Guests:': musical_guests,
-        'Filmed Cameo:': filmed_cameos, 'Filmed Cameos:': filmed_cameos,
-        }
-    # Parse table with basic episode metadata (date, host, musical guest, cameos...)
-    # TODO: Some fields not currently parsed (musical guest, cameo, filmed cameos), which
-    # may be worth parsing.
-    for epInfoTr in response.css("table.epGuests tr"):
-      epInfoTd = epInfoTr.css("td")
-      fieldTd, valueTd = epInfoTd # e.g. ("<td><p>Host:</p></td>", "<td><p>Anna Faris</p></td>")
-      field = fieldTd.css("td p ::text").extract_first()
-      values = valueTd.css("td p ::text").extract()
-      if field == 'Aired:':
-        # e.g. "October 4, 2014 (", "<a href="/Seasons/?2014">S40</a>", "E2 / #768)"
-        datestr, seasonlink, epstr = values
-        episode['aired'] = datestr[:-2]
-        try:
-          episode['epno'] = int(epstr.split(' ')[0][1:]) - 1
-        except ValueError:
-          logging.warn("Couldn't parse epno from values = {}. (Was this a special?)".format(
-            values, response.url))
-          return
-      elif field in actor_fieldname_to_list:
-        dest = actor_fieldname_to_list[field]
-        for actor_ele in valueTd.css('a'):
-          actor = self.actor_from_link(actor_ele)
-          dest.append(actor)
-
-    extra_actors = hosts + cameos + musical_guests + filmed_cameos
-    extra_lookup = {a['aid']: a for a in extra_actors}
-
-    yield episode
-
-    assert len(hosts) > 0
-    for host_actor in hosts:
-      yield Host(epid=epid, aid=host_actor['aid'])
-    # initially the titles tab is opened
-    order = -1 # Record the relative order of sketches
-    for sketchInfo in response.css("div.sketchWrapper"):
-      order += 1
-      sketch = Title(epid=epid)
-      # e.g. /Episodes/?197510111
-      href_url = sketchInfo.css("a ::attr(href)").extract_first()
-      # TODO: almost all of this metadata (everything except order, which is kind
-      # of inferrable from the url anyways), is accessible from the sketch page.
-      # Scraping it there (and therefore in the parseTitle method) would make for
-      # a much cleaner separation of concerns.
-      sketch['tid'] = href_url.split('?')[1]
-      if not self.interested(sketch):
-        continue
-      sketch['name'] = sketchInfo.css(".title ::text").extract_first()
-      sketch['category'] = sketchInfo.css(".type ::text").extract_first()
-      sketch['order'] = order
-
-      title_url = sketchInfo.css(".title a ::attr(href)").extract_first()
-      if title_url:
-        if title_url.startswith('/Sketches/'):
-          skid = self.id_from_url(title_url)
-          sketch['skid'] = skid 
-          rec_sketch = Sketch(skid=skid, name=sketch['name'])
-          yield rec_sketch
-        elif title_url.startswith('/Commercials/'):
-          # meh
-          pass
-        else:
-          logging.warn('Unrecognized title url format: {}'.format(title_url))
-
-      sketch_url = self.base_url + href_url
-      if not self.interested(sketch):
-        continue
-      yield scrapy.Request(sketch_url, callback=self.parseTitle, 
-            meta={'title': sketch, 'episode': episode, 'extra_cast': extra_lookup},
-          )
-
-  def parseTitle(self, response):
-    sketch = response.meta['title']
-    extra_cast = response.meta['extra_cast']
-    if sketch['category'] in ('Musical Performance', 
-      'Guest Performance',
-      ):
-      # Nothing to do here. There are no roles, no 'ActorTitle' rows to add,
-      # no impressions or characters. (Probably)
-      yield sketch
-      raise StopIteration
-    # I guess this is to avoid counting the same performer twice in one sketch.
-    aids_this_title = {}
-    for cast_entry in response.css(".roleTable > tr"):
-      actor, actor_title = self.parse_cast_entry_tr(cast_entry, extra_cast,
-            sketch['tid'])
-      yield actor
-      
-      aid = actor['aid']
-      # Since Character and Impression entities are derivable from the corresponding
-      # Appearance entities, I was hoping to put the logic for generating them in a 
-      # pipeline, but scrapy pipelines can't yield multiple items :(
-      # https://github.com/scrapy/scrapy/issues/1915
-      impid, charid = actor_title.get('impid'), actor_title.get('charid')
-      if impid:
-        yield Impression(impid=impid, aid=aid, name=actor_title['role'])
-      if charid:
-        yield Character(charid=charid, aid=aid, name=actor_title['role'])
-
-      if aid not in aids_this_title:
-        yield actor_title
-        aids_this_title[aid] = actor_title
-      else:
-        prev = aids_this_title[aid]
-        # if both roles have a name, and those names are distinct, then maybe they
-        # did legit appear in the same sketch twice in two different roles/capacities.
-        # can happen rarely. e.g. http://www.snlarchives.net/Episodes/?2005111211
-        a_role, b_role = actor_title.get('role'), prev.get('role')
-        if a_role and b_role and (a_role != b_role):
-          yield actor_title
-        else:
-          # Example where this happens: http://www.snlarchives.net/Episodes/?200604158
-          logging.warn('Actor {} appeared multiple times in sketch at {}, and one role was empty, or both were the same.'.format(
-            actor['aid'], response.url))
-          # Y'know what, just yield it anyways for now.
-          yield actor_title
-        # (God help us if actors appear more than twice in the same sketch...)
-
-    yield sketch

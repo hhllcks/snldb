@@ -7,20 +7,6 @@
 
 import scrapy
 
-"""
-TODO: I'm tempted to 'denormalize' here and add a bunch of redundant fields that
-will make life easier. e.g. everywhere there's an aid, also have an actor_name field?
-The ultimate size of the whole dataset should be pretty puny, so it's not like 
-optimizing for compact storage or efficient queries is particularly important.
-
-Could probably even do the denormalization automagically with a pipeline and some
-field metadata, without having to touch the spider.
-
-TODO: Be more consistent about whether id fields should be ints or strs?
-Main advantage of using strs for epid/tid is that it makes it simpler to 
-break them up into their component parts (year, mo, day, no)
-"""
-
 class BaseSnlItem(scrapy.Item):
   
   @classmethod
@@ -43,8 +29,9 @@ class Season(BaseSnlItem):
   # Year in which the season began (e.g. season 1 has year 1975)
   year = scrapy.Field(type=int)
 
-# Not sure if I want to track info about musical guests and performances.
-# If so, might want to rename this 'Performer'
+# We create one of these items for anyone who is credited in any SNL segment ('title'). Most
+# commonly these are cast members or hosts, but they may also be e.g. musical guests, or someone
+# doing a quick walk-on cameo.
 class Actor(BaseSnlItem):
   # 'actor id' is actually just their full name. Originally used ids from the urls of actors'
   # snlarchive pages, but there were problems with that approach (see below).
@@ -65,8 +52,9 @@ class Actor(BaseSnlItem):
   # arbitrarily.
   # TODO: Could add a 'matches_re' metadata field to validate urls have the expected format.
   url = scrapy.Field(type=basestring, optional=True)
-  # This is based on snlarchive's schema, which assigns exactly one of these
-  # categories to each person. I believe cast > crew > guest in terms of precedence.
+  # This is just a function of the prefix of the URL described above. 'unknown'
+  # corresponds to the case where url is missing.
+  # snlarchive uses the order of precedence: cast > crew > guest
   # That is, if someone has been a crew member and a cast member (e.g. Mike O'Brien)
   # or a cast member and a guest (e.g. Kristen Wiig), they'll have type 'cast'.
   # If they've been a crew member and a guest (e.g. Conan O'Brien), they'll have type 'crew'.
@@ -103,16 +91,23 @@ class Episode(BaseSnlItem):
   aired = scrapy.Field(type=basestring)
 
 class Host(BaseSnlItem):
-  # NB: an episode may have more than one host.
-  # (Might even have zero? Probably only if it's a special)
+  # NB: an episode may rarely have 0 or many hosts (which is why this isn't just
+  # a field on Episode)
   epid = scrapy.Field(type=basestring)
   aid = scrapy.Field(type=basestring)
 
 class Title(BaseSnlItem):
+  """An episode is comprised of 'titles'. Cold openings, monologues, sketches, and 
+  musical performances are all examples.
+  """
+  # The snlarchive page for this title will be at /Episodes/?<tid>
+  # In practice, tids are formed by concatenating the epid of the episode a title appears
+  # in with an ordinal, starting from 1. e.g. the sketch with tid=201510103 is the 
+  # 3rd sketch on episode 20151010
   tid = scrapy.Field(type=basestring)
   epid = scrapy.Field(type=basestring)
   category = scrapy.Field(possible_values = {
-    # Standard 1-every-episode things
+    # Standard 1-every-episode things (well, almost every episode - there are some episodes from the early years with no monologue)
     'Cold Opening', 'Monologue', 'Goodnights', 
     # Update, and a couple off-brand versions that ran during Ebersol years
     'Weekend Update', 'Saturday Night News', 'SNL Newsbreak',
@@ -129,13 +124,6 @@ class Title(BaseSnlItem):
     'Film', 'Commercial', 'Cartoon',
 
     'Musical Performance',
-    # In recent years, this category has been mostly used for musical performances by 
-    # someone other than the musical guest (e.g. whatever the hell happened with the Baha
-    # men in 2000 here: http://www.snlarchives.net/Episodes/?200010217)
-    # Back in the 70's and 80's, they did some other stuff like guest magic performances
-    # by Penn and Teller (which I guess were a regular thing around '86?) and guests
-    # doing a set of stand-up comedy
-    'Guest Performance', 
     # 'Miscellaneous' examples:
     # - Jan Hooks Tribute (http://www.snlarchives.net/Episodes/?201410117). Is this different from In Memoriam?
     # - Sometimes they look a lot like normal bits. e.g. 
@@ -147,6 +135,16 @@ class Title(BaseSnlItem):
     # Seems like the vast majority of these are 'bits', so I'm inclined to lump them in with sketches etc. for the
     # purposes of computing airtime etc. 
     'Miscellaneous', 
+
+    # The categories below are pretty rare, or confined to a few specific seasons...
+
+    # In recent years, this category has been mostly used for musical performances by 
+    # someone other than the musical guest (e.g. whatever the hell happened with the Baha
+    # men in 2000 here: http://www.snlarchives.net/Episodes/?200010217)
+    # Back in the 70's and 80's, they did some other stuff like guest magic performances
+    # by Penn and Teller (which I guess were a regular thing around '86?) and guests
+    # doing a set of stand-up comedy
+    'Guest Performance', 
     'In Memoriam', 
     # This one only seems to show up in 81-82
     'Talent Entrance',
@@ -159,6 +157,7 @@ class Title(BaseSnlItem):
   # Goodnights.
   name = scrapy.Field(type=basestring, optional=True)
   skid = scrapy.Field(optional=True, type=basestring)
+  # Where this appeared on the show, relative to other titles.
   order = scrapy.Field(type=int, min=0)
 
 # A recurring sketch (having a /Sketches url on snlarchive)
@@ -185,6 +184,9 @@ class Appearance(BaseSnlItem):
   voice = scrapy.Field(default=False)
 
 class Character(BaseSnlItem):
+  """A recurring character."""
+  # The snlarchive url for this character will be /Characters/?<charid>
+  # e.g. /Characters/?980
   charid = scrapy.Field(pkey=True, type=int)
   name = scrapy.Field()
   aid = scrapy.Field()

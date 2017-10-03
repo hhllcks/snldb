@@ -4,6 +4,8 @@ from betamax.fixtures.unittest import BetamaxTestCase
 
 from spiders.cast import CastSpider
 
+# Betamax is a thing for caching responses so that we're not hitting snlarchive's servers
+# every time we re-run tests.
 with Betamax.configure() as config:
   config.cassette_library_dir = 'cassettes'
   config.preserve_exact_body_bytes = True
@@ -21,6 +23,9 @@ class TestCastScrape(BetamaxTestCase):
     return HtmlResponse(body=re.content, url=cast_url)
 
   def parse_cast(self, aid):
+    """Return a list of Cast entities scraped for the cast member with the given
+    string id (e.g. 'ChCh' for Chevy Chase).
+    """
     return list(self.spider.parseCastMember(self.cast_response(aid)))
 
   def test_jld(self):
