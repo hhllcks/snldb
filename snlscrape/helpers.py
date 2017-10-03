@@ -1,5 +1,10 @@
 import datetime
 
+# (The classes in this module are really just acting as namespaces.)
+
+class Aid(object):
+  UNKNOWN = 'UNK'
+
 class Tid(object):
 
   @staticmethod

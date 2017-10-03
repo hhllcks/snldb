@@ -28,11 +28,6 @@ def removeTags(sXML):
   sText = re.sub(cleanr, '', sXML)
   return sText
 
-class UnrecognizedActorException(Exception):
-  def __init__(self, name, *args, **kwargs):
-    super(UnrecognizedActorException, self).__init__(*args, **kwargs)
-    self.name = name
-
 class SnlSpider(scrapy.Spider):
   name = 'snlspider'
   start_urls = ['http://www.snlarchives.net/Seasons/']
@@ -94,7 +89,7 @@ class SnlSpider(scrapy.Spider):
     if actor_name == 'Jack Handey':
       # This is a weird special case. Jack Handey appears in a bunch of 'Deep Thoughts'
       # segments in the 90's, e.g.: http://www.snlarchives.net/Episodes/?1991032313
-      # And he is seemingly the only person to appear in a sketch who has no page 
+      # And he is one of the few people to appear in a sketch who has no page 
       # on snlarchive - not as cast, crew, or guest. He isn't listed as a cast member
       # for any of the seasons on which his Deep Thoughts appear, nor is he listed as
       # a 'special guest' or 'cameo' on the corresponding episode pages. Anyways,
@@ -112,7 +107,16 @@ class SnlSpider(scrapy.Spider):
       try:
         actor = extra_cast_lookup[actor_name]
       except KeyError:
-        raise UnrecognizedActorException(name=actor_name)
+        # Example of how this can happen: http://www.snlarchives.net/Episodes/?201405039
+        # The musical guest this episode is Coldplay. Chris Martin is a member of Coldplay,
+        # and is appearing in a musical-guest-ish capacity in a sketch, but we fail to match him up
+        # with the name we scraped for the musical guest. And in fact, there is no page
+        # on snlarchive for 'Chris Martin', and therefore no corresponding 'aid'.
+        logging.warn('"{}" appeared in sketch with tid={}, but their name was not linkified, '
+            'and they were not listed on the episode page as host, guest, cameo etc.'.format(
+              actor_name, tid)
+            )
+        actor = Actor(aid=helpers.Aid.UNKNOWN, name=actor_name, type='unknown') 
     else:
       actor = self.actor_from_link(actor_link)
 
@@ -365,13 +369,8 @@ class SnlSpider(scrapy.Spider):
     # I guess this is to avoid counting the same performer twice in one sketch.
     aids_this_title = {}
     for cast_entry in response.css(".roleTable > tr"):
-      try:
-        actor, actor_title = self.parse_cast_entry_tr(cast_entry, extra_cast,
+      actor, actor_title = self.parse_cast_entry_tr(cast_entry, extra_cast,
             sketch['tid'])
-      except UnrecognizedActorException as e:
-        logging.warn('Skipping unparseable row in sketch {}:\n{}\n{} not among extra_cast = {}'.format(
-          response.url, cast_entry, e.name, extra_cast))
-        continue
       yield actor
       
       aid = actor['aid']

@@ -46,6 +46,17 @@ class Season(BaseSnlItem):
 # Not sure if I want to track info about musical guests and performances.
 # If so, might want to rename this 'Performer'
 class Actor(BaseSnlItem):
+  # 'aid' or Actor ID. These come from the corresponding snlarchive URLs under
+  # /Cast, /Crew, and /Guests. e.g. Taran Killam's page is /Cast/?TaKi, and his
+  # aid is c_TaKi. 
+  # NB: It seems like name may actually be a more reliable primary key than aid. 
+  # Rarely, snlarchive slips up in capitalizing these consistently for cast
+  # members. (e.g. Chevy Chase normally has aid ChCh, but once it's given as ChCH). 
+  # Worse, guests can be assigned many ids (possibly one for every episode they appear in?)
+  # e.g. the URLs /Guests/?3230, /Guests/?3236, /Guests/?3178, and many more, all point
+  # to Alec Baldwin's page.
+  # OTOH, celebrities are usually pretty careful to avoid name collisions. (Fortunately,
+  # neither Michelle Williams has ever been credited in an SNL sketch.)
   aid = scrapy.Field(pkey=True, type=basestring)
   name = scrapy.Field(type=basestring)
   # This is based on snlarchive's schema, which assigns exactly one of these
@@ -56,7 +67,7 @@ class Actor(BaseSnlItem):
   # (This field is therefore probably less useful than the 'capacity' field on Appearance,
   # which lets us distinguish times that the same person has appeared as cast member
   # vs. host vs. cameo vs. ...)
-  type = scrapy.Field(possible_values = {'cast', 'guest', 'crew'})
+  type = scrapy.Field(possible_values = {'cast', 'guest', 'crew', 'unknown'})
 
 class Cast(BaseSnlItem):
   """A cast member on a particular season."""
