@@ -82,6 +82,7 @@ class SnlSpider(scrapy.Spider):
       assert False, "What're you doing passing this: {}".format(item)
 
   def parse_cast_entry_tr(self, row, extra_cast_lookup, tid):
+    """Parse a row that describes a cast member in a particular segment, and their role."""
     cells = row.css('td')
     actor_cell = cells[0]
     actor_class = actor_cell.css('::attr(class)').extract_first()
@@ -89,13 +90,25 @@ class SnlSpider(scrapy.Spider):
     # What's the context of this actor's appearance? Default is that they're appearing
     # as a cast member, but could also be host, cameo, etc.
     capacity = 'cast'
-    if not actor_link:
+    actor_name = actor_cell.css('::text').extract_first().strip()
+    if actor_name == 'Jack Handey':
+      # This is a weird special case. Jack Handey appears in a bunch of 'Deep Thoughts'
+      # segments in the 90's, e.g.: http://www.snlarchives.net/Episodes/?1991032313
+      # And he is seemingly the only person to appear in a sketch who has no page 
+      # on snlarchive - not as cast, crew, or guest. He isn't listed as a cast member
+      # for any of the seasons on which his Deep Thoughts appear, nor is he listed as
+      # a 'special guest' or 'cameo' on the corresponding episode pages. Anyways,
+      # we'll give him a made-up aid and give him the 'crew' capacity (because wikipedia
+      # says he was credited as an snl writer).
+      actor = Actor(aid='special_JaHa', name=actor_name, type='crew')
+    elif not actor_link:
       # Actor name is not linkified. This means they're not cast members. They could
       # be the host, cameos, or musical guest (though this code path currently isn't
       # reached for musical titles). The td class gives a hint.
-      actor_name = actor_cell.css('::text').extract_first()
-      assert actor_class, "No class found in actor cell {}".format(actor_cell)
-      capacity = actor_class
+      if not actor_class:
+        logging.warn("No class found in actor cell {}".format(actor_cell))
+      else:
+        capacity = actor_class
       try:
         actor = extra_cast_lookup[actor_name]
       except KeyError:
