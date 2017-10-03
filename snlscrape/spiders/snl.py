@@ -238,7 +238,9 @@ class SnlSpider(scrapy.Spider):
       sketch['tid'] = href_url.split('?')[1]
       if not self.interested(sketch):
         continue
-      sketch['name'] = sketchInfo.css(".title ::text").extract_first()
+      # In some cases, the sketch name may not be contained to a single node. e.g. the SNL
+      # digital short in this episode: http://www.snlarchives.net/Episodes/?20051217
+      sketch['name'] = ''.join(sketchInfo.css(".title ::text").extract())
       sketch['category'] = sketchInfo.css(".type ::text").extract_first()
 
       title_url = sketchInfo.css(".title a ::attr(href)").extract_first()
@@ -246,7 +248,11 @@ class SnlSpider(scrapy.Spider):
         if title_url.startswith('/Sketches/'):
           skid = self.id_from_url(title_url)
           sketch['skid'] = skid 
-          rec_sketch = Sketch(skid=skid, name=sketch['name'])
+          # The name for the series of recurring sketches may not be the same as the name of
+          # this instance of the recurring sketch. e.g. 'SNL Digital Short - Lazy Sunday' vs.
+          # 'SNL Digital Short'
+          name = sketchInfo.css('.title a ::text').extract_first()
+          rec_sketch = Sketch(skid=skid, name=name)
           yield rec_sketch
         elif title_url.startswith('/Commercials/'):
           # meh. We could add another item type for Commercials and add a foreign key
