@@ -14,6 +14,13 @@ def removeTags(sXML):
   sText = re.sub(cleanr, '', sXML)
   return sText
 
+class EmptyCastRowException(Exception):
+  """Raised when a row in a table that's supposed to contain the cast of a sketch
+  is actually mysteriously empty, as in the second row here:
+  http://www.snlarchives.net/Episodes/?197802182
+  """
+  pass
+
 class SnlSpider(scrapy.Spider):
   name = 'snlspider'
   start_urls = ['http://www.snlarchives.net/Seasons/']
@@ -115,8 +122,13 @@ class SnlSpider(scrapy.Spider):
     
     # 1st table is vote distribution on rating
     # 2nd table is vote distribution on age and gender
-    ratingTable = tables[0]
-    ageGenderTable = tables[1]
+    try:
+      ratingTable = tables[0]
+      ageGenderTable = tables[1]
+    except IndexError:
+      # e.g. http://www.imdb.com/title/tt7399178/ratings
+      logging.warn('Insufficient user ratings for episode at {}'.format(response.url))
+      raise StopIteration
 
     trCount = 0
     # histogram of ratings from 1-10
@@ -153,7 +165,7 @@ class SnlSpider(scrapy.Spider):
     """
     item_season = response.meta['season']
 
-    for episode in response.css('a'):
+    for episode in response.css('#section_1 a'):
       href_url = episode.css("a ::attr(href)").extract_first()
       if href_url.startswith("/Episodes/?") and len(href_url) == 19:
         episode_url = self.base_url + href_url
@@ -262,7 +274,11 @@ class SnlSpider(scrapy.Spider):
     aids_this_title = {}
     # Parse the Appearances in this title
     for cast_entry in sketchInfo.css(".roleTable > tr"):
-      actor, app = self.parse_cast_entry_tr(cast_entry, extra_cast, title['tid'])
+      try:
+        actor, app = self.parse_cast_entry_tr(cast_entry, extra_cast, title['tid'])
+      except EmptyCastRowException as e:
+        logging.warn(e.message)
+        continue
       yield actor
       
       aid = actor['aid']
@@ -306,7 +322,11 @@ class SnlSpider(scrapy.Spider):
     actor_link = actor_cell.css('a')
     # What's the context of this actor's appearance? As a cast member, host, cameo, etc.
     capacity = 'unknown'
-    actor_name = actor_cell.css('::text').extract_first().strip()
+    actor_name = actor_cell.css('::text').extract_first()
+    if actor_name is None:
+      raise EmptyCastRowException('Found no name for cast tr in sketch with tid={}'.format(tid))
+    actor_name = actor_name.strip()
+    actor_name = helpers.Aid.asciify(actor_name)
     if actor_name == 'Jack Handey':
       # This is a weird special case. Jack Handey appears in a bunch of 'Deep Thoughts'
       # segments in the 90's, e.g.: http://www.snlarchives.net/Episodes/?1991032313
@@ -339,6 +359,7 @@ class SnlSpider(scrapy.Spider):
             'and they were not listed on the episode page as host, guest, cameo etc.'.format(
               actor_name, tid)
             )
+        # ( This is actually not that uncommon. Might want to log at info level if it gets too spammy.)
         # The consequence of this is that we don't know their relation to the show
         # (cast member, crew, guest), or have an snlarchive url for them.
         actor = Actor(aid=actor_name, type='unknown')
@@ -349,22 +370,20 @@ class SnlSpider(scrapy.Spider):
     app = Appearance(aid=actor['aid'], tid=tid, capacity=capacity)
     if len(cells) == 3:
       _dots, role_td = cells[1:]
-      app = self.parse_role_cell(role_td, app)
+      app = self.parse_role_cell(role_td, app, tid)
     else:
       assert len(cells) == 1
 
     return actor, app
 
-  def parse_role_cell(self, role_td, appearance):
+  def parse_role_cell(self, role_td, appearance, tid):
     rolenames = role_td.css('::text').extract()
-    rolename = rolenames[0].strip()
-    if len(rolenames) > 1:
-      if rolenames[1].strip() == '(voice)':
-        appearance['voice'] = True
-      else:
-        logging.warn('Unrecognized role part: {} in role td {}'.format(rolenames[1], role_td))
-      if len(rolenames) > 2:
-        logging.warn('Unexpectedly large number of elements in role td: {}'.format(rolenames))
+    # Strip whitespace, and filter any resulting empty strings
+    rolenames = [name.strip() for name in rolenames if name.strip()]
+    if rolenames[-1] == '(voice)':
+      appearance['voice'] = True
+      rolenames = rolenames[:-1]
+    rolename = ' '.join(rolenames)
     appearance['role'] = rolename
     role_link = role_td.css('a')
     if role_link:
@@ -375,7 +394,7 @@ class SnlSpider(scrapy.Spider):
       elif href.startswith('/Characters/'):
         appearance['charid'] = id
       else:
-        raise Exception('Unrecognized role URL: {}'.format(href))
+        raise Exception('Unrecognized role URL in sketch with tid={}: {}'.format(tid, href))
     return appearance
 
   @classmethod
@@ -390,6 +409,7 @@ class SnlSpider(scrapy.Spider):
     else:
       raise Exception('Unrecognized actor url: {}'.format(href))
     name = anchor.css('::text').extract_first().strip()
+    name = helpers.Aid.asciify(name)
     return Actor(
         aid=name,
         url=href,

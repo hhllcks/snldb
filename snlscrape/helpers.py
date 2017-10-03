@@ -1,9 +1,17 @@
 import datetime
+import unidecode
 
 # (The classes in this module are really just acting as namespaces.)
 
 class Aid(object):
   UNKNOWN = 'UNK'
+
+  @staticmethod
+  def asciify(name):
+    """Make a canonical ascii version of an actor's name.
+    Sorry No\xc3\xabl Wells.
+    """
+    return unidecode.unidecode(name)
 
 class Tid(object):
 
