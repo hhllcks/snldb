@@ -15,8 +15,7 @@ class CastSpider(scrapy.Spider):
       yield scrapy.Request(response.urljoin(href), callback=self.parseCastMember)
 
   def parseCastMember(self, response):
-    aid = response.url.split('?')[1]
-    name = response.css('div.contentWrapper .contentHD h1 ::text').extract_first()
+    aid = response.css('div.contentWrapper .contentHD h1 ::text').extract_first()
 
     popup_idx = 0
     while 1:

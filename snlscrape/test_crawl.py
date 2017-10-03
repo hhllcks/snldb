@@ -23,6 +23,8 @@ from snlscrape.spiders.snl import SnlSpider
 # in the same pool, so it'd be exhausting to enumerate every single item that
 # should be scraped.)
 
+# Sorry, this class was already pretty sprawling and crufty, and it got even more
+# crufty after refactoring Actor items to use name as primary key instead of old 'aid's
 class ItemBasket(object):
 
   def __init__(self):
@@ -44,7 +46,8 @@ class ItemBasket(object):
     return self._get_name_lookup(entity_type)[name]
 
   def _get_name_lookup(self, entity_type):
-    return {entity['name'] : entity for entity in self.of_type(entity_type)}
+    namekey = 'aid' if entity_type == Actor else 'name'
+    return {entity[namekey] : entity for entity in self.of_type(entity_type)}
 
   def get_title(self, name):
     return self._get_by_name(name, Title)
@@ -84,7 +87,7 @@ class ItemBasket(object):
     actor_lookup = self.get_matches(Actor, by='aid')
     res = {}
     for thing in entities:
-      name = actor_lookup[thing['aid']]['name']
+      name = thing['aid']
       if name in res:
         # We're not going above 2 for now
         assert not isinstance(res[name], list)
@@ -185,7 +188,7 @@ def test_episode_stuff(basket):
   host = basket.get(Host, epid=epid)
   assert host
   wino = basket.get(Actor, aid=host['aid'])
-  assert wino['name'] == 'Winona Ryder'
+  assert wino['aid'] == 'Winona Ryder'
 
 # Basically just test a bunch of basics of scraped sketches.
 def test_lovers(basket):
@@ -207,7 +210,7 @@ def test_lovers(basket):
   actors = basket.actor_lookup()
   winona = actors['Winona Ryder']
   assert winona['type'] == 'guest'
-  assert actors['Rachel Dratch'] == Actor(name='Rachel Dratch', type='cast', aid='c_RaDr')
+  assert actors['Rachel Dratch'] == Actor(aid='Rachel Dratch', type='cast', url='/Cast/?RaDr')
 
   apps = basket.appearance_lookup(tid=tid)
   assert len(apps) == 4
@@ -243,7 +246,7 @@ def test_helpers():
 # Test the case where the same actor appears in a sketch more than once.
 def test_multiple_appearances(basket):
   tid = named_tids['botox']
-  aid = basket.get(Actor, key='aid', name='Ana Gasteyer')
+  aid = 'Ana Gasteyer'
   apps = basket.get_matches(Appearance, by='role', tid=tid, aid=aid)
   assert len(apps) == 2
   assert set(apps.keys()) == {'announcer', 'user'}

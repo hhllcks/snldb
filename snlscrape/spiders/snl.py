@@ -9,12 +9,6 @@ from lazy import lazy
 from snlscrape import helpers
 from snlscrape.items import *
 
-# TODO:
-# - this seems... hard to parse. Is this typical? http://www.snlarchives.net/Episodes/?200604158
-#       - further complicated by the fact that (rarely) an actor can legitimately appear in multiple
-#         roles in a single sketch. Example: http://www.snlarchives.net/Episodes/?2005111211
-#         Chris Parnell has a role in the live sketch (Mr. Singer), but also did recorded voice work
-
 # TODO: The 'full summary' tab in snlarchive episode pages has all the information that we're
 # currently getting by scraping a page per sketch/segment. Using that could reduce the number
 # of requests needed by an order of magnitude. However, those tabs seemingly don't have permalinks -
@@ -36,6 +30,15 @@ class SnlSpider(scrapy.Spider):
   printable = set(string.printable)
 
   def _target_ids_from_settings(self, idtype):
+    """Given a kind of id (tid, epid, sid), return the set of those ids we're
+    targetting for this scrape. (either because they're explicitly given in the 
+    corresponding settings variable, or because they're implied by a different 
+    selection. e.g. if we're targetting tid 200604151, that entails also scraping
+    the episode in which that title appears, epid 20060415.
+
+    In the normal case where we're crawling all titles/episodes/seasons we can get
+    our hands on, return an empty set.
+    """
     assert idtype in ('tid', 'epid', 'sid')
     id_attr = 'SNL_TARGET_{}'.format(idtype.upper())
     single_target = self.settings.get(id_attr)
@@ -64,7 +67,6 @@ class SnlSpider(scrapy.Spider):
     inherited = set([helpers.Sid.from_epid(epid) for epid in self.target_epids])
     return set.union(inherited, self._target_ids_from_settings('sid'))
 
-
   def interested(self, item):
     """Do we want to recurse on this item?"""
     if isinstance(item, Season):
@@ -82,9 +84,8 @@ class SnlSpider(scrapy.Spider):
     actor_cell = cells[0]
     actor_class = actor_cell.css('::attr(class)').extract_first()
     actor_link = actor_cell.css('a')
-    # What's the context of this actor's appearance? Default is that they're appearing
-    # as a cast member, but could also be host, cameo, etc.
-    capacity = 'cast'
+    # What's the context of this actor's appearance? As a cast member, host, cameo, etc.
+    capacity = 'unknown'
     actor_name = actor_cell.css('::text').extract_first().strip()
     if actor_name == 'Jack Handey':
       # This is a weird special case. Jack Handey appears in a bunch of 'Deep Thoughts'
@@ -95,13 +96,15 @@ class SnlSpider(scrapy.Spider):
       # a 'special guest' or 'cameo' on the corresponding episode pages. Anyways,
       # we'll give him a made-up aid and give him the 'crew' capacity (because wikipedia
       # says he was credited as an snl writer).
-      actor = Actor(aid='special_JaHa', name=actor_name, type='crew')
+      capacity = 'other'
+      actor = Actor(aid=actor_name, type='crew')
     elif not actor_link:
       # Actor name is not linkified. This means they're not cast members. They could
       # be the host, cameos, or musical guest (though this code path currently isn't
       # reached for musical titles). The td class gives a hint.
       if not actor_class:
         logging.warn("No class found in actor cell {}".format(actor_cell))
+        capacity = 'unknown'
       else:
         capacity = actor_class
       try:
@@ -116,8 +119,11 @@ class SnlSpider(scrapy.Spider):
             'and they were not listed on the episode page as host, guest, cameo etc.'.format(
               actor_name, tid)
             )
-        actor = Actor(aid=helpers.Aid.UNKNOWN, name=actor_name, type='unknown') 
+        # The consequence of this is that we don't know their relation to the show
+        # (cast member, crew, guest), or have an snlarchive url for them.
+        actor = Actor(aid=actor_name, type='unknown')
     else:
+      capacity = actor_class or 'cast'
       actor = self.actor_from_link(actor_link)
 
     app = Appearance(aid=actor['aid'], tid=tid, capacity=capacity)
@@ -245,21 +251,18 @@ class SnlSpider(scrapy.Spider):
   @classmethod
   def actor_from_link(self, anchor):
     href = anchor.css('::attr(href)').extract_first()
-    qmark_idx = href.rfind('?')
-    id = href[qmark_idx+1:]
     if href.startswith('/Guests/'):
-      prefix = 'g_'
       atype = 'guest'
     elif href.startswith('/Cast/'):
-      prefix = 'c_'
       atype = 'cast'
     elif href.startswith('/Crew/'):
-      prefix = 'cr_'
       atype = 'crew'
-    name = anchor.css('::text').extract_first()
+    else:
+      raise Exception('Unrecognized actor url: {}'.format(href))
+    name = anchor.css('::text').extract_first().strip()
     return Actor(
-        aid=prefix+id,
-        name=name,
+        aid=name,
+        url=href,
         type=atype,
         )
 
@@ -311,7 +314,7 @@ class SnlSpider(scrapy.Spider):
           dest.append(actor)
 
     extra_actors = hosts + cameos + musical_guests + filmed_cameos
-    extra_lookup = {a['name']: a for a in extra_actors}
+    extra_lookup = {a['aid']: a for a in extra_actors}
 
     yield episode
 
@@ -391,13 +394,14 @@ class SnlSpider(scrapy.Spider):
         prev = aids_this_title[aid]
         # if both roles have a name, and those names are distinct, then maybe they
         # did legit appear in the same sketch twice in two different roles/capacities.
-        # can happen rarely.
+        # can happen rarely. e.g. http://www.snlarchives.net/Episodes/?2005111211
         a_role, b_role = actor_title.get('role'), prev.get('role')
         if a_role and b_role and (a_role != b_role):
           yield actor_title
         else:
+          # Example where this happens: http://www.snlarchives.net/Episodes/?200604158
           logging.warn('Actor {} appeared multiple times in sketch at {}, and one role was empty, or both were the same.'.format(
-            actor['name'], response.url))
+            actor['aid'], response.url))
           # Y'know what, just yield it anyways for now.
           yield actor_title
         # (God help us if actors appear more than twice in the same sketch...)

@@ -15,8 +15,8 @@ class TestCastScrape(BetamaxTestCase):
     self.spider = CastSpider()
     super(TestCastScrape, self).setUp()
 
-  def cast_response(self, aid):
-    cast_url = 'http://www.snlarchives.net/Cast/?{}'.format(aid)
+  def cast_response(self, tag):
+    cast_url = 'http://www.snlarchives.net/Cast/?{}'.format(tag)
     re = self.session.get(cast_url)
     return HtmlResponse(body=re.content, url=cast_url)
 
@@ -26,6 +26,7 @@ class TestCastScrape(BetamaxTestCase):
   def test_jld(self):
     casts = self.parse_cast('JuLD')
     assert len(casts) == 3
+    assert all(c['aid'] == 'Julia Louis-Dreyfus' for c in casts)
     assert [c['sid'] for c in casts] == [8, 9, 10]
     for k in ['featured', 'update_anchor', 'first_epid', 'last_epid']:
       assert not any(c.get(k) for c in casts)

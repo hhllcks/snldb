@@ -14,9 +14,10 @@ from scrapy.exceptions import DropItem
 
 from items import *
 
-# TODO: add a validation pipeline that checks against rome rules declared with
-# field metadata (e.g. possible_values={...}, optional=False, etc.)
 
+# It's conceivable that a 'duplicate' entity could have more information than the
+# version that came before it. Could make allowances for somehow letting 'new' information
+# through. In practice, I'm dubious as to whether this would actually come up.
 class EntityDedupePipeline(object):
 
   def open_spider(self, spider):

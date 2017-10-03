@@ -46,19 +46,25 @@ class Season(BaseSnlItem):
 # Not sure if I want to track info about musical guests and performances.
 # If so, might want to rename this 'Performer'
 class Actor(BaseSnlItem):
-  # 'aid' or Actor ID. These come from the corresponding snlarchive URLs under
-  # /Cast, /Crew, and /Guests. e.g. Taran Killam's page is /Cast/?TaKi, and his
-  # aid is c_TaKi. 
-  # NB: It seems like name may actually be a more reliable primary key than aid. 
-  # Rarely, snlarchive slips up in capitalizing these consistently for cast
-  # members. (e.g. Chevy Chase normally has aid ChCh, but once it's given as ChCH). 
-  # Worse, guests can be assigned many ids (possibly one for every episode they appear in?)
-  # e.g. the URLs /Guests/?3230, /Guests/?3236, /Guests/?3178, and many more, all point
-  # to Alec Baldwin's page.
-  # OTOH, celebrities are usually pretty careful to avoid name collisions. (Fortunately,
+  # 'actor id' is actually just their full name. Originally used ids from the urls of actors'
+  # snlarchive pages, but there were problems with that approach (see below).
+  # In practice, celebrities are pretty careful to avoid name collisions. (Fortunately,
   # neither Michelle Williams has ever been credited in an SNL sketch.)
   aid = scrapy.Field(pkey=True, type=basestring)
-  name = scrapy.Field(type=basestring)
+  # A URL relative to snlarchives.net. Starts with one of: /Cast/, /Crew/, or /Guests/
+  # e.g. Taran Killam's page is /Cast/?TaKi.
+  # NB: An actor may have...
+  # - 0 snlarchive pages (e.g. Jack Handey, even though he's credited
+  #   in dozens of 'Deep Thoughts' sketches, such as /Episodes/?199103165)
+  # - > 1 snlarchive pages. Rarely, snlarchive slips up in capitalizing ids 
+  #   consistently for cast members. (e.g. Chevy Chase normally has aid ChCh, 
+  #   but once it's given as ChCH). Worse, guests can be assigned several numerical
+  #   ids (possibly one for every episode they appear in?). e.g. the URLs /Guests/?3230, 
+  #   /Guests/?3236, /Guests/?3178, and many more, all point to Alec Baldwin's page.
+  # In the latter case, the particular URL that appears in this field will be chosen
+  # arbitrarily.
+  # TODO: Could add a 'matches_re' metadata field to validate urls have the expected format.
+  url = scrapy.Field(type=basestring, optional=True)
   # This is based on snlarchive's schema, which assigns exactly one of these
   # categories to each person. I believe cast > crew > guest in terms of precedence.
   # That is, if someone has been a crew member and a cast member (e.g. Mike O'Brien)
@@ -168,6 +174,8 @@ class Appearance(BaseSnlItem):
     'music', # cameo by musical guest  
     'filmed', # filmed cameo
     'guest', # 'special guest' - so far only seen for muppets in 75
+    'unknown',
+    'other', # catch-all for some weird cases
     })
   # The name of the credited role. Occasionally, this may be empty. This mostly happens
   # in the monologue and Weekend Update, and means they're playing themselves. 
