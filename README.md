@@ -16,7 +16,7 @@ If you have some ideas for other questions to answer, just send them to me or pl
 
 # The technology
 
-To create this database I used python and Scrapy. [Scrapy](https://scrapy.org/ Scrapy) is a framework to scrape data from the web. If you want to learn about how that works look at the [notebook](snl.ipynb) that explains the process.
+To create this database I used python and Scrapy. [Scrapy](https://scrapy.org/Scrapy) is a framework to scrape data from the web. If you want to learn about how that works look at the [notebook](snl.ipynb) that explains the process.
 
 To display graphs in my analysis I used [bokeh](http://bokeh.pydata.org). Sadly github does not support it. Therefor my graphs do not appear if you open the notebooks on github. If you want the full experience please clone the repository and open the notebook in an environment that supports bokeh. The easiest way would be to create an [anaconda](https://anaconda.org/) environment with the following python modules installed:
 
