@@ -1,0 +1,84 @@
+{"aid": "Jim Downey", "tid": "200205181", "capacity": "cast", "voice": true, "role": "announcer", "charid": null, "impid": null}
+{"aid": "Will Ferrell", "tid": "200205181", "capacity": "cast", "role": "Fidel Castro", "impid": 2040, "charid": null, "voice": false}
+{"aid": "Darrell Hammond", "tid": "200205181", "capacity": "cast", "role": "Jimmy Carter", "impid": 2041, "charid": null, "voice": false}
+{"aid": "Maya Rudolph", "tid": "200205181", "capacity": "cast", "role": "interpreter", "charid": null, "impid": null, "voice": false}
+{"aid": "Winona Ryder", "tid": "200205182", "capacity": "host", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Dean Edwards", "tid": "200205182", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Jimmy Fallon", "tid": "200205182", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Will Ferrell", "tid": "200205182", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Tina Fey", "tid": "200205182", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Ana Gasteyer", "tid": "200205182", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Darrell Hammond", "tid": "200205182", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Seth Meyers", "tid": "200205182", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Lorne Michaels", "tid": "200205182", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Tracy Morgan", "tid": "200205182", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Amy Poehler", "tid": "200205182", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Jeff Richards", "tid": "200205182", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Horatio Sanz", "tid": "200205182", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Winona Ryder", "tid": "200205183", "capacity": "host", "role": "Bjork", "impid": 2042, "charid": null, "voice": false}
+{"aid": "Alex Trebek", "tid": "200205183", "capacity": "cameo", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Dean Edwards", "tid": "200205183", "capacity": "cast", "role": "Boyd Tinsley", "impid": 2043, "charid": null, "voice": false}
+{"aid": "Jimmy Fallon", "tid": "200205183", "capacity": "cast", "role": "Dave Matthews", "impid": 2044, "charid": null, "voice": false}
+{"aid": "Will Ferrell", "tid": "200205183", "capacity": "cast", "role": "Alex Trebek", "impid": 1399, "charid": null, "voice": false}
+{"aid": "Darrell Hammond", "tid": "200205183", "capacity": "cast", "role": "Sean Connery", "impid": 1402, "charid": null, "voice": false}
+{"aid": "Winona Ryder", "tid": "200205184", "capacity": "host", "role": "Julie", "charid": null, "impid": null, "voice": false}
+{"aid": "Rachel Dratch", "tid": "200205184", "capacity": "cast", "role": "Wendy", "charid": null, "impid": null, "voice": false}
+{"aid": "Will Ferrell", "tid": "200205184", "capacity": "cast", "role": "Dan Langenheim", "charid": null, "impid": null, "voice": false}
+{"aid": "Chris Kattan", "tid": "200205184", "capacity": "cast", "role": "Nick", "charid": null, "impid": null, "voice": false}
+{"aid": "Seth Meyers", "tid": "200205184", "capacity": "cast", "role": "David", "charid": null, "impid": null, "voice": false}
+{"aid": "Chris Parnell", "tid": "200205184", "capacity": "cast", "role": "Mike Anderson", "charid": null, "impid": null, "voice": false}
+{"aid": "Horatio Sanz", "tid": "200205184", "capacity": "cast", "role": "Don Alexander", "charid": null, "impid": null, "voice": false}
+{"aid": "Winona Ryder", "tid": "200205185", "capacity": "host", "role": "Heidi Larsen", "charid": null, "impid": null, "voice": false}
+{"aid": "Jimmy Fallon", "tid": "200205185", "capacity": "cast", "role": "Kenneth", "charid": null, "impid": null, "voice": false}
+{"aid": "Will Ferrell", "tid": "200205185", "capacity": "cast", "role": "Bruce Matthews", "charid": null, "impid": null, "voice": false}
+{"aid": "Ana Gasteyer", "tid": "200205185", "capacity": "cast", "role": "Blanche Matthews", "charid": null, "impid": null, "voice": false}
+{"aid": "Darrell Hammond", "tid": "200205185", "capacity": "cast", "role": "police officer", "charid": null, "impid": null, "voice": false}
+{"aid": "Seth Meyers", "tid": "200205185", "capacity": "cast", "role": "Chris Matthews", "charid": null, "impid": null, "voice": false}
+{"aid": "Winona Ryder", "tid": "200205186", "capacity": "host", "role": "user", "charid": null, "impid": null, "voice": false}
+{"aid": "Ana Gasteyer", "tid": "200205186", "capacity": "cast", "voice": true, "role": "announcer", "charid": null, "impid": null}
+{"aid": "Ana Gasteyer", "tid": "200205186", "capacity": "cast", "role": "user", "charid": null, "impid": null, "voice": false}
+{"aid": "Amy Poehler", "tid": "200205186", "capacity": "cast", "role": "user", "charid": null, "impid": null, "voice": false}
+{"aid": "Maya Rudolph", "tid": "200205186", "capacity": "cast", "role": "user", "charid": null, "impid": null, "voice": false}
+{"aid": "Winona Ryder", "tid": "200205187", "capacity": "host", "role": "Missy", "charid": null, "impid": null, "voice": false}
+{"aid": "Rachel Dratch", "tid": "200205187", "capacity": "cast", "role": "Shayna", "charid": null, "impid": null, "voice": false}
+{"aid": "Dean Edwards", "tid": "200205187", "capacity": "cast", "role": "assistant", "charid": null, "impid": null, "voice": false}
+{"aid": "Will Ferrell", "tid": "200205187", "capacity": "cast", "role": "Hugh Hefner", "impid": 2045, "charid": null, "voice": false}
+{"aid": "Ana Gasteyer", "tid": "200205187", "capacity": "cast", "voice": true, "role": "announcer", "charid": null, "impid": null}
+{"aid": "Ana Gasteyer", "tid": "200205187", "capacity": "cast", "role": "Alana Divine", "charid": null, "impid": null, "voice": false}
+{"aid": "Chris Kattan", "tid": "200205187", "capacity": "cast", "role": "assistant", "charid": null, "impid": null, "voice": false}
+{"aid": "Paula Pell", "tid": "200205187", "capacity": "cast", "role": "assistant", "charid": null, "impid": null, "voice": false}
+{"aid": "Amy Poehler", "tid": "200205187", "capacity": "cast", "role": "Amber", "charid": 583, "impid": null, "voice": false}
+{"aid": "Maya Rudolph", "tid": "200205187", "capacity": "cast", "role": "Beverly", "charid": null, "impid": null, "voice": false}
+{"aid": "Amy Poehler", "tid": "200205188", "capacity": "cast", "voice": true, "role": "announcer", "charid": null, "impid": null}
+{"aid": "Jimmy Fallon", "tid": "200205188", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Tina Fey", "tid": "200205188", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Rachel Dratch", "tid": "200205188", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Amy Poehler", "tid": "200205188", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Maya Rudolph", "tid": "200205188", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Will Ferrell", "tid": "200205188", "capacity": "cast", "role": "Neil Diamond", "impid": 1564, "charid": null, "voice": false}
+{"aid": "Chris Kattan", "tid": "200205188", "capacity": "cast", "role": "Gay Hitler", "charid": 571, "impid": null, "voice": false}
+{"aid": "Darrell Hammond", "tid": "200205188", "capacity": "cast", "role": "Geraldo Rivera", "impid": 1984, "charid": null, "voice": false}
+{"aid": "Jeff Richards", "tid": "200205188", "capacity": "cast", "role": "Drunk Girl", "charid": 579, "impid": null, "voice": false}
+{"aid": "Neil Diamond", "tid": "200205188", "capacity": "cameo", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Moby", "tid": "200205189", "capacity": "music", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Winona Ryder", "tid": "2002051810", "capacity": "host", "role": "Clarissa", "charid": null, "impid": null, "voice": false}
+{"aid": "Rachel Dratch", "tid": "2002051810", "capacity": "cast", "role": "Virginia Klarvin", "charid": 559, "impid": null, "voice": false}
+{"aid": "Jimmy Fallon", "tid": "2002051810", "capacity": "cast", "role": "Dave", "charid": 570, "impid": null, "voice": false}
+{"aid": "Will Ferrell", "tid": "2002051810", "capacity": "cast", "role": "Roger Klarvin", "charid": 558, "impid": null, "voice": false}
+{"aid": "Winona Ryder", "tid": "2002051811", "capacity": "host", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Moby", "tid": "2002051811", "capacity": "music", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Will Ferrell", "tid": "2002051811", "capacity": "cast", "role": "Ron", "charid": 494, "impid": null, "voice": false}
+{"aid": "Chris Kattan", "tid": "2002051811", "capacity": "cast", "role": "Mango", "charid": 476, "impid": null, "voice": false}
+{"aid": "Jeff Richards", "tid": "2002051811", "capacity": "cast", "role": "security guard", "charid": null, "impid": null, "voice": false}
+{"aid": "Moby", "tid": "2002051812", "capacity": "music", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Rachel Dratch", "tid": "2002051813", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Jimmy Fallon", "tid": "2002051813", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Will Ferrell", "tid": "2002051813", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Tina Fey", "tid": "2002051813", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Ana Gasteyer", "tid": "2002051813", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Darrell Hammond", "tid": "2002051813", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Chris Kattan", "tid": "2002051813", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Tracy Morgan", "tid": "2002051813", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Chris Parnell", "tid": "2002051813", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Maya Rudolph", "tid": "2002051813", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}
+{"aid": "Horatio Sanz", "tid": "2002051813", "capacity": "cast", "charid": null, "impid": null, "role": null, "voice": false}

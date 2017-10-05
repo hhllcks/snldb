@@ -12,8 +12,8 @@ from collections import defaultdict
 import scrapy.exporters
 from scrapy.exceptions import DropItem
 
-from items import *
-
+# from items import *
+#import items
 
 # It's conceivable that a 'duplicate' entity could have more information than the
 # version that came before it. Could make allowances for somehow letting 'new' information
@@ -50,7 +50,8 @@ class MultiJsonExportPipeline(object):
     self.exporters = {}
 
   def close_spider(self, spider):
-    for exporter in self.exporters.itervalues():
+    for key in self.exporters:
+      exporter = self.exporters[key]
       exporter.finish_exporting()
       exporter.file.close()
 
@@ -63,7 +64,7 @@ class MultiJsonExportPipeline(object):
     if table_name not in self.exporters:
       fname = '{}.json'.format(table_name)
       path = os.path.join(self.output_dir, fname)
-      f = open(path, 'w')
+      f = open(path, 'wb')
       exporter = scrapy.exporters.JsonLinesItemExporter(f)
       exporter.start_exporting()
       self.exporters[table_name] = exporter
@@ -83,7 +84,7 @@ class ValidatorPipeline(object):
   """
 
   def process_item(self, item, spider):
-    for fieldname, meta in item.fields.iteritems(): 
+    for fieldname, meta in item.fields.items(): 
       value = item.get(fieldname)
       try:
         self.validate_field_value(meta, value, fieldname)
@@ -121,7 +122,7 @@ class DefaultValueSetterPipeline(object):
   """
 
   def process_item(self, item, spider):
-    for fieldname, meta in item.fields.iteritems():
+    for fieldname, meta in item.fields.items():
       val = item.get(fieldname)
       if val is None:
         item[fieldname] = meta.get('default')
