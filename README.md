@@ -42,6 +42,6 @@ This should place the corresponding .csv files next to the .json files.
 
 If you have any ideas of how to improve this project or if you have new questions you want to answer with the data don't hesitate to contact us.
 
-Hendrik Hilleckes ([@hhllcks](http://www.twitter.com/hhllcks), [hllcks@gmail.com](hhllcks@gmail.com), [blog.hhllcks.de](https://blog.hhllcks.de) )
+[Hendrik Hilleckes](https://github.com/hhllcks) ([@hhllcks](http://www.twitter.com/hhllcks), [hllcks@gmail.com](hhllcks@gmail.com), [blog.hhllcks.de](https://blog.hhllcks.de) )
 
-Colin Morris (http://colinmorris.github.io/)
+[Colin Morris](https://github.com/colinmorris) (http://colinmorris.github.io/)
