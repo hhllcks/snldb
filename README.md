@@ -4,7 +4,7 @@ This project aims to scrape a Saturday Night Live database from the web. For now
   * http://www.snlarchives.net
   * http://www.imdb.com/title/tt0072562
  
-Thanks to Joel Navaroli ([@snlmedia](https://twitter.com/snlmedia @snlmedia)) for creating the awesome archive that is snlarchives.net. Please visit the site to answer all of your questions about snl.
+Thanks to Joel Navaroli ([@snlmedia](https://twitter.com/snlmedia)) for creating the awesome archive that is snlarchives.net. Please visit the site to answer all of your questions about snl.
 
 What's missing from the archive is some analysis. That why I created this project. I wanted to answer questions like:
 
@@ -14,25 +14,34 @@ What's missing from the archive is some analysis. That why I created this projec
 
 If you have some ideas for other questions to answer, just send them to me or play with the data yourself.
 
-# The technology
+# Where is the data
+If you are only interested in the data you can find it in the output folder. However we will not guarantee that the data is up to date. If you want a fresh dataset you should crawl the data yourself or look at the [kaggle dataset page](https://www.kaggle.com/hhllcks/snldb).
 
-To create this database I used python and Scrapy. [Scrapy](https://scrapy.org/Scrapy) is a framework to scrape data from the web. If you want to learn about how that works look at the [notebook](snl.ipynb) that explains the process.
+# How to crawl fresh data
+To use the scrapy crawler please make sure that you are working in an environment with Python 3 and that you have installed the modules listed in the requirements.txt.
 
-To display graphs in my analysis I used [bokeh](http://bokeh.pydata.org). Sadly github does not support it. Therefor my graphs do not appear if you open the notebooks on github. If you want the full experience please clone the repository and open the notebook in an environment that supports bokeh. The easiest way would be to create an [anaconda](https://anaconda.org/) environment with the following python modules installed:
+After that you can test everything by running 
+```shell
+./crawl_single_episode.sh
+```
+The folder single_ep_output should now contain .json-files with the crawled data.
 
-  * pandas
-  * numpy
-  * bokeh
-  * scrapy
+To start a complete crawl you have to run
+```shell
+./crawl_all.sh
+```
+This should place the .json-files in the output folder.
 
-# Example analysis
+You can convert the .json-files into .csv-files by running
+```shell
+python convert_json_to_csv.py
+```
+This should place the corresponding .csv files next to the .json files.
 
-If you want to see an example analysis of the data, please refer to my [analysis notebook](snl_analysis.ipynb). It answers the questions above. 
+# Contact us
 
-# Contact me
+If you have any ideas of how to improve this project or if you have new questions you want to answer with the data don't hesitate to contact us.
 
-If you have any ideas of how to improve this project or if you have new questions you want to answer with the data don't hesitate to contact me.
+Hendrik Hilleckes ([@hhllcks](http://www.twitter.com/hhllcks), [hllcks@gmail.com](hhllcks@gmail.com), [blog.hhllcks.de](https://blog.hhllcks.de) )
 
-Twitter | Mail  | Blog
------------- | ------------- | -------------
-[@hhllcks](http://www.twitter.com/hhllcks) | [hllcks@gmail.com](hhllcks@gmail.com)  | [blog.hhllcks.de](https://blog.hhllcks.de)
+Colin Morris (http://colinmorris.github.io/)
