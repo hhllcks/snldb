@@ -206,7 +206,7 @@ class SnlSpider(scrapy.Spider):
         datestr, seasonlink, epstr = values
         episode['aired'] = datestr[:-2]
         try:
-          episode['epno'] = int(epstr.split(' ')[0][1:]) - 1
+          episode['epno'] = int(epstr.split(' ')[0][1:])
         except ValueError:
           # NB: Currently deliberately skipping episodes that aren't part of a normal season.
           logging.warn("Couldn't parse epno from values = {}. (Was this a special?)".format(

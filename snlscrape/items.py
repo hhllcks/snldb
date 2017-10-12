@@ -80,7 +80,7 @@ class Episode(BaseSnlItem):
   # We use the ids snlarchives use in their urls. In practice, these look
   # like dates, e.g. '20020518'
   epid = scrapy.Field(type=str)
-  # epno = n -> this is the nth episode of the season (starting from 0)
+  # epno = n -> this is the nth episode of the season (starting from 1)
   # Specials have no epno, but for the moment I'm making a deliberate 
   # decision to exclude them from the scrape.
   epno = scrapy.Field(type=int, min=0)

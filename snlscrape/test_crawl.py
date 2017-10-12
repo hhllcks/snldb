@@ -68,7 +68,7 @@ def test_episode_stuff(basket):
   # Season 27, ep 20
   epid = '20020518'
   ep = basket.get(Episode, epid=epid)
-  assert_item_props(ep, epid=epid, epno=19, sid=27)
+  assert_item_props(ep, epid=epid, epno=20, sid=27)
 
   # host
   host = basket.get(Host, epid=epid)
