@@ -37,8 +37,9 @@ class TestCastScrape(BetamaxTestCase):
       assert not any(c.get(k) for c in casts)
 
   def test_featured(self):
+    # Kyle Mooney
     casts = self.parse_cast('KyMo')
-    assert [c.get('featured', False) for c in casts] == [True, True, False, False]
+    assert [c.get('featured', False) for c in casts] == [True, True, False, False, False]
 
   def test_midseason_start(self):
     # Abby Elliott
@@ -52,8 +53,7 @@ class TestCastScrape(BetamaxTestCase):
     assert casts[0]['last_epid'] == '19950225'
 
   def test_update_anchor(self):
-    # Michael Che
     casts = self.parse_cast('MiCh')
     assert all([c.get('update_anchor') for c in casts])
-    assert [c.get('featured', False) for c in casts] == [True, True, False]
+    assert [c.get('featured', False) for c in casts] == [True, True, False, False]
 
