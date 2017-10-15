@@ -6,6 +6,8 @@
 # http://doc.scrapy.org/en/latest/topics/items.html
 
 import scrapy
+# basestring in python 2 and str in python 3
+from six import string_types
 
 class BaseSnlItem(scrapy.Item):
   
@@ -37,7 +39,7 @@ class Actor(BaseSnlItem):
   # snlarchive pages, but there were problems with that approach (see below).
   # In practice, celebrities are pretty careful to avoid name collisions. (Fortunately,
   # neither Michelle Williams has ever been credited in an SNL sketch.)
-  aid = scrapy.Field(pkey=True, type=str)
+  aid = scrapy.Field(pkey=True, type=string_types)
   # A URL relative to snlarchives.net. Starts with one of: /Cast/, /Crew/, or /Guests/
   # e.g. Taran Killam's page is /Cast/?TaKi.
   # NB: An actor may have...
@@ -51,7 +53,7 @@ class Actor(BaseSnlItem):
   # In the latter case, the particular URL that appears in this field will be chosen
   # arbitrarily.
   # TODO: Could add a 'matches_re' metadata field to validate urls have the expected format.
-  url = scrapy.Field(type=str, optional=True)
+  url = scrapy.Field(type=string_types, optional=True)
   # This is just a function of the prefix of the URL described above. 'unknown'
   # corresponds to the case where url is missing.
   # snlarchive uses the order of precedence: cast > crew > guest
@@ -65,7 +67,7 @@ class Actor(BaseSnlItem):
 
 class Cast(BaseSnlItem):
   """A cast member on a particular season."""
-  aid = scrapy.Field(type=str)
+  aid = scrapy.Field(type=string_types)
   sid = scrapy.Field(type=int, min=1)
   # Was this cast member a "featured player" during this season? (This is the level
   # most cast members start at)
@@ -73,13 +75,13 @@ class Cast(BaseSnlItem):
   update_anchor = scrapy.Field(type=bool, default=False)
   # These fields are only present if this person wasn't present for the full
   # season (i.e. they started in the middle of a season, or left early)
-  first_epid = scrapy.Field(type=str, optional=True)
-  last_epid = scrapy.Field(type=str, optional=True)
+  first_epid = scrapy.Field(type=string_types, optional=True)
+  last_epid = scrapy.Field(type=string_types, optional=True)
 
 class Episode(BaseSnlItem):
   # We use the ids snlarchives use in their urls. In practice, these look
   # like dates, e.g. '20020518'
-  epid = scrapy.Field(type=str)
+  epid = scrapy.Field(type=string_types)
   # epno = n -> this is the nth episode of the season (starting from 1)
   # Specials have no epno, but for the moment I'm making a deliberate 
   # decision to exclude them from the scrape.
@@ -88,13 +90,13 @@ class Episode(BaseSnlItem):
   # metaclass magic, but don't want to mess around with that too much
   # since scrapy is clearly already doing some metaclass magic here.
   sid = scrapy.Field()
-  aired = scrapy.Field(type=str)
+  aired = scrapy.Field(type=string_types)
 
 class Host(BaseSnlItem):
   # NB: an episode may rarely have 0 or many hosts (which is why this isn't just
   # a field on Episode)
-  epid = scrapy.Field(type=str)
-  aid = scrapy.Field(type=str)
+  epid = scrapy.Field(type=string_types)
+  aid = scrapy.Field(type=string_types)
 
 class Title(BaseSnlItem):
   """An episode is comprised of 'titles'. Cold openings, monologues, sketches, and 
@@ -104,8 +106,8 @@ class Title(BaseSnlItem):
   # In practice, tids are formed by concatenating the epid of the episode a title appears
   # in with an ordinal, starting from 1. e.g. the sketch with tid=201510103 is the 
   # 3rd sketch on episode 20151010
-  tid = scrapy.Field(type=str)
-  epid = scrapy.Field(type=str)
+  tid = scrapy.Field(type=string_types)
+  epid = scrapy.Field(type=string_types)
   category = scrapy.Field(possible_values = {
     # Standard 1-every-episode things (well, almost every episode - there are some episodes from the early years with no monologue)
     'Cold Opening', 'Monologue', 'Goodnights', 
@@ -155,15 +157,15 @@ class Title(BaseSnlItem):
     })
   # Name is empty for certain categories such as Monologue, Weekend Update, and 
   # Goodnights.
-  name = scrapy.Field(type=str, optional=True)
-  skid = scrapy.Field(optional=True, type=str)
+  name = scrapy.Field(type=string_types, optional=True)
+  skid = scrapy.Field(optional=True, type=string_types)
   # Where this appeared on the show, relative to other titles.
   order = scrapy.Field(type=int, min=0)
 
 # A recurring sketch (having a /Sketches url on snlarchive)
 class Sketch(BaseSnlItem):
-  skid = scrapy.Field(pkey=True, type=str)
-  name = scrapy.Field(type=str)
+  skid = scrapy.Field(pkey=True, type=string_types)
+  name = scrapy.Field(type=string_types)
 
 class Appearance(BaseSnlItem):
   aid = scrapy.Field()

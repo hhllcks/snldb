@@ -5,6 +5,9 @@ from snlscrape.items import Cast
 
 class CastSpider(scrapy.Spider):
   """A spider just responsible for scraping Cast items.
+
+  This spider makes approximately 500 requests for a full scrape (one request per
+  cast member).
   """
   name = 'castspider'
   start_urls = ['http://www.snlarchives.net/Cast/?FullList']
@@ -17,7 +20,9 @@ class CastSpider(scrapy.Spider):
       yield scrapy.Request(response.urljoin(href), callback=self.parseCastMember)
 
   def parseCastMember(self, response):
-    aid = response.css('div.contentWrapper .contentHD h1 ::text').extract_first()
+    title = response.css('head title ::text').extract_first()
+    raw_aid = title.split('|')[-1].strip()
+    aid = helpers.Aid.asciify(raw_aid)
 
     popup_idx = 0
     while 1:

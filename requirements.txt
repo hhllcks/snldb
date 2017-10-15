@@ -5,3 +5,4 @@ Scrapy==1.4.0
 Unidecode==0.4.21
 scrapy_fake_useragent==1.1.0
 pandas==0.20.3
+six==1.10.0
