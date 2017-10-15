@@ -85,7 +85,7 @@ class Episode(BaseSnlItem):
   # epno = n -> this is the nth episode of the season (starting from 1)
   # Specials have no epno, but for the moment I'm making a deliberate 
   # decision to exclude them from the scrape.
-  epno = scrapy.Field(type=int, min=0)
+  epno = scrapy.Field(type=int, min=1)
   # Could maybe do the 'foreign key' thing more elegantly with some 
   # metaclass magic, but don't want to mess around with that too much
   # since scrapy is clearly already doing some metaclass magic here.
