@@ -1,9 +1,46 @@
+{"charid": 253, "aid": "Dana Carvey", "name": "Hans"}
+{"charid": 252, "aid": "Kevin Nealon", "name": "Franz"}
+{"charid": 217, "aid": "Dana Carvey", "name": "Church Lady"}
+{"charid": 1010, "aid": "Pete Davidson", "name": "Chad"}
 {"charid": 998, "aid": "Ryan Gosling", "name": "Todd"}
 {"charid": 999, "aid": "Aidy Bryant", "name": "Agent Morris"}
 {"charid": 1001, "aid": "Kate McKinnon", "name": "Colleen Rafferty"}
 {"charid": 1000, "aid": "Cecily Strong", "name": "Sharon"}
 {"charid": 1014, "aid": "Alex Moffat", "name": "Guy Who Just Bought a Boat"}
 {"charid": 971, "aid": "Kenan Thompson", "name": "Treece Henderson"}
+{"charid": 195, "aid": "Nora Dunn", "name": "Pat Stevens"}
+{"charid": 260, "aid": "Tom Hanks", "name": "Girl Watcher"}
+{"charid": 261, "aid": "Jon Lovitz", "name": "Girl Watcher"}
+{"charid": 204, "aid": "Tom Hanks", "name": "Paul"}
+{"charid": 202, "aid": "Jon Lovitz", "name": "Bob (I)"}
+{"charid": 210, "aid": "Dennis Miller", "name": "Steve"}
+{"charid": 258, "aid": "Nora Dunn", "name": "Denise Venetti"}
+{"charid": 259, "aid": "Jon Lovitz", "name": "Neil Simmons"}
+{"charid": 219, "aid": "Dana Carvey", "name": "Derek Stevens"}
+{"charid": 249, "aid": "Phil Hartman", "name": "Helen"}
+{"charid": 248, "aid": "Jan Hooks", "name": "Sherry"}
+{"charid": 238, "aid": "Dana Carvey", "name": "Ching Change"}
+{"charid": 199, "aid": "Jon Lovitz", "name": "Master Thespian"}
+{"charid": 254, "aid": "Phil Hartman", "name": "Helmut"}
+{"charid": 224, "aid": "Nora Dunn", "name": "Liz Sweeney"}
+{"charid": 223, "aid": "Jan Hooks", "name": "Candy Sweeney"}
+{"charid": 225, "aid": "Marc Shaiman", "name": "Skip St. Thomas"}
+{"charid": 255, "aid": "Phil Hartman", "name": "Frankenstein"}
+{"charid": 257, "aid": "Jon Lovitz", "name": "Tonto"}
+{"charid": 256, "aid": "Kevin Nealon", "name": "Tarzan"}
+{"charid": 244, "aid": "Jan Hooks", "name": "Anita"}
+{"charid": 215, "aid": "Phil Hartman", "name": "Bill Franklin"}
+{"charid": 239, "aid": "Cheryl Hardwick", "name": "Pearl"}
+{"charid": 243, "aid": "Victoria Jackson", "name": "Nancy Maloney"}
+{"charid": 237, "aid": "Jon Lovitz", "name": "Eddie Spimozo"}
+{"charid": 235, "aid": "Kevin Nealon", "name": "Charlie Loomis"}
+{"charid": 245, "aid": "Nora Dunn", "name": "Loose Change"}
+{"charid": 242, "aid": "Phil Hartman", "name": "Mace"}
+{"charid": 209, "aid": "Nora Dunn", "name": "Babette"}
+{"charid": 251, "aid": "Jon Lovitz", "name": "Bob (II)"}
+{"charid": 240, "aid": "Phil Hartman", "name": "Don Keister"}
+{"charid": 216, "aid": "Jan Hooks", "name": "Marge Keister"}
+{"charid": 241, "aid": "Victoria Jackson", "name": "Susan Keister"}
 {"charid": 978, "aid": "Dwayne Johnson", "name": "Koko WatchOut"}
 {"charid": 979, "aid": "Bobby Moynihan", "name": "Trashyard Mutt"}
 {"charid": 1012, "aid": "Tom Hanks", "name": "David S. Pumpkins"}
@@ -46,8 +83,6 @@
 {"charid": 740, "aid": "Kristen Wiig", "name": "Sue"}
 {"charid": 900, "aid": "Kate McKinnon", "name": "Sheila Sovage"}
 {"charid": 899, "aid": "Kenan Thompson", "name": "Anthony"}
-{"charid": 1010, "aid": "Pete Davidson", "name": "Chad"}
-{"charid": 217, "aid": "Dana Carvey", "name": "Church Lady"}
 {"charid": 950, "aid": "Kenan Thompson", "name": "Darnell Hayes"}
 {"charid": 951, "aid": "Sasheer Zamata", "name": "Keeley"}
 {"charid": 895, "aid": "Cecily Strong", "name": "The Girl You Wish You Hadn't Started A Conversation With At A Party"}
@@ -536,7 +571,6 @@
 {"charid": 498, "aid": "Molly Shannon", "name": "Miss Colleen"}
 {"charid": 463, "aid": "Chris Kattan", "name": "Azrael Abyss"}
 {"charid": 464, "aid": "Molly Shannon", "name": "Circe Nightshade"}
-{"charid": 238, "aid": "Dana Carvey", "name": "Ching Change"}
 {"charid": 472, "aid": "Tim Meadows", "name": "Leon Phelps"}
 {"charid": 484, "aid": "Tim Meadows", "name": "Mr. Franklin"}
 {"charid": 458, "aid": "Chris Kattan", "name": "Josh Zimmerman"}
@@ -565,8 +599,6 @@
 {"charid": 409, "aid": "Cheri Oteri", "name": "Roberta"}
 {"charid": 483, "aid": "Ana Gasteyer", "name": "Diane Carbonal"}
 {"charid": 513, "aid": "Will Ferrell", "name": "Max Gibbons"}
-{"charid": 253, "aid": "Dana Carvey", "name": "Hans"}
-{"charid": 252, "aid": "Kevin Nealon", "name": "Franz"}
 {"charid": 436, "aid": "Will Ferrell", "name": "Shawn Patrick Flanery"}
 {"charid": 427, "aid": "Cheri Oteri", "name": "Shelly Peterbuilt"}
 {"charid": 489, "aid": "Sarah Michelle Gellar", "name": "Susie Jessica Dibbins"}
@@ -648,7 +680,6 @@
 {"charid": 425, "aid": "Nancy Walls", "name": "Gail Lafferty"}
 {"charid": 401, "aid": "Norm MacDonald", "name": "Stan Hooper"}
 {"charid": 416, "aid": "David Koechner", "name": "Gerald Tibbins"}
-{"charid": 255, "aid": "Phil Hartman", "name": "Frankenstein"}
 {"charid": 336, "aid": "Phil Hartman", "name": "Keyrock"}
 {"charid": 407, "aid": "Mark McKinney", "name": "Steve"}
 {"charid": 406, "aid": "Nancy Walls", "name": "Cindy"}
@@ -743,7 +774,6 @@
 {"charid": 330, "aid": "Siobhan Fallon", "name": "Christy"}
 {"charid": 298, "aid": "Kevin Nealon", "name": "Bill"}
 {"charid": 295, "aid": "Kevin Nealon", "name": "Jimmy"}
-{"charid": 256, "aid": "Kevin Nealon", "name": "Tarzan"}
 {"charid": 322, "aid": "Ellen Cleghorne", "name": "Pop's daughter"}
 {"charid": 321, "aid": "Tim Meadows", "name": "Pop"}
 {"charid": 323, "aid": "Chris Rock", "name": "Young Pop"}
@@ -755,7 +785,6 @@
 {"charid": 301, "aid": "Chris Farley", "name": "Ned Crowley"}
 {"charid": 315, "aid": "Mike Myers", "name": "Paul Baldwin"}
 {"charid": 218, "aid": "Kevin Nealon", "name": "Mr. Subliminal"}
-{"charid": 242, "aid": "Phil Hartman", "name": "Mace"}
 {"charid": 309, "aid": "Kevin Nealon", "name": "elevator fan"}
 {"charid": 300, "aid": "Mike Myers", "name": "Ernie Hitchens"}
 {"charid": 282, "aid": "Jon Lovitz", "name": "Annoying Man"}
@@ -766,49 +795,20 @@
 {"charid": 264, "aid": "Kevin Nealon", "name": "Tony Trailer"}
 {"charid": 286, "aid": "Jon Lovitz", "name": "Hanukkah Harry"}
 {"charid": 270, "aid": "Jan Hooks", "name": "Nancy Simmons"}
-{"charid": 195, "aid": "Nora Dunn", "name": "Pat Stevens"}
 {"charid": 276, "aid": "Phil Hartman", "name": "Tyler"}
 {"charid": 274, "aid": "Mike Myers", "name": "Lothar"}
 {"charid": 280, "aid": "Nora Dunn", "name": "Mrs. Campbell"}
 {"charid": 272, "aid": "Jon Lovitz", "name": "Evelyn Quince"}
-{"charid": 260, "aid": "Tom Hanks", "name": "Girl Watcher"}
-{"charid": 261, "aid": "Jon Lovitz", "name": "Girl Watcher"}
 {"charid": 278, "aid": "Kevin Nealon", "name": "Bob Waltman"}
-{"charid": 257, "aid": "Jon Lovitz", "name": "Tonto"}
 {"charid": 275, "aid": "Jon Lovitz", "name": "Org"}
 {"charid": 227, "aid": "Phil Hartman", "name": "Johnny O'Connor"}
 {"charid": 226, "aid": "Jon Lovitz", "name": "Harry Meyer"}
 {"charid": 263, "aid": "Dana Carvey", "name": "Buddy Precisely"}
-{"charid": 224, "aid": "Nora Dunn", "name": "Liz Sweeney"}
-{"charid": 223, "aid": "Jan Hooks", "name": "Candy Sweeney"}
-{"charid": 225, "aid": "Marc Shaiman", "name": "Skip St. Thomas"}
 {"charid": 268, "aid": "Phil Hartman", "name": "Beev Algar"}
 {"charid": 250, "aid": "Dana Carvey", "name": "Brad"}
-{"charid": 254, "aid": "Phil Hartman", "name": "Helmut"}
-{"charid": 199, "aid": "Jon Lovitz", "name": "Master Thespian"}
 {"charid": 198, "aid": "John Lithgow", "name": "Baudelaire"}
-{"charid": 240, "aid": "Phil Hartman", "name": "Don Keister"}
-{"charid": 216, "aid": "Jan Hooks", "name": "Marge Keister"}
-{"charid": 241, "aid": "Victoria Jackson", "name": "Susan Keister"}
 {"charid": 229, "aid": "Dana Carvey", "name": "Sammy"}
 {"charid": 230, "aid": "Kevin Nealon", "name": "Sammy"}
-{"charid": 258, "aid": "Nora Dunn", "name": "Denise Venetti"}
-{"charid": 259, "aid": "Jon Lovitz", "name": "Neil Simmons"}
-{"charid": 204, "aid": "Tom Hanks", "name": "Paul"}
-{"charid": 202, "aid": "Jon Lovitz", "name": "Bob (I)"}
-{"charid": 210, "aid": "Dennis Miller", "name": "Steve"}
-{"charid": 219, "aid": "Dana Carvey", "name": "Derek Stevens"}
-{"charid": 249, "aid": "Phil Hartman", "name": "Helen"}
-{"charid": 248, "aid": "Jan Hooks", "name": "Sherry"}
-{"charid": 244, "aid": "Jan Hooks", "name": "Anita"}
-{"charid": 215, "aid": "Phil Hartman", "name": "Bill Franklin"}
-{"charid": 239, "aid": "Cheryl Hardwick", "name": "Pearl"}
-{"charid": 243, "aid": "Victoria Jackson", "name": "Nancy Maloney"}
-{"charid": 237, "aid": "Jon Lovitz", "name": "Eddie Spimozo"}
-{"charid": 235, "aid": "Kevin Nealon", "name": "Charlie Loomis"}
-{"charid": 245, "aid": "Nora Dunn", "name": "Loose Change"}
-{"charid": 209, "aid": "Nora Dunn", "name": "Babette"}
-{"charid": 251, "aid": "Jon Lovitz", "name": "Bob (II)"}
 {"charid": 228, "aid": "Victoria Jackson", "name": "Jenny Baker"}
 {"charid": 222, "aid": "Kevin Nealon", "name": "Bill Smith"}
 {"charid": 37, "aid": "Bill Murray", "name": "Nick"}
