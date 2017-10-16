@@ -1,4 +1,117 @@
 aid,capacity,charid,impid,role,tid,voice,epid,sid
+Judge Reinhold,host,,,Billy Cooper,198802271,False,19880227,13
+Dana Carvey,cast,253.0,,Hans,198802271,False,19880227,13
+Phil Hartman,cast,,,announcer,198802271,True,19880227,13
+Kevin Nealon,cast,252.0,,Franz,198802271,False,19880227,13
+Judge Reinhold,host,,,,198802272,False,19880227,13
+G.E. Smith,cast,,,,198802272,False,19880227,13
+A. Whitney Brown,cast,,,salesman,198802273,False,19880227,13
+Dana Carvey,cast,,,coworker,198802273,False,19880227,13
+Phil Hartman,cast,,,executive,198802273,False,19880227,13
+Jon Lovitz,cast,,,Jerry Caruthers,198802273,False,19880227,13
+Kevin Nealon,cast,,,detective,198802273,False,19880227,13
+Dana Carvey,cast,217.0,,Church Lady,198802274,False,19880227,13
+Al Franken,cast,,683.0,Pat Robertson,198802274,False,19880227,13
+Phil Hartman,cast,,694.0,Jimmy Swaggart,198802274,False,19880227,13
+Phil Hartman,cast,,,announcer,198802274,True,19880227,13
+Judge Reinhold,host,,,passenger,198802275,False,19880227,13
+Jan Hooks,cast,,,flight attendant,198802275,False,19880227,13
+Jon Lovitz,cast,,,preacher,198802275,False,19880227,13
+Kevin Nealon,cast,,,passenger,198802275,False,19880227,13
+Judge Reinhold,host,,,,198802276,False,19880227,13
+"10,000 Maniacs",music,,,,198802277,False,19880227,13
+Dennis Miller,cast,,,,198802278,False,19880227,13
+Al Franken,cast,,,,198802278,False,19880227,13
+A. Whitney Brown,cast,,,,198802278,False,19880227,13
+Judge Reinhold,host,,,Jorge Garcia,198802279,False,19880227,13
+Dana Carvey,cast,,,demonstrator,198802279,False,19880227,13
+Tom Davis,cast,,,guard,198802279,False,19880227,13
+Phil Hartman,cast,,,editor,198802279,False,19880227,13
+Jan Hooks,cast,,,señorita,198802279,False,19880227,13
+Jon Lovitz,cast,,,Hector,198802279,False,19880227,13
+Kevin Nealon,cast,,,Smith,198802279,False,19880227,13
+Christine Zander,cast,,,secretary,198802279,True,19880227,13
+Judge Reinhold,host,,,"Matthew Jenson, Jerry",1988022710,False,19880227,13
+Victoria Jackson,cast,,,"Colleen McGovern, Chrissy",1988022710,False,19880227,13
+Kevin Nealon,cast,,,Charlie,1988022710,False,19880227,13
+Judge Reinhold,host,,,Jefferson Davis,1988022711,False,19880227,13
+Dana Carvey,cast,,,Galileo Galilei,1988022711,False,19880227,13
+Nora Dunn,cast,,,Joan of Arc,1988022711,False,19880227,13
+Phil Hartman,cast,,,announcer,1988022711,True,19880227,13
+Phil Hartman,cast,,,Genghis Khan,1988022711,False,19880227,13
+Jon Lovitz,cast,,,Lowell Blaine,1988022711,False,19880227,13
+Dennis Miller,cast,,,director,1988022711,False,19880227,13
+Kevin Nealon,cast,,,Aristotle,1988022711,False,19880227,13
+Judge Reinhold,host,,,,1988022712,False,19880227,13
+"10,000 Maniacs",music,,,,1988022713,False,19880227,13
+Judge Reinhold,host,,,Tom,1988022714,False,19880227,13
+Dana Carvey,cast,,,pirate,1988022714,False,19880227,13
+Kevin Nealon,cast,,,pirate,1988022714,False,19880227,13
+Jason Aldean,cameo,,,,201710071,False,20171007,43
+Gal Gadot,host,,,,201710072,False,20171007,43
+Leslie Jones,cast,,,Times Square Wonder Woman,201710072,False,20171007,43
+Gal Gadot,host,,3783.0,Gigi Hadid,201710073,False,20171007,43
+Gal Gadot,host,,3784.0,Kendall Jenner,201710073,False,20171007,43
+Heidi Gardner,cast,,,waitress,201710073,False,20171007,43
+Leslie Jones,cast,,3787.0,NeNe Leakes,201710073,False,20171007,43
+Kate McKinnon,cast,,3786.0,Bella Hadid,201710073,False,20171007,43
+Luke Null,cast,,3788.0,Blake Shelton,201710073,False,20171007,43
+Chris Redd,cast,,3785.0,Kanye West,201710073,False,20171007,43
+Cecily Strong,cast,,,announcer,201710073,True,20171007,43
+Cecily Strong,cast,,,Alexa,201710073,True,20171007,43
+Melissa Villasenor,cast,,3769.0,Gwen Stefani,201710073,False,20171007,43
+Gal Gadot,host,,,Amila,201710074,False,20171007,43
+Heidi Gardner,cast,,,waitress,201710074,False,20171007,43
+Chris Redd,cast,,,waiter,201710074,False,20171007,43
+Cecily Strong,cast,,,patron,201710074,False,20171007,43
+Kenan Thompson,cast,,2612.0,O.J. Simpson,201710074,False,20171007,43
+Beck Bennett,cast,,,dwarf,201710075,False,20171007,43
+Pete Davidson,cast,1010.0,,Chad,201710075,False,20171007,43
+Mikey Day,cast,,,elf,201710075,False,20171007,43
+Cecily Strong,cast,,,Queen Chrysalis,201710075,False,20171007,43
+Kenan Thompson,cast,,,centaur,201710075,False,20171007,43
+Gal Gadot,host,,,Natalia,201710076,False,20171007,43
+Beck Bennett,cast,,,Mark,201710076,False,20171007,43
+Mikey Day,cast,,,employee,201710076,False,20171007,43
+Leslie Jones,cast,,,manager,201710076,False,20171007,43
+Kyle Mooney,cast,,,employee,201710076,False,20171007,43
+Kenan Thompson,cast,,,cameraman,201710076,False,20171007,43
+Beck Bennett,cast,,,Ken,201710077,False,20171007,43
+Aidy Bryant,cast,,,mother,201710077,False,20171007,43
+Melissa Villasenor,cast,,,Laney,201710077,False,20171007,43
+Sam Smith,music,,,,201710078,False,20171007,43
+Darrell Hammond,cast,,,announcer,201710079,True,20171007,43
+Colin Jost,cast,,,,201710079,False,20171007,43
+Michael Che,cast,,,,201710079,False,20171007,43
+Kate McKinnon,cast,,3263.0,Ruth Bader Ginsburg,201710079,False,20171007,43
+Beck Bennett,cast,,,Burger King announcer,201710079,True,20171007,43
+Pete Davidson,cast,,,,201710079,False,20171007,43
+Gal Gadot,host,,,Mina,2017100710,False,20171007,43
+Beck Bennett,cast,,,prince,2017100710,False,20171007,43
+Aidy Bryant,cast,,,mouse,2017100710,False,20171007,43
+Steve Higgins,cast,,,announcer,2017100710,True,20171007,43
+Kate McKinnon,cast,,,mouse,2017100710,False,20171007,43
+Kyle Mooney,cast,,,mouse,2017100710,False,20171007,43
+Gal Gadot,host,,,Sabine,2017100711,False,20171007,43
+Aidy Bryant,cast,,,Kay,2017100711,False,20171007,43
+Alex Moffat,cast,,,Perkins,2017100711,False,20171007,43
+Kyle Mooney,cast,,,Mr. Hodges,2017100711,False,20171007,43
+Luke Null,cast,,,Jensen,2017100711,False,20171007,43
+Cecily Strong,cast,,,Ms. Vixen,2017100711,False,20171007,43
+Kenan Thompson,cast,,,officer,2017100711,False,20171007,43
+Sam Smith,music,,,,2017100712,False,20171007,43
+Gal Gadot,host,,,Diana,2017100713,False,20171007,43
+Aidy Bryant,cast,,,Megan,2017100713,False,20171007,43
+Heidi Gardner,cast,,,girl,2017100713,False,20171007,43
+Leslie Jones,cast,,,girl,2017100713,False,20171007,43
+Kate McKinnon,cast,,,Dre,2017100713,False,20171007,43
+Cecily Strong,cast,,,mother,2017100713,False,20171007,43
+Melissa Villasenor,cast,,,girl,2017100713,False,20171007,43
+Gal Gadot,host,,,Naomi,2017100714,False,20171007,43
+Aidy Bryant,cast,,,Vanessa Rogers,2017100714,False,20171007,43
+Heidi Gardner,cast,,,A.J.,2017100714,False,20171007,43
+Leslie Jones,cast,,,audience member,2017100714,False,20171007,43
+Kenan Thompson,cast,,,Craig Willis,2017100714,False,20171007,43
 Alec Baldwin,cameo,,3690.0,Donald Trump,201709301,False,20170930,43
 Aidy Bryant,cast,,3778.0,Sarah Huckabee Sanders,201709301,False,20170930,43
 Kate McKinnon,cast,,3753.0,Jeff Sessions,201709301,False,20170930,43
@@ -61,6 +174,561 @@ Heidi Gardner,cast,,,patron,2017093012,False,20170930,43
 Leslie Jones,cast,,,Durtricia,2017093012,False,20170930,43
 Kyle Mooney,cast,,,Raj,2017093012,False,20170930,43
 Kenan Thompson,cast,971.0,,Treece Henderson,2017093012,False,20170930,43
+Tom Hanks,host,,,Mark Mossano,198802201,False,19880220,13
+Dana Carvey,cast,,690.0,Jim McKay,198802201,False,19880220,13
+Phil Hartman,cast,,689.0,Dick Button,198802201,False,19880220,13
+Jan Hooks,cast,,691.0,Peggy Fleming,198802201,False,19880220,13
+Tom Hanks,host,,,,198802202,False,19880220,13
+Tom Hanks,host,,,neighbor,198802203,False,19880220,13
+A. Whitney Brown,cast,,,police officer,198802203,False,19880220,13
+Dana Carvey,cast,,,neighbor,198802203,False,19880220,13
+Nora Dunn,cast,,,Mrs. Larsen,198802203,False,19880220,13
+Phil Hartman,cast,,,Giant Businessman,198802203,False,19880220,13
+Victoria Jackson,cast,,,Laura Larsen,198802203,False,19880220,13
+Jon Lovitz,cast,,,neighbor,198802203,False,19880220,13
+Kevin Nealon,cast,,,police officer,198802203,False,19880220,13
+Kevin Nealon,cast,,,announcer,198802203,True,19880220,13
+G.E. Smith,cast,,,neighbor,198802203,False,19880220,13
+Tom Hanks,host,,,Ralph,198802204,False,19880220,13
+Dana Carvey,cast,,,Keith,198802204,False,19880220,13
+Nora Dunn,cast,,,Sandy,198802204,False,19880220,13
+Phil Hartman,cast,,,Lonnie Chambers,198802204,False,19880220,13
+Victoria Jackson,cast,,,patron,198802204,False,19880220,13
+Jon Lovitz,cast,,,Harry,198802204,False,19880220,13
+Kevin Nealon,cast,,,Bob,198802204,False,19880220,13
+Don Pardo,cast,,,TV announcer,198802204,True,19880220,13
+Nora Dunn,cast,195.0,,Pat Stevens,198802205,False,19880220,13
+Phil Hartman,cast,,692.0,Barbara Bush,198802205,False,19880220,13
+Jan Hooks,cast,,693.0,Elizabeth Dole,198802205,False,19880220,13
+Mark McKinney,cast,,,announcer,198802205,True,19880220,13
+Randy Travis,music,,,,198802206,False,19880220,13
+Don Pardo,cast,,,,198802207,False,19880220,13
+Dennis Miller,cast,,,,198802207,False,19880220,13
+Kevin Nealon,cast,,,,198802207,False,19880220,13
+Victoria Jackson,cast,,,,198802207,False,19880220,13
+Jon Lovitz,cast,,,,198802207,False,19880220,13
+Tom Hanks,host,260.0,,Girl Watcher,198802208,False,19880220,13
+Jon Lovitz,cast,261.0,,Girl Watcher,198802208,False,19880220,13
+Andy Murphy,cast,,,passerby,198802208,False,19880220,13
+Kevin Nealon,cast,,,guy,198802208,False,19880220,13
+Tom Hanks,host,,,Randy,198802209,False,19880220,13
+Kevin Nealon,cast,,,operator,198802209,False,19880220,13
+Dana Carvey,cast,,580.0,Casey Kasem,1988022010,False,19880220,13
+Phil Hartman,cast,,,announcer,1988022010,True,19880220,13
+Tom Hanks,host,,,doctor,1988022011,False,19880220,13
+Dana Carvey,cast,,,father,1988022011,False,19880220,13
+Victoria Jackson,cast,,,mother,1988022011,False,19880220,13
+Jon Lovitz,cast,,,doctor,1988022011,False,19880220,13
+Tom Hanks,host,204.0,,Paul,1988022012,False,19880220,13
+Dana Carvey,cast,,,Jack,1988022012,False,19880220,13
+Jon Lovitz,cast,202.0,,Bob (I),1988022012,False,19880220,13
+Dennis Miller,cast,210.0,,Steve,1988022012,False,19880220,13
+Randy Travis,music,,,,1988022013,False,19880220,13
+Nora Dunn,cast,,,customer,1988022014,False,19880220,13
+Phil Hartman,cast,,,clerk,1988022014,False,19880220,13
+Jan Hooks,cast,,,customer,1988022014,False,19880220,13
+Victoria Jackson,cast,,,customer,1988022014,False,19880220,13
+Kevin Nealon,cast,,,customer,1988022014,False,19880220,13
+Dan Aykroyd,cameo,,681.0,Bob Dole,198802131,False,19880213,13
+Dana Carvey,cast,,651.0,George Bush,198802131,False,19880213,13
+Tom Davis,cast,,,announcer,198802131,True,19880213,13
+Nora Dunn,cast,,678.0,Pat Schroeder,198802131,False,19880213,13
+Al Franken,cast,,683.0,Pat Robertson,198802131,False,19880213,13
+Phil Hartman,cast,,682.0,Jack Kemp,198802131,False,19880213,13
+Kevin Nealon,cast,,684.0,Pierre du Pont IV,198802131,False,19880213,13
+Justine Bateman,host,,,,198802132,False,19880213,13
+Justine Bateman,host,,,Mallory,198802133,False,19880213,13
+Dana Carvey,cast,,685.0,"Michael J. Fox , Alex",198802133,False,19880213,13
+Jan Hooks,cast,,686.0,"Meredith Baxter-Birney , Elyse",198802133,False,19880213,13
+Victoria Jackson,cast,,688.0,"Tina Yothers , Jennifer",198802133,False,19880213,13
+Jon Lovitz,cast,,,Nick Moore,198802133,False,19880213,13
+Kevin Nealon,cast,,687.0,"Michael Gross , Steven",198802133,False,19880213,13
+Justine Bateman,host,,,Tina Ryan,198802134,False,19880213,13
+Nora Dunn,cast,258.0,,Denise Venetti,198802134,False,19880213,13
+Phil Hartman,cast,,,Cyrille Landis,198802134,False,19880213,13
+Victoria Jackson,cast,,,Noni Landis,198802134,False,19880213,13
+Jon Lovitz,cast,259.0,,Neil Simmons,198802134,False,19880213,13
+Kevin Nealon,cast,,,announcer,198802134,True,19880213,13
+Terrance Trent D'Arby,music,,,,198802135,False,19880213,13
+Dennis Miller,cast,,,,198802136,False,19880213,13
+Al Franken,cast,,,,198802136,False,19880213,13
+Justine Bateman,host,,,girlfriend,198802137,False,19880213,13
+Dana Carvey,cast,219.0,,Derek Stevens,198802137,False,19880213,13
+Dana Carvey,cast,,,Tony,198802138,False,19880213,13
+Tom Davis,cast,,,Scarpetti,198802138,False,19880213,13
+Phil Hartman,cast,,,Slammer,198802138,False,19880213,13
+Phil Hartman,cast,,,epilogue narrator,198802138,True,19880213,13
+Jon Lovitz,cast,,,robber,198802138,False,19880213,13
+Dennis Miller,cast,,,robber,198802138,False,19880213,13
+Kevin Nealon,cast,,,Bugsy,198802138,False,19880213,13
+Terrance Trent D'Arby,music,,,,198802139,False,19880213,13
+Justine Bateman,host,,,Linda,1988021310,False,19880213,13
+Dana Carvey,cast,,,Henry,1988021310,False,19880213,13
+Nora Dunn,cast,,,Cynthia,1988021310,False,19880213,13
+Phil Hartman,cast,,,Roger,1988021310,False,19880213,13
+Jan Hooks,cast,,,Susan,1988021310,False,19880213,13
+Jon Lovitz,cast,,,Michael,1988021310,False,19880213,13
+Kevin Nealon,cast,,,guest,1988021310,False,19880213,13
+Justine Bateman,host,,,,1988021311,False,19880213,13
+Dana Carvey,cast,,649.0,George F. Will,1988021311,False,19880213,13
+Phil Hartman,cast,,,announcer,1988021311,True,19880213,13
+Dana Carvey,cast,,651.0,George Bush,198801301,False,19880130,13
+Nora Dunn,cast,,671.0,Barbara Bush,198801301,False,19880130,13
+Phil Hartman,cast,,,Charles Shephard,198801301,False,19880130,13
+Bob Odenkirk,cast,,,audience member,198801301,False,19880130,13
+Jim Pitt,cast,,,audience member,198801301,False,19880130,13
+John Zonars,cast,,,audience member,198801301,False,19880130,13
+Carl Weathers,host,,,,198801302,False,19880130,13
+Victoria Jackson,cast,,,Sheila,198801303,False,19880130,13
+Dennis Miller,cast,,,employee,198801303,False,19880130,13
+Kevin Nealon,cast,,,employee,198801303,False,19880130,13
+Carl Weathers,host,,672.0,Doug Williams,198801304,False,19880130,13
+Dana Carvey,cast,,,announcer,198801304,True,19880130,13
+Al Franken,cast,,,announcer,198801304,True,19880130,13
+Phil Hartman,cast,,599.0,"Jimmy ""The Greek"" Snyder",198801304,False,19880130,13
+Kevin Nealon,cast,,598.0,Brent Musburger,198801304,False,19880130,13
+Carl Weathers,host,,676.0,Jesse Jackson,198801305,False,19880130,13
+Dana Carvey,cast,,679.0,Richard Gephardt,198801305,False,19880130,13
+Tom Davis,cast,,,announcer,198801305,True,19880130,13
+Nora Dunn,cast,,678.0,Pat Schroeder,198801305,False,19880130,13
+Al Franken,cast,,680.0,Sen. Paul Simon,198801305,False,19880130,13
+Phil Hartman,cast,,674.0,Bruce Babbitt,198801305,False,19880130,13
+Jon Lovitz,cast,,677.0,Michael Dukakis,198801305,False,19880130,13
+Dennis Miller,cast,,675.0,Gary Hart,198801305,False,19880130,13
+Kevin Nealon,cast,,673.0,Al Gore,198801305,False,19880130,13
+Carl Weathers,host,,,Jim,198801306,False,19880130,13
+Phil Hartman,cast,249.0,,Helen,198801306,False,19880130,13
+Jan Hooks,cast,248.0,,Sherry,198801306,False,19880130,13
+Jon Lovitz,cast,,,Damien,198801306,False,19880130,13
+Robbie Robertson,music,,,,198801307,False,19880130,13
+BoDeans,cameo,,,,198801307,False,19880130,13
+Maria McKee,cameo,,,,198801307,False,19880130,13
+Lenny Pickett,cast,,,,198801307,False,19880130,13
+Dennis Miller,cast,,,,198801308,False,19880130,13
+Victoria Jackson,cast,,,,198801308,False,19880130,13
+A. Whitney Brown,cast,,,,198801308,False,19880130,13
+Carl Weathers,host,,,agent,198801309,False,19880130,13
+Phil Hartman,cast,,,Paul,198801309,False,19880130,13
+Jan Hooks,cast,,,Susan,198801309,False,19880130,13
+Victoria Jackson,cast,,,patron,198801309,False,19880130,13
+Robbie Robertson,music,,,,1988013010,False,19880130,13
+BoDeans,cameo,,,,1988013010,False,19880130,13
+Maria McKee,cameo,,,,1988013010,False,19880130,13
+Carl Weathers,host,,,Chin-Hua,1988013011,False,19880130,13
+Dana Carvey,cast,238.0,,Ching Change,1988013011,False,19880130,13
+Phil Hartman,cast,,,announcer,1988013011,True,19880130,13
+Jon Lovitz,cast,199.0,,Master Thespian,1988013011,False,19880130,13
+Nora Dunn,cast,,,hairdresser,1988013012,False,19880130,13
+Dana Carvey,cast,253.0,,Hans,198801231,False,19880123,13
+Kevin Nealon,cast,252.0,,Franz,198801231,False,19880123,13
+Robin Williams,host,,,,198801232,False,19880123,13
+Dana Carvey,cast,,,model,198801233,False,19880123,13
+Nora Dunn,cast,,,model,198801233,False,19880123,13
+Phil Hartman,cast,,,model,198801233,False,19880123,13
+Jan Hooks,cast,,,model,198801233,False,19880123,13
+Robin Williams,host,,,Hal Greene,198801234,False,19880123,13
+Dana Carvey,cast,,,Dianne's husband,198801234,False,19880123,13
+Phil Hartman,cast,,,Dr. Fleckman,198801234,False,19880123,13
+Jan Hooks,cast,,,Dianne,198801234,False,19880123,13
+Victoria Jackson,cast,,,Cheryl Greene,198801234,False,19880123,13
+Nora Dunn,cast,258.0,,Denise Venetti,198801235,False,19880123,13
+Phil Hartman,cast,,,Len Sather,198801235,False,19880123,13
+Jan Hooks,cast,,,Ann Sather,198801235,False,19880123,13
+Victoria Jackson,cast,,,Rita Flyer,198801235,False,19880123,13
+Jon Lovitz,cast,259.0,,Neil Simmons,198801235,False,19880123,13
+Kevin Nealon,cast,,,announcer,198801235,True,19880123,13
+James Taylor,music,,,,198801236,False,19880123,13
+Don Grolnick,cameo,,,,198801236,False,19880123,13
+Leland Sklar,cameo,,,,198801236,False,19880123,13
+Dennis Miller,cast,,,,198801237,False,19880123,13
+Al Franken,cast,,,,198801237,False,19880123,13
+Robin Williams,host,,,,198801238,False,19880123,13
+Dana Carvey,cast,,,son,198801238,False,19880123,13
+Phil Hartman,cast,,,TV announcer,198801238,True,19880123,13
+James Taylor,music,,,,198801239,False,19880123,13
+Don Grolnick,cameo,,,,198801239,False,19880123,13
+Leland Sklar,cameo,,,,198801239,False,19880123,13
+Robin Williams,host,,666.0,Dr. Gene Scott,1988012310,False,19880123,13
+Dana Carvey,cast,,668.0,Gallagher,1988012310,False,19880123,13
+Nora Dunn,cast,,670.0,Shelley Duvall,1988012310,False,19880123,13
+Phil Hartman,cast,,669.0,Robert Vaughn,1988012310,False,19880123,13
+Jan Hooks,cast,,667.0,Elayne Boosler,1988012310,False,19880123,13
+Victoria Jackson,cast,,,Nancy McGuire,1988012310,False,19880123,13
+Jon Lovitz,cast,,,producer,1988012310,False,19880123,13
+Kevin Nealon,cast,,,Andrew,1988012310,False,19880123,13
+James Taylor,music,,,,1988012311,False,19880123,13
+Robin Williams,host,,,Ralph Kebins,1988012312,False,19880123,13
+Phil Hartman,cast,,618.0,Peter Graves,1988012312,False,19880123,13
+Robin Williams,host,,,Ben,1988012313,False,19880123,13
+Jan Hooks,cast,,,Rebecca,1988012313,False,19880123,13
+Dennis Miller,cast,,,waiter,1988012313,False,19880123,13
+Paul Simon,host,,,Simon,198712191,False,19871219,13
+A. Whitney Brown,cast,,,Thomas,198712191,False,19871219,13
+Dana Carvey,cast,,,apostle,198712191,False,19871219,13
+Tom Davis,cast,,,apostle,198712191,False,19871219,13
+Phil Hartman,cast,,,Peter,198712191,False,19871219,13
+Jan Hooks,cast,,,Mary Magdalene,198712191,False,19871219,13
+Jon Lovitz,cast,,,Judas,198712191,False,19871219,13
+Dennis Miller,cast,,,John,198712191,False,19871219,13
+Kevin Nealon,cast,,,Matthew,198712191,False,19871219,13
+Paul Simon,host,,,,198712192,False,19871219,13
+Sen. Paul Simon,cameo,,,,198712192,False,19871219,13
+Phil Hartman,cast,,,announcer,198712193,True,19871219,13
+Jan Hooks,cast,,,woman,198712193,False,19871219,13
+Paul Simon,host,,,Scott Rosbicki,198712194,False,19871219,13
+Dana Carvey,cast,253.0,,Hans,198712194,False,19871219,13
+Phil Hartman,cast,254.0,,Helmut,198712194,False,19871219,13
+Kevin Nealon,cast,252.0,,Franz,198712194,False,19871219,13
+Paul Simon,host,,,David,198712195,False,19871219,13
+Victoria Jackson,cast,,,wife,198712195,False,19871219,13
+Phil Hartman,cast,,,announcer,198712196,True,19871219,13
+Phil Hartman,cast,,,R.H. Macy,198712196,False,19871219,13
+Victoria Jackson,cast,,,mother,198712196,False,19871219,13
+Jon Lovitz,cast,199.0,,Master Thespian,198712196,False,19871219,13
+Linda Ronstadt,music,,,,198712197,False,19871219,13
+The Mariachi Vargas de Tecalitlan,music,,,,198712197,False,19871219,13
+Dennis Miller,cast,,,,198712198,False,19871219,13
+Dana Carvey,cast,,665.0,Dennis Miller,198712198,False,19871219,13
+Paul Simon,host,,,,198712199,False,19871219,13
+Nora Dunn,cast,224.0,,Liz Sweeney,198712199,False,19871219,13
+Phil Hartman,cast,,,Jerry Knutson,198712199,False,19871219,13
+Jan Hooks,cast,223.0,,Candy Sweeney,198712199,False,19871219,13
+Marc Shaiman,cast,225.0,,Skip St. Thomas,198712199,False,19871219,13
+Phil Hartman,cast,,,beggar,1987121910,False,19871219,13
+Jan Hooks,cast,,,passenger,1987121910,False,19871219,13
+Victoria Jackson,cast,,,passenger,1987121910,False,19871219,13
+Jon Lovitz,cast,,,passenger,1987121910,False,19871219,13
+Kevin Nealon,cast,,,passenger,1987121910,False,19871219,13
+Nora Dunn,cast,,,Kathleen Fulmer,1987121911,False,19871219,13
+Phil Hartman,cast,255.0,,Frankenstein,1987121911,False,19871219,13
+Jon Lovitz,cast,257.0,,Tonto,1987121911,False,19871219,13
+Kevin Nealon,cast,256.0,,Tarzan,1987121911,False,19871219,13
+Phil Hartman,cast,255.0,,Frankenstein,1987121912,False,19871219,13
+Jon Lovitz,cast,257.0,,Tonto,1987121912,False,19871219,13
+Kevin Nealon,cast,256.0,,Tarzan,1987121912,False,19871219,13
+Paul Simon,host,,,,1987121913,False,19871219,13
+Linda Ronstadt,music,,,,1987121913,False,19871219,13
+Dana Carvey,cast,,,Bobby,1987121914,False,19871219,13
+Nora Dunn,cast,,,Jeannette,1987121914,False,19871219,13
+Phil Hartman,cast,,,Ray,1987121914,False,19871219,13
+Jan Hooks,cast,244.0,,Anita,1987121914,False,19871219,13
+Jon Lovitz,cast,,,,1987121915,False,19871219,13
+Dana Carvey,cast,,,supervisor,198712121,False,19871212,13
+Phil Hartman,cast,,,supervisor,198712121,False,19871212,13
+Kevin Nealon,cast,,,translator,198712121,False,19871212,13
+Angie Dickinson,host,,,,198712122,False,19871212,13
+Nora Dunn,cast,,,tour guide,198712123,False,19871212,13
+Victoria Jackson,cast,,,teacher,198712123,False,19871212,13
+Angie Dickinson,host,,,flight attendant,198712124,False,19871212,13
+Dana Carvey,cast,,,passenger,198712124,False,19871212,13
+Phil Hartman,cast,,,passenger,198712124,False,19871212,13
+Jan Hooks,cast,,,passenger,198712124,False,19871212,13
+Jon Lovitz,cast,,,passenger,198712124,False,19871212,13
+Kevin Nealon,cast,,,passenger,198712124,False,19871212,13
+Nora Dunn,cast,,,announcer,198712125,True,19871212,13
+Nora Dunn,cast,,662.0,Raisa Gorbachev,198712125,False,19871212,13
+Phil Hartman,cast,,,announcer,198712125,True,19871212,13
+Phil Hartman,cast,,573.0,Phil Donahue,198712125,False,19871212,13
+Jan Hooks,cast,,616.0,Nancy Reagan,198712125,False,19871212,13
+Victoria Jackson,cast,,,audience member,198712125,False,19871212,13
+Kevin Nealon,cast,,,audience member,198712125,False,19871212,13
+Christine Zander,cast,,,audience member,198712125,False,19871212,13
+Phil Hartman,cast,215.0,,Bill Franklin,198712126,False,19871212,13
+Victoria Jackson,cast,,,Kiki,198712126,False,19871212,13
+Jon Lovitz,cast,,,Dale Butterworth,198712126,False,19871212,13
+Kevin Nealon,cast,,,Hank Whitman,198712126,False,19871212,13
+Buster Poindexter,music,,,,198712127,False,19871212,13
+Soozie Tyrell,cameo,,,,198712127,False,19871212,13
+The Banshees of Blue,cameo,,,,198712127,False,19871212,13
+The Uptown Horns,cameo,,,,198712127,False,19871212,13
+Dennis Miller,cast,,,,198712128,False,19871212,13
+Victoria Jackson,cast,,,,198712128,False,19871212,13
+Jon Lovitz,cast,,663.0,Stephen King,198712128,False,19871212,13
+A. Whitney Brown,cast,,,,198712128,False,19871212,13
+Angie Dickinson,host,,,Christy,198712129,False,19871212,13
+Nora Dunn,cast,,,guest,198712129,False,19871212,13
+Phil Hartman,cast,,,guest,198712129,False,19871212,13
+Victoria Jackson,cast,,,Becky,198712129,False,19871212,13
+Jon Lovitz,cast,,,Todd,198712129,False,19871212,13
+Dennis Miller,cast,,,guest,198712129,False,19871212,13
+David Gilmour,music,,,,1987121210,False,19871212,13
+Cheryl Hardwick,cast,,,,1987121210,False,19871212,13
+Leon Pendarvis,cast,,,,1987121210,False,19871212,13
+Lenny Pickett,cast,,,,1987121210,False,19871212,13
+G.E. Smith,cast,,,,1987121210,False,19871212,13
+Steve Turre,cast,,,,1987121210,False,19871212,13
+T-Bone Wolk,cast,,,,1987121210,False,19871212,13
+Angie Dickinson,host,,,Pepper,1987121211,False,19871212,13
+Nora Dunn,cast,,595.0,"Tyne Daly , Mary Beth Lacey",1987121211,False,19871212,13
+Phil Hartman,cast,,664.0,"Earl Holliman , Sergeant Crowley",1987121211,False,19871212,13
+Jon Lovitz,cast,,,Brandon Caswell,1987121211,False,19871212,13
+Al Franken,cast,,213.0,Henry Kissinger,1987121212,False,19871212,13
+Phil Hartman,cast,,,announcer,1987121212,True,19871212,13
+Victoria Jackson,cast,,,Jew,1987121212,False,19871212,13
+Jon Lovitz,cast,,,Jew,1987121212,False,19871212,13
+Kevin Nealon,cast,,,Jew,1987121212,False,19871212,13
+Angie Dickinson,host,,,Julie,1987121213,False,19871212,13
+Dana Carvey,cast,,,Drunk Man,1987121213,False,19871212,13
+Nora Dunn,cast,,,patron,1987121213,False,19871212,13
+Phil Hartman,cast,,,patron,1987121213,False,19871212,13
+Jon Lovitz,cast,,,bartender,1987121213,False,19871212,13
+Kevin Nealon,cast,,,patron,1987121213,False,19871212,13
+Danny DeVito,host,,659.0,Mikhail Gorbachev,198712051,False,19871205,13
+Phil Hartman,cast,,592.0,Ronald Reagan,198712051,False,19871205,13
+Kevin Nealon,cast,,,driver,198712051,False,19871205,13
+Danny DeVito,host,,,,198712052,False,19871205,13
+Victoria Jackson,cast,,,Sheila,198712053,False,19871205,13
+Dennis Miller,cast,,,employee,198712053,False,19871205,13
+Kevin Nealon,cast,,,employee,198712053,False,19871205,13
+Danny DeVito,host,,,boss,198712054,False,19871205,13
+Dana Carvey,cast,,,"Chip Lester, Greg",198712054,False,19871205,13
+Phil Hartman,cast,,661.0,Roger Ebert,198712054,False,19871205,13
+Kevin Nealon,cast,,660.0,Gene Siskel,198712054,False,19871205,13
+Danny DeVito,host,,,,198712055,False,19871205,13
+Dana Carvey,cast,217.0,,Church Lady,198712055,False,19871205,13
+Cheryl Hardwick,cast,239.0,,Pearl,198712055,False,19871205,13
+Phil Hartman,cast,,,announcer,198712055,True,19871205,13
+Jan Hooks,cast,,635.0,Jessica Hahn,198712055,False,19871205,13
+G.E. Smith,cast,,,Steven,198712055,False,19871205,13
+Bryan Ferry,music,,,,198712056,False,19871205,13
+Steve Jordan,cast,,,,198712056,False,19871205,13
+Leon Pendarvis,cast,,,,198712056,False,19871205,13
+G.E. Smith,cast,,,,198712056,False,19871205,13
+Dennis Miller,cast,,,,198712057,False,19871205,13
+Kevin Nealon,cast,,,,198712057,False,19871205,13
+Danny DeVito,host,,,Jackie Monday,198712058,False,19871205,13
+Cheryl Hardwick,cast,,,Molly,198712058,False,19871205,13
+Victoria Jackson,cast,243.0,,Nancy Maloney,198712058,False,19871205,13
+Jon Lovitz,cast,237.0,,Eddie Spimozo,198712058,False,19871205,13
+Kevin Nealon,cast,235.0,,Charlie Loomis,198712058,False,19871205,13
+Danny DeVito,host,,,Bryce,198712059,False,19871205,13
+Phil Hartman,cast,,,Mr. Reynolds,198712059,False,19871205,13
+Jan Hooks,cast,,,Jolene,198712059,False,19871205,13
+Danny DeVito,host,,,date,1987120510,False,19871205,13
+Nora Dunn,cast,,569.0,Ann Landers,1987120510,False,19871205,13
+Christine Zander,cast,,,announcer,1987120510,True,19871205,13
+Bryan Ferry,music,,,,1987120511,False,19871205,13
+Steve Jordan,cast,,,,1987120511,False,19871205,13
+Leon Pendarvis,cast,,,,1987120511,False,19871205,13
+G.E. Smith,cast,,,,1987120511,False,19871205,13
+Danny DeVito,host,,,Manny,1987120512,False,19871205,13
+Nora Dunn,cast,,,Ms. Grace,1987120512,False,19871205,13
+Phil Hartman,cast,,,Mr. Martin,1987120512,False,19871205,13
+Rhea Perlman,cameo,,,,1987120513,False,19871205,13
+Dana Carvey,cast,,651.0,George Bush,198711211,False,19871121,13
+Al Franken,cast,,,announcer,198711211,True,19871121,13
+Don Pardo,cast,,,,198711211,False,19871121,13
+Candice Bergen,host,,,,198711212,False,19871121,13
+Dana Carvey,cast,253.0,,Hans,198711213,False,19871121,13
+Phil Hartman,cast,254.0,,Helmut,198711213,False,19871121,13
+Phil Hartman,cast,,,announcer,198711213,True,19871121,13
+Kevin Nealon,cast,252.0,,Franz,198711213,False,19871121,13
+Candice Bergen,host,,,Anne Boleyn,198711214,False,19871121,13
+Tom Davis,cast,,,epilogue narrator,198711214,True,19871121,13
+Nora Dunn,cast,,,spectator,198711214,False,19871121,13
+Phil Hartman,cast,,,Norfolk,198711214,False,19871121,13
+Jon Lovitz,cast,,,spectator,198711214,False,19871121,13
+Dennis Miller,cast,,,spectator,198711214,False,19871121,13
+John Henry Kurtz,unknown,,,announcer,198711215,True,19871121,13
+Cher,music,,,,198711216,False,19871121,13
+Paul Shaffer,cameo,,,,198711216,False,19871121,13
+G.E. Smith,cast,,,,198711216,False,19871121,13
+Candice Bergen,host,,,tourist,198711217,False,19871121,13
+Dana Carvey,cast,238.0,,Ching Change,198711217,False,19871121,13
+Nora Dunn,cast,245.0,,Loose Change,198711217,False,19871121,13
+Phil Hartman,cast,,,Matthew Chen,198711217,False,19871121,13
+Don Pardo,cast,,,,198711217,False,19871121,13
+Dennis Miller,cast,,,,198711218,False,19871121,13
+Candice Bergen,host,,,Priscilla Biddle Barrows,198711219,False,19871121,13
+Sydney Biddle Barrows,cameo,,,,198711219,False,19871121,13
+Dana Carvey,cast,,,Amagansett,198711219,False,19871121,13
+Nora Dunn,cast,,,Prudence,198711219,False,19871121,13
+Phil Hartman,cast,,,Myles Standish,198711219,False,19871121,13
+Jan Hooks,cast,,,pilgrim,198711219,False,19871121,13
+Victoria Jackson,cast,,,Chastity,198711219,False,19871121,13
+Jon Lovitz,cast,,,Chief Takonik,198711219,False,19871121,13
+Dana Carvey,cast,,,Lonnie Broadaxe,1987112110,False,19871121,13
+Don Pardo,cast,,,,1987112110,False,19871121,13
+Cher,music,,,,1987112111,False,19871121,13
+Paul Shaffer,cameo,,,,1987112111,False,19871121,13
+G.E. Smith,cast,,,,1987112111,False,19871121,13
+Candice Bergen,host,,,wife,1987112112,False,19871121,13
+Phil Hartman,cast,,,husband,1987112112,False,19871121,13
+Kevin Nealon,cast,,,waiter,1987112112,False,19871121,13
+Phil Hartman,cast,242.0,,Mace,1987112113,False,19871121,13
+Jan Hooks,cast,,,prostitute,1987112113,False,19871121,13
+Jon Lovitz,cast,,,john,1987112113,False,19871121,13
+Kevin Nealon,cast,,,pervert,1987112113,False,19871121,13
+Dana Carvey,cast,,,Robert Briggs,198711141,False,19871114,13
+Phil Hartman,cast,,,Jeffrey Bell,198711141,False,19871114,13
+Victoria Jackson,cast,,,Sarah Harriman,198711141,False,19871114,13
+Jon Lovitz,cast,,658.0,Douglas Ginsburg,198711141,False,19871114,13
+Robert Mitchum,host,,,,198711142,False,19871114,13
+Dana Carvey,cast,,,model,198711143,False,19871114,13
+Nora Dunn,cast,,,model,198711143,False,19871114,13
+Phil Hartman,cast,,,model,198711143,False,19871114,13
+Jan Hooks,cast,,,model,198711143,False,19871114,13
+Robert Mitchum,host,,,Philip Marlowe,198711144,False,19871114,13
+Jan Hooks,cast,,,girlfriend,198711144,False,19871114,13
+Kevin Nealon,cast,,,Lenny Puglisi,198711144,False,19871114,13
+Dana Carvey,cast,,,"Rick ""Peachfuzz"" Parsons",198711145,False,19871114,13
+Phil Hartman,cast,,,announcer,198711145,True,19871114,13
+Victoria Jackson,cast,,,Rhonda Tacker,198711145,False,19871114,13
+Jon Lovitz,cast,,,Sydney Tacker,198711145,False,19871114,13
+Simply Red,music,,,,198711146,False,19871114,13
+Dennis Miller,cast,,,,198711147,False,19871114,13
+Victoria Jackson,cast,,,,198711147,False,19871114,13
+A. Whitney Brown,cast,,,,198711147,False,19871114,13
+Robert Mitchum,host,,,Dutch,198711148,False,19871114,13
+Nora Dunn,cast,224.0,,Liz Sweeney,198711148,False,19871114,13
+Jan Hooks,cast,223.0,,Candy Sweeney,198711148,False,19871114,13
+Marc Shaiman,cast,225.0,,Skip St. Thomas,198711148,False,19871114,13
+Robert Mitchum,host,,,Jeff Bailey,198711149,False,19871114,13
+Bentley Mitchum,filmed,,,orphan,198711149,False,19871114,13
+Jane Greer,filmed,,,Kathy,198711149,False,19871114,13
+Robert Mitchum,host,,,Rex,1987111410,False,19871114,13
+Tom Davis,cast,,,announcer,1987111410,True,19871114,13
+Nora Dunn,cast,,,customer,1987111410,False,19871114,13
+Phil Hartman,cast,,,Andre,1987111410,False,19871114,13
+Jan Hooks,cast,,,customer,1987111410,False,19871114,13
+Victoria Jackson,cast,,,Cindy,1987111410,False,19871114,13
+Jon Lovitz,cast,,,gay mafia leader,1987111410,False,19871114,13
+Jan Hooks,cast,,593.0,Corazon Aquino,1987111411,False,19871114,13
+Jon Lovitz,cast,,,Guillermo,1987111411,False,19871114,13
+Simply Red,music,,,,1987111412,False,19871114,13
+Robert Mitchum,host,,,father,1987111413,False,19871114,13
+Dana Carvey,cast,,,son,1987111413,False,19871114,13
+Phil Hartman,cast,,,Sprinkles,1987111413,False,19871114,13
+Ric Ocasek,music,,,,198710311,False,19871031,13
+Elvira,guest,,,,198710311,False,19871031,13
+Dana Carvey,cast,,614.0,Robin Leach,198710311,False,19871031,13
+Dabney Coleman,host,,,,198710312,False,19871031,13
+Dana Carvey,cast,,,singer,198710313,False,19871031,13
+Nora Dunn,cast,,657.0,Peggy Lee,198710313,False,19871031,13
+Phil Hartman,cast,,,singer,198710313,False,19871031,13
+Phil Hartman,cast,,,announcer,198710313,True,19871031,13
+Jon Lovitz,cast,,,singer,198710313,False,19871031,13
+Kevin Nealon,cast,,,singer,198710313,False,19871031,13
+Dabney Coleman,host,,,Hal Everett,198710314,False,19871031,13
+Jan Hooks,cast,,,Deborah,198710314,False,19871031,13
+Dana Carvey,cast,,,Eddie,198710315,False,19871031,13
+Nora Dunn,cast,,,Mrs. Simpson,198710315,False,19871031,13
+Al Franken,cast,,,monster,198710315,False,19871031,13
+Phil Hartman,cast,,,police officer,198710315,False,19871031,13
+Victoria Jackson,cast,,,Susie,198710315,False,19871031,13
+Jon Lovitz,cast,,,Kenneth Simpson,198710315,False,19871031,13
+Kevin Nealon,cast,,,police officer,198710315,False,19871031,13
+Dabney Coleman,host,,,Mr. Weber,198710316,False,19871031,13
+Dana Carvey,cast,,,Robert,198710316,False,19871031,13
+Jon Lovitz,cast,,,scout,198710316,False,19871031,13
+The Cars,music,,,,198710317,False,19871031,13
+Dennis Miller,cast,,,,198710318,False,19871031,13
+Elvira,guest,,,,198710318,False,19871031,13
+Dabney Coleman,host,,,Dr. Dick Mauser,198710319,False,19871031,13
+Nora Dunn,cast,,,Mary Beth,198710319,False,19871031,13
+Kevin Nealon,cast,,,Gary,198710319,False,19871031,13
+Dana Carvey,cast,,,motorist,1987103110,False,19871031,13
+Jan Hooks,cast,,,motorist,1987103110,False,19871031,13
+Jon Lovitz,cast,,,Count Dracula,1987103110,False,19871031,13
+Dabney Coleman,host,,,Jerry Lyle,1987103111,False,19871031,13
+Nora Dunn,cast,195.0,,Pat Stevens,1987103111,False,19871031,13
+Mark McKinney,cast,,,announcer,1987103111,True,19871031,13
+Dabney Coleman,host,,,teacher,1987103112,False,19871031,13
+Dana Carvey,cast,,,Craig,1987103112,False,19871031,13
+Jan Hooks,cast,,,student,1987103112,False,19871031,13
+Victoria Jackson,cast,,,Cindy,1987103112,False,19871031,13
+Jon Lovitz,cast,,,student,1987103112,False,19871031,13
+The Cars,music,,,,1987103113,False,19871031,13
+Dabney Coleman,host,,,Bob Hudnut,1987103114,False,19871031,13
+Victoria Jackson,cast,,,secretary,1987103114,False,19871031,13
+Jon Lovitz,cast,,,Ted Rifkin,1987103114,False,19871031,13
+Sean Penn,host,,,,198710241,False,19871024,13
+LL Cool J,music,,,Alex Forest,198710241,False,19871024,13
+Joe Dicso,cast,,,,198710241,False,19871024,13
+Sean Penn,host,,,,198710242,False,19871024,13
+Don Pardo,cast,,,,198710242,False,19871024,13
+Sean Penn,host,,,Steven Babcock,198710243,False,19871024,13
+Phil Hartman,cast,,,Colin Hutchinson,198710243,False,19871024,13
+Phil Hartman,cast,,,announcer,198710243,True,19871024,13
+Jan Hooks,cast,,,Jane Wickham,198710243,False,19871024,13
+Jon Lovitz,cast,,655.0,Louis Rukeyser,198710243,False,19871024,13
+Dennis Miller,cast,,,Tony Stepanich,198710243,False,19871024,13
+Kevin Nealon,cast,,,Future Man,198710243,False,19871024,13
+Sean Penn,host,,,,198710244,False,19871024,13
+Dana Carvey,cast,217.0,,Church Lady,198710244,False,19871024,13
+Phil Hartman,cast,,,announcer,198710244,True,19871024,13
+Jon Lovitz,cast,,,Rashashimi Khadudi Hasumi-imi-humi,198710244,False,19871024,13
+Sean Penn,host,,656.0,Robert DeNiro,198710246,False,19871024,13
+Dana Carvey,cast,,,patron,198710246,False,19871024,13
+Nora Dunn,cast,209.0,,Babette,198710246,False,19871024,13
+Phil Hartman,cast,,,Robert's agent,198710246,False,19871024,13
+Jon Lovitz,cast,251.0,,Bob (II),198710246,False,19871024,13
+Kevin Nealon,cast,,,waiter,198710246,False,19871024,13
+Christine Zander,cast,,,Rene,198710246,False,19871024,13
+Dennis Miller,cast,,,,198710247,False,19871024,13
+Kevin Nealon,cast,,,,198710247,False,19871024,13
+Sean Penn,host,,,Gary,198710248,False,19871024,13
+Phil Hartman,cast,240.0,,Don Keister,198710248,False,19871024,13
+Jan Hooks,cast,216.0,,Marge Keister,198710248,False,19871024,13
+Victoria Jackson,cast,241.0,,Susan Keister,198710248,False,19871024,13
+LL Cool J,music,,,,198710249,False,19871024,13
+Sean Penn,host,,,Randy Fibbado,1987102410,False,19871024,13
+Phil Hartman,cast,,618.0,Peter Graves,1987102410,False,19871024,13
+Jan Hooks,cast,,,Robin Tessler,1987102410,False,19871024,13
+Sean Penn,host,,,Joey Spimozo,1987102411,False,19871024,13
+Victoria Jackson,cast,243.0,,Nancy Maloney,1987102411,False,19871024,13
+Jon Lovitz,cast,237.0,,Eddie Spimozo,1987102411,False,19871024,13
+Kevin Nealon,cast,235.0,,Charlie Loomis,1987102411,False,19871024,13
+The Pull,music,,,,1987102412,False,19871024,13
+Tom Davis,cast,,,Dr. Daniel Rudolph,1987102413,False,19871024,13
+Dana Carvey,cast,,651.0,George Bush,198710171,False,19871017,13
+Phil Hartman,cast,,592.0,Ronald Reagan,198710171,False,19871017,13
+Jon Lovitz,cast,,652.0,Robert Bork,198710171,False,19871017,13
+Steve Martin,host,,,,198710172,False,19871017,13
+Phil Hartman,cast,,,announcer,198710173,True,19871017,13
+Jan Hooks,cast,,,woman,198710173,False,19871017,13
+Steve Martin,host,,,Bob Albert,198710174,False,19871017,13
+Dana Carvey,cast,,,Kyle Knopfler,198710174,False,19871017,13
+Nora Dunn,cast,,653.0,Jeane Kirkpatrick,198710174,False,19871017,13
+Victoria Jackson,cast,,,Tracy Tollison,198710174,False,19871017,13
+Kevin Nealon,cast,,,Les Shermeyer,198710174,False,19871017,13
+Dana Carvey,cast,,,announcer,198710175,True,19871017,13
+Dana Carvey,cast,,654.0,George Plimpton,198710175,False,19871017,13
+Al Franken,cast,,,announcer,198710175,True,19871017,13
+Phil Hartman,cast,,599.0,"Jimmy ""The Greek"" Snyder",198710175,False,19871017,13
+Phil Hartman,cast,,,announcer,198710175,True,19871017,13
+Kevin Nealon,cast,,598.0,Brent Musburger,198710175,False,19871017,13
+Steve Martin,host,,,date,198710176,False,19871017,13
+Jan Hooks,cast,,,date,198710176,False,19871017,13
+Victoria Jackson,cast,,,Dianne,198710176,False,19871017,13
+Jon Lovitz,cast,,,date,198710176,False,19871017,13
+Kevin Nealon,cast,,,waiter,198710176,False,19871017,13
+Sting,music,,,,198710177,False,19871017,13
+Branford Marsalis,cameo,,,,198710177,False,19871017,13
+Dennis Miller,cast,,,,198710178,False,19871017,13
+Al Franken,cast,,,,198710178,False,19871017,13
+Bruce Babbitt,filmed,,,,198710178,False,19871017,13
+Victoria Jackson,cast,,,,198710178,False,19871017,13
+Steve Martin,host,,,James Bond,198710179,False,19871017,13
+Sting,music,,,Goldsting,198710179,False,19871017,13
+Nora Dunn,cast,,,Miss Moneypenny,198710179,False,19871017,13
+Cheryl Hardwick,cast,,,pianist,198710179,False,19871017,13
+Phil Hartman,cast,,,Gregory,198710179,False,19871017,13
+Jan Hooks,cast,,,date,198710179,False,19871017,13
+Victoria Jackson,cast,,,,198710179,False,19871017,13
+Jon Lovitz,cast,,,M,198710179,False,19871017,13
+Steve Martin,host,,,Chief Martin,1987101710,False,19871017,13
+Tom Davis,cast,,,loudspeaker voice,1987101710,True,19871017,13
+Phil Hartman,cast,,,captain,1987101710,False,19871017,13
+Jon Lovitz,cast,,,captain,1987101710,False,19871017,13
+Sting,music,,,,1987101711,False,19871017,13
+Branford Marsalis,cameo,,,,1987101711,False,19871017,13
+Steve Martin,host,,,Todd,1987101712,False,19871017,13
+Phil Hartman,cast,,,Alonzo,1987101712,False,19871017,13
+Jon Lovitz,cast,,,Jerry,1987101712,False,19871017,13
+Dana Carvey,cast,253.0,,Hans,1987101713,False,19871017,13
+Phil Hartman,cast,,,announcer,1987101713,True,19871017,13
+Kevin Nealon,cast,252.0,,Franz,1987101713,False,19871017,13
 Alec Baldwin,cameo,,3690.0,Donald Trump,201705201,False,20170520,42
 Scarlett Johansson,cameo,,2597.0,Ivanka Trump,201705201,False,20170520,42
 Beck Bennett,cast,,3701.0,Mike Pence,201705201,False,20170520,42
@@ -6056,6 +6724,7 @@ Aidy Bryant,cast,,,traveler,201309284,False,20130928,39
 Taran Killam,cast,,,Dave,201309284,False,20130928,39
 Kate McKinnon,cast,,,traveler,201309284,False,20130928,39
 John Milhiser,cast,,,father,201309284,False,20130928,39
+Kyle Mooney,cast,,,traveler,201309284,False,20130928,39
 Bobby Moynihan,cast,,,traveler,201309284,False,20130928,39
 Nasim Pedrad,cast,,,traveler,201309284,False,20130928,39
 Kenan Thompson,cast,,,traveler,201309284,False,20130928,39
@@ -7227,8 +7896,8 @@ Taran Killam,cast,,3022.0,Brad Pitt,2012102013,False,20121020,38
 Bruno Mars,host,,,,2012102014,False,20121020,38
 Bruno Mars,host,,,Troy Kamanawana,2012102015,False,20121020,38
 Kate McKinnon,cast,,3263.0,Ruth Bader Ginsburg,2012102015,False,20121020,38
-Bobby Moynihan,cast,,,Butt Dave,2012102015,False,20121020,38
 Bobby Moynihan,cast,831.0,,Ass Dan,2012102015,False,20121020,38
+Bobby Moynihan,cast,,,Butt Dave,2012102015,False,20121020,38
 Nasim Pedrad,cast,808.0,,Lil Blaster,2012102015,False,20121020,38
 Jay Pharoah,cast,850.0,,MC George Castanza,2012102015,False,20121020,38
 Jason Sudeikis,cast,807.0,,DJ Super Soak,2012102015,False,20121020,38
@@ -36557,609 +37226,6 @@ Nora Dunn,cast,195.0,,Pat Stevens,1988100813,False,19881008,14
 Phil Hartman,cast,,692.0,Barbara Bush,1988100813,False,19881008,14
 Jan Hooks,cast,,700.0,Kitty Dukakis,1988100813,False,19881008,14
 Mark McKinney,cast,,,announcer,1988100813,True,19881008,14
-Judge Reinhold,host,,,Billy Cooper,198802271,False,19880227,13
-Dana Carvey,cast,253.0,,Hans,198802271,False,19880227,13
-Phil Hartman,cast,,,announcer,198802271,True,19880227,13
-Kevin Nealon,cast,252.0,,Franz,198802271,False,19880227,13
-Judge Reinhold,host,,,,198802272,False,19880227,13
-G.E. Smith,cast,,,,198802272,False,19880227,13
-A. Whitney Brown,cast,,,salesman,198802273,False,19880227,13
-Dana Carvey,cast,,,coworker,198802273,False,19880227,13
-Phil Hartman,cast,,,executive,198802273,False,19880227,13
-Jon Lovitz,cast,,,Jerry Caruthers,198802273,False,19880227,13
-Kevin Nealon,cast,,,detective,198802273,False,19880227,13
-Dana Carvey,cast,217.0,,Church Lady,198802274,False,19880227,13
-Al Franken,cast,,683.0,Pat Robertson,198802274,False,19880227,13
-Phil Hartman,cast,,694.0,Jimmy Swaggart,198802274,False,19880227,13
-Phil Hartman,cast,,,announcer,198802274,True,19880227,13
-Judge Reinhold,host,,,passenger,198802275,False,19880227,13
-Jan Hooks,cast,,,flight attendant,198802275,False,19880227,13
-Jon Lovitz,cast,,,preacher,198802275,False,19880227,13
-Kevin Nealon,cast,,,passenger,198802275,False,19880227,13
-Judge Reinhold,host,,,,198802276,False,19880227,13
-"10,000 Maniacs",music,,,,198802277,False,19880227,13
-Dennis Miller,cast,,,,198802278,False,19880227,13
-Al Franken,cast,,,,198802278,False,19880227,13
-A. Whitney Brown,cast,,,,198802278,False,19880227,13
-Judge Reinhold,host,,,Jorge Garcia,198802279,False,19880227,13
-Dana Carvey,cast,,,demonstrator,198802279,False,19880227,13
-Tom Davis,cast,,,guard,198802279,False,19880227,13
-Phil Hartman,cast,,,editor,198802279,False,19880227,13
-Jan Hooks,cast,,,señorita,198802279,False,19880227,13
-Jon Lovitz,cast,,,Hector,198802279,False,19880227,13
-Kevin Nealon,cast,,,Smith,198802279,False,19880227,13
-Christine Zander,cast,,,secretary,198802279,True,19880227,13
-Judge Reinhold,host,,,"Matthew Jenson, Jerry",1988022710,False,19880227,13
-Victoria Jackson,cast,,,"Colleen McGovern, Chrissy",1988022710,False,19880227,13
-Kevin Nealon,cast,,,Charlie,1988022710,False,19880227,13
-Judge Reinhold,host,,,Jefferson Davis,1988022711,False,19880227,13
-Dana Carvey,cast,,,Galileo Galilei,1988022711,False,19880227,13
-Nora Dunn,cast,,,Joan of Arc,1988022711,False,19880227,13
-Phil Hartman,cast,,,announcer,1988022711,True,19880227,13
-Phil Hartman,cast,,,Genghis Khan,1988022711,False,19880227,13
-Jon Lovitz,cast,,,Lowell Blaine,1988022711,False,19880227,13
-Dennis Miller,cast,,,director,1988022711,False,19880227,13
-Kevin Nealon,cast,,,Aristotle,1988022711,False,19880227,13
-Judge Reinhold,host,,,,1988022712,False,19880227,13
-"10,000 Maniacs",music,,,,1988022713,False,19880227,13
-Judge Reinhold,host,,,Tom,1988022714,False,19880227,13
-Dana Carvey,cast,,,pirate,1988022714,False,19880227,13
-Kevin Nealon,cast,,,pirate,1988022714,False,19880227,13
-Tom Hanks,host,,,Mark Mossano,198802201,False,19880220,13
-Dana Carvey,cast,,690.0,Jim McKay,198802201,False,19880220,13
-Phil Hartman,cast,,689.0,Dick Button,198802201,False,19880220,13
-Jan Hooks,cast,,691.0,Peggy Fleming,198802201,False,19880220,13
-Tom Hanks,host,,,,198802202,False,19880220,13
-Tom Hanks,host,,,neighbor,198802203,False,19880220,13
-A. Whitney Brown,cast,,,police officer,198802203,False,19880220,13
-Dana Carvey,cast,,,neighbor,198802203,False,19880220,13
-Nora Dunn,cast,,,Mrs. Larsen,198802203,False,19880220,13
-Phil Hartman,cast,,,Giant Businessman,198802203,False,19880220,13
-Victoria Jackson,cast,,,Laura Larsen,198802203,False,19880220,13
-Jon Lovitz,cast,,,neighbor,198802203,False,19880220,13
-Kevin Nealon,cast,,,police officer,198802203,False,19880220,13
-Kevin Nealon,cast,,,announcer,198802203,True,19880220,13
-G.E. Smith,cast,,,neighbor,198802203,False,19880220,13
-Tom Hanks,host,,,Ralph,198802204,False,19880220,13
-Dana Carvey,cast,,,Keith,198802204,False,19880220,13
-Nora Dunn,cast,,,Sandy,198802204,False,19880220,13
-Phil Hartman,cast,,,Lonnie Chambers,198802204,False,19880220,13
-Victoria Jackson,cast,,,patron,198802204,False,19880220,13
-Jon Lovitz,cast,,,Harry,198802204,False,19880220,13
-Kevin Nealon,cast,,,Bob,198802204,False,19880220,13
-Don Pardo,cast,,,TV announcer,198802204,True,19880220,13
-Nora Dunn,cast,195.0,,Pat Stevens,198802205,False,19880220,13
-Phil Hartman,cast,,692.0,Barbara Bush,198802205,False,19880220,13
-Jan Hooks,cast,,693.0,Elizabeth Dole,198802205,False,19880220,13
-Mark McKinney,cast,,,announcer,198802205,True,19880220,13
-Randy Travis,music,,,,198802206,False,19880220,13
-Don Pardo,cast,,,,198802207,False,19880220,13
-Dennis Miller,cast,,,,198802207,False,19880220,13
-Kevin Nealon,cast,,,,198802207,False,19880220,13
-Victoria Jackson,cast,,,,198802207,False,19880220,13
-Jon Lovitz,cast,,,,198802207,False,19880220,13
-Tom Hanks,host,260.0,,Girl Watcher,198802208,False,19880220,13
-Jon Lovitz,cast,261.0,,Girl Watcher,198802208,False,19880220,13
-Andy Murphy,cast,,,passerby,198802208,False,19880220,13
-Kevin Nealon,cast,,,guy,198802208,False,19880220,13
-Tom Hanks,host,,,Randy,198802209,False,19880220,13
-Kevin Nealon,cast,,,operator,198802209,False,19880220,13
-Dana Carvey,cast,,580.0,Casey Kasem,1988022010,False,19880220,13
-Phil Hartman,cast,,,announcer,1988022010,True,19880220,13
-Tom Hanks,host,,,doctor,1988022011,False,19880220,13
-Dana Carvey,cast,,,father,1988022011,False,19880220,13
-Victoria Jackson,cast,,,mother,1988022011,False,19880220,13
-Jon Lovitz,cast,,,doctor,1988022011,False,19880220,13
-Tom Hanks,host,204.0,,Paul,1988022012,False,19880220,13
-Dana Carvey,cast,,,Jack,1988022012,False,19880220,13
-Jon Lovitz,cast,202.0,,Bob (I),1988022012,False,19880220,13
-Dennis Miller,cast,210.0,,Steve,1988022012,False,19880220,13
-Randy Travis,music,,,,1988022013,False,19880220,13
-Nora Dunn,cast,,,customer,1988022014,False,19880220,13
-Phil Hartman,cast,,,clerk,1988022014,False,19880220,13
-Jan Hooks,cast,,,customer,1988022014,False,19880220,13
-Victoria Jackson,cast,,,customer,1988022014,False,19880220,13
-Kevin Nealon,cast,,,customer,1988022014,False,19880220,13
-Dan Aykroyd,cameo,,681.0,Bob Dole,198802131,False,19880213,13
-Dana Carvey,cast,,651.0,George Bush,198802131,False,19880213,13
-Tom Davis,cast,,,announcer,198802131,True,19880213,13
-Nora Dunn,cast,,678.0,Pat Schroeder,198802131,False,19880213,13
-Al Franken,cast,,683.0,Pat Robertson,198802131,False,19880213,13
-Phil Hartman,cast,,682.0,Jack Kemp,198802131,False,19880213,13
-Kevin Nealon,cast,,684.0,Pierre du Pont IV,198802131,False,19880213,13
-Justine Bateman,host,,,,198802132,False,19880213,13
-Justine Bateman,host,,,Mallory,198802133,False,19880213,13
-Dana Carvey,cast,,685.0,"Michael J. Fox , Alex",198802133,False,19880213,13
-Jan Hooks,cast,,686.0,"Meredith Baxter-Birney , Elyse",198802133,False,19880213,13
-Victoria Jackson,cast,,688.0,"Tina Yothers , Jennifer",198802133,False,19880213,13
-Jon Lovitz,cast,,,Nick Moore,198802133,False,19880213,13
-Kevin Nealon,cast,,687.0,"Michael Gross , Steven",198802133,False,19880213,13
-Justine Bateman,host,,,Tina Ryan,198802134,False,19880213,13
-Nora Dunn,cast,258.0,,Denise Venetti,198802134,False,19880213,13
-Phil Hartman,cast,,,Cyrille Landis,198802134,False,19880213,13
-Victoria Jackson,cast,,,Noni Landis,198802134,False,19880213,13
-Jon Lovitz,cast,259.0,,Neil Simmons,198802134,False,19880213,13
-Kevin Nealon,cast,,,announcer,198802134,True,19880213,13
-Terrance Trent D'Arby,music,,,,198802135,False,19880213,13
-Dennis Miller,cast,,,,198802136,False,19880213,13
-Al Franken,cast,,,,198802136,False,19880213,13
-Justine Bateman,host,,,girlfriend,198802137,False,19880213,13
-Dana Carvey,cast,219.0,,Derek Stevens,198802137,False,19880213,13
-Dana Carvey,cast,,,Tony,198802138,False,19880213,13
-Tom Davis,cast,,,Scarpetti,198802138,False,19880213,13
-Phil Hartman,cast,,,Slammer,198802138,False,19880213,13
-Phil Hartman,cast,,,epilogue narrator,198802138,True,19880213,13
-Jon Lovitz,cast,,,robber,198802138,False,19880213,13
-Dennis Miller,cast,,,robber,198802138,False,19880213,13
-Kevin Nealon,cast,,,Bugsy,198802138,False,19880213,13
-Terrance Trent D'Arby,music,,,,198802139,False,19880213,13
-Justine Bateman,host,,,Linda,1988021310,False,19880213,13
-Dana Carvey,cast,,,Henry,1988021310,False,19880213,13
-Nora Dunn,cast,,,Cynthia,1988021310,False,19880213,13
-Phil Hartman,cast,,,Roger,1988021310,False,19880213,13
-Jan Hooks,cast,,,Susan,1988021310,False,19880213,13
-Jon Lovitz,cast,,,Michael,1988021310,False,19880213,13
-Kevin Nealon,cast,,,guest,1988021310,False,19880213,13
-Justine Bateman,host,,,,1988021311,False,19880213,13
-Dana Carvey,cast,,649.0,George F. Will,1988021311,False,19880213,13
-Phil Hartman,cast,,,announcer,1988021311,True,19880213,13
-Dana Carvey,cast,,651.0,George Bush,198801301,False,19880130,13
-Nora Dunn,cast,,671.0,Barbara Bush,198801301,False,19880130,13
-Phil Hartman,cast,,,Charles Shephard,198801301,False,19880130,13
-Bob Odenkirk,cast,,,audience member,198801301,False,19880130,13
-Jim Pitt,cast,,,audience member,198801301,False,19880130,13
-John Zonars,cast,,,audience member,198801301,False,19880130,13
-Carl Weathers,host,,,,198801302,False,19880130,13
-Victoria Jackson,cast,,,Sheila,198801303,False,19880130,13
-Dennis Miller,cast,,,employee,198801303,False,19880130,13
-Kevin Nealon,cast,,,employee,198801303,False,19880130,13
-Carl Weathers,host,,672.0,Doug Williams,198801304,False,19880130,13
-Dana Carvey,cast,,,announcer,198801304,True,19880130,13
-Al Franken,cast,,,announcer,198801304,True,19880130,13
-Phil Hartman,cast,,599.0,"Jimmy ""The Greek"" Snyder",198801304,False,19880130,13
-Kevin Nealon,cast,,598.0,Brent Musburger,198801304,False,19880130,13
-Carl Weathers,host,,676.0,Jesse Jackson,198801305,False,19880130,13
-Dana Carvey,cast,,679.0,Richard Gephardt,198801305,False,19880130,13
-Tom Davis,cast,,,announcer,198801305,True,19880130,13
-Nora Dunn,cast,,678.0,Pat Schroeder,198801305,False,19880130,13
-Al Franken,cast,,680.0,Sen. Paul Simon,198801305,False,19880130,13
-Phil Hartman,cast,,674.0,Bruce Babbitt,198801305,False,19880130,13
-Jon Lovitz,cast,,677.0,Michael Dukakis,198801305,False,19880130,13
-Dennis Miller,cast,,675.0,Gary Hart,198801305,False,19880130,13
-Kevin Nealon,cast,,673.0,Al Gore,198801305,False,19880130,13
-Carl Weathers,host,,,Jim,198801306,False,19880130,13
-Phil Hartman,cast,249.0,,Helen,198801306,False,19880130,13
-Jan Hooks,cast,248.0,,Sherry,198801306,False,19880130,13
-Jon Lovitz,cast,,,Damien,198801306,False,19880130,13
-Robbie Robertson,music,,,,198801307,False,19880130,13
-BoDeans,cameo,,,,198801307,False,19880130,13
-Maria McKee,cameo,,,,198801307,False,19880130,13
-Lenny Pickett,cast,,,,198801307,False,19880130,13
-Dennis Miller,cast,,,,198801308,False,19880130,13
-Victoria Jackson,cast,,,,198801308,False,19880130,13
-A. Whitney Brown,cast,,,,198801308,False,19880130,13
-Carl Weathers,host,,,agent,198801309,False,19880130,13
-Phil Hartman,cast,,,Paul,198801309,False,19880130,13
-Jan Hooks,cast,,,Susan,198801309,False,19880130,13
-Victoria Jackson,cast,,,patron,198801309,False,19880130,13
-Robbie Robertson,music,,,,1988013010,False,19880130,13
-BoDeans,cameo,,,,1988013010,False,19880130,13
-Maria McKee,cameo,,,,1988013010,False,19880130,13
-Carl Weathers,host,,,Chin-Hua,1988013011,False,19880130,13
-Dana Carvey,cast,238.0,,Ching Change,1988013011,False,19880130,13
-Phil Hartman,cast,,,announcer,1988013011,True,19880130,13
-Jon Lovitz,cast,199.0,,Master Thespian,1988013011,False,19880130,13
-Nora Dunn,cast,,,hairdresser,1988013012,False,19880130,13
-Dana Carvey,cast,253.0,,Hans,198801231,False,19880123,13
-Kevin Nealon,cast,252.0,,Franz,198801231,False,19880123,13
-Robin Williams,host,,,,198801232,False,19880123,13
-Dana Carvey,cast,,,model,198801233,False,19880123,13
-Nora Dunn,cast,,,model,198801233,False,19880123,13
-Phil Hartman,cast,,,model,198801233,False,19880123,13
-Jan Hooks,cast,,,model,198801233,False,19880123,13
-Robin Williams,host,,,Hal Greene,198801234,False,19880123,13
-Dana Carvey,cast,,,Dianne's husband,198801234,False,19880123,13
-Phil Hartman,cast,,,Dr. Fleckman,198801234,False,19880123,13
-Jan Hooks,cast,,,Dianne,198801234,False,19880123,13
-Victoria Jackson,cast,,,Cheryl Greene,198801234,False,19880123,13
-Nora Dunn,cast,258.0,,Denise Venetti,198801235,False,19880123,13
-Phil Hartman,cast,,,Len Sather,198801235,False,19880123,13
-Jan Hooks,cast,,,Ann Sather,198801235,False,19880123,13
-Victoria Jackson,cast,,,Rita Flyer,198801235,False,19880123,13
-Jon Lovitz,cast,259.0,,Neil Simmons,198801235,False,19880123,13
-Kevin Nealon,cast,,,announcer,198801235,True,19880123,13
-James Taylor,music,,,,198801236,False,19880123,13
-Don Grolnick,cameo,,,,198801236,False,19880123,13
-Leland Sklar,cameo,,,,198801236,False,19880123,13
-Dennis Miller,cast,,,,198801237,False,19880123,13
-Al Franken,cast,,,,198801237,False,19880123,13
-Robin Williams,host,,,,198801238,False,19880123,13
-Dana Carvey,cast,,,son,198801238,False,19880123,13
-Phil Hartman,cast,,,TV announcer,198801238,True,19880123,13
-James Taylor,music,,,,198801239,False,19880123,13
-Don Grolnick,cameo,,,,198801239,False,19880123,13
-Leland Sklar,cameo,,,,198801239,False,19880123,13
-Robin Williams,host,,666.0,Dr. Gene Scott,1988012310,False,19880123,13
-Dana Carvey,cast,,668.0,Gallagher,1988012310,False,19880123,13
-Nora Dunn,cast,,670.0,Shelley Duvall,1988012310,False,19880123,13
-Phil Hartman,cast,,669.0,Robert Vaughn,1988012310,False,19880123,13
-Jan Hooks,cast,,667.0,Elayne Boosler,1988012310,False,19880123,13
-Victoria Jackson,cast,,,Nancy McGuire,1988012310,False,19880123,13
-Jon Lovitz,cast,,,producer,1988012310,False,19880123,13
-Kevin Nealon,cast,,,Andrew,1988012310,False,19880123,13
-James Taylor,music,,,,1988012311,False,19880123,13
-Robin Williams,host,,,Ralph Kebins,1988012312,False,19880123,13
-Phil Hartman,cast,,618.0,Peter Graves,1988012312,False,19880123,13
-Robin Williams,host,,,Ben,1988012313,False,19880123,13
-Jan Hooks,cast,,,Rebecca,1988012313,False,19880123,13
-Dennis Miller,cast,,,waiter,1988012313,False,19880123,13
-Paul Simon,host,,,Simon,198712191,False,19871219,13
-A. Whitney Brown,cast,,,Thomas,198712191,False,19871219,13
-Dana Carvey,cast,,,apostle,198712191,False,19871219,13
-Tom Davis,cast,,,apostle,198712191,False,19871219,13
-Phil Hartman,cast,,,Peter,198712191,False,19871219,13
-Jan Hooks,cast,,,Mary Magdalene,198712191,False,19871219,13
-Jon Lovitz,cast,,,Judas,198712191,False,19871219,13
-Dennis Miller,cast,,,John,198712191,False,19871219,13
-Kevin Nealon,cast,,,Matthew,198712191,False,19871219,13
-Paul Simon,host,,,,198712192,False,19871219,13
-Sen. Paul Simon,cameo,,,,198712192,False,19871219,13
-Phil Hartman,cast,,,announcer,198712193,True,19871219,13
-Jan Hooks,cast,,,woman,198712193,False,19871219,13
-Paul Simon,host,,,Scott Rosbicki,198712194,False,19871219,13
-Dana Carvey,cast,253.0,,Hans,198712194,False,19871219,13
-Phil Hartman,cast,254.0,,Helmut,198712194,False,19871219,13
-Kevin Nealon,cast,252.0,,Franz,198712194,False,19871219,13
-Paul Simon,host,,,David,198712195,False,19871219,13
-Victoria Jackson,cast,,,wife,198712195,False,19871219,13
-Phil Hartman,cast,,,announcer,198712196,True,19871219,13
-Phil Hartman,cast,,,R.H. Macy,198712196,False,19871219,13
-Victoria Jackson,cast,,,mother,198712196,False,19871219,13
-Jon Lovitz,cast,199.0,,Master Thespian,198712196,False,19871219,13
-Linda Ronstadt,music,,,,198712197,False,19871219,13
-The Mariachi Vargas de Tecalitlan,music,,,,198712197,False,19871219,13
-Dennis Miller,cast,,,,198712198,False,19871219,13
-Dana Carvey,cast,,665.0,Dennis Miller,198712198,False,19871219,13
-Paul Simon,host,,,,198712199,False,19871219,13
-Nora Dunn,cast,224.0,,Liz Sweeney,198712199,False,19871219,13
-Phil Hartman,cast,,,Jerry Knutson,198712199,False,19871219,13
-Jan Hooks,cast,223.0,,Candy Sweeney,198712199,False,19871219,13
-Marc Shaiman,cast,225.0,,Skip St. Thomas,198712199,False,19871219,13
-Phil Hartman,cast,,,beggar,1987121910,False,19871219,13
-Jan Hooks,cast,,,passenger,1987121910,False,19871219,13
-Victoria Jackson,cast,,,passenger,1987121910,False,19871219,13
-Jon Lovitz,cast,,,passenger,1987121910,False,19871219,13
-Kevin Nealon,cast,,,passenger,1987121910,False,19871219,13
-Nora Dunn,cast,,,Kathleen Fulmer,1987121911,False,19871219,13
-Phil Hartman,cast,255.0,,Frankenstein,1987121911,False,19871219,13
-Jon Lovitz,cast,257.0,,Tonto,1987121911,False,19871219,13
-Kevin Nealon,cast,256.0,,Tarzan,1987121911,False,19871219,13
-Phil Hartman,cast,255.0,,Frankenstein,1987121912,False,19871219,13
-Jon Lovitz,cast,257.0,,Tonto,1987121912,False,19871219,13
-Kevin Nealon,cast,256.0,,Tarzan,1987121912,False,19871219,13
-Paul Simon,host,,,,1987121913,False,19871219,13
-Linda Ronstadt,music,,,,1987121913,False,19871219,13
-Dana Carvey,cast,,,Bobby,1987121914,False,19871219,13
-Nora Dunn,cast,,,Jeannette,1987121914,False,19871219,13
-Phil Hartman,cast,,,Ray,1987121914,False,19871219,13
-Jan Hooks,cast,244.0,,Anita,1987121914,False,19871219,13
-Jon Lovitz,cast,,,,1987121915,False,19871219,13
-Dana Carvey,cast,,,supervisor,198712121,False,19871212,13
-Phil Hartman,cast,,,supervisor,198712121,False,19871212,13
-Kevin Nealon,cast,,,translator,198712121,False,19871212,13
-Angie Dickinson,host,,,,198712122,False,19871212,13
-Nora Dunn,cast,,,tour guide,198712123,False,19871212,13
-Victoria Jackson,cast,,,teacher,198712123,False,19871212,13
-Angie Dickinson,host,,,flight attendant,198712124,False,19871212,13
-Dana Carvey,cast,,,passenger,198712124,False,19871212,13
-Phil Hartman,cast,,,passenger,198712124,False,19871212,13
-Jan Hooks,cast,,,passenger,198712124,False,19871212,13
-Jon Lovitz,cast,,,passenger,198712124,False,19871212,13
-Kevin Nealon,cast,,,passenger,198712124,False,19871212,13
-Nora Dunn,cast,,,announcer,198712125,True,19871212,13
-Nora Dunn,cast,,662.0,Raisa Gorbachev,198712125,False,19871212,13
-Phil Hartman,cast,,,announcer,198712125,True,19871212,13
-Phil Hartman,cast,,573.0,Phil Donahue,198712125,False,19871212,13
-Jan Hooks,cast,,616.0,Nancy Reagan,198712125,False,19871212,13
-Victoria Jackson,cast,,,audience member,198712125,False,19871212,13
-Kevin Nealon,cast,,,audience member,198712125,False,19871212,13
-Christine Zander,cast,,,audience member,198712125,False,19871212,13
-Phil Hartman,cast,215.0,,Bill Franklin,198712126,False,19871212,13
-Victoria Jackson,cast,,,Kiki,198712126,False,19871212,13
-Jon Lovitz,cast,,,Dale Butterworth,198712126,False,19871212,13
-Kevin Nealon,cast,,,Hank Whitman,198712126,False,19871212,13
-Buster Poindexter,music,,,,198712127,False,19871212,13
-Soozie Tyrell,cameo,,,,198712127,False,19871212,13
-The Banshees of Blue,cameo,,,,198712127,False,19871212,13
-The Uptown Horns,cameo,,,,198712127,False,19871212,13
-Dennis Miller,cast,,,,198712128,False,19871212,13
-Victoria Jackson,cast,,,,198712128,False,19871212,13
-Jon Lovitz,cast,,663.0,Stephen King,198712128,False,19871212,13
-A. Whitney Brown,cast,,,,198712128,False,19871212,13
-Angie Dickinson,host,,,Christy,198712129,False,19871212,13
-Nora Dunn,cast,,,guest,198712129,False,19871212,13
-Phil Hartman,cast,,,guest,198712129,False,19871212,13
-Victoria Jackson,cast,,,Becky,198712129,False,19871212,13
-Jon Lovitz,cast,,,Todd,198712129,False,19871212,13
-Dennis Miller,cast,,,guest,198712129,False,19871212,13
-David Gilmour,music,,,,1987121210,False,19871212,13
-Cheryl Hardwick,cast,,,,1987121210,False,19871212,13
-Leon Pendarvis,cast,,,,1987121210,False,19871212,13
-Lenny Pickett,cast,,,,1987121210,False,19871212,13
-G.E. Smith,cast,,,,1987121210,False,19871212,13
-Steve Turre,cast,,,,1987121210,False,19871212,13
-T-Bone Wolk,cast,,,,1987121210,False,19871212,13
-Angie Dickinson,host,,,Pepper,1987121211,False,19871212,13
-Nora Dunn,cast,,595.0,"Tyne Daly , Mary Beth Lacey",1987121211,False,19871212,13
-Phil Hartman,cast,,664.0,"Earl Holliman , Sergeant Crowley",1987121211,False,19871212,13
-Jon Lovitz,cast,,,Brandon Caswell,1987121211,False,19871212,13
-Al Franken,cast,,213.0,Henry Kissinger,1987121212,False,19871212,13
-Phil Hartman,cast,,,announcer,1987121212,True,19871212,13
-Victoria Jackson,cast,,,Jew,1987121212,False,19871212,13
-Jon Lovitz,cast,,,Jew,1987121212,False,19871212,13
-Kevin Nealon,cast,,,Jew,1987121212,False,19871212,13
-Angie Dickinson,host,,,Julie,1987121213,False,19871212,13
-Dana Carvey,cast,,,Drunk Man,1987121213,False,19871212,13
-Nora Dunn,cast,,,patron,1987121213,False,19871212,13
-Phil Hartman,cast,,,patron,1987121213,False,19871212,13
-Jon Lovitz,cast,,,bartender,1987121213,False,19871212,13
-Kevin Nealon,cast,,,patron,1987121213,False,19871212,13
-Danny DeVito,host,,659.0,Mikhail Gorbachev,198712051,False,19871205,13
-Phil Hartman,cast,,592.0,Ronald Reagan,198712051,False,19871205,13
-Kevin Nealon,cast,,,driver,198712051,False,19871205,13
-Danny DeVito,host,,,,198712052,False,19871205,13
-Victoria Jackson,cast,,,Sheila,198712053,False,19871205,13
-Dennis Miller,cast,,,employee,198712053,False,19871205,13
-Kevin Nealon,cast,,,employee,198712053,False,19871205,13
-Danny DeVito,host,,,boss,198712054,False,19871205,13
-Dana Carvey,cast,,,"Chip Lester, Greg",198712054,False,19871205,13
-Phil Hartman,cast,,661.0,Roger Ebert,198712054,False,19871205,13
-Kevin Nealon,cast,,660.0,Gene Siskel,198712054,False,19871205,13
-Danny DeVito,host,,,,198712055,False,19871205,13
-Dana Carvey,cast,217.0,,Church Lady,198712055,False,19871205,13
-Cheryl Hardwick,cast,239.0,,Pearl,198712055,False,19871205,13
-Phil Hartman,cast,,,announcer,198712055,True,19871205,13
-Jan Hooks,cast,,635.0,Jessica Hahn,198712055,False,19871205,13
-G.E. Smith,cast,,,Steven,198712055,False,19871205,13
-Bryan Ferry,music,,,,198712056,False,19871205,13
-Steve Jordan,cast,,,,198712056,False,19871205,13
-Leon Pendarvis,cast,,,,198712056,False,19871205,13
-G.E. Smith,cast,,,,198712056,False,19871205,13
-Dennis Miller,cast,,,,198712057,False,19871205,13
-Kevin Nealon,cast,,,,198712057,False,19871205,13
-Danny DeVito,host,,,Jackie Monday,198712058,False,19871205,13
-Cheryl Hardwick,cast,,,Molly,198712058,False,19871205,13
-Victoria Jackson,cast,243.0,,Nancy Maloney,198712058,False,19871205,13
-Jon Lovitz,cast,237.0,,Eddie Spimozo,198712058,False,19871205,13
-Kevin Nealon,cast,235.0,,Charlie Loomis,198712058,False,19871205,13
-Danny DeVito,host,,,Bryce,198712059,False,19871205,13
-Phil Hartman,cast,,,Mr. Reynolds,198712059,False,19871205,13
-Jan Hooks,cast,,,Jolene,198712059,False,19871205,13
-Danny DeVito,host,,,date,1987120510,False,19871205,13
-Nora Dunn,cast,,569.0,Ann Landers,1987120510,False,19871205,13
-Christine Zander,cast,,,announcer,1987120510,True,19871205,13
-Bryan Ferry,music,,,,1987120511,False,19871205,13
-Steve Jordan,cast,,,,1987120511,False,19871205,13
-Leon Pendarvis,cast,,,,1987120511,False,19871205,13
-G.E. Smith,cast,,,,1987120511,False,19871205,13
-Danny DeVito,host,,,Manny,1987120512,False,19871205,13
-Nora Dunn,cast,,,Ms. Grace,1987120512,False,19871205,13
-Phil Hartman,cast,,,Mr. Martin,1987120512,False,19871205,13
-Rhea Perlman,cameo,,,,1987120513,False,19871205,13
-Dana Carvey,cast,,651.0,George Bush,198711211,False,19871121,13
-Al Franken,cast,,,announcer,198711211,True,19871121,13
-Don Pardo,cast,,,,198711211,False,19871121,13
-Candice Bergen,host,,,,198711212,False,19871121,13
-Dana Carvey,cast,253.0,,Hans,198711213,False,19871121,13
-Phil Hartman,cast,254.0,,Helmut,198711213,False,19871121,13
-Phil Hartman,cast,,,announcer,198711213,True,19871121,13
-Kevin Nealon,cast,252.0,,Franz,198711213,False,19871121,13
-Candice Bergen,host,,,Anne Boleyn,198711214,False,19871121,13
-Tom Davis,cast,,,epilogue narrator,198711214,True,19871121,13
-Nora Dunn,cast,,,spectator,198711214,False,19871121,13
-Phil Hartman,cast,,,Norfolk,198711214,False,19871121,13
-Jon Lovitz,cast,,,spectator,198711214,False,19871121,13
-Dennis Miller,cast,,,spectator,198711214,False,19871121,13
-John Henry Kurtz,unknown,,,announcer,198711215,True,19871121,13
-Cher,music,,,,198711216,False,19871121,13
-Paul Shaffer,cameo,,,,198711216,False,19871121,13
-G.E. Smith,cast,,,,198711216,False,19871121,13
-Candice Bergen,host,,,tourist,198711217,False,19871121,13
-Dana Carvey,cast,238.0,,Ching Change,198711217,False,19871121,13
-Nora Dunn,cast,245.0,,Loose Change,198711217,False,19871121,13
-Phil Hartman,cast,,,Matthew Chen,198711217,False,19871121,13
-Don Pardo,cast,,,,198711217,False,19871121,13
-Dennis Miller,cast,,,,198711218,False,19871121,13
-Candice Bergen,host,,,Priscilla Biddle Barrows,198711219,False,19871121,13
-Sydney Biddle Barrows,cameo,,,,198711219,False,19871121,13
-Dana Carvey,cast,,,Amagansett,198711219,False,19871121,13
-Nora Dunn,cast,,,Prudence,198711219,False,19871121,13
-Phil Hartman,cast,,,Myles Standish,198711219,False,19871121,13
-Jan Hooks,cast,,,pilgrim,198711219,False,19871121,13
-Victoria Jackson,cast,,,Chastity,198711219,False,19871121,13
-Jon Lovitz,cast,,,Chief Takonik,198711219,False,19871121,13
-Dana Carvey,cast,,,Lonnie Broadaxe,1987112110,False,19871121,13
-Don Pardo,cast,,,,1987112110,False,19871121,13
-Cher,music,,,,1987112111,False,19871121,13
-Paul Shaffer,cameo,,,,1987112111,False,19871121,13
-G.E. Smith,cast,,,,1987112111,False,19871121,13
-Candice Bergen,host,,,wife,1987112112,False,19871121,13
-Phil Hartman,cast,,,husband,1987112112,False,19871121,13
-Kevin Nealon,cast,,,waiter,1987112112,False,19871121,13
-Phil Hartman,cast,242.0,,Mace,1987112113,False,19871121,13
-Jan Hooks,cast,,,prostitute,1987112113,False,19871121,13
-Jon Lovitz,cast,,,john,1987112113,False,19871121,13
-Kevin Nealon,cast,,,pervert,1987112113,False,19871121,13
-Dana Carvey,cast,,,Robert Briggs,198711141,False,19871114,13
-Phil Hartman,cast,,,Jeffrey Bell,198711141,False,19871114,13
-Victoria Jackson,cast,,,Sarah Harriman,198711141,False,19871114,13
-Jon Lovitz,cast,,658.0,Douglas Ginsburg,198711141,False,19871114,13
-Robert Mitchum,host,,,,198711142,False,19871114,13
-Dana Carvey,cast,,,model,198711143,False,19871114,13
-Nora Dunn,cast,,,model,198711143,False,19871114,13
-Phil Hartman,cast,,,model,198711143,False,19871114,13
-Jan Hooks,cast,,,model,198711143,False,19871114,13
-Robert Mitchum,host,,,Philip Marlowe,198711144,False,19871114,13
-Jan Hooks,cast,,,girlfriend,198711144,False,19871114,13
-Kevin Nealon,cast,,,Lenny Puglisi,198711144,False,19871114,13
-Dana Carvey,cast,,,"Rick ""Peachfuzz"" Parsons",198711145,False,19871114,13
-Phil Hartman,cast,,,announcer,198711145,True,19871114,13
-Victoria Jackson,cast,,,Rhonda Tacker,198711145,False,19871114,13
-Jon Lovitz,cast,,,Sydney Tacker,198711145,False,19871114,13
-Simply Red,music,,,,198711146,False,19871114,13
-Dennis Miller,cast,,,,198711147,False,19871114,13
-Victoria Jackson,cast,,,,198711147,False,19871114,13
-A. Whitney Brown,cast,,,,198711147,False,19871114,13
-Robert Mitchum,host,,,Dutch,198711148,False,19871114,13
-Nora Dunn,cast,224.0,,Liz Sweeney,198711148,False,19871114,13
-Jan Hooks,cast,223.0,,Candy Sweeney,198711148,False,19871114,13
-Marc Shaiman,cast,225.0,,Skip St. Thomas,198711148,False,19871114,13
-Robert Mitchum,host,,,Jeff Bailey,198711149,False,19871114,13
-Bentley Mitchum,filmed,,,orphan,198711149,False,19871114,13
-Jane Greer,filmed,,,Kathy,198711149,False,19871114,13
-Robert Mitchum,host,,,Rex,1987111410,False,19871114,13
-Tom Davis,cast,,,announcer,1987111410,True,19871114,13
-Nora Dunn,cast,,,customer,1987111410,False,19871114,13
-Phil Hartman,cast,,,Andre,1987111410,False,19871114,13
-Jan Hooks,cast,,,customer,1987111410,False,19871114,13
-Victoria Jackson,cast,,,Cindy,1987111410,False,19871114,13
-Jon Lovitz,cast,,,gay mafia leader,1987111410,False,19871114,13
-Jan Hooks,cast,,593.0,Corazon Aquino,1987111411,False,19871114,13
-Jon Lovitz,cast,,,Guillermo,1987111411,False,19871114,13
-Simply Red,music,,,,1987111412,False,19871114,13
-Robert Mitchum,host,,,father,1987111413,False,19871114,13
-Dana Carvey,cast,,,son,1987111413,False,19871114,13
-Phil Hartman,cast,,,Sprinkles,1987111413,False,19871114,13
-Ric Ocasek,music,,,,198710311,False,19871031,13
-Elvira,guest,,,,198710311,False,19871031,13
-Dana Carvey,cast,,614.0,Robin Leach,198710311,False,19871031,13
-Dabney Coleman,host,,,,198710312,False,19871031,13
-Dana Carvey,cast,,,singer,198710313,False,19871031,13
-Nora Dunn,cast,,657.0,Peggy Lee,198710313,False,19871031,13
-Phil Hartman,cast,,,singer,198710313,False,19871031,13
-Phil Hartman,cast,,,announcer,198710313,True,19871031,13
-Jon Lovitz,cast,,,singer,198710313,False,19871031,13
-Kevin Nealon,cast,,,singer,198710313,False,19871031,13
-Dabney Coleman,host,,,Hal Everett,198710314,False,19871031,13
-Jan Hooks,cast,,,Deborah,198710314,False,19871031,13
-Dana Carvey,cast,,,Eddie,198710315,False,19871031,13
-Nora Dunn,cast,,,Mrs. Simpson,198710315,False,19871031,13
-Al Franken,cast,,,monster,198710315,False,19871031,13
-Phil Hartman,cast,,,police officer,198710315,False,19871031,13
-Victoria Jackson,cast,,,Susie,198710315,False,19871031,13
-Jon Lovitz,cast,,,Kenneth Simpson,198710315,False,19871031,13
-Kevin Nealon,cast,,,police officer,198710315,False,19871031,13
-Dabney Coleman,host,,,Mr. Weber,198710316,False,19871031,13
-Dana Carvey,cast,,,Robert,198710316,False,19871031,13
-Jon Lovitz,cast,,,scout,198710316,False,19871031,13
-The Cars,music,,,,198710317,False,19871031,13
-Dennis Miller,cast,,,,198710318,False,19871031,13
-Elvira,guest,,,,198710318,False,19871031,13
-Dabney Coleman,host,,,Dr. Dick Mauser,198710319,False,19871031,13
-Nora Dunn,cast,,,Mary Beth,198710319,False,19871031,13
-Kevin Nealon,cast,,,Gary,198710319,False,19871031,13
-Dana Carvey,cast,,,motorist,1987103110,False,19871031,13
-Jan Hooks,cast,,,motorist,1987103110,False,19871031,13
-Jon Lovitz,cast,,,Count Dracula,1987103110,False,19871031,13
-Dabney Coleman,host,,,Jerry Lyle,1987103111,False,19871031,13
-Nora Dunn,cast,195.0,,Pat Stevens,1987103111,False,19871031,13
-Mark McKinney,cast,,,announcer,1987103111,True,19871031,13
-Dabney Coleman,host,,,teacher,1987103112,False,19871031,13
-Dana Carvey,cast,,,Craig,1987103112,False,19871031,13
-Jan Hooks,cast,,,student,1987103112,False,19871031,13
-Victoria Jackson,cast,,,Cindy,1987103112,False,19871031,13
-Jon Lovitz,cast,,,student,1987103112,False,19871031,13
-The Cars,music,,,,1987103113,False,19871031,13
-Dabney Coleman,host,,,Bob Hudnut,1987103114,False,19871031,13
-Victoria Jackson,cast,,,secretary,1987103114,False,19871031,13
-Jon Lovitz,cast,,,Ted Rifkin,1987103114,False,19871031,13
-Sean Penn,host,,,,198710241,False,19871024,13
-LL Cool J,music,,,Alex Forest,198710241,False,19871024,13
-Joe Dicso,cast,,,,198710241,False,19871024,13
-Sean Penn,host,,,,198710242,False,19871024,13
-Don Pardo,cast,,,,198710242,False,19871024,13
-Sean Penn,host,,,Steven Babcock,198710243,False,19871024,13
-Phil Hartman,cast,,,Colin Hutchinson,198710243,False,19871024,13
-Phil Hartman,cast,,,announcer,198710243,True,19871024,13
-Jan Hooks,cast,,,Jane Wickham,198710243,False,19871024,13
-Jon Lovitz,cast,,655.0,Louis Rukeyser,198710243,False,19871024,13
-Dennis Miller,cast,,,Tony Stepanich,198710243,False,19871024,13
-Kevin Nealon,cast,,,Future Man,198710243,False,19871024,13
-Sean Penn,host,,,,198710244,False,19871024,13
-Dana Carvey,cast,217.0,,Church Lady,198710244,False,19871024,13
-Phil Hartman,cast,,,announcer,198710244,True,19871024,13
-Jon Lovitz,cast,,,Rashashimi Khadudi Hasumi-imi-humi,198710244,False,19871024,13
-Sean Penn,host,,656.0,Robert DeNiro,198710246,False,19871024,13
-Dana Carvey,cast,,,patron,198710246,False,19871024,13
-Nora Dunn,cast,209.0,,Babette,198710246,False,19871024,13
-Phil Hartman,cast,,,Robert's agent,198710246,False,19871024,13
-Jon Lovitz,cast,251.0,,Bob (II),198710246,False,19871024,13
-Kevin Nealon,cast,,,waiter,198710246,False,19871024,13
-Christine Zander,cast,,,Rene,198710246,False,19871024,13
-Dennis Miller,cast,,,,198710247,False,19871024,13
-Kevin Nealon,cast,,,,198710247,False,19871024,13
-Sean Penn,host,,,Gary,198710248,False,19871024,13
-Phil Hartman,cast,240.0,,Don Keister,198710248,False,19871024,13
-Jan Hooks,cast,216.0,,Marge Keister,198710248,False,19871024,13
-Victoria Jackson,cast,241.0,,Susan Keister,198710248,False,19871024,13
-LL Cool J,music,,,,198710249,False,19871024,13
-Sean Penn,host,,,Randy Fibbado,1987102410,False,19871024,13
-Phil Hartman,cast,,618.0,Peter Graves,1987102410,False,19871024,13
-Jan Hooks,cast,,,Robin Tessler,1987102410,False,19871024,13
-Sean Penn,host,,,Joey Spimozo,1987102411,False,19871024,13
-Victoria Jackson,cast,243.0,,Nancy Maloney,1987102411,False,19871024,13
-Jon Lovitz,cast,237.0,,Eddie Spimozo,1987102411,False,19871024,13
-Kevin Nealon,cast,235.0,,Charlie Loomis,1987102411,False,19871024,13
-The Pull,music,,,,1987102412,False,19871024,13
-Tom Davis,cast,,,Dr. Daniel Rudolph,1987102413,False,19871024,13
-Dana Carvey,cast,,651.0,George Bush,198710171,False,19871017,13
-Phil Hartman,cast,,592.0,Ronald Reagan,198710171,False,19871017,13
-Jon Lovitz,cast,,652.0,Robert Bork,198710171,False,19871017,13
-Steve Martin,host,,,,198710172,False,19871017,13
-Phil Hartman,cast,,,announcer,198710173,True,19871017,13
-Jan Hooks,cast,,,woman,198710173,False,19871017,13
-Steve Martin,host,,,Bob Albert,198710174,False,19871017,13
-Dana Carvey,cast,,,Kyle Knopfler,198710174,False,19871017,13
-Nora Dunn,cast,,653.0,Jeane Kirkpatrick,198710174,False,19871017,13
-Victoria Jackson,cast,,,Tracy Tollison,198710174,False,19871017,13
-Kevin Nealon,cast,,,Les Shermeyer,198710174,False,19871017,13
-Dana Carvey,cast,,,announcer,198710175,True,19871017,13
-Dana Carvey,cast,,654.0,George Plimpton,198710175,False,19871017,13
-Al Franken,cast,,,announcer,198710175,True,19871017,13
-Phil Hartman,cast,,599.0,"Jimmy ""The Greek"" Snyder",198710175,False,19871017,13
-Phil Hartman,cast,,,announcer,198710175,True,19871017,13
-Kevin Nealon,cast,,598.0,Brent Musburger,198710175,False,19871017,13
-Steve Martin,host,,,date,198710176,False,19871017,13
-Jan Hooks,cast,,,date,198710176,False,19871017,13
-Victoria Jackson,cast,,,Dianne,198710176,False,19871017,13
-Jon Lovitz,cast,,,date,198710176,False,19871017,13
-Kevin Nealon,cast,,,waiter,198710176,False,19871017,13
-Sting,music,,,,198710177,False,19871017,13
-Branford Marsalis,cameo,,,,198710177,False,19871017,13
-Dennis Miller,cast,,,,198710178,False,19871017,13
-Al Franken,cast,,,,198710178,False,19871017,13
-Bruce Babbitt,filmed,,,,198710178,False,19871017,13
-Victoria Jackson,cast,,,,198710178,False,19871017,13
-Steve Martin,host,,,James Bond,198710179,False,19871017,13
-Sting,music,,,Goldsting,198710179,False,19871017,13
-Nora Dunn,cast,,,Miss Moneypenny,198710179,False,19871017,13
-Cheryl Hardwick,cast,,,pianist,198710179,False,19871017,13
-Phil Hartman,cast,,,Gregory,198710179,False,19871017,13
-Jan Hooks,cast,,,date,198710179,False,19871017,13
-Victoria Jackson,cast,,,,198710179,False,19871017,13
-Jon Lovitz,cast,,,M,198710179,False,19871017,13
-Steve Martin,host,,,Chief Martin,1987101710,False,19871017,13
-Tom Davis,cast,,,loudspeaker voice,1987101710,True,19871017,13
-Phil Hartman,cast,,,captain,1987101710,False,19871017,13
-Jon Lovitz,cast,,,captain,1987101710,False,19871017,13
-Sting,music,,,,1987101711,False,19871017,13
-Branford Marsalis,cameo,,,,1987101711,False,19871017,13
-Steve Martin,host,,,Todd,1987101712,False,19871017,13
-Phil Hartman,cast,,,Alonzo,1987101712,False,19871017,13
-Jon Lovitz,cast,,,Jerry,1987101712,False,19871017,13
-Dana Carvey,cast,253.0,,Hans,1987101713,False,19871017,13
-Phil Hartman,cast,,,announcer,1987101713,True,19871017,13
-Kevin Nealon,cast,252.0,,Franz,1987101713,False,19871017,13
 Dennis Hopper,host,,,Billy,198705231,False,19870523,12
 Dana Carvey,cast,,,Wyatt,198705231,False,19870523,12
 Phil Hartman,cast,,,George,198705231,False,19870523,12
@@ -47348,8 +47414,8 @@ Dan Aykroyd,cast,,,squatter,197703269,False,19770326,2
 Anne Beatts,cast,,,squatter,197703269,False,19770326,2
 John Belushi,cast,,,squatter,197703269,False,19770326,2
 Jane Curtin,cast,,,Ma,197703269,False,19770326,2
-Tom Davis,cast,,,squatter,197703269,False,19770326,2
 Tom Davis,cast,,,kid,197703269,False,19770326,2
+Tom Davis,cast,,,squatter,197703269,False,19770326,2
 Jim Downey,cast,,,squatter,197703269,False,19770326,2
 Jim Downey,cast,,,kid,197703269,False,19770326,2
 Al Franken,cast,,,husband,197703269,False,19770326,2

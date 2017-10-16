@@ -1,10 +1,77 @@
 aid,impid,name
+Al Franken,683,Pat Robertson
+Phil Hartman,694,Jimmy Swaggart
+Gal Gadot,3783,Gigi Hadid
+Gal Gadot,3784,Kendall Jenner
+Leslie Jones,3787,NeNe Leakes
+Kate McKinnon,3786,Bella Hadid
+Luke Null,3788,Blake Shelton
+Chris Redd,3785,Kanye West
+Melissa Villasenor,3769,Gwen Stefani
+Kenan Thompson,2612,O.J. Simpson
+Kate McKinnon,3263,Ruth Bader Ginsburg
 Alec Baldwin,3690,Donald Trump
 Aidy Bryant,3778,Sarah Huckabee Sanders
 Kate McKinnon,3753,Jeff Sessions
 Alex Moffat,3781,Charles Schumer
 Melissa Villasenor,3782,Carmen Yulín Cruz
 Kate McKinnon,3374,Angela Merkel
+Dana Carvey,690,Jim McKay
+Phil Hartman,689,Dick Button
+Jan Hooks,691,Peggy Fleming
+Phil Hartman,692,Barbara Bush
+Jan Hooks,693,Elizabeth Dole
+Dana Carvey,580,Casey Kasem
+Dan Aykroyd,681,Bob Dole
+Dana Carvey,651,George Bush
+Nora Dunn,678,Pat Schroeder
+Phil Hartman,682,Jack Kemp
+Kevin Nealon,684,Pierre du Pont IV
+Dana Carvey,685,"Michael J. Fox , Alex"
+Jan Hooks,686,"Meredith Baxter-Birney , Elyse"
+Victoria Jackson,688,"Tina Yothers , Jennifer"
+Kevin Nealon,687,"Michael Gross , Steven"
+Dana Carvey,649,George F. Will
+Nora Dunn,671,Barbara Bush
+Carl Weathers,672,Doug Williams
+Phil Hartman,599,"Jimmy ""The Greek"" Snyder"
+Kevin Nealon,598,Brent Musburger
+Carl Weathers,676,Jesse Jackson
+Dana Carvey,679,Richard Gephardt
+Al Franken,680,Sen. Paul Simon
+Phil Hartman,674,Bruce Babbitt
+Jon Lovitz,677,Michael Dukakis
+Dennis Miller,675,Gary Hart
+Kevin Nealon,673,Al Gore
+Robin Williams,666,Dr. Gene Scott
+Dana Carvey,668,Gallagher
+Nora Dunn,670,Shelley Duvall
+Phil Hartman,669,Robert Vaughn
+Jan Hooks,667,Elayne Boosler
+Phil Hartman,618,Peter Graves
+Dana Carvey,665,Dennis Miller
+Nora Dunn,662,Raisa Gorbachev
+Phil Hartman,573,Phil Donahue
+Jan Hooks,616,Nancy Reagan
+Jon Lovitz,663,Stephen King
+Nora Dunn,595,"Tyne Daly , Mary Beth Lacey"
+Phil Hartman,664,"Earl Holliman , Sergeant Crowley"
+Al Franken,213,Henry Kissinger
+Danny DeVito,659,Mikhail Gorbachev
+Phil Hartman,592,Ronald Reagan
+Phil Hartman,661,Roger Ebert
+Kevin Nealon,660,Gene Siskel
+Jan Hooks,635,Jessica Hahn
+Nora Dunn,569,Ann Landers
+Jon Lovitz,658,Douglas Ginsburg
+Jan Hooks,593,Corazon Aquino
+Dana Carvey,614,Robin Leach
+Nora Dunn,657,Peggy Lee
+Jon Lovitz,655,Louis Rukeyser
+Sean Penn,656,Robert DeNiro
+Jon Lovitz,652,Robert Bork
+Nora Dunn,653,Jeane Kirkpatrick
+Dana Carvey,654,George Plimpton
 Scarlett Johansson,2597,Ivanka Trump
 Beck Bennett,3701,Mike Pence
 Mikey Day,3698,Donald Trump Jr.
@@ -32,7 +99,6 @@ Pete Davidson,3770,David Blaine
 Kate McKinnon,3768,Kristen Stewart
 Cecily Strong,3767,Liza Minnelli
 Kenan Thompson,2288,Steve Harvey
-Melissa Villasenor,3769,Gwen Stefani
 Sasheer Zamata,3512,Diana Ross
 Cecily Strong,3761,Kendall Jenner
 Kate McKinnon,3251,Cecilia Giminez
@@ -79,7 +145,6 @@ Kyle Mooney,3731,David Axelrod
 Cecily Strong,3728,Gloria Borger
 Kenan Thompson,3730,Van Jones
 Dave Chappelle,3724,Lil Jon
-Kate McKinnon,3263,Ruth Bader Ginsburg
 Cecily Strong,3723,Erin Burnett
 Kate McKinnon,3341,Tilda Swinton
 Tom Hanks,3720,Chris Wallace
@@ -1149,7 +1214,6 @@ Casey Wilson,2697,Marion Sandler
 Casey Wilson,2700,Katy Perry
 Amy Poehler,2693,Katie Couric
 Bill Hader,2685,Gabriel Grasso
-Kenan Thompson,2612,O.J. Simpson
 Casey Wilson,2686,Jackie Glass
 Andy Samberg,2687,Juliette Lewis
 Kristen Wiig,2689,Kyra Sedgwick
@@ -1727,7 +1791,6 @@ Jimmy Fallon,2124,Woody Harrelson
 Rachel Dratch,2121,Helen Thomas
 Horatio Sanz,2120,Harry Knowles
 Dean Edwards,2122,Michael Jackson
-Dan Aykroyd,681,Bob Dole
 Dean Edwards,2112,A.J. Calloway
 Maya Rudolph,2113,Free
 Queen Latifah,2114,Frenchie Davis
@@ -1993,7 +2056,6 @@ Charlize Theron,1844,Marilyn Monroe
 Jimmy Fallon,1843,Joe DiMaggio
 Darrell Hammond,1842,Billy Wilder
 Jimmy Fallon,1845,Ralph Nader
-Dana Carvey,651,George Bush
 Chris Kattan,1466,Anne Heche
 Dana Carvey,1839,Rudy Boesch
 Rachel Dratch,1834,Cheb Mami
@@ -2617,7 +2679,6 @@ Dana Carvey,1187,Garry Shandling
 Ellen Cleghorne,1194,Toni Morrison
 Ellen Cleghorne,1186,Debbie Allen
 Chris Elliott,1195,Yasser Arafat
-Al Franken,213,Henry Kissinger
 Janeane Garofalo,1190,Mary Lou Retton
 Laura Kightlinger,1192,Paula Poundstone
 Michael McKean,1193,Tom Skerritt
@@ -2819,7 +2880,6 @@ Phil Hartman,991,James Stockdale
 Jan Hooks,867,Sinead O'Connor
 Phil Hartman,992,Kris Kristofferson
 David Spade,989,Ross Perot
-Dana Carvey,665,Dennis Miller
 Phil Hartman,985,Nick Bakay
 Tim Robbins,986,Brian Wilson
 Jan Hooks,977,Mia Farrow
@@ -2865,7 +2925,6 @@ Susan Dey,948,Patricia Gifford
 Phil Hartman,950,J. Gregory Garrison
 Mike Myers,949,Vincent Fuller
 Chevy Chase,947,Jeffrey Dahmer
-Phil Hartman,692,Barbara Bush
 Phil Hartman,945,Oliver Stone
 Mike Myers,946,Vladimir Lenin
 David Spade,944,Michael Gelman
@@ -2875,7 +2934,6 @@ Dana Carvey,939,David Duke
 Siobhan Fallon,932,Mary Lupo
 Kevin Nealon,933,Roy Black
 Kiefer Sutherland,935,Lloyd Bentsen
-Dana Carvey,679,Richard Gephardt
 Victoria Jackson,937,Tipper Gore
 Kevin Nealon,934,Bill Bradley
 Kiefer Sutherland,938,Slash
@@ -2888,7 +2946,6 @@ David Spade,930,Matthew Broderick
 Dana Carvey,923,Strom Thurmond
 Ellen Cleghorne,918,Anita Hill
 Chris Farley,920,Howell Heflin
-Al Franken,680,Sen. Paul Simon
 Kevin Nealon,921,Joseph Biden
 Chris Rock,922,Long Dong Silver
 Dana Carvey,631,"John Travolta , James"
@@ -2900,7 +2957,6 @@ Mike Myers,902,Tony Orlando
 Kevin Nealon,901,Tom Selleck
 Steven Seagal,903,Andrew Dice Clay
 Dana Carvey,881,Bob Dylan
-Dana Carvey,580,Casey Kasem
 Chris Farley,876,Carnie Wilson
 Phil Hartman,908,Kenny Rogers
 Jan Hooks,907,Diana Ross
@@ -2909,8 +2965,6 @@ Tim Meadows,909,Lenny Kravitz
 Chris Rock,911,Whoopi Goldberg
 Rob Schneider,910,Rick Dees
 Christine Zander,905,Annie Lennox
-Phil Hartman,592,Ronald Reagan
-Jan Hooks,616,Nancy Reagan
 Spike Feresten,879,Matthew Nelson
 Jan Hooks,899,Rose Kennedy
 Victoria Jackson,897,Christina Applegate
@@ -2918,7 +2972,6 @@ Chris Rock,898,Flavor Flav
 David Spade,877,Gunnar Nelson
 Michael J. Fox,884,Dan Quayle
 Phil Hartman,885,Thomas Foley
-Dana Carvey,685,Michael J. Fox
 Michael J. Fox,889,Danny Bonaduce
 Chris Farley,893,Mindy Cohn
 Phil Hartman,891,John Walsh
@@ -2990,12 +3043,9 @@ Nora Dunn,812,Cindy Adams
 Phil Hartman,813,Joey Adams
 Dana Carvey,815,Bill Moyers
 Al Franken,814,Al Goldstein
-Phil Hartman,599,"Jimmy ""The Greek"" Snyder"
-Kevin Nealon,598,Brent Musburger
 Phil Hartman,805,Andy Griffith
 Jon Lovitz,806,Raymond Burr
 Corbin Bernsen,808,Mike Schmidt
-Dana Carvey,649,George F. Will
 Jon Lovitz,809,Tommy Lasorda
 Debra Winger,802,Calamity Jane
 Phil Hartman,804,Ozzy Osbourne
@@ -3026,7 +3076,6 @@ Jon Lovitz,579,David Crosby
 Phil Hartman,789,David Rockefeller
 Dana Carvey,591,"Jimmy Stewart , George Bailey"
 Jon Lovitz,787,Alan Cranston
-Jan Hooks,593,Corazon Aquino
 Phil Hartman,788,Mike Ditka
 Akira Yoshimura,786,Connie Chung
 Jon Lovitz,782,Queen Elizabeth
@@ -3047,7 +3096,6 @@ Phil Hartman,770,Fay Vincent
 Kevin Nealon,771,Fred Wilpon
 Mike Myers,772,Mark Linn-Baker
 Kevin Nealon,773,Richard Chamberlain
-Phil Hartman,573,Phil Donahue
 Nora Dunn,721,Imelda Marcos
 Jan Hooks,764,Tammy Wynette
 Dana Carvey,716,Jimmy Carter
@@ -3055,7 +3103,6 @@ Nora Dunn,757,Cokie Roberts
 Phil Hartman,648,David Brinkley
 Tom Davis,759,Ed Begley Jr.
 Nora Dunn,630,Brigitte Nielsen
-Victoria Jackson,688,Tina Yothers
 Jon Lovitz,762,Sylvester Stallone
 Mike Myers,761,Howie Mandel
 Jan Hooks,763,"Ann-Margret , Kitten"
@@ -3074,7 +3121,6 @@ Phil Hartman,724,Wilford Brimley
 Victoria Jackson,745,Lulu
 Phil Hartman,741,John Tower
 Jan Hooks,700,Kitty Dukakis
-Jon Lovitz,677,Michael Dukakis
 Ted Danson,742,Pat Riley
 Dana Carvey,739,Ted Bundy
 Kevin Nealon,733,Bill Walsh
@@ -3083,10 +3129,8 @@ Phil Hartman,737,Gary Busey
 Jan Hooks,738,Sandra Day O'Connor
 Nora Dunn,697,Marilyn Quayle
 Jon Lovitz,732,Jamie Farr
-Kevin Nealon,687,Michael Gross
 Kevin Kline,730,Peter Allen
 Dana Carvey,731,George Burns
-Jan Hooks,635,Jessica Hahn
 Jon Lovitz,725,Yasser Arafat
 Jan Hooks,722,Oprah Winfrey
 John Lithgow,723,Margaret Thatcher
@@ -3103,50 +3147,12 @@ Jon Lovitz,712,Pablo Picasso
 Al Franken,713,Lyndon LaRouche
 John Larroquette,714,Bob Vila
 Matthew Broderick,701,Dan Quayle
-Nora Dunn,653,Jeane Kirkpatrick
 Matthew Broderick,705,John Lennon
 Phil Hartman,702,Albert Goldman
 Jon Lovitz,538,Ringo Starr
 Dennis Miller,704,George Harrison
 Kevin Nealon,703,Elvis Presley
 Grafton True,699,Carl Rowan
-Al Franken,683,Pat Robertson
-Phil Hartman,694,Jimmy Swaggart
-Dana Carvey,690,Jim McKay
-Phil Hartman,689,Dick Button
-Jan Hooks,691,Peggy Fleming
-Jan Hooks,693,Elizabeth Dole
-Nora Dunn,678,Pat Schroeder
-Phil Hartman,682,Jack Kemp
-Kevin Nealon,684,Pierre du Pont IV
-Jan Hooks,686,"Meredith Baxter-Birney , Elyse"
-Nora Dunn,671,Barbara Bush
-Carl Weathers,672,Doug Williams
-Carl Weathers,676,Jesse Jackson
-Phil Hartman,674,Bruce Babbitt
-Dennis Miller,675,Gary Hart
-Kevin Nealon,673,Al Gore
-Robin Williams,666,Dr. Gene Scott
-Dana Carvey,668,Gallagher
-Nora Dunn,670,Shelley Duvall
-Phil Hartman,669,Robert Vaughn
-Jan Hooks,667,Elayne Boosler
-Phil Hartman,618,Peter Graves
-Nora Dunn,662,Raisa Gorbachev
-Jon Lovitz,663,Stephen King
-Nora Dunn,595,"Tyne Daly , Mary Beth Lacey"
-Phil Hartman,664,"Earl Holliman , Sergeant Crowley"
-Danny DeVito,659,Mikhail Gorbachev
-Phil Hartman,661,Roger Ebert
-Kevin Nealon,660,Gene Siskel
-Nora Dunn,569,Ann Landers
-Jon Lovitz,658,Douglas Ginsburg
-Dana Carvey,614,Robin Leach
-Nora Dunn,657,Peggy Lee
-Jon Lovitz,655,Louis Rukeyser
-Sean Penn,656,Robert DeNiro
-Jon Lovitz,652,Robert Bork
-Dana Carvey,654,George Plimpton
 Jon Lovitz,647,Judd Nelson
 Jon Lovitz,650,Hodding Carter
 Phil Hartman,642,Robert McFarlane

@@ -193,7 +193,7 @@ detector = gender.Detector()
 
 def names_from_file(fname):
   with open(fname) as f:
-    return set([name.strip().decode('utf-8') for name in f])
+    return set([name.strip() for name in f])
 
 # First names not recognized by gender_guesser
 extra_malenames = {

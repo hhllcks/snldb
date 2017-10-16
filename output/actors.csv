@@ -1,34 +1,111 @@
 aid,type,url,gender
-Alec Baldwin,guest,/Guests/?3247,male
-Aidy Bryant,cast,/Cast/?AiBr,female
-Kate McKinnon,cast,/Cast/?KaMc,female
-Alex Moffat,cast,/Cast/?AlMo,male
-Melissa Villasenor,cast,/Cast/?MeVi,female
-Ryan Gosling,guest,/Guests/?3245,male
-Emma Stone,guest,/Guests/?3249,female
-Lenny Pickett,crew,/Crew/?LePi,male
-Kenan Thompson,cast,/Cast/?KeTh,male
-Mikey Day,cast,/Cast/?MiDa,male
-Cecily Strong,cast,/Cast/?CeSt,female
-Pete Davidson,cast,/Cast/?PeDa,male
-Heidi Gardner,cast,/Cast/?HeGa,female
+Judge Reinhold,guest,/Guests/?994,male
+Dana Carvey,cast,/Cast/?DaCa,male
+Phil Hartman,cast,/Cast/?PhHa,male
+Kevin Nealon,cast,/Cast/?KeNe,male
+G.E. Smith,crew,/Crew/?GESm,unknown
+A. Whitney Brown,cast,/Cast/?AWBr,male
+Jon Lovitz,cast,/Cast/?JoLo,male
+Al Franken,cast,/Cast/?AlFr,male
+Jan Hooks,cast,/Cast/?JaHo,female
+"10,000 Maniacs",guest,/Guests/?995,unknown
+Dennis Miller,cast,/Cast/?DeMi,male
+Tom Davis,cast,/Cast/?ToDa,male
+Christine Zander,crew,/Crew/?ChZa,female
+Victoria Jackson,cast,/Cast/?ViJa,female
+Nora Dunn,cast,/Cast/?NoDu,female
+Jason Aldean,guest,/Guests/?3252,male
+Gal Gadot,guest,/Guests/?3250,male
 Leslie Jones,cast,/Cast/?LeJo,female
+Heidi Gardner,cast,/Cast/?HeGa,female
+Kate McKinnon,cast,/Cast/?KaMc,female
+Luke Null,cast,/Cast/?LuNu,male
 Chris Redd,cast,/Cast/?ChRe,male
-Jay-Z,guest,/Guests/?3246,unknown
-Damian Marley,guest,/Guests/?3248,male
+Cecily Strong,cast,/Cast/?CeSt,female
+Melissa Villasenor,cast,/Cast/?MeVi,female
+Kenan Thompson,cast,/Cast/?KeTh,male
+Beck Bennett,cast,/Cast/?BeBe,male
+Pete Davidson,cast,/Cast/?PeDa,male
+Mikey Day,cast,/Cast/?MiDa,male
+Kyle Mooney,cast,/Cast/?KyMo,male
+Aidy Bryant,cast,/Cast/?AiBr,female
+Sam Smith,guest,/Guests/?3251,male
 Darrell Hammond,cast,/Cast/?DaHa,male
 Colin Jost,cast,/Cast/?CoJo,male
 Michael Che,cast,/Cast/?MiCh,male
-Beck Bennett,cast,/Cast/?BeBe,male
-Kyle Mooney,cast,/Cast/?KyMo,male
+Steve Higgins,crew,/Crew/?StHi,male
+Alex Moffat,cast,/Cast/?AlMo,male
+Alec Baldwin,guest,/Guests/?3247,male
+Ryan Gosling,guest,/Guests/?3245,male
+Emma Stone,guest,/Guests/?3249,female
+Lenny Pickett,crew,/Crew/?LePi,male
+Jay-Z,guest,/Guests/?3246,unknown
+Damian Marley,guest,/Guests/?3248,male
+Tom Hanks,guest,/Guests/?992,male
+Don Pardo,crew,/Crew/?DoPa,male
+Mark McKinney,cast,/Cast/?MaMc,male
+Randy Travis,guest,/Guests/?993,male
+Andy Murphy,crew,/Crew/?AnMu,male
+Dan Aykroyd,cast,/Cast/?DaAy,male
+Justine Bateman,guest,/Guests/?989,female
+Terrance Trent D'Arby,guest,/Guests/?990,male
+Bob Odenkirk,crew,/Crew/?BoOd,male
+Jim Pitt,crew,/Crew/?JiPi,male
+John Zonars,crew,/Crew/?JoZo,male
+Carl Weathers,guest,/Guests/?985,male
+Robbie Robertson,guest,/Guests/?986,male
+BoDeans,guest,/Guests/?987,unknown
+Maria McKee,guest,/Guests/?988,female
+Robin Williams,guest,/Guests/?981,male
+James Taylor,guest,/Guests/?982,male
+Don Grolnick,crew,/Crew/?DoGr,male
+Leland Sklar,guest,/Guests/?984,male
+Paul Simon,guest,/Guests/?977,male
+Sen. Paul Simon,guest,/Guests/?980,unknown
+Linda Ronstadt,guest,/Guests/?978,female
+The Mariachi Vargas de Tecalitlan,guest,/Guests/?979,female
+Marc Shaiman,crew,/Crew/?MrSh,male
+Angie Dickinson,guest,/Guests/?971,female
+Buster Poindexter,guest,/Guests/?972,male
+Soozie Tyrell,guest,/Guests/?975,unknown
+The Banshees of Blue,guest,/Guests/?974,female
+The Uptown Horns,guest,/Guests/?976,female
+David Gilmour,guest,/Guests/?973,male
+Cheryl Hardwick,crew,/Crew/?ChHa,female
+Leon Pendarvis,crew,/Crew/?LePe,male
+Steve Turre,crew,/Crew/?StTu,male
+T-Bone Wolk,crew,/Crew/?TBWo,unknown
+Danny DeVito,guest,/Guests/?968,male
+Bryan Ferry,guest,/Guests/?969,male
+Steve Jordan,crew,/Crew/?StJo,male
+Rhea Perlman,guest,/Guests/?970,female
+Candice Bergen,guest,/Guests/?964,female
+John Henry Kurtz,unknown,,male
+Cher,guest,/Guests/?965,female
+Paul Shaffer,cast,/Cast/?PaSh,male
+Sydney Biddle Barrows,guest,/Guests/?966,female
+Robert Mitchum,guest,/Guests/?960,male
+Simply Red,guest,/Guests/?961,unknown
+Bentley Mitchum,guest,/Guests/?963,unknown
+Jane Greer,guest,/Guests/?962,female
+Ric Ocasek,unknown,,unknown
+Elvira,guest,/Guests/?959,female
+Dabney Coleman,guest,/Guests/?957,unknown
+The Cars,guest,/Guests/?958,female
+Sean Penn,guest,/Guests/?954,male
+LL Cool J,guest,/Guests/?955,unknown
+Joe Dicso,crew,/Crew/?JoDi,male
+The Pull,guest,/Guests/?956,female
+Steve Martin,guest,/Guests/?950,male
+Sting,guest,/Guests/?951,male
+Branford Marsalis,guest,/Guests/?952,unknown
+Bruce Babbitt,guest,/Guests/?953,male
 Scarlett Johansson,guest,/Guests/?3238,female
 Dwayne Johnson,guest,/Guests/?3234,male
-Tom Hanks,guest,/Guests/?3237,male
 Vanessa Bayer,cast,/Cast/?VaBa,female
 Sasheer Zamata,cast,/Cast/?SaZa,female
 Bobby Moynihan,cast,/Cast/?BoMo,male
 Katy Perry,guest,/Guests/?3235,female
-Steve Higgins,crew,/Crew/?StHi,male
 Migos,guest,/Guests/?3239,unknown
 Melissa McCarthy,guest,/Guests/?3228,female
 HAIM,guest,/Guests/?3229,unknown
@@ -37,7 +114,6 @@ Ryan Reynolds,guest,/Guests/?3233,male
 Donna Richards,crew,/Crew/?DoRi,female
 Ken Aymong,crew,/Crew/?KeAy,male
 Lorne Michaels,crew,/Crew/?LoMi,male
-Steve Martin,guest,/Guests/?3232,male
 Chris Pine,guest,/Guests/?3226,male
 LCD Soundsystem,guest,/Guests/?3227,unknown
 Akira Yoshimura,crew,/Crew/?AkYo,male
@@ -89,7 +165,6 @@ Anthony Rizzo,guest,/Guests/?3168,male
 David Ross,guest,/Guests/?3169,male
 Dexter Fowler,guest,/Guests/?3166,male
 Solange,guest,/Guests/?3163,female
-Dana Carvey,cast,/Cast/?DaCa,male
 Bill Murray,cast,/Cast/?BiMu,male
 Lady Gaga,guest,/Guests/?3159,unknown
 Mark Ronson,guest,/Guests/?3161,male
@@ -108,7 +183,6 @@ Courtney Barnett,guest,/Guests/?3140,female
 Maya Rudolph,cast,/Cast/?MaRu,female
 Carrie Brownstein,guest,/Guests/?3141,female
 Drake,guest,/Guests/?3137,male
-Phil Hartman,cast,/Cast/?PhHa,male
 Brie Larson,guest,/Guests/?3131,female
 Amy Davidson,guest,/Guests/?3135,female
 Heather Desaulniers,guest,/Guests/?3136,female
@@ -168,7 +242,6 @@ Adele,guest,/Guests/?3069,female
 Elizabeth Banks,guest,/Guests/?3064,female
 Don Roy King,unknown,,male
 Disclosure,guest,/Guests/?3065,unknown
-Sam Smith,guest,/Guests/?3067,male
 Donald Trump,guest,/Guests/?3059,male
 Ivanka Trump,guest,/Guests/?3062,female
 Martin Short,cast,/Cast/?MaSh,male
@@ -260,7 +333,6 @@ Nasim Pedrad,cast,/Cast/?NaPe,female
 Noel Wells,cast,/Cast/?NoWe,female
 Brooks Wheelan,cast,/Cast/?BrWh,male
 St. Vincent,guest,/Guests/?2948,unknown
-Don Pardo,crew,/Crew/?DoPa,male
 Paul Rudd,guest,/Guests/?2954,male
 Pharrell Williams,guest,/Guests/?2959,unknown
 Tatiana Maslany,guest,/Guests/?2958,female
@@ -337,10 +409,7 @@ Vince Vaughn,guest,/Guests/?2844,male
 Miguel,guest,/Guests/?2845,male
 Dennis Rodman,guest,/Guests/?2843,male
 Phoenix,guest,/Guests/?2841,andy
-Candice Bergen,guest,/Guests/?2832,female
 Chevy Chase,cast,/Cast/?ChCh,male
-Dan Aykroyd,cast,/Cast/?DaAy,male
-Paul Simon,guest,/Guests/?2839,male
 Adam Epstein,unknown,,male
 Macklemore,guest,/Guests/?2825,unknown
 Ryan Lewis,guest,/Guests/?2826,male
@@ -354,7 +423,6 @@ Danny McBride,guest,/Guests/?2819,male
 Mickey Madden,guest,/Guests/?2816,male
 The Lumineers,guest,/Guests/?2812,female
 The New York City Children's Chorus,guest,/Guests/?2805,female
-Paul Shaffer,cast,/Cast/?PaSh,male
 Samuel L. Jackson,guest,/Guests/?2804,male
 Joe Walsh,guest,/Guests/?2809,male
 Dave Grohl,guest,/Guests/?2802,male
@@ -428,7 +496,7 @@ Kelly Clarkson,guest,/Guests/?2704,female
 Horatio Sanz,cast,/Cast/?HrSa,male
 Jude Law,guest,/Guests/?2699,male
 Matt Damon,guest,/Guests/?2692,male
-Val Kilmer,guest,/Guests/?2693,andy
+Val Kilmer,guest,/Guests/?2693,female
 Robyn,guest,/Guests/?2689,female
 Steve Buscemi,guest,/Guests/?2685,male
 Jason Segel,guest,/Guests/?2679,male
@@ -438,7 +506,6 @@ Florence Welch,unknown,,female
 Olivia Wilde,guest,/Guests/?2684,female
 Alan Wong,crew,/Crew/?AlWo,male
 Shelly Gossman,crew,/Crew/?ShGo,female
-Danny DeVito,guest,/Guests/?2674,male
 Travie McCoy,guest,/Guests/?2675,unknown
 Hugh Jackman,guest,/Guests/?2667,male
 Foster The People,guest,/Guests/?2666,male
@@ -463,7 +530,6 @@ B.o.B,guest,/Guests/?2630,unknown
 The Strokes,guest,/Guests/?2627,female
 Russell Brand,guest,/Guests/?2624,male
 Chris Brown,guest,/Guests/?2625,male
-Jon Lovitz,cast,/Cast/?JoLo,male
 Linkin Park,guest,/Guests/?2617,unknown
 Jesse Eisenberg,guest,/Guests/?2623,male
 Dex Carvey,guest,/Guests/?2619,unknown
@@ -480,7 +546,6 @@ Jessica Alba,guest,/Guests/?2603,female
 Lil Wayne,guest,/Guests/?2600,male
 Mario Batali,guest,/Guests/?2597,male
 Rob Klein,crew,/Crew/?RoKl,male
-Robin Williams,guest,/Guests/?2594,male
 Diddy-Dirty Money,guest,/Guests/?2591,unknown
 Sean Combs,unknown,,male
 Swizz Beatz,guest,/Guests/?2593,unknown
@@ -618,7 +683,6 @@ Barack Obama,guest,/Guests/?2328,male
 Bono,guest,/Guests/?2330,male
 Matt Lauer,guest,/Guests/?2331,male
 Feist,guest,/Guests/?2327,unknown
-Steve Turre,crew,/Crew/?StTu,male
 Jon Bon Jovi,guest,/Guests/?2322,male
 Richie Sambora,unknown,,male
 Marci Klein,crew,/Crew/?MaKl,female
@@ -705,7 +769,6 @@ Eric Slovin,crew,/Crew/?ErSl,male
 System of a Down,guest,/Guests/?2180,unknown
 Patti Forte,guest,/Guests/?2182,female
 Tom Brady,guest,/Guests/?2176,male
-Andy Murphy,crew,/Crew/?AnMu,male
 Eve,guest,/Guests/?2169,female
 Matt Piedmont,crew,/Crew/?MaPi,male
 Jack Johnson,guest,/Guests/?2165,male
@@ -758,7 +821,6 @@ Jessica Simpson,guest,/Guests/?2090,female
 Nick Lachey,guest,/Guests/?2091,male
 G Unit,guest,/Guests/?2092,unknown
 Joe,guest,/Guests/?2093,male
-Al Franken,cast,/Cast/?AlFr,male
 Jet,guest,/Guests/?2085,female
 Pink,guest,/Guests/?2081,unknown
 Missy Elliott,guest,/Guests/?2078,female
@@ -768,10 +830,8 @@ Outkast,guest,/Guests/?2071,unknown
 Halle Berry,guest,/Guests/?2067,female
 Britney Spears,guest,/Guests/?2068,female
 George Wendt,guest,/Guests/?2069,male
-Carl Weathers,guest,/Guests/?2066,male
 Jim Belushi,cast,/Cast/?JiBe,male
 Kip King,guest,/Guests/?2060,male
-Tom Davis,cast,/Cast/?ToDa,male
 Dean Edwards,cast,/Cast/?DeEd,male
 Adrien Brody,guest,/Guests/?2050,male
 Elliot Brody,guest,/Guests/?2053,male
@@ -816,7 +876,6 @@ Lenny Kravitz,guest,/Guests/?2000,male
 The White Stripes,guest,/Guests/?1996,female
 Sarah Michelle Gellar,guest,/Guests/?1993,female
 Faith Hill,guest,/Guests/?1994,female
-Soozie Tyrell,guest,/Guests/?1992,unknown
 Bruce Springsteen,unknown,,male
 Winona Ryder,guest,/Guests/?1986,female
 Alex Trebek,guest,/Guests/?1989,male
@@ -836,7 +895,6 @@ Mike Judge,unknown,,male
 India.Arie,guest,/Guests/?1973,unknown
 Jonny Moseley,guest,/Guests/?1969,male
 Rip Taylor,guest,/Guests/?1971,andy
-John Zonars,crew,/Crew/?JoZo,male
 Josh Hartnett,guest,/Guests/?1961,male
 Ellen DeGeneres,guest,/Guests/?1958,female
 No Doubt,guest,/Guests/?1959,unknown
@@ -855,7 +913,6 @@ Tom Green,guest,/Guests/?1936,male
 Macy Gray,guest,/Guests/?1935,female
 Colin Quinn,cast,/Cast/?CoQu,male
 Seann William Scott,guest,/Guests/?1931,unknown
-Kevin Nealon,cast,/Cast/?KeNe,male
 Weezer,guest,/Guests/?1924,unknown
 Jerry Minor,cast,/Cast/?JeMi,male
 Lara Flynn Boyle,guest,/Guests/?1919,female
@@ -942,11 +999,9 @@ Michael Stipe,unknown,,male
 Joe Franken (II),guest,/Guests/?1793,male
 R.E.M.,guest,/Guests/?1791,unknown
 The Rockettes,guest,/Guests/?1794,female
-Cheryl Hardwick,crew,/Crew/?ChHa,female
 Christina Ricci,guest,/Guests/?1788,female
 John Carpenter,guest,/Guests/?1786,male
 Tim Herlihy,crew,/Crew/?TiHe,male
-Sting,guest,/Guests/?1785,male
 Cheb Mami,guest,/Guests/?1787,male
 Garth Brooks,guest,/Guests/?1782,male
 Chris Gaines,guest,/Guests/?1783,male
@@ -1030,13 +1085,11 @@ Tom Gianas,crew,/Crew/?ToGi,male
 Scott Wolf,guest,/Guests/?1657,male
 Natalie Imbruglia,guest,/Guests/?1658,female
 Robert Duvall,guest,/Guests/?1656,male
-Mark McKinney,cast,/Cast/?MaMc,male
 Roma Downey,guest,/Guests/?1651,female
 "Missy ""Misdemeanor"" Elliott",guest,/Guests/?1652,female
 Magoo,guest,/Guests/?1653,unknown
 Cindy Caponera,crew,/Crew/?CiCa,female
 Lou Marini,crew,/Crew/?LoMa,male
-Leon Pendarvis,crew,/Crew/?LePe,male
 Alan P. Rubin,crew,/Crew/?AlPR,male
 Paula Cole,guest,/Guests/?1649,female
 Portishead,guest,/Guests/?1647,unknown
@@ -1074,7 +1127,6 @@ The Mighty Mighty Bosstones,guest,/Guests/?1607,female
 Bill Kurtis,guest,/Guests/?1611,male
 Mike Ditka,guest,/Guests/?1610,male
 Eric Dickerson,guest,/Guests/?1605,male
-Joe Dicso,crew,/Crew/?JoDi,male
 Matthew Perry,guest,/Guests/?1601,male
 Ian Roberts,crew,/Crew/?IaRo,male
 Oasis,guest,/Guests/?1602,unknown
@@ -1119,7 +1171,6 @@ Fred Wolf,cast,/Cast/?FrWo,male
 David Lander,guest,/Guests/?1539,male
 Lisa Kudrow,guest,/Guests/?1537,female
 Kerri Strug,guest,/Guests/?1536,female
-John Henry Kurtz,unknown,,male
 Soundgarden,guest,/Guests/?1533,unknown
 The Cure,guest,/Guests/?1529,female
 Jim Gaffigan,guest,/Guests/?1531,male
@@ -1154,7 +1205,6 @@ Anthony Edwards,guest,/Guests/?1486,male
 Laura Leighton,guest,/Guests/?1481,female
 Grant Show,guest,/Guests/?1483,male
 Rancid,guest,/Guests/?1482,unknown
-Sean Penn,guest,/Guests/?1484,male
 Quentin Tarantino,guest,/Guests/?1478,male
 Robert Hegyes,guest,/Guests/?1480,male
 Bill Bradley,guest,/Guests/?1473,male
@@ -1177,7 +1227,6 @@ Blues Traveler,guest,/Guests/?1456,unknown
 Morwenna Banks,cast,/Cast/?MoBa,female
 Ellen Cleghorne,cast,/Cast/?ElCl,female
 Chris Elliott,cast,/Cast/?ChEl,male
-G.E. Smith,crew,/Crew/?GESm,unknown
 Michael Angarano,guest,/Guests/?1454,male
 Naomi Campbell,guest,/Guests/?1453,female
 Jay Mohr,cast,/Cast/?JaMo,male
@@ -1237,7 +1286,6 @@ Melanie Hutsell,cast,/Cast/?MeHu,female
 Julia Sweeney,cast,/Cast/?JuSw,female
 Rafael Fuchs,guest,/Guests/?1384,male
 The Pretenders,guest,/Guests/?1379,female
-Jan Hooks,cast,/Cast/?JaHo,female
 Emilio Estevez,guest,/Guests/?1376,male
 Sy Sperling,guest,/Guests/?1374,male
 Dave Attell,crew,/Crew/?DaAt,male
@@ -1246,7 +1294,6 @@ David Mandel,crew,/Crew/?DaMa,male
 Dwight Yoakham,guest,/Guests/?1372,male
 Cindy Crawford,guest,/Guests/?1370,female
 Nancy Kerrigan,guest,/Guests/?1365,female
-Christine Zander,crew,/Crew/?ChZa,female
 Aretha Franklin,guest,/Guests/?1366,female
 Martin Lawrence,guest,/Guests/?1363,male
 Crash Test Dummies,guest,/Guests/?1364,unknown
@@ -1271,11 +1318,8 @@ Nicole Kidman,guest,/Guests/?1339,female
 Stone Temple Pilots,guest,/Guests/?1340,male
 Tom Schiller,cast,/Cast/?ToSc,male
 Jimmy Workman,guest,/Guests/?1344,male
-James Taylor,guest,/Guests/?1336,male
 Casey Kasem,guest,/Guests/?1338,andy
-Don Grolnick,crew,/Crew/?DoGr,male
 Billy Joel,guest,/Guests/?1330,male
-T-Bone Wolk,crew,/Crew/?TBWo,unknown
 Steven Tyler,unknown,,male
 Joe Perry,unknown,,male
 Laura Dern,guest,/Guests/?1328,female
@@ -1310,23 +1354,19 @@ Grafton True,crew,/Crew/?GrTr,unknown
 Glenn Close,guest,/Guests/?1274,female
 The Black Crowes,guest,/Guests/?1275,female
 Mary Beth Hurt,guest,/Guests/?1276,female
-Jim Pitt,crew,/Crew/?JiPi,male
 Roseanne Arnold,guest,/Guests/?1271,female
 Dick Butkus,guest,/Guests/?1273,male
 Sinbad,guest,/Guests/?1267,unknown
 Sade,guest,/Guests/?1268,female
 Morrissey,guest,/Guests/?1266,unknown
 Catherine O'Hara,guest,/Guests/?1263,female
-"10,000 Maniacs",guest,/Guests/?1264,unknown
 Arrested Development,guest,/Guests/?1261,unknown
 Spin Doctors,guest,/Guests/?1257,unknown
 Tim Robbins,guest,/Guests/?1253,male
 Sinead O'Connor,guest,/Guests/?1254,unknown
 Bobby Brown,guest,/Guests/?1250,male
-Cher,guest,/Guests/?1252,female
 Siobhan Fallon,cast,/Cast/?SiFa,female
 Beth Cahill,cast,/Cast/?BeCa,female
-Victoria Jackson,cast,/Cast/?ViJa,female
 Sharon Stone,guest,/Guests/?1236,female
 Ken Stabler,guest,/Guests/?1239,male
 Mary Stuart Masterson,guest,/Guests/?1234,female
@@ -1335,7 +1375,6 @@ Jason Priestley,guest,/Guests/?1225,male
 Teenage Fanclub,guest,/Guests/?1226,unknown
 Susan Dey,guest,/Guests/?1223,female
 C+C Music Factory,guest,/Guests/?1224,unknown
-Robbie Robertson,guest,/Guests/?1218,male
 Bruce Hornsby,guest,/Guests/?1220,male
 Ivan Neville,guest,/Guests/?1221,male
 Monk Boudreaux,guest,/Guests/?1219,unknown
@@ -1359,11 +1398,9 @@ Public Enemy,guest,/Guests/?1180,unknown
 Jesse Jackson,guest,/Guests/?1181,male
 Spike Lee,guest,/Guests/?1182,male
 Spike Feresten,crew,/Crew/?SpFe,male
-Dennis Miller,cast,/Cast/?DeMi,male
 Elvis Costello,guest,/Guests/?1178,male
 Andrew Robin,crew,/Crew/?AnRo,male
 Delta Burke,guest,/Guests/?1173,unknown
-Bob Odenkirk,crew,/Crew/?BoOd,male
 Chris Isaak,guest,/Guests/?1174,male
 Silvertone,guest,/Guests/?1175,unknown
 Steven Seagal,guest,/Guests/?1171,male
@@ -1373,7 +1410,6 @@ Jeremy Irons,guest,/Guests/?1162,male
 Fishbone,guest,/Guests/?1163,unknown
 Razor Ruddock,guest,/Guests/?1164,unknown
 Michael J. Fox,guest,/Guests/?1160,male
-A. Whitney Brown,cast,/Cast/?AWBr,male
 Arthur Kent,guest,/Guests/?1159,male
 Roseanne Barr,guest,/Guests/?1150,female
 Deee-Lite,guest,/Guests/?1151,unknown
@@ -1402,7 +1438,6 @@ Gene Rayburn,guest,/Guests/?1119,male
 Kyle MacLachlan,guest,/Guests/?1115,male
 Audrey Peart Dickman,crew,/Crew/?AuPD,female
 The Notting Hillbillies,guest,/Guests/?1114,female
-Nora Dunn,cast,/Cast/?NoDu,female
 Andrew Dice Clay,guest,/Guests/?1110,male
 The Spanic Boys,guest,/Guests/?1111,female
 Julee Cruise,guest,/Guests/?1112,unknown
@@ -1431,11 +1466,9 @@ Take 6,guest,/Guests/?1093,male
 Ed O'Neill,guest,/Guests/?1078,male
 Maury Povich,guest,/Guests/?1080,male
 Harry Connick Jr.,guest,/Guests/?1079,male
-Marc Shaiman,crew,/Crew/?MrSh,male
 Andie MacDowell,guest,/Guests/?1075,female
 Tracy Chapman,guest,/Guests/?1076,female
 Robert Wagner,guest,/Guests/?1072,male
-Linda Ronstadt,guest,/Guests/?1073,female
 Aaron Neville,guest,/Guests/?1074,male
 K.D. Lang & The Reclines,guest,/Guests/?1071,unknown
 David Byrne,guest,/Guests/?1069,male
@@ -1445,7 +1478,6 @@ James Woods,guest,/Guests/?1064,male
 Kathleen Turner,guest,/Guests/?1062,female
 Rick Moranis,guest,/Guests/?1060,male
 Rickie Lee Jones,guest,/Guests/?1061,male
-Steve Jordan,crew,/Crew/?StJo,male
 Timothy Busfield,guest,/Guests/?1055,male
 Paulina Porizkova,guest,/Guests/?1056,female
 Wayne Gretzky,guest,/Guests/?1050,male
@@ -1454,7 +1486,7 @@ Fine Young Cannibals,guest,/Guests/?1051,female
 Geena Davis,guest,/Guests/?1047,female
 John Mellencamp,guest,/Guests/?1048,male
 Dolly Parton,guest,/Guests/?1046,female
-Mel Gibson,guest,/Guests/?1043,male
+Mel Gibson,guest,/Guests/?1043,female
 Living Colour,guest,/Guests/?1044,unknown
 Danny Glover,guest,/Guests/?1045,male
 Mary Tyler Moore,guest,/Guests/?1041,female
@@ -1486,35 +1518,6 @@ Douglas McGrath,guest,/Guests/?1002,male
 Fred Newman,guest,/Guests/?1004,male
 Laurie Metcalf,cast,/Cast/?LaMe,female
 Keith Richards,guest,/Guests/?997,male
-Judge Reinhold,guest,/Guests/?994,male
-Randy Travis,guest,/Guests/?993,male
-Justine Bateman,guest,/Guests/?989,female
-Terrance Trent D'Arby,guest,/Guests/?990,male
-BoDeans,guest,/Guests/?987,unknown
-Maria McKee,guest,/Guests/?988,female
-Leland Sklar,guest,/Guests/?984,male
-Sen. Paul Simon,guest,/Guests/?980,unknown
-The Mariachi Vargas de Tecalitlan,guest,/Guests/?979,female
-Angie Dickinson,guest,/Guests/?971,female
-Buster Poindexter,guest,/Guests/?972,male
-The Banshees of Blue,guest,/Guests/?974,female
-The Uptown Horns,guest,/Guests/?976,female
-David Gilmour,guest,/Guests/?973,male
-Bryan Ferry,guest,/Guests/?969,male
-Rhea Perlman,guest,/Guests/?970,female
-Sydney Biddle Barrows,guest,/Guests/?966,female
-Robert Mitchum,guest,/Guests/?960,male
-Simply Red,guest,/Guests/?961,unknown
-Bentley Mitchum,guest,/Guests/?963,unknown
-Jane Greer,guest,/Guests/?962,female
-Ric Ocasek,unknown,,unknown
-Elvira,guest,/Guests/?959,female
-Dabney Coleman,guest,/Guests/?957,unknown
-The Cars,guest,/Guests/?958,female
-LL Cool J,guest,/Guests/?955,unknown
-The Pull,guest,/Guests/?956,female
-Branford Marsalis,guest,/Guests/?952,unknown
-Bruce Babbitt,guest,/Guests/?953,male
 Roy Orbison,guest,/Guests/?949,male
 Garry Shandling,guest,/Guests/?944,male
 Los Lobos,guest,/Guests/?945,unknown

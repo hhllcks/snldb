@@ -1,10 +1,47 @@
 aid,charid,name
+Dana Carvey,253,Hans
+Kevin Nealon,252,Franz
+Dana Carvey,217,Church Lady
+Pete Davidson,1010,Chad
 Ryan Gosling,998,Todd
 Aidy Bryant,999,Agent Morris
 Kate McKinnon,1001,Colleen Rafferty
 Cecily Strong,1000,Sharon
 Alex Moffat,1014,Guy Who Just Bought a Boat
 Kenan Thompson,971,Treece Henderson
+Nora Dunn,195,Pat Stevens
+Tom Hanks,260,Girl Watcher
+Jon Lovitz,261,Girl Watcher
+Tom Hanks,204,Paul
+Jon Lovitz,202,Bob (I)
+Dennis Miller,210,Steve
+Nora Dunn,258,Denise Venetti
+Jon Lovitz,259,Neil Simmons
+Dana Carvey,219,Derek Stevens
+Phil Hartman,249,Helen
+Jan Hooks,248,Sherry
+Dana Carvey,238,Ching Change
+Jon Lovitz,199,Master Thespian
+Phil Hartman,254,Helmut
+Nora Dunn,224,Liz Sweeney
+Jan Hooks,223,Candy Sweeney
+Marc Shaiman,225,Skip St. Thomas
+Phil Hartman,255,Frankenstein
+Jon Lovitz,257,Tonto
+Kevin Nealon,256,Tarzan
+Jan Hooks,244,Anita
+Phil Hartman,215,Bill Franklin
+Cheryl Hardwick,239,Pearl
+Victoria Jackson,243,Nancy Maloney
+Jon Lovitz,237,Eddie Spimozo
+Kevin Nealon,235,Charlie Loomis
+Nora Dunn,245,Loose Change
+Phil Hartman,242,Mace
+Nora Dunn,209,Babette
+Jon Lovitz,251,Bob (II)
+Phil Hartman,240,Don Keister
+Jan Hooks,216,Marge Keister
+Victoria Jackson,241,Susan Keister
 Dwayne Johnson,978,Koko WatchOut
 Bobby Moynihan,979,Trashyard Mutt
 Tom Hanks,1012,David S. Pumpkins
@@ -47,8 +84,6 @@ Kate McKinnon,955,Barbara DeDrew
 Kristen Wiig,740,Sue
 Kate McKinnon,900,Sheila Sovage
 Kenan Thompson,899,Anthony
-Pete Davidson,1010,Chad
-Dana Carvey,217,Church Lady
 Kenan Thompson,950,Darnell Hayes
 Sasheer Zamata,951,Keeley
 Cecily Strong,895,The Girl You Wish You Hadn't Started A Conversation With At A Party
@@ -537,7 +572,6 @@ Will Ferrell,497,David Larry
 Molly Shannon,498,Miss Colleen
 Chris Kattan,463,Azrael Abyss
 Molly Shannon,464,Circe Nightshade
-Dana Carvey,238,Ching Change
 Tim Meadows,472,Leon Phelps
 Tim Meadows,484,Mr. Franklin
 Chris Kattan,458,Josh Zimmerman
@@ -566,8 +600,6 @@ Will Ferrell,479,Baron Nocturna
 Cheri Oteri,409,Roberta
 Ana Gasteyer,483,Diane Carbonal
 Will Ferrell,513,Max Gibbons
-Dana Carvey,253,Hans
-Kevin Nealon,252,Franz
 Will Ferrell,436,Shawn Patrick Flanery
 Cheri Oteri,427,Shelly Peterbuilt
 Sarah Michelle Gellar,489,Susie Jessica Dibbins
@@ -649,7 +681,6 @@ Molly Shannon,426,Mary
 Nancy Walls,425,Gail Lafferty
 Norm MacDonald,401,Stan Hooper
 David Koechner,416,Gerald Tibbins
-Phil Hartman,255,Frankenstein
 Phil Hartman,336,Keyrock
 Mark McKinney,407,Steve
 Nancy Walls,406,Cindy
@@ -744,7 +775,6 @@ Dana Carvey,289,Larry Roman
 Siobhan Fallon,330,Christy
 Kevin Nealon,298,Bill
 Kevin Nealon,295,Jimmy
-Kevin Nealon,256,Tarzan
 Ellen Cleghorne,322,Pop's daughter
 Tim Meadows,321,Pop
 Chris Rock,323,Young Pop
@@ -756,7 +786,6 @@ Mike Myers,288,Ed Miles
 Chris Farley,301,Ned Crowley
 Mike Myers,315,Paul Baldwin
 Kevin Nealon,218,Mr. Subliminal
-Phil Hartman,242,Mace
 Kevin Nealon,309,elevator fan
 Mike Myers,300,Ernie Hitchens
 Jon Lovitz,282,Annoying Man
@@ -767,49 +796,20 @@ Phil Hartman,273,Eugene
 Kevin Nealon,264,Tony Trailer
 Jon Lovitz,286,Hanukkah Harry
 Jan Hooks,270,Nancy Simmons
-Nora Dunn,195,Pat Stevens
 Phil Hartman,276,Tyler
 Mike Myers,274,Lothar
 Nora Dunn,280,Mrs. Campbell
 Jon Lovitz,272,Evelyn Quince
-Tom Hanks,260,Girl Watcher
-Jon Lovitz,261,Girl Watcher
 Kevin Nealon,278,Bob Waltman
-Jon Lovitz,257,Tonto
 Jon Lovitz,275,Org
 Phil Hartman,227,Johnny O'Connor
 Jon Lovitz,226,Harry Meyer
 Dana Carvey,263,Buddy Precisely
-Nora Dunn,224,Liz Sweeney
-Jan Hooks,223,Candy Sweeney
-Marc Shaiman,225,Skip St. Thomas
 Phil Hartman,268,Beev Algar
 Dana Carvey,250,Brad
-Phil Hartman,254,Helmut
-Jon Lovitz,199,Master Thespian
 John Lithgow,198,Baudelaire
-Phil Hartman,240,Don Keister
-Jan Hooks,216,Marge Keister
-Victoria Jackson,241,Susan Keister
 Dana Carvey,229,Sammy
 Kevin Nealon,230,Sammy
-Nora Dunn,258,Denise Venetti
-Jon Lovitz,259,Neil Simmons
-Tom Hanks,204,Paul
-Jon Lovitz,202,Bob (I)
-Dennis Miller,210,Steve
-Dana Carvey,219,Derek Stevens
-Phil Hartman,249,Helen
-Jan Hooks,248,Sherry
-Jan Hooks,244,Anita
-Phil Hartman,215,Bill Franklin
-Cheryl Hardwick,239,Pearl
-Victoria Jackson,243,Nancy Maloney
-Jon Lovitz,237,Eddie Spimozo
-Kevin Nealon,235,Charlie Loomis
-Nora Dunn,245,Loose Change
-Nora Dunn,209,Babette
-Jon Lovitz,251,Bob (II)
 Victoria Jackson,228,Jenny Baker
 Kevin Nealon,222,Bill Smith
 Bill Murray,37,Nick
