@@ -1,5 +1,57 @@
-{"impid": 683, "aid": "Al Franken", "name": "Pat Robertson"}
-{"impid": 694, "aid": "Phil Hartman", "name": "Jimmy Swaggart"}
+{"impid": 780, "aid": "Dana Carvey", "name": "Johnny Carson"}
+{"impid": 665, "aid": "Dana Carvey", "name": "Dennis Miller"}
+{"impid": 779, "aid": "Phil Hartman", "name": "Ed McMahon"}
+{"impid": 820, "aid": "Kevin Nealon", "name": "Jay Leno"}
+{"impid": 841, "aid": "Chris Rock", "name": "Arsenio Hall"}
+{"impid": 975, "aid": "Adam Sandler", "name": "David Brenner"}
+{"impid": 916, "aid": "Julia Sweeney", "name": "Joan Embery"}
+{"impid": 3701, "aid": "Beck Bennett", "name": "Mike Pence"}
+{"impid": 3797, "aid": "Mikey Day", "name": "Roy Moore"}
+{"impid": 3753, "aid": "Kate McKinnon", "name": "Jeff Sessions"}
+{"impid": 3798, "aid": "Tiffany Haddish", "name": "Cardi B"}
+{"impid": 3799, "aid": "Tiffany Haddish", "name": "Mary J. Blige"}
+{"impid": 3493, "aid": "Beck Bennett", "name": "Nick Offerman"}
+{"impid": 3800, "aid": "Aidy Bryant", "name": "James Corden"}
+{"impid": 3808, "aid": "Pete Davidson", "name": "Eminem"}
+{"impid": 3807, "aid": "Mikey Day", "name": "John Oliver"}
+{"impid": 3804, "aid": "Heidi Gardner", "name": "Kristen Schaal"}
+{"impid": 3805, "aid": "Leslie Jones", "name": "Oprah Winfrey"}
+{"impid": 3801, "aid": "Alex Moffat", "name": "Kit Harington"}
+{"impid": 3802, "aid": "Chris Redd", "name": "Offset"}
+{"impid": 3803, "aid": "Chris Redd", "name": "Sterling K. Brown"}
+{"impid": 3695, "aid": "Cecily Strong", "name": "Lin-Manuel Miranda"}
+{"impid": 3193, "aid": "Kenan Thompson", "name": "LL Cool J"}
+{"impid": 3806, "aid": "Melissa Villasenor", "name": "Celine Dion"}
+{"impid": 2637, "aid": "Jason Sudeikis", "name": "Joseph Biden"}
+{"impid": 3622, "aid": "Larry David", "name": "Bernie Sanders"}
+{"impid": 3703, "aid": "Mikey Day", "name": "Tim Kaine"}
+{"impid": 3811, "aid": "Leslie Jones", "name": "Donna Brazile"}
+{"impid": 3810, "aid": "Kate McKinnon", "name": "Nancy Pelosi"}
+{"impid": 3351, "aid": "Kate McKinnon", "name": "Hillary Clinton"}
+{"impid": 3781, "aid": "Alex Moffat", "name": "Charles Schumer"}
+{"impid": 3809, "aid": "Cecily Strong", "name": "Diane Feinstein"}
+{"impid": 3780, "aid": "Kenan Thompson", "name": "LaVar Ball"}
+{"impid": 3812, "aid": "Chris Redd", "name": "Katt Williams"}
+{"impid": 3690, "aid": "Alec Baldwin", "name": "Donald Trump"}
+{"impid": 3792, "aid": "Alex Moffat", "name": "Paul Manafort"}
+{"impid": 3601, "aid": "Cecily Strong", "name": "Melania Trump"}
+{"impid": 2034, "aid": "Alec Baldwin", "name": "Tony Bennett"}
+{"impid": 3794, "aid": "Beck Bennett", "name": "Drew Carey"}
+{"impid": 3341, "aid": "Kate McKinnon", "name": "Tilda Swinton"}
+{"impid": 3793, "aid": "Alex Moffat", "name": "Chris Hemsworth"}
+{"impid": 3795, "aid": "Chris Redd", "name": "Lil Wayne"}
+{"impid": 3494, "aid": "Cecily Strong", "name": "Sofia Vergara"}
+{"impid": 3796, "aid": "Melissa Villasenor", "name": "Ariana Grande"}
+{"impid": 3778, "aid": "Aidy Bryant", "name": "Sarah Huckabee Sanders"}
+{"impid": 3693, "aid": "Alex Moffat", "name": "Eric Trump"}
+{"impid": 3698, "aid": "Mikey Day", "name": "Donald Trump Jr."}
+{"impid": 3789, "aid": "Aidy Bryant", "name": "Karen Pence"}
+{"impid": 3696, "aid": "Kate McKinnon", "name": "Kellyanne Conway"}
+{"impid": 3707, "aid": "Alex Moffat", "name": "Anderson Cooper"}
+{"impid": 3245, "aid": "Cecily Strong", "name": "Rachel Maddow"}
+{"impid": 3790, "aid": "Leslie Jones", "name": "Viola Davis"}
+{"impid": 3584, "aid": "Cecily Strong", "name": "Marion Cotillard"}
+{"impid": 3791, "aid": "Cecily Strong", "name": "Ivana Trump"}
 {"impid": 3783, "aid": "Gal Gadot", "name": "Gigi Hadid"}
 {"impid": 3784, "aid": "Gal Gadot", "name": "Kendall Jenner"}
 {"impid": 3787, "aid": "Leslie Jones", "name": "NeNe Leakes"}
@@ -9,80 +61,90 @@
 {"impid": 3769, "aid": "Melissa Villasenor", "name": "Gwen Stefani"}
 {"impid": 2612, "aid": "Kenan Thompson", "name": "O.J. Simpson"}
 {"impid": 3263, "aid": "Kate McKinnon", "name": "Ruth Bader Ginsburg"}
-{"impid": 3690, "aid": "Alec Baldwin", "name": "Donald Trump"}
-{"impid": 3778, "aid": "Aidy Bryant", "name": "Sarah Huckabee Sanders"}
-{"impid": 3753, "aid": "Kate McKinnon", "name": "Jeff Sessions"}
-{"impid": 3781, "aid": "Alex Moffat", "name": "Charles Schumer"}
 {"impid": 3782, "aid": "Melissa Villasenor", "name": "Carmen Yul\u00edn Cruz"}
 {"impid": 3374, "aid": "Kate McKinnon", "name": "Angela Merkel"}
-{"impid": 690, "aid": "Dana Carvey", "name": "Jim McKay"}
-{"impid": 689, "aid": "Phil Hartman", "name": "Dick Button"}
-{"impid": 691, "aid": "Jan Hooks", "name": "Peggy Fleming"}
-{"impid": 692, "aid": "Phil Hartman", "name": "Barbara Bush"}
-{"impid": 693, "aid": "Jan Hooks", "name": "Elizabeth Dole"}
-{"impid": 580, "aid": "Dana Carvey", "name": "Casey Kasem"}
-{"impid": 681, "aid": "Dan Aykroyd", "name": "Bob Dole"}
+{"impid": 974, "aid": "Dana Carvey", "name": "Ross Perot"}
+{"impid": 962, "aid": "Dana Carvey", "name": "Jerry Brown"}
+{"impid": 963, "aid": "Al Franken", "name": "Paul Tsongas"}
+{"impid": 961, "aid": "Phil Hartman", "name": "Bill Clinton"}
+{"impid": 849, "aid": "Dana Carvey", "name": "John McLaughlin"}
+{"impid": 874, "aid": "Chris Farley", "name": "Jack Germond"}
+{"impid": 851, "aid": "Phil Hartman", "name": "Pat Buchanan"}
+{"impid": 924, "aid": "Mike Myers", "name": "Fred Barnes"}
+{"impid": 850, "aid": "Kevin Nealon", "name": "Morton Kondracke"}
+{"impid": 964, "aid": "John Goodman", "name": "Elvis Presley"}
+{"impid": 969, "aid": "Ellen Cleghorne", "name": "Natalie Cole"}
+{"impid": 968, "aid": "Chris Farley", "name": "Mama Cass"}
+{"impid": 971, "aid": "Melanie Hutsell", "name": "Tammy Wynette"}
+{"impid": 912, "aid": "Tim Meadows", "name": "Sammy Davis Jr."}
+{"impid": 967, "aid": "Mike Myers", "name": "Judy Garland"}
+{"impid": 965, "aid": "Rob Schneider", "name": "Elvis Presley"}
+{"impid": 966, "aid": "Julia Sweeney", "name": "Ethel Merman"}
+{"impid": 970, "aid": "John Goodman", "name": "Cecil Jacobson"}
+{"impid": 896, "aid": "Dana Carvey", "name": "William Demarest , Uncle Charlie"}
+{"impid": 972, "aid": "Beth Cahill", "name": "Pam Hurn"}
+{"impid": 942, "aid": "Dana Carvey", "name": "Mickey Rooney"}
+{"impid": 973, "aid": "Siobhan Fallon", "name": "Katharine Hepburn"}
 {"impid": 651, "aid": "Dana Carvey", "name": "George Bush"}
-{"impid": 678, "aid": "Nora Dunn", "name": "Pat Schroeder"}
-{"impid": 682, "aid": "Phil Hartman", "name": "Jack Kemp"}
-{"impid": 684, "aid": "Kevin Nealon", "name": "Pierre du Pont IV"}
-{"impid": 685, "aid": "Dana Carvey", "name": "Michael J. Fox , Alex"}
-{"impid": 686, "aid": "Jan Hooks", "name": "Meredith Baxter-Birney , Elyse"}
-{"impid": 688, "aid": "Victoria Jackson", "name": "Tina Yothers , Jennifer"}
-{"impid": 687, "aid": "Kevin Nealon", "name": "Michael Gross , Steven"}
-{"impid": 649, "aid": "Dana Carvey", "name": "George F. Will"}
-{"impid": 671, "aid": "Nora Dunn", "name": "Barbara Bush"}
-{"impid": 672, "aid": "Carl Weathers", "name": "Doug Williams"}
-{"impid": 599, "aid": "Phil Hartman", "name": "Jimmy \"The Greek\" Snyder"}
-{"impid": 598, "aid": "Kevin Nealon", "name": "Brent Musburger"}
-{"impid": 676, "aid": "Carl Weathers", "name": "Jesse Jackson"}
+{"impid": 695, "aid": "Jeff Renaudo", "name": "Dan Quayle"}
+{"impid": 959, "aid": "Ellen Cleghorne", "name": "Jack\u00e9e Harry"}
+{"impid": 960, "aid": "Chris Rock", "name": "Jaleel White"}
+{"impid": 951, "aid": "Dana Carvey", "name": "Scott Hamilton"}
+{"impid": 953, "aid": "Phil Hartman", "name": "Verne Lundquist"}
+{"impid": 952, "aid": "Julia Sweeney", "name": "Tracy Wilson"}
+{"impid": 956, "aid": "Jason Priestley", "name": "Joey McIntyre"}
+{"impid": 958, "aid": "Dana Carvey", "name": "Jordan Knight"}
+{"impid": 957, "aid": "Mike Myers", "name": "Jonathan Knight"}
+{"impid": 955, "aid": "Adam Sandler", "name": "Donnie Wahlberg"}
+{"impid": 954, "aid": "Rob Schneider", "name": "Danny Wood"}
+{"impid": 948, "aid": "Susan Dey", "name": "Patricia Gifford"}
+{"impid": 950, "aid": "Phil Hartman", "name": "J. Gregory Garrison"}
+{"impid": 949, "aid": "Mike Myers", "name": "Vincent Fuller"}
+{"impid": 947, "aid": "Chevy Chase", "name": "Jeffrey Dahmer"}
+{"impid": 945, "aid": "Phil Hartman", "name": "Oliver Stone"}
+{"impid": 692, "aid": "Phil Hartman", "name": "Barbara Bush"}
+{"impid": 946, "aid": "Mike Myers", "name": "Vladimir Lenin"}
+{"impid": 830, "aid": "Dana Carvey", "name": "Regis Philbin"}
+{"impid": 944, "aid": "David Spade", "name": "Michael Gelman"}
+{"impid": 943, "aid": "Julia Sweeney", "name": "Joy Philbin"}
+{"impid": 940, "aid": "Chris Rock", "name": "Michael Jackson"}
+{"impid": 941, "aid": "Hammer", "name": "Wilt Chamberlain"}
+{"impid": 939, "aid": "Dana Carvey", "name": "David Duke"}
+{"impid": 932, "aid": "Siobhan Fallon", "name": "Mary Lupo"}
+{"impid": 933, "aid": "Kevin Nealon", "name": "Roy Black"}
+{"impid": 935, "aid": "Kiefer Sutherland", "name": "Lloyd Bentsen"}
 {"impid": 679, "aid": "Dana Carvey", "name": "Richard Gephardt"}
+{"impid": 936, "aid": "Phil Hartman", "name": "Mario Cuomo"}
+{"impid": 937, "aid": "Victoria Jackson", "name": "Tipper Gore"}
+{"impid": 934, "aid": "Kevin Nealon", "name": "Bill Bradley"}
+{"impid": 938, "aid": "Kiefer Sutherland", "name": "Slash"}
+{"impid": 904, "aid": "Adam Sandler", "name": "Axl Rose"}
+{"impid": 925, "aid": "Tim Meadows", "name": "Billy Dee Williams"}
+{"impid": 926, "aid": "Dana Carvey", "name": "Ray Combs"}
+{"impid": 929, "aid": "Dana Carvey", "name": "Keanu Reeves"}
+{"impid": 931, "aid": "Victoria Jackson", "name": "Rob Lowe"}
+{"impid": 927, "aid": "Mike Myers", "name": "Charlie Sheen"}
+{"impid": 928, "aid": "Rob Schneider", "name": "Emilio Estevez"}
+{"impid": 930, "aid": "David Spade", "name": "Matthew Broderick"}
+{"impid": 923, "aid": "Dana Carvey", "name": "Strom Thurmond"}
+{"impid": 918, "aid": "Ellen Cleghorne", "name": "Anita Hill"}
+{"impid": 920, "aid": "Chris Farley", "name": "Howell Heflin"}
 {"impid": 680, "aid": "Al Franken", "name": "Sen. Paul Simon"}
-{"impid": 674, "aid": "Phil Hartman", "name": "Bruce Babbitt"}
-{"impid": 677, "aid": "Jon Lovitz", "name": "Michael Dukakis"}
-{"impid": 675, "aid": "Dennis Miller", "name": "Gary Hart"}
-{"impid": 673, "aid": "Kevin Nealon", "name": "Al Gore"}
-{"impid": 666, "aid": "Robin Williams", "name": "Dr. Gene Scott"}
-{"impid": 668, "aid": "Dana Carvey", "name": "Gallagher"}
-{"impid": 670, "aid": "Nora Dunn", "name": "Shelley Duvall"}
-{"impid": 669, "aid": "Phil Hartman", "name": "Robert Vaughn"}
-{"impid": 667, "aid": "Jan Hooks", "name": "Elayne Boosler"}
-{"impid": 618, "aid": "Phil Hartman", "name": "Peter Graves"}
-{"impid": 665, "aid": "Dana Carvey", "name": "Dennis Miller"}
-{"impid": 662, "aid": "Nora Dunn", "name": "Raisa Gorbachev"}
-{"impid": 573, "aid": "Phil Hartman", "name": "Phil Donahue"}
-{"impid": 616, "aid": "Jan Hooks", "name": "Nancy Reagan"}
-{"impid": 663, "aid": "Jon Lovitz", "name": "Stephen King"}
-{"impid": 595, "aid": "Nora Dunn", "name": "Tyne Daly , Mary Beth Lacey"}
-{"impid": 664, "aid": "Phil Hartman", "name": "Earl Holliman , Sergeant Crowley"}
-{"impid": 213, "aid": "Al Franken", "name": "Henry Kissinger"}
-{"impid": 659, "aid": "Danny DeVito", "name": "Mikhail Gorbachev"}
-{"impid": 592, "aid": "Phil Hartman", "name": "Ronald Reagan"}
-{"impid": 661, "aid": "Phil Hartman", "name": "Roger Ebert"}
-{"impid": 660, "aid": "Kevin Nealon", "name": "Gene Siskel"}
-{"impid": 635, "aid": "Jan Hooks", "name": "Jessica Hahn"}
-{"impid": 569, "aid": "Nora Dunn", "name": "Ann Landers"}
-{"impid": 658, "aid": "Jon Lovitz", "name": "Douglas Ginsburg"}
-{"impid": 593, "aid": "Jan Hooks", "name": "Corazon Aquino"}
-{"impid": 614, "aid": "Dana Carvey", "name": "Robin Leach"}
-{"impid": 657, "aid": "Nora Dunn", "name": "Peggy Lee"}
-{"impid": 655, "aid": "Jon Lovitz", "name": "Louis Rukeyser"}
-{"impid": 656, "aid": "Sean Penn", "name": "Robert DeNiro"}
-{"impid": 652, "aid": "Jon Lovitz", "name": "Robert Bork"}
-{"impid": 653, "aid": "Nora Dunn", "name": "Jeane Kirkpatrick"}
-{"impid": 654, "aid": "Dana Carvey", "name": "George Plimpton"}
+{"impid": 636, "aid": "Phil Hartman", "name": "Ted Kennedy"}
+{"impid": 919, "aid": "Tim Meadows", "name": "Clarence Thomas"}
+{"impid": 921, "aid": "Kevin Nealon", "name": "Joseph Biden"}
+{"impid": 922, "aid": "Chris Rock", "name": "Long Dong Silver"}
+{"impid": 631, "aid": "Dana Carvey", "name": "John Travolta , James"}
+{"impid": 915, "aid": "Jeff Daniels", "name": "Jay Leno"}
+{"impid": 856, "aid": "Chris Farley", "name": "Dom DeLuise"}
+{"impid": 720, "aid": "Phil Hartman", "name": "Burt Reynolds"}
+{"impid": 917, "aid": "Julia Sweeney", "name": "Jane Pauley"}
+{"impid": 914, "aid": "Victoria Jackson", "name": "LaToya Jackson"}
 {"impid": 2597, "aid": "Scarlett Johansson", "name": "Ivanka Trump"}
-{"impid": 3701, "aid": "Beck Bennett", "name": "Mike Pence"}
-{"impid": 3698, "aid": "Mikey Day", "name": "Donald Trump Jr."}
-{"impid": 3696, "aid": "Kate McKinnon", "name": "Kellyanne Conway"}
-{"impid": 3693, "aid": "Alex Moffat", "name": "Eric Trump"}
-{"impid": 3601, "aid": "Cecily Strong", "name": "Melania Trump"}
 {"impid": 3691, "aid": "Michael Che", "name": "Lester Holt"}
 {"impid": 3777, "aid": "Mikey Day", "name": "Paul Ryan"}
-{"impid": 3707, "aid": "Alex Moffat", "name": "Anderson Cooper"}
 {"impid": 3742, "aid": "Melissa McCarthy", "name": "Sean Spicer"}
 {"impid": 3743, "aid": "Bobby Moynihan", "name": "Glenn Thrush"}
-{"impid": 3584, "aid": "Cecily Strong", "name": "Marion Cotillard"}
 {"impid": 3700, "aid": "Sasheer Zamata", "name": "Lupita Nyong'o"}
 {"impid": 3772, "aid": "Beck Bennett", "name": "Mark Halperin"}
 {"impid": 3775, "aid": "Mikey Day", "name": "Willie Geist"}
@@ -130,7 +192,6 @@
 {"impid": 3737, "aid": "Cecily Strong", "name": "Sheri Dillon"}
 {"impid": 3738, "aid": "Kate McKinnon", "name": "Susan B. Anthony"}
 {"impid": 3735, "aid": "John Goodman", "name": "Rex Tillerson"}
-{"impid": 3351, "aid": "Kate McKinnon", "name": "Hillary Clinton"}
 {"impid": 3732, "aid": "John Cena", "name": "Rob Gronkowski"}
 {"impid": 3733, "aid": "Alex Moffat", "name": "Conor McGregor"}
 {"impid": 3734, "aid": "Bobby Moynihan", "name": "John Daly"}
@@ -145,7 +206,6 @@
 {"impid": 3730, "aid": "Kenan Thompson", "name": "Van Jones"}
 {"impid": 3724, "aid": "Dave Chappelle", "name": "Lil Jon"}
 {"impid": 3723, "aid": "Cecily Strong", "name": "Erin Burnett"}
-{"impid": 3341, "aid": "Kate McKinnon", "name": "Tilda Swinton"}
 {"impid": 3720, "aid": "Tom Hanks", "name": "Chris Wallace"}
 {"impid": 3721, "aid": "Tom Hanks", "name": "Sully Sullenberger"}
 {"impid": 3722, "aid": "Tom Hanks", "name": "Ron Howard"}
@@ -162,17 +222,14 @@
 {"impid": 3716, "aid": "Aidy Bryant", "name": "Mel Giedroyc"}
 {"impid": 3718, "aid": "Kate McKinnon", "name": "Mary Berry"}
 {"impid": 3719, "aid": "Melissa Villasenor", "name": "Sue Perkins"}
-{"impid": 3703, "aid": "Mikey Day", "name": "Tim Kaine"}
 {"impid": 3574, "aid": "Cecily Strong", "name": "Brooke Baldwin"}
 {"impid": 3702, "aid": "Melissa Villasenor", "name": "Elaine Quijano"}
 {"impid": 3704, "aid": "Alex Moffat", "name": "George T. Conway III"}
 {"impid": 3706, "aid": "Mikey Day", "name": "Ross Duffer"}
 {"impid": 3705, "aid": "Alex Moffat", "name": "Matt Duffer"}
 {"impid": 3692, "aid": "Margot Robbie", "name": "Ivanka Trump"}
-{"impid": 3622, "aid": "Larry David", "name": "Bernie Sanders"}
 {"impid": 1291, "aid": "Darrell Hammond", "name": "Bill Clinton"}
 {"impid": 3116, "aid": "Bobby Moynihan", "name": "Chris Christie"}
-{"impid": 3695, "aid": "Cecily Strong", "name": "Lin-Manuel Miranda"}
 {"impid": 3697, "aid": "Melissa Villasenor", "name": "Sarah Silverman"}
 {"impid": 3699, "aid": "Margot Robbie", "name": "Keira Knightley"}
 {"impid": 3091, "aid": "Fred Armisen", "name": "Osama bin Laden"}
@@ -255,11 +312,9 @@
 {"impid": 3635, "aid": "Bobby Moynihan", "name": "George Lucas"}
 {"impid": 2950, "aid": "Jay Pharoah", "name": "Chris Tucker"}
 {"impid": 3636, "aid": "Jon Rudnitsky", "name": "John Mayer"}
-{"impid": 3494, "aid": "Cecily Strong", "name": "Sofia Vergara"}
 {"impid": 3638, "aid": "Kate McKinnon", "name": "Ed Sheeran"}
 {"impid": 3632, "aid": "Leslie Jones", "name": "Sonya Carson"}
 {"impid": 3625, "aid": "Taran Killam", "name": "Martin O'Malley"}
-{"impid": 3245, "aid": "Cecily Strong", "name": "Rachel Maddow"}
 {"impid": 3628, "aid": "Beck Bennett", "name": "Enrique Pe\u00f1a Nieto"}
 {"impid": 3474, "aid": "Jay Pharoah", "name": "Drake"}
 {"impid": 3630, "aid": "Kenan Thompson", "name": "Toots Hibbert"}
@@ -276,8 +331,8 @@
 {"impid": 3609, "aid": "Taran Killam", "name": "Walter Palmer"}
 {"impid": 3606, "aid": "Kate McKinnon", "name": "Martin Shkreli"}
 {"impid": 3458, "aid": "Kyle Mooney", "name": "Pope Francis"}
-{"impid": 3604, "aid": "Bobby Moynihan", "name": "Jared Fogel"}
 {"impid": 3605, "aid": "Bobby Moynihan", "name": "Josh Duggar"}
+{"impid": 3604, "aid": "Bobby Moynihan", "name": "Jared Fogel"}
 {"impid": 3608, "aid": "Sasheer Zamata", "name": "Lenny Kravitz"}
 {"impid": 3611, "aid": "Miley Cyrus", "name": "Roxane Gilmore"}
 {"impid": 3612, "aid": "Beck Bennett", "name": "Jim Gilmore"}
@@ -314,7 +369,6 @@
 {"impid": 3435, "aid": "Sasheer Zamata", "name": "Rihanna"}
 {"impid": 3084, "aid": "Kenan Thompson", "name": "Ice Cube , Dimitrius"}
 {"impid": 3582, "aid": "Taraji P. Henson", "name": "Wanda Sykes"}
-{"impid": 3493, "aid": "Beck Bennett", "name": "Nick Offerman"}
 {"impid": 3569, "aid": "Taran Killam", "name": "Vin Diesel"}
 {"impid": 3340, "aid": "Kate McKinnon", "name": "Jane Lynch"}
 {"impid": 3585, "aid": "Jay Pharoah", "name": "Common"}
@@ -325,8 +379,8 @@
 {"impid": 3348, "aid": "Taran Killam", "name": "John Boehner"}
 {"impid": 3565, "aid": "Kyle Mooney", "name": "Tom Cotton"}
 {"impid": 3479, "aid": "Sasheer Zamata", "name": "Michelle Obama"}
-{"impid": 3567, "aid": "Jay Pharoah", "name": "Ludacris"}
 {"impid": 3568, "aid": "Jay Pharoah", "name": "Tyrese Gibson , Flower"}
+{"impid": 3567, "aid": "Jay Pharoah", "name": "Ludacris"}
 {"impid": 3566, "aid": "Cecily Strong", "name": "Michelle Rodriguez , Faline"}
 {"impid": 3571, "aid": "Kate McKinnon", "name": "Robert Durst"}
 {"impid": 3570, "aid": "Cecily Strong", "name": "Jeanine Pirro"}
@@ -533,11 +587,11 @@
 {"impid": 3402, "aid": "Kate McKinnon", "name": "Angela Raiola"}
 {"impid": 3401, "aid": "John Milhiser", "name": "Verne Troyer"}
 {"impid": 3404, "aid": "Kyle Mooney", "name": "Criss Angel"}
-{"impid": 3397, "aid": "Bobby Moynihan", "name": "Corey Harrison"}
 {"impid": 3398, "aid": "Bobby Moynihan", "name": "Richard Harrison"}
 {"impid": 3396, "aid": "Bobby Moynihan", "name": "Austin Russell"}
 {"impid": 2806, "aid": "Bobby Moynihan", "name": "Guy Fieri"}
 {"impid": 3399, "aid": "Bobby Moynihan", "name": "Rick Harrison"}
+{"impid": 3397, "aid": "Bobby Moynihan", "name": "Corey Harrison"}
 {"impid": 3403, "aid": "Kenan Thompson", "name": "Kimbo Slice"}
 {"impid": 3400, "aid": "Brooks Wheelan", "name": "Kid Rock"}
 {"impid": 2694, "aid": "Fred Armisen", "name": "Lawrence Welk"}
@@ -605,7 +659,6 @@
 {"impid": 2466, "aid": "Kenan Thompson", "name": "Al Roker"}
 {"impid": 3319, "aid": "Vanessa Bayer", "name": "Margaret Thatcher"}
 {"impid": 3318, "aid": "Bobby Moynihan", "name": "Bill Grundy"}
-{"impid": 3193, "aid": "Kenan Thompson", "name": "LL Cool J"}
 {"impid": 3320, "aid": "Jason Sudeikis", "name": "Brad Paisley"}
 {"impid": 3321, "aid": "Kate McKinnon", "name": "Marina Chapman"}
 {"impid": 3322, "aid": "Jason Sudeikis", "name": "John Tesh"}
@@ -639,12 +692,10 @@
 {"impid": 3285, "aid": "Kenan Thompson", "name": "Darius Rucker"}
 {"impid": 3287, "aid": "Adam Levine", "name": "Yaniv Schulman"}
 {"impid": 3288, "aid": "Taran Killam", "name": "Max Joseph"}
-{"impid": 2637, "aid": "Jason Sudeikis", "name": "Joseph Biden"}
 {"impid": 3240, "aid": "Kate McKinnon", "name": "Jodie Foster"}
 {"impid": 3280, "aid": "Bobby Moynihan", "name": "Manti Te'o"}
 {"impid": 3281, "aid": "Jason Sudeikis", "name": "Lance Armstrong"}
 {"impid": 3282, "aid": "Bill Hader", "name": "Tommy Lee Jones"}
-{"impid": 2034, "aid": "Alec Baldwin", "name": "Tony Bennett"}
 {"impid": 3000, "aid": "Fred Armisen", "name": "Queen Elizabeth"}
 {"impid": 3275, "aid": "Martin Short", "name": "Larry David"}
 {"impid": 3279, "aid": "Taran Killam", "name": "Michael Keaton"}
@@ -901,10 +952,8 @@
 {"impid": 3043, "aid": "Fred Armisen", "name": "Hosni Mubarak"}
 {"impid": 3051, "aid": "Taran Killam", "name": "Rand Paul"}
 {"impid": 2553, "aid": "Kristen Wiig", "name": "Nancy Pelosi"}
-{"impid": 942, "aid": "Dana Carvey", "name": "Mickey Rooney"}
 {"impid": 2826, "aid": "Abby Elliott", "name": "Anna Faris"}
 {"impid": 2977, "aid": "Jay Pharoah", "name": "Eddie Murphy"}
-{"impid": 830, "aid": "Dana Carvey", "name": "Regis Philbin"}
 {"impid": 3047, "aid": "Taran Killam", "name": "Michael Gelman"}
 {"impid": 2963, "aid": "Andy Samberg", "name": "Mark Zuckerberg"}
 {"impid": 3041, "aid": "Bill Hader", "name": "Don Herbert , Mr. Wizard"}
@@ -1790,6 +1839,7 @@
 {"impid": 2121, "aid": "Rachel Dratch", "name": "Helen Thomas"}
 {"impid": 2120, "aid": "Horatio Sanz", "name": "Harry Knowles"}
 {"impid": 2122, "aid": "Dean Edwards", "name": "Michael Jackson"}
+{"impid": 681, "aid": "Dan Aykroyd", "name": "Bob Dole"}
 {"impid": 2112, "aid": "Dean Edwards", "name": "A.J. Calloway"}
 {"impid": 2113, "aid": "Maya Rudolph", "name": "Free"}
 {"impid": 2114, "aid": "Queen Latifah", "name": "Frenchie Davis"}
@@ -2175,7 +2225,6 @@
 {"impid": 1660, "aid": "Jimmy Fallon", "name": "Jerry Seinfeld"}
 {"impid": 1618, "aid": "Chris Kattan", "name": "Andy Dick"}
 {"impid": 1714, "aid": "Cheri Oteri", "name": "Amy Fisher"}
-{"impid": 925, "aid": "Tim Meadows", "name": "Billy Dee Williams"}
 {"impid": 1715, "aid": "Will Ferrell", "name": "Paul Williams"}
 {"impid": 1716, "aid": "Sarah Michelle Gellar", "name": "Britney Spears"}
 {"impid": 1718, "aid": "Jimmy Fallon", "name": "Jesse Camp"}
@@ -2372,7 +2421,6 @@
 {"impid": 1493, "aid": "Will Ferrell", "name": "Ted Turner"}
 {"impid": 1494, "aid": "Jon Lovitz", "name": "Michael Vale"}
 {"impid": 728, "aid": "Jon Lovitz", "name": "Harvey Fierstein"}
-{"impid": 974, "aid": "Dana Carvey", "name": "Ross Perot"}
 {"impid": 1497, "aid": "Ana Gasteyer", "name": "Jane Fonda"}
 {"impid": 1496, "aid": "Darrell Hammond", "name": "Dennis Franz"}
 {"impid": 1498, "aid": "Molly Shannon", "name": "Shawn Southwick"}
@@ -2462,7 +2510,6 @@
 {"impid": 1341, "aid": "Darrell Hammond", "name": "Hugh Downs"}
 {"impid": 1425, "aid": "Molly Shannon", "name": "Soon-Yi Previn"}
 {"impid": 1428, "aid": "Neve Campbell", "name": "Eva Braun"}
-{"impid": 919, "aid": "Tim Meadows", "name": "Clarence Thomas"}
 {"impid": 1419, "aid": "David Alan Grier", "name": "Maxine Waters"}
 {"impid": 1234, "aid": "Tim Meadows", "name": "Johnnie Cochran"}
 {"impid": 1420, "aid": "David Alan Grier", "name": "Maya Angelou"}
@@ -2479,7 +2526,6 @@
 {"impid": 1398, "aid": "Ana Gasteyer", "name": "Nancy Wieben Stock"}
 {"impid": 1401, "aid": "Martin Short", "name": "Jerry Lewis"}
 {"impid": 1391, "aid": "Chris Kattan", "name": "Hiroshi Fujisaki"}
-{"impid": 636, "aid": "Phil Hartman", "name": "Ted Kennedy"}
 {"impid": 823, "aid": "Phil Hartman", "name": "Frank Sinatra"}
 {"impid": 1397, "aid": "Phil Hartman", "name": "Rex Reed"}
 {"impid": 1393, "aid": "Darrell Hammond", "name": "George Whipple III"}
@@ -2494,7 +2540,6 @@
 {"impid": 1382, "aid": "Dana Carvey", "name": "Tom Brokaw"}
 {"impid": 1383, "aid": "Molly Shannon", "name": "Madonna"}
 {"impid": 1384, "aid": "Dana Carvey", "name": "Bill Clinton"}
-{"impid": 780, "aid": "Dana Carvey", "name": "Johnny Carson"}
 {"impid": 1371, "aid": "Jim Breuer", "name": "Jim Lehrer"}
 {"impid": 1376, "aid": "Ana Gasteyer", "name": "Ellen Fein"}
 {"impid": 1377, "aid": "Molly Shannon", "name": "Sherrie Schneider"}
@@ -2678,6 +2723,7 @@
 {"impid": 1194, "aid": "Ellen Cleghorne", "name": "Toni Morrison"}
 {"impid": 1186, "aid": "Ellen Cleghorne", "name": "Debbie Allen"}
 {"impid": 1195, "aid": "Chris Elliott", "name": "Yasser Arafat"}
+{"impid": 213, "aid": "Al Franken", "name": "Henry Kissinger"}
 {"impid": 1190, "aid": "Janeane Garofalo", "name": "Mary Lou Retton"}
 {"impid": 1192, "aid": "Laura Kightlinger", "name": "Paula Poundstone"}
 {"impid": 1193, "aid": "Michael McKean", "name": "Tom Skerritt"}
@@ -2697,13 +2743,10 @@
 {"impid": 1178, "aid": "Adam Sandler", "name": "Jackie Mason"}
 {"impid": 1167, "aid": "Norm MacDonald", "name": "Andy Rooney"}
 {"impid": 1168, "aid": "Tim Meadows", "name": "Ed Bradley"}
-{"impid": 975, "aid": "Adam Sandler", "name": "David Brenner"}
 {"impid": 988, "aid": "Melanie Hutsell", "name": "Tori Spelling"}
 {"impid": 1051, "aid": "Tim Meadows", "name": "Ike Turner"}
-{"impid": 936, "aid": "Phil Hartman", "name": "Mario Cuomo"}
 {"impid": 1164, "aid": "Chris Farley", "name": "Rush Limbaugh"}
 {"impid": 1162, "aid": "Sarah Silverman", "name": "Marisa Tomei"}
-{"impid": 961, "aid": "Phil Hartman", "name": "Bill Clinton"}
 {"impid": 1165, "aid": "Rob Schneider", "name": "Warren Christopher"}
 {"impid": 984, "aid": "Jan Hooks", "name": "Hillary Clinton"}
 {"impid": 746, "aid": "Phil Hartman", "name": "Michael Caine"}
@@ -2728,7 +2771,6 @@
 {"impid": 1137, "aid": "Tim Meadows", "name": "Aaron Neville"}
 {"impid": 1138, "aid": "Jay Mohr", "name": "Anthony Kiedis"}
 {"impid": 1143, "aid": "Mike Myers", "name": "Garth Brooks"}
-{"impid": 904, "aid": "Adam Sandler", "name": "Axl Rose"}
 {"impid": 1086, "aid": "Rob Schneider", "name": "K.D. Lang"}
 {"impid": 1139, "aid": "Sarah Silverman", "name": "Cher"}
 {"impid": 1145, "aid": "David Spade", "name": "Kurt Cobain"}
@@ -2739,7 +2781,6 @@
 {"impid": 1130, "aid": "Rob Schneider", "name": "Jeff Gillooly"}
 {"impid": 1133, "aid": "David Spade", "name": "Oksana Baiul"}
 {"impid": 1084, "aid": "Adam Sandler", "name": "Bono"}
-{"impid": 953, "aid": "Phil Hartman", "name": "Verne Lundquist"}
 {"impid": 1135, "aid": "Tim Meadows", "name": "Greg Gumbel"}
 {"impid": 1136, "aid": "David Spade", "name": "Scott Hamilton"}
 {"impid": 1003, "aid": "Phil Hartman", "name": "Michael Eisner"}
@@ -2770,7 +2811,6 @@
 {"impid": 1108, "aid": "Jay Mohr", "name": "Don Rickles"}
 {"impid": 1113, "aid": "Adam Sandler", "name": "Richard Lewis"}
 {"impid": 1049, "aid": "David Spade", "name": "Don Lapre"}
-{"impid": 720, "aid": "Phil Hartman", "name": "Burt Reynolds"}
 {"impid": 1101, "aid": "Sally Field", "name": "Elizabeth Taylor"}
 {"impid": 1103, "aid": "Norm MacDonald", "name": "Dr. Jack Kevorkian"}
 {"impid": 1099, "aid": "Mike Myers", "name": "Jonathan Pryce"}
@@ -2841,12 +2881,9 @@
 {"impid": 1025, "aid": "Sting", "name": "Rod Stewart"}
 {"impid": 1024, "aid": "Chris Farley", "name": "Rob Reiner"}
 {"impid": 1023, "aid": "Kevin Nealon", "name": "Michael Eisner"}
-{"impid": 940, "aid": "Chris Rock", "name": "Michael Jackson"}
 {"impid": 1020, "aid": "Mike Myers", "name": "Stone Phillips"}
-{"impid": 917, "aid": "Julia Sweeney", "name": "Jane Pauley"}
 {"impid": 1021, "aid": "Alec Baldwin", "name": "David Hasselhoff"}
 {"impid": 1022, "aid": "Ellen Cleghorne", "name": "Patti LaBelle"}
-{"impid": 820, "aid": "Kevin Nealon", "name": "Jay Leno"}
 {"impid": 1013, "aid": "Giorgio Armani", "name": "Giuliano Amato"}
 {"impid": 1015, "aid": "Dana Carvey", "name": "Prince Charles"}
 {"impid": 1002, "aid": "Mike Myers", "name": "Queen Elizabeth"}
@@ -2857,10 +2894,8 @@
 {"impid": 1018, "aid": "Adam Sandler", "name": "Mark Wahlberg"}
 {"impid": 1017, "aid": "David Spade", "name": "Christian Slater"}
 {"impid": 1011, "aid": "Julia Sweeney", "name": "Chelsea Clinton"}
-{"impid": 695, "aid": "Jeff Renaudo", "name": "Dan Quayle"}
 {"impid": 1006, "aid": "Danny DeVito", "name": "Joey Buttafuoco"}
 {"impid": 1005, "aid": "Jan Hooks", "name": "Jean Marsh"}
-{"impid": 959, "aid": "Ellen Cleghorne", "name": "Jack\u00e9e Harry , Amy Fisher"}
 {"impid": 1007, "aid": "Danny DeVito", "name": "Al Goldstein"}
 {"impid": 1009, "aid": "Danny DeVito", "name": "Ron Popeil"}
 {"impid": 1008, "aid": "Jan Hooks", "name": "Mary Jo Buttafuoco"}
@@ -2890,72 +2925,12 @@
 {"impid": 982, "aid": "Kevin Nealon", "name": "Sonny West"}
 {"impid": 983, "aid": "Rob Schneider", "name": "Red West"}
 {"impid": 609, "aid": "Dana Carvey", "name": "Ted Koppel"}
-{"impid": 779, "aid": "Phil Hartman", "name": "Ed McMahon"}
-{"impid": 841, "aid": "Chris Rock", "name": "Arsenio Hall"}
-{"impid": 916, "aid": "Julia Sweeney", "name": "Joan Embery"}
-{"impid": 962, "aid": "Dana Carvey", "name": "Jerry Brown"}
-{"impid": 963, "aid": "Al Franken", "name": "Paul Tsongas"}
-{"impid": 849, "aid": "Dana Carvey", "name": "John McLaughlin"}
-{"impid": 874, "aid": "Chris Farley", "name": "Jack Germond"}
-{"impid": 851, "aid": "Phil Hartman", "name": "Pat Buchanan"}
-{"impid": 924, "aid": "Mike Myers", "name": "Fred Barnes"}
-{"impid": 850, "aid": "Kevin Nealon", "name": "Morton Kondracke"}
-{"impid": 964, "aid": "John Goodman", "name": "Elvis Presley"}
-{"impid": 969, "aid": "Ellen Cleghorne", "name": "Natalie Cole"}
-{"impid": 968, "aid": "Chris Farley", "name": "Mama Cass"}
-{"impid": 971, "aid": "Melanie Hutsell", "name": "Tammy Wynette"}
-{"impid": 912, "aid": "Tim Meadows", "name": "Sammy Davis Jr."}
-{"impid": 967, "aid": "Mike Myers", "name": "Judy Garland"}
-{"impid": 965, "aid": "Rob Schneider", "name": "Elvis Presley"}
-{"impid": 966, "aid": "Julia Sweeney", "name": "Ethel Merman"}
-{"impid": 970, "aid": "John Goodman", "name": "Cecil Jacobson"}
-{"impid": 896, "aid": "Dana Carvey", "name": "William Demarest , Uncle Charlie"}
-{"impid": 972, "aid": "Beth Cahill", "name": "Pam Hurn"}
-{"impid": 973, "aid": "Siobhan Fallon", "name": "Katharine Hepburn"}
-{"impid": 960, "aid": "Chris Rock", "name": "Jaleel White"}
-{"impid": 951, "aid": "Dana Carvey", "name": "Scott Hamilton"}
-{"impid": 952, "aid": "Julia Sweeney", "name": "Tracy Wilson"}
-{"impid": 956, "aid": "Jason Priestley", "name": "Joey McIntyre"}
-{"impid": 958, "aid": "Dana Carvey", "name": "Jordan Knight"}
-{"impid": 957, "aid": "Mike Myers", "name": "Jonathan Knight"}
-{"impid": 955, "aid": "Adam Sandler", "name": "Donnie Wahlberg"}
-{"impid": 954, "aid": "Rob Schneider", "name": "Danny Wood"}
-{"impid": 948, "aid": "Susan Dey", "name": "Patricia Gifford"}
-{"impid": 950, "aid": "Phil Hartman", "name": "J. Gregory Garrison"}
-{"impid": 949, "aid": "Mike Myers", "name": "Vincent Fuller"}
-{"impid": 947, "aid": "Chevy Chase", "name": "Jeffrey Dahmer"}
-{"impid": 945, "aid": "Phil Hartman", "name": "Oliver Stone"}
-{"impid": 946, "aid": "Mike Myers", "name": "Vladimir Lenin"}
-{"impid": 944, "aid": "David Spade", "name": "Michael Gelman"}
-{"impid": 943, "aid": "Julia Sweeney", "name": "Joy Philbin"}
-{"impid": 941, "aid": "Hammer", "name": "Wilt Chamberlain"}
-{"impid": 939, "aid": "Dana Carvey", "name": "David Duke"}
-{"impid": 932, "aid": "Siobhan Fallon", "name": "Mary Lupo"}
-{"impid": 933, "aid": "Kevin Nealon", "name": "Roy Black"}
-{"impid": 935, "aid": "Kiefer Sutherland", "name": "Lloyd Bentsen"}
-{"impid": 937, "aid": "Victoria Jackson", "name": "Tipper Gore"}
-{"impid": 934, "aid": "Kevin Nealon", "name": "Bill Bradley"}
-{"impid": 938, "aid": "Kiefer Sutherland", "name": "Slash"}
-{"impid": 926, "aid": "Dana Carvey", "name": "Ray Combs"}
-{"impid": 929, "aid": "Dana Carvey", "name": "Keanu Reeves"}
-{"impid": 931, "aid": "Victoria Jackson", "name": "Rob Lowe"}
-{"impid": 927, "aid": "Mike Myers", "name": "Charlie Sheen"}
-{"impid": 928, "aid": "Rob Schneider", "name": "Emilio Estevez"}
-{"impid": 930, "aid": "David Spade", "name": "Matthew Broderick"}
-{"impid": 923, "aid": "Dana Carvey", "name": "Strom Thurmond"}
-{"impid": 918, "aid": "Ellen Cleghorne", "name": "Anita Hill"}
-{"impid": 920, "aid": "Chris Farley", "name": "Howell Heflin"}
-{"impid": 921, "aid": "Kevin Nealon", "name": "Joseph Biden"}
-{"impid": 922, "aid": "Chris Rock", "name": "Long Dong Silver"}
-{"impid": 631, "aid": "Dana Carvey", "name": "John Travolta , James"}
-{"impid": 915, "aid": "Jeff Daniels", "name": "Jay Leno"}
-{"impid": 856, "aid": "Chris Farley", "name": "Dom DeLuise"}
-{"impid": 914, "aid": "Victoria Jackson", "name": "LaToya Jackson"}
 {"impid": 900, "aid": "Jan Hooks", "name": "Barbara Mandrell"}
 {"impid": 902, "aid": "Mike Myers", "name": "Tony Orlando"}
 {"impid": 901, "aid": "Kevin Nealon", "name": "Tom Selleck"}
 {"impid": 903, "aid": "Steven Seagal", "name": "Andrew Dice Clay"}
 {"impid": 881, "aid": "Dana Carvey", "name": "Bob Dylan"}
+{"impid": 580, "aid": "Dana Carvey", "name": "Casey Kasem"}
 {"impid": 876, "aid": "Chris Farley", "name": "Carnie Wilson"}
 {"impid": 908, "aid": "Phil Hartman", "name": "Kenny Rogers"}
 {"impid": 907, "aid": "Jan Hooks", "name": "Diana Ross"}
@@ -2964,6 +2939,8 @@
 {"impid": 911, "aid": "Chris Rock", "name": "Whoopi Goldberg"}
 {"impid": 910, "aid": "Rob Schneider", "name": "Rick Dees"}
 {"impid": 905, "aid": "Christine Zander", "name": "Annie Lennox"}
+{"impid": 592, "aid": "Phil Hartman", "name": "Ronald Reagan"}
+{"impid": 616, "aid": "Jan Hooks", "name": "Nancy Reagan"}
 {"impid": 879, "aid": "Spike Feresten", "name": "Matthew Nelson"}
 {"impid": 899, "aid": "Jan Hooks", "name": "Rose Kennedy"}
 {"impid": 897, "aid": "Victoria Jackson", "name": "Christina Applegate"}
@@ -2971,6 +2948,7 @@
 {"impid": 877, "aid": "David Spade", "name": "Gunnar Nelson"}
 {"impid": 884, "aid": "Michael J. Fox", "name": "Dan Quayle"}
 {"impid": 885, "aid": "Phil Hartman", "name": "Thomas Foley"}
+{"impid": 685, "aid": "Dana Carvey", "name": "Michael J. Fox"}
 {"impid": 889, "aid": "Michael J. Fox", "name": "Danny Bonaduce"}
 {"impid": 893, "aid": "Chris Farley", "name": "Mindy Cohn"}
 {"impid": 891, "aid": "Phil Hartman", "name": "John Walsh"}
@@ -3042,9 +3020,12 @@
 {"impid": 813, "aid": "Phil Hartman", "name": "Joey Adams"}
 {"impid": 815, "aid": "Dana Carvey", "name": "Bill Moyers"}
 {"impid": 814, "aid": "Al Franken", "name": "Al Goldstein"}
+{"impid": 599, "aid": "Phil Hartman", "name": "Jimmy \"The Greek\" Snyder"}
+{"impid": 598, "aid": "Kevin Nealon", "name": "Brent Musburger"}
 {"impid": 805, "aid": "Phil Hartman", "name": "Andy Griffith"}
 {"impid": 806, "aid": "Jon Lovitz", "name": "Raymond Burr"}
 {"impid": 808, "aid": "Corbin Bernsen", "name": "Mike Schmidt"}
+{"impid": 649, "aid": "Dana Carvey", "name": "George F. Will"}
 {"impid": 809, "aid": "Jon Lovitz", "name": "Tommy Lasorda"}
 {"impid": 802, "aid": "Debra Winger", "name": "Calamity Jane"}
 {"impid": 804, "aid": "Phil Hartman", "name": "Ozzy Osbourne"}
@@ -3075,6 +3056,7 @@
 {"impid": 789, "aid": "Phil Hartman", "name": "David Rockefeller"}
 {"impid": 591, "aid": "Dana Carvey", "name": "Jimmy Stewart , George Bailey"}
 {"impid": 787, "aid": "Jon Lovitz", "name": "Alan Cranston"}
+{"impid": 593, "aid": "Jan Hooks", "name": "Corazon Aquino"}
 {"impid": 788, "aid": "Phil Hartman", "name": "Mike Ditka"}
 {"impid": 786, "aid": "Akira Yoshimura", "name": "Connie Chung"}
 {"impid": 782, "aid": "Jon Lovitz", "name": "Queen Elizabeth"}
@@ -3095,6 +3077,7 @@
 {"impid": 771, "aid": "Kevin Nealon", "name": "Fred Wilpon"}
 {"impid": 772, "aid": "Mike Myers", "name": "Mark Linn-Baker"}
 {"impid": 773, "aid": "Kevin Nealon", "name": "Richard Chamberlain"}
+{"impid": 573, "aid": "Phil Hartman", "name": "Phil Donahue"}
 {"impid": 721, "aid": "Nora Dunn", "name": "Imelda Marcos"}
 {"impid": 764, "aid": "Jan Hooks", "name": "Tammy Wynette"}
 {"impid": 716, "aid": "Dana Carvey", "name": "Jimmy Carter"}
@@ -3102,6 +3085,7 @@
 {"impid": 648, "aid": "Phil Hartman", "name": "David Brinkley"}
 {"impid": 759, "aid": "Tom Davis", "name": "Ed Begley Jr."}
 {"impid": 630, "aid": "Nora Dunn", "name": "Brigitte Nielsen"}
+{"impid": 688, "aid": "Victoria Jackson", "name": "Tina Yothers"}
 {"impid": 762, "aid": "Jon Lovitz", "name": "Sylvester Stallone"}
 {"impid": 761, "aid": "Mike Myers", "name": "Howie Mandel"}
 {"impid": 763, "aid": "Jan Hooks", "name": "Ann-Margret , Kitten"}
@@ -3120,6 +3104,7 @@
 {"impid": 745, "aid": "Victoria Jackson", "name": "Lulu"}
 {"impid": 741, "aid": "Phil Hartman", "name": "John Tower"}
 {"impid": 700, "aid": "Jan Hooks", "name": "Kitty Dukakis"}
+{"impid": 677, "aid": "Jon Lovitz", "name": "Michael Dukakis"}
 {"impid": 742, "aid": "Ted Danson", "name": "Pat Riley"}
 {"impid": 739, "aid": "Dana Carvey", "name": "Ted Bundy"}
 {"impid": 733, "aid": "Kevin Nealon", "name": "Bill Walsh"}
@@ -3128,8 +3113,10 @@
 {"impid": 738, "aid": "Jan Hooks", "name": "Sandra Day O'Connor"}
 {"impid": 697, "aid": "Nora Dunn", "name": "Marilyn Quayle"}
 {"impid": 732, "aid": "Jon Lovitz", "name": "Jamie Farr"}
+{"impid": 687, "aid": "Kevin Nealon", "name": "Michael Gross"}
 {"impid": 730, "aid": "Kevin Kline", "name": "Peter Allen"}
 {"impid": 731, "aid": "Dana Carvey", "name": "George Burns"}
+{"impid": 635, "aid": "Jan Hooks", "name": "Jessica Hahn"}
 {"impid": 725, "aid": "Jon Lovitz", "name": "Yasser Arafat"}
 {"impid": 722, "aid": "Jan Hooks", "name": "Oprah Winfrey"}
 {"impid": 723, "aid": "John Lithgow", "name": "Margaret Thatcher"}
@@ -3146,12 +3133,50 @@
 {"impid": 713, "aid": "Al Franken", "name": "Lyndon LaRouche"}
 {"impid": 714, "aid": "John Larroquette", "name": "Bob Vila"}
 {"impid": 701, "aid": "Matthew Broderick", "name": "Dan Quayle"}
+{"impid": 653, "aid": "Nora Dunn", "name": "Jeane Kirkpatrick"}
 {"impid": 705, "aid": "Matthew Broderick", "name": "John Lennon"}
 {"impid": 702, "aid": "Phil Hartman", "name": "Albert Goldman"}
 {"impid": 538, "aid": "Jon Lovitz", "name": "Ringo Starr"}
 {"impid": 704, "aid": "Dennis Miller", "name": "George Harrison"}
 {"impid": 703, "aid": "Kevin Nealon", "name": "Elvis Presley"}
 {"impid": 699, "aid": "Grafton True", "name": "Carl Rowan"}
+{"impid": 683, "aid": "Al Franken", "name": "Pat Robertson"}
+{"impid": 694, "aid": "Phil Hartman", "name": "Jimmy Swaggart"}
+{"impid": 690, "aid": "Dana Carvey", "name": "Jim McKay"}
+{"impid": 689, "aid": "Phil Hartman", "name": "Dick Button"}
+{"impid": 691, "aid": "Jan Hooks", "name": "Peggy Fleming"}
+{"impid": 693, "aid": "Jan Hooks", "name": "Elizabeth Dole"}
+{"impid": 678, "aid": "Nora Dunn", "name": "Pat Schroeder"}
+{"impid": 682, "aid": "Phil Hartman", "name": "Jack Kemp"}
+{"impid": 684, "aid": "Kevin Nealon", "name": "Pierre du Pont IV"}
+{"impid": 686, "aid": "Jan Hooks", "name": "Meredith Baxter-Birney , Elyse"}
+{"impid": 671, "aid": "Nora Dunn", "name": "Barbara Bush"}
+{"impid": 672, "aid": "Carl Weathers", "name": "Doug Williams"}
+{"impid": 676, "aid": "Carl Weathers", "name": "Jesse Jackson"}
+{"impid": 674, "aid": "Phil Hartman", "name": "Bruce Babbitt"}
+{"impid": 675, "aid": "Dennis Miller", "name": "Gary Hart"}
+{"impid": 673, "aid": "Kevin Nealon", "name": "Al Gore"}
+{"impid": 666, "aid": "Robin Williams", "name": "Dr. Gene Scott"}
+{"impid": 668, "aid": "Dana Carvey", "name": "Gallagher"}
+{"impid": 670, "aid": "Nora Dunn", "name": "Shelley Duvall"}
+{"impid": 669, "aid": "Phil Hartman", "name": "Robert Vaughn"}
+{"impid": 667, "aid": "Jan Hooks", "name": "Elayne Boosler"}
+{"impid": 618, "aid": "Phil Hartman", "name": "Peter Graves"}
+{"impid": 662, "aid": "Nora Dunn", "name": "Raisa Gorbachev"}
+{"impid": 663, "aid": "Jon Lovitz", "name": "Stephen King"}
+{"impid": 595, "aid": "Nora Dunn", "name": "Tyne Daly , Mary Beth Lacey"}
+{"impid": 664, "aid": "Phil Hartman", "name": "Earl Holliman , Sergeant Crowley"}
+{"impid": 659, "aid": "Danny DeVito", "name": "Mikhail Gorbachev"}
+{"impid": 661, "aid": "Phil Hartman", "name": "Roger Ebert"}
+{"impid": 660, "aid": "Kevin Nealon", "name": "Gene Siskel"}
+{"impid": 569, "aid": "Nora Dunn", "name": "Ann Landers"}
+{"impid": 658, "aid": "Jon Lovitz", "name": "Douglas Ginsburg"}
+{"impid": 614, "aid": "Dana Carvey", "name": "Robin Leach"}
+{"impid": 657, "aid": "Nora Dunn", "name": "Peggy Lee"}
+{"impid": 655, "aid": "Jon Lovitz", "name": "Louis Rukeyser"}
+{"impid": 656, "aid": "Sean Penn", "name": "Robert DeNiro"}
+{"impid": 652, "aid": "Jon Lovitz", "name": "Robert Bork"}
+{"impid": 654, "aid": "Dana Carvey", "name": "George Plimpton"}
 {"impid": 647, "aid": "Jon Lovitz", "name": "Judd Nelson"}
 {"impid": 650, "aid": "Jon Lovitz", "name": "Hodding Carter"}
 {"impid": 642, "aid": "Phil Hartman", "name": "Robert McFarlane"}

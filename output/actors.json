@@ -1,104 +1,154 @@
-{"aid": "Judge Reinhold", "url": "/Guests/?994", "type": "guest"}
 {"aid": "Dana Carvey", "url": "/Cast/?DaCa", "type": "cast"}
 {"aid": "Phil Hartman", "url": "/Cast/?PhHa", "type": "cast"}
 {"aid": "Kevin Nealon", "url": "/Cast/?KeNe", "type": "cast"}
-{"aid": "G.E. Smith", "url": "/Crew/?GESm", "type": "crew"}
-{"aid": "A. Whitney Brown", "url": "/Cast/?AWBr", "type": "cast"}
-{"aid": "Jon Lovitz", "url": "/Cast/?JoLo", "type": "cast"}
-{"aid": "Al Franken", "url": "/Cast/?AlFr", "type": "cast"}
-{"aid": "Jan Hooks", "url": "/Cast/?JaHo", "type": "cast"}
-{"aid": "10,000 Maniacs", "url": "/Guests/?995", "type": "guest"}
-{"aid": "Dennis Miller", "url": "/Cast/?DeMi", "type": "cast"}
-{"aid": "Tom Davis", "url": "/Cast/?ToDa", "type": "cast"}
-{"aid": "Christine Zander", "url": "/Crew/?ChZa", "type": "crew"}
+{"aid": "Chris Rock", "url": "/Cast/?ChRo", "type": "cast"}
+{"aid": "Adam Sandler", "url": "/Cast/?AdSa", "type": "cast"}
+{"aid": "Julia Sweeney", "url": "/Cast/?JuSw", "type": "cast"}
+{"aid": "Woody Harrelson", "url": "/Guests/?1246", "type": "guest"}
+{"aid": "Ellen Cleghorne", "url": "/Cast/?ElCl", "type": "cast"}
+{"aid": "Siobhan Fallon", "url": "/Cast/?SiFa", "type": "cast"}
+{"aid": "Chris Farley", "url": "/Cast/?ChFa", "type": "cast"}
+{"aid": "Tim Meadows", "url": "/Cast/?TiMe", "type": "cast"}
+{"aid": "Mike Myers", "url": "/Cast/?MiMy", "type": "cast"}
+{"aid": "David Spade", "url": "/Cast/?DaSp", "type": "cast"}
+{"aid": "Jack Handey", "type": "crew", "url": null}
+{"aid": "Vanessa Williams", "url": "/Guests/?1247", "type": "guest"}
+{"aid": "Robert Smigel", "url": "/Cast/?RoSm", "type": "cast"}
+{"aid": "Beth Cahill", "url": "/Cast/?BeCa", "type": "cast"}
+{"aid": "Melanie Hutsell", "url": "/Cast/?MeHu", "type": "cast"}
 {"aid": "Victoria Jackson", "url": "/Cast/?ViJa", "type": "cast"}
-{"aid": "Nora Dunn", "url": "/Cast/?NoDu", "type": "cast"}
-{"aid": "Jason Aldean", "url": "/Guests/?3252", "type": "guest"}
-{"aid": "Gal Gadot", "url": "/Guests/?3250", "type": "guest"}
-{"aid": "Leslie Jones", "url": "/Cast/?LeJo", "type": "cast"}
+{"aid": "Andy Murphy", "url": "/Crew/?AnMu", "type": "crew"}
+{"aid": "Jim Pitt", "url": "/Crew/?JiPi", "type": "crew"}
+{"aid": "Rob Schneider", "url": "/Cast/?RoSc", "type": "cast"}
+{"aid": "Jon Lovitz", "url": "/Cast/?JoLo", "type": "cast"}
+{"aid": "Beck Bennett", "url": "/Cast/?BeBe", "type": "cast"}
+{"aid": "Mikey Day", "url": "/Cast/?MiDa", "type": "cast"}
 {"aid": "Heidi Gardner", "url": "/Cast/?HeGa", "type": "cast"}
 {"aid": "Kate McKinnon", "url": "/Cast/?KaMc", "type": "cast"}
+{"aid": "Tiffany Haddish", "url": "/Guests/?3263", "type": "guest"}
+{"aid": "Pete Davidson", "url": "/Cast/?PeDa", "type": "cast"}
+{"aid": "Alex Moffat", "url": "/Cast/?AlMo", "type": "cast"}
+{"aid": "Kyle Mooney", "url": "/Cast/?KyMo", "type": "cast"}
 {"aid": "Luke Null", "url": "/Cast/?LuNu", "type": "cast"}
+{"aid": "Kenan Thompson", "url": "/Cast/?KeTh", "type": "cast"}
+{"aid": "Melissa Villasenor", "url": "/Cast/?MeVi", "type": "cast"}
+{"aid": "Aidy Bryant", "url": "/Cast/?AiBr", "type": "cast"}
+{"aid": "Steve Higgins", "url": "/Crew/?StHi", "type": "crew"}
+{"aid": "Leslie Jones", "url": "/Cast/?LeJo", "type": "cast"}
 {"aid": "Chris Redd", "url": "/Cast/?ChRe", "type": "cast"}
 {"aid": "Cecily Strong", "url": "/Cast/?CeSt", "type": "cast"}
-{"aid": "Melissa Villasenor", "url": "/Cast/?MeVi", "type": "cast"}
-{"aid": "Kenan Thompson", "url": "/Cast/?KeTh", "type": "cast"}
-{"aid": "Beck Bennett", "url": "/Cast/?BeBe", "type": "cast"}
-{"aid": "Pete Davidson", "url": "/Cast/?PeDa", "type": "cast"}
-{"aid": "Mikey Day", "url": "/Cast/?MiDa", "type": "cast"}
-{"aid": "Kyle Mooney", "url": "/Cast/?KyMo", "type": "cast"}
-{"aid": "Aidy Bryant", "url": "/Cast/?AiBr", "type": "cast"}
-{"aid": "Sam Smith", "url": "/Guests/?3251", "type": "guest"}
-{"aid": "Darrell Hammond", "url": "/Cast/?DaHa", "type": "cast"}
+{"aid": "Jason Sudeikis", "url": "/Cast/?JaSu", "type": "cast"}
+{"aid": "Larry David", "url": "/Crew/?LaDa", "type": "crew"}
 {"aid": "Colin Jost", "url": "/Cast/?CoJo", "type": "cast"}
+{"aid": "Lorne Michaels", "url": "/Crew/?LoMi", "type": "crew"}
+{"aid": "Gena Rositano", "url": "/Crew/?GeRo", "type": "crew"}
+{"aid": "Taylor Swift", "url": "/Guests/?3264", "type": "guest"}
+{"aid": "Darrell Hammond", "url": "/Cast/?DaHa", "type": "cast"}
 {"aid": "Michael Che", "url": "/Cast/?MiCh", "type": "cast"}
-{"aid": "Steve Higgins", "url": "/Crew/?StHi", "type": "crew"}
-{"aid": "Alex Moffat", "url": "/Cast/?AlMo", "type": "cast"}
-{"aid": "Alec Baldwin", "url": "/Guests/?3247", "type": "guest"}
+{"aid": "Alec Baldwin", "url": "/Guests/?3259", "type": "guest"}
+{"aid": "Miley Cyrus", "url": "/Guests/?3257", "type": "guest"}
+{"aid": "Liam Hemsworth", "url": "/Guests/?3261", "type": "guest"}
+{"aid": "George Springer", "url": "/Guests/?3262", "type": "guest"}
+{"aid": "Alex Bregman", "url": "/Guests/?3260", "type": "guest"}
+{"aid": "Jose Altuve", "url": "/Guests/?3258", "type": "guest"}
+{"aid": "Kumail Nanjiani", "url": "/Guests/?3253", "type": "guest"}
+{"aid": "Pink", "url": "/Guests/?3254", "type": "guest"}
+{"aid": "Jason Aldean", "url": "/Guests/?3252", "type": "guest"}
+{"aid": "Gal Gadot", "url": "/Guests/?3250", "type": "guest"}
+{"aid": "Sam Smith", "url": "/Guests/?3251", "type": "guest"}
 {"aid": "Ryan Gosling", "url": "/Guests/?3245", "type": "guest"}
 {"aid": "Emma Stone", "url": "/Guests/?3249", "type": "guest"}
 {"aid": "Lenny Pickett", "url": "/Crew/?LePi", "type": "crew"}
 {"aid": "Jay-Z", "url": "/Guests/?3246", "type": "guest"}
 {"aid": "Damian Marley", "url": "/Guests/?3248", "type": "guest"}
-{"aid": "Tom Hanks", "url": "/Guests/?992", "type": "guest"}
-{"aid": "Don Pardo", "url": "/Crew/?DoPa", "type": "crew"}
-{"aid": "Mark McKinney", "url": "/Cast/?MaMc", "type": "cast"}
-{"aid": "Randy Travis", "url": "/Guests/?993", "type": "guest"}
-{"aid": "Andy Murphy", "url": "/Crew/?AnMu", "type": "crew"}
-{"aid": "Dan Aykroyd", "url": "/Cast/?DaAy", "type": "cast"}
-{"aid": "Justine Bateman", "url": "/Guests/?989", "type": "guest"}
-{"aid": "Terrance Trent D'Arby", "url": "/Guests/?990", "type": "guest"}
-{"aid": "Bob Odenkirk", "url": "/Crew/?BoOd", "type": "crew"}
-{"aid": "Jim Pitt", "url": "/Crew/?JiPi", "type": "crew"}
-{"aid": "John Zonars", "url": "/Crew/?JoZo", "type": "crew"}
-{"aid": "Carl Weathers", "url": "/Guests/?985", "type": "guest"}
-{"aid": "Robbie Robertson", "url": "/Guests/?986", "type": "guest"}
-{"aid": "BoDeans", "url": "/Guests/?987", "type": "guest"}
-{"aid": "Maria McKee", "url": "/Guests/?988", "type": "guest"}
-{"aid": "Robin Williams", "url": "/Guests/?981", "type": "guest"}
-{"aid": "James Taylor", "url": "/Guests/?982", "type": "guest"}
-{"aid": "Don Grolnick", "url": "/Crew/?DoGr", "type": "crew"}
-{"aid": "Leland Sklar", "url": "/Guests/?984", "type": "guest"}
-{"aid": "Paul Simon", "url": "/Guests/?977", "type": "guest"}
-{"aid": "Sen. Paul Simon", "url": "/Guests/?980", "type": "guest"}
-{"aid": "Linda Ronstadt", "url": "/Guests/?978", "type": "guest"}
-{"aid": "The Mariachi Vargas de Tecalitlan", "url": "/Guests/?979", "type": "guest"}
-{"aid": "Marc Shaiman", "url": "/Crew/?MrSh", "type": "crew"}
-{"aid": "Angie Dickinson", "url": "/Guests/?971", "type": "guest"}
-{"aid": "Buster Poindexter", "url": "/Guests/?972", "type": "guest"}
-{"aid": "Soozie Tyrell", "url": "/Guests/?975", "type": "guest"}
-{"aid": "The Banshees of Blue", "url": "/Guests/?974", "type": "guest"}
-{"aid": "The Uptown Horns", "url": "/Guests/?976", "type": "guest"}
-{"aid": "David Gilmour", "url": "/Guests/?973", "type": "guest"}
-{"aid": "Cheryl Hardwick", "url": "/Crew/?ChHa", "type": "crew"}
-{"aid": "Leon Pendarvis", "url": "/Crew/?LePe", "type": "crew"}
+{"aid": "Tom Hanks", "url": "/Guests/?1243", "type": "guest"}
+{"aid": "Marci Klein", "url": "/Crew/?MaKl", "type": "crew"}
+{"aid": "Michael Shoemaker", "url": "/Crew/?MiSh", "type": "crew"}
+{"aid": "Grafton True", "url": "/Crew/?GrTr", "type": "crew"}
+{"aid": "Warren Hutcherson", "url": "/Crew/?WaHu", "type": "crew"}
+{"aid": "Bruce Springsteen", "url": "/Guests/?1244", "type": "guest"}
+{"aid": "Jay Leno", "url": "/Guests/?1245", "type": "guest"}
+{"aid": "Akeyla Cleghorne", "url": "/Crew/?AkCl", "type": "crew"}
+{"aid": "Al Franken", "url": "/Cast/?AlFr", "type": "cast"}
+{"aid": "Jerry Seinfeld", "url": "/Guests/?1240", "type": "guest"}
+{"aid": "Annie Lennox", "url": "/Guests/?1241", "type": "guest"}
+{"aid": "G.E. Smith", "url": "/Crew/?GESm", "type": "crew"}
+{"aid": "Wally Feresten", "url": "/Crew/?WaFe", "type": "crew"}
+{"aid": "Sharon Stone", "url": "/Guests/?1236", "type": "guest"}
+{"aid": "Pearl Jam", "url": "/Guests/?1237", "type": "guest"}
+{"aid": "Tom Davis", "url": "/Cast/?ToDa", "type": "cast"}
+{"aid": "Jim Downey", "url": "/Cast/?JiDo", "type": "cast"}
+{"aid": "Terry Turner", "url": "/Crew/?TeTu", "type": "crew"}
+{"aid": "Dave Wilson", "url": "/Crew/?DaWi", "type": "crew"}
+{"aid": "Fred Wolf", "url": "/Cast/?FrWo", "type": "cast"}
+{"aid": "Ken Stabler", "url": "/Guests/?1239", "type": "guest"}
+{"aid": "Mary Stuart Masterson", "url": "/Guests/?1234", "type": "guest"}
+{"aid": "En Vogue", "url": "/Guests/?1235", "type": "guest"}
+{"aid": "John Goodman", "url": "/Guests/?1232", "type": "guest"}
+{"aid": "Garth Brooks", "url": "/Guests/?1233", "type": "guest"}
+{"aid": "Phil Hyms", "url": "/Crew/?PhHy", "type": "crew"}
+{"aid": "Jeff Renaudo", "url": "/Crew/?JeRe", "type": "crew"}
+{"aid": "Roseanne Arnold", "url": "/Guests/?1227", "type": "guest"}
+{"aid": "Tom Arnold", "url": "/Guests/?1228", "type": "guest"}
+{"aid": "Barbra Streisand", "url": "/Guests/?1231", "type": "guest"}
+{"aid": "Madonna", "url": "/Guests/?1230", "type": "guest"}
+{"aid": "Red Hot Chili Peppers", "url": "/Guests/?1229", "type": "guest"}
+{"aid": "Jason Priestley", "url": "/Guests/?1225", "type": "guest"}
+{"aid": "Erin Maroney", "url": "/Crew/?ErMa", "type": "crew"}
+{"aid": "Bonnie Turner", "url": "/Crew/?BoTu", "type": "crew"}
+{"aid": "Christine Zander", "url": "/Crew/?ChZa", "type": "crew"}
+{"aid": "Teenage Fanclub", "url": "/Guests/?1226", "type": "guest"}
+{"aid": "Susan Dey", "url": "/Guests/?1223", "type": "guest"}
+{"aid": "C+C Music Factory", "url": "/Guests/?1224", "type": "guest"}
+{"aid": "Chevy Chase", "url": "/Cast/?ChCh", "type": "cast"}
+{"aid": "Robbie Robertson", "url": "/Guests/?1218", "type": "guest"}
+{"aid": "Bruce Hornsby", "url": "/Guests/?1220", "type": "guest"}
+{"aid": "Ivan Neville", "url": "/Guests/?1221", "type": "guest"}
+{"aid": "Monk Boudreaux", "url": "/Guests/?1219", "type": "guest"}
 {"aid": "Steve Turre", "url": "/Crew/?StTu", "type": "crew"}
-{"aid": "T-Bone Wolk", "url": "/Crew/?TBWo", "type": "crew"}
-{"aid": "Danny DeVito", "url": "/Guests/?968", "type": "guest"}
-{"aid": "Bryan Ferry", "url": "/Guests/?969", "type": "guest"}
-{"aid": "Steve Jordan", "url": "/Crew/?StJo", "type": "crew"}
-{"aid": "Rhea Perlman", "url": "/Guests/?970", "type": "guest"}
-{"aid": "Candice Bergen", "url": "/Guests/?964", "type": "guest"}
-{"aid": "John Henry Kurtz", "type": "unknown", "url": null}
-{"aid": "Cher", "url": "/Guests/?965", "type": "guest"}
-{"aid": "Paul Shaffer", "url": "/Cast/?PaSh", "type": "cast"}
-{"aid": "Sydney Biddle Barrows", "url": "/Guests/?966", "type": "guest"}
-{"aid": "Robert Mitchum", "url": "/Guests/?960", "type": "guest"}
-{"aid": "Simply Red", "url": "/Guests/?961", "type": "guest"}
-{"aid": "Bentley Mitchum", "url": "/Guests/?963", "type": "guest"}
-{"aid": "Jane Greer", "url": "/Guests/?962", "type": "guest"}
-{"aid": "Ric Ocasek", "type": "unknown", "url": null}
-{"aid": "Elvira", "url": "/Guests/?959", "type": "guest"}
-{"aid": "Dabney Coleman", "url": "/Guests/?957", "type": "guest"}
-{"aid": "The Cars", "url": "/Guests/?958", "type": "guest"}
-{"aid": "Sean Penn", "url": "/Guests/?954", "type": "guest"}
-{"aid": "LL Cool J", "url": "/Guests/?955", "type": "guest"}
+{"aid": "George Wendt", "url": "/Guests/?1222", "type": "guest"}
+{"aid": "Rob Morrow", "url": "/Guests/?1214", "type": "guest"}
+{"aid": "Nirvana", "url": "/Guests/?1215", "type": "guest"}
+{"aid": "Steve Martin", "url": "/Guests/?1210", "type": "guest"}
 {"aid": "Joe Dicso", "url": "/Crew/?JoDi", "type": "crew"}
-{"aid": "The Pull", "url": "/Guests/?956", "type": "guest"}
-{"aid": "Steve Martin", "url": "/Guests/?950", "type": "guest"}
-{"aid": "Sting", "url": "/Guests/?951", "type": "guest"}
-{"aid": "Branford Marsalis", "url": "/Guests/?952", "type": "guest"}
-{"aid": "Bruce Babbitt", "url": "/Guests/?953", "type": "guest"}
+{"aid": "Don Pardo", "url": "/Crew/?DoPa", "type": "crew"}
+{"aid": "James Taylor", "url": "/Guests/?1211", "type": "guest"}
+{"aid": "Don Grolnick", "url": "/Crew/?DoGr", "type": "crew"}
+{"aid": "Lew Del Gatto", "url": "/Crew/?LeDG", "type": "crew"}
+{"aid": "Susan Lucci", "url": "/Guests/?1213", "type": "guest"}
+{"aid": "John Zonars", "url": "/Crew/?JoZo", "type": "crew"}
+{"aid": "Hammer", "url": "/Guests/?1207", "type": "guest"}
+{"aid": "Christina Ricci", "url": "/Guests/?1208", "type": "guest"}
+{"aid": "Jimmy Workman", "url": "/Guests/?1209", "type": "guest"}
+{"aid": "Macaulay Culkin", "url": "/Guests/?1203", "type": "guest"}
+{"aid": "Kieran Culkin", "url": "/Guests/?1205", "type": "guest"}
+{"aid": "Tin Machine", "url": "/Guests/?1204", "type": "guest"}
+{"aid": "Bob Van Ry", "url": "/Crew/?BVRy", "type": "crew"}
+{"aid": "John Henry Kurtz", "type": "unknown", "url": null}
+{"aid": "Linda Hamilton", "url": "/Guests/?1199", "type": "guest"}
+{"aid": "Edward Furlong", "url": "/Guests/?1201", "type": "guest"}
+{"aid": "Mariah Carey", "url": "/Guests/?1200", "type": "guest"}
+{"aid": "Martin Scorsese", "url": "/Guests/?1202", "type": "guest"}
+{"aid": "Tom Schiller", "url": "/Cast/?ToSc", "type": "cast"}
+{"aid": "Kiefer Sutherland", "url": "/Guests/?1196", "type": "guest"}
+{"aid": "Skid Row", "url": "/Guests/?1197", "type": "guest"}
+{"aid": "Rachel Bolan", "type": "unknown", "url": null}
+{"aid": "Sebastian Bach", "type": "unknown", "url": null}
+{"aid": "John McLaughlin", "url": "/Guests/?1194", "type": "guest"}
+{"aid": "Christian Slater", "url": "/Guests/?1192", "type": "guest"}
+{"aid": "Steve Koren", "url": "/Crew/?StKo", "type": "crew"}
+{"aid": "Bonnie Raitt", "url": "/Guests/?1193", "type": "guest"}
+{"aid": "Arnold Schwarzenegger", "url": "/Guests/?1195", "type": "guest"}
+{"aid": "Kirstie Alley", "url": "/Guests/?1186", "type": "guest"}
+{"aid": "Kelsey Grammer", "url": "/Guests/?1189", "type": "guest"}
+{"aid": "Ted Danson", "url": "/Guests/?1188", "type": "guest"}
+{"aid": "Tom Petty & The Heartbreakers", "url": "/Guests/?1187", "type": "guest"}
+{"aid": "Jeff Daniels", "url": "/Guests/?1184", "type": "guest"}
+{"aid": "Color Me Badd", "url": "/Guests/?1185", "type": "guest"}
+{"aid": "Michael Jordan", "url": "/Guests/?1179", "type": "guest"}
+{"aid": "Public Enemy", "url": "/Guests/?1180", "type": "guest"}
+{"aid": "Jesse Jackson", "url": "/Guests/?1181", "type": "guest"}
+{"aid": "Spike Lee", "url": "/Guests/?1182", "type": "guest"}
 {"aid": "Scarlett Johansson", "url": "/Guests/?3238", "type": "guest"}
 {"aid": "Dwayne Johnson", "url": "/Guests/?3234", "type": "guest"}
 {"aid": "Vanessa Bayer", "url": "/Cast/?VaBa", "type": "cast"}
@@ -112,7 +162,6 @@
 {"aid": "Ryan Reynolds", "url": "/Guests/?3233", "type": "guest"}
 {"aid": "Donna Richards", "url": "/Crew/?DoRi", "type": "crew"}
 {"aid": "Ken Aymong", "url": "/Crew/?KeAy", "type": "crew"}
-{"aid": "Lorne Michaels", "url": "/Crew/?LoMi", "type": "crew"}
 {"aid": "Chris Pine", "url": "/Guests/?3226", "type": "guest"}
 {"aid": "LCD Soundsystem", "url": "/Guests/?3227", "type": "guest"}
 {"aid": "Akira Yoshimura", "url": "/Crew/?AkYo", "type": "crew"}
@@ -137,7 +186,6 @@
 {"aid": "Tina Fey", "url": "/Cast/?TiFe", "type": "cast"}
 {"aid": "Bill Corsair", "url": "/Crew/?BiCo", "type": "crew"}
 {"aid": "Sturgill Simpson", "url": "/Guests/?3197", "type": "guest"}
-{"aid": "John Goodman", "url": "/Guests/?3193", "type": "guest"}
 {"aid": "Casey Affleck", "url": "/Guests/?3189", "type": "guest"}
 {"aid": "Fred Armisen", "url": "/Cast/?FrAr", "type": "cast"}
 {"aid": "Chance the Rapper", "url": "/Guests/?3190", "type": "guest"}
@@ -149,12 +197,10 @@
 {"aid": "Maren Morris", "url": "/Guests/?3187", "type": "guest"}
 {"aid": "Shawn Mendes", "url": "/Guests/?3183", "type": "guest"}
 {"aid": "Jennifer Aniston", "url": "/Guests/?3184", "type": "guest"}
-{"aid": "Jason Sudeikis", "url": "/Cast/?JaSu", "type": "cast"}
 {"aid": "Kristen Wiig", "url": "/Cast/?KrWi", "type": "cast"}
 {"aid": "Will Forte", "url": "/Cast/?WiFo", "type": "cast"}
 {"aid": "The xx", "url": "/Guests/?3177", "type": "guest"}
 {"aid": "Dave Chappelle", "url": "/Guests/?3170", "type": "guest"}
-{"aid": "Chris Rock", "url": "/Cast/?ChRo", "type": "cast"}
 {"aid": "Donnell Rawlings", "url": "/Guests/?3175", "type": "guest"}
 {"aid": "A Tribe Called Quest", "url": "/Guests/?3171", "type": "guest"}
 {"aid": "Busta Rhymes", "url": "/Guests/?3172", "type": "guest"}
@@ -172,7 +218,6 @@
 {"aid": "Lin-Manuel Miranda", "url": "/Guests/?3150", "type": "guest"}
 {"aid": "Twenty One Pilots", "url": "/Guests/?3151", "type": "guest"}
 {"aid": "Margot Robbie", "url": "/Guests/?3146", "type": "guest"}
-{"aid": "Larry David", "url": "/Crew/?LaDa", "type": "crew"}
 {"aid": "The Weeknd", "url": "/Guests/?3147", "type": "guest"}
 {"aid": "Taran Killam", "url": "/Cast/?TaKi", "type": "cast"}
 {"aid": "Jay Pharoah", "url": "/Cast/?JaPh", "type": "cast"}
@@ -216,7 +261,6 @@
 {"aid": "Ben Stiller", "url": "/Cast/?BeSt", "type": "cast"}
 {"aid": "Ronda Rousey", "url": "/Guests/?3094", "type": "guest"}
 {"aid": "Selena Gomez", "url": "/Guests/?3095", "type": "guest"}
-{"aid": "Wally Feresten", "url": "/Crew/?WaFe", "type": "crew"}
 {"aid": "Adam Driver", "url": "/Guests/?3090", "type": "guest"}
 {"aid": "Chris Stapleton", "url": "/Guests/?3091", "type": "guest"}
 {"aid": "Liev Schreiber", "url": "/Guests/?3093", "type": "guest"}
@@ -228,7 +272,6 @@
 {"aid": "Will Ferrell", "url": "/Cast/?WiFe", "type": "cast"}
 {"aid": "Chris Hemsworth", "url": "/Guests/?3079", "type": "guest"}
 {"aid": "Jeremih", "url": "/Guests/?3082", "type": "guest"}
-{"aid": "Mike Myers", "url": "/Cast/?MiMy", "type": "cast"}
 {"aid": "Leon Bridges", "url": "/Guests/?3077", "type": "guest"}
 {"aid": "Paula Pell", "url": "/Crew/?PaPe", "type": "crew"}
 {"aid": "Matthew McConaughey", "url": "/Guests/?3068", "type": "guest"}
@@ -245,12 +288,10 @@
 {"aid": "Ivanka Trump", "url": "/Guests/?3062", "type": "guest"}
 {"aid": "Martin Short", "url": "/Cast/?MaSh", "type": "cast"}
 {"aid": "Sia", "url": "/Guests/?3060", "type": "guest"}
-{"aid": "Gena Rositano", "url": "/Crew/?GeRo", "type": "crew"}
 {"aid": "Jack McBrayer", "url": "/Guests/?3058", "type": "guest"}
 {"aid": "Jane Krakowski", "url": "/Guests/?3057", "type": "guest"}
 {"aid": "Demi Lovato", "url": "/Guests/?3053", "type": "guest"}
 {"aid": "Nicki Minaj", "url": "/Guests/?3051", "type": "guest"}
-{"aid": "Miley Cyrus", "url": "/Guests/?3046", "type": "guest"}
 {"aid": "Hillary Clinton", "url": "/Guests/?3047", "type": "guest"}
 {"aid": "The Flaming Lips", "url": "/Guests/?3048", "type": "guest"}
 {"aid": "Rihanna", "url": "/Guests/?3045", "type": "guest"}
@@ -277,7 +318,6 @@
 {"aid": "Carly Rae Jepsen", "url": "/Guests/?3020", "type": "guest"}
 {"aid": "Norman Reedus", "url": "/Guests/?3021", "type": "guest"}
 {"aid": "George Ezra", "url": "/Guests/?3018", "type": "guest"}
-{"aid": "Liam Hemsworth", "url": "/Guests/?3015", "type": "guest"}
 {"aid": "Luke Hemsworth", "url": "/Guests/?3016", "type": "guest"}
 {"aid": "Zac Brown Band", "url": "/Guests/?3013", "type": "guest"}
 {"aid": "Chris Cornell", "url": "/Guests/?3014", "type": "guest"}
@@ -303,7 +343,6 @@
 {"aid": "Skylar Grey", "url": "/Guests/?2992", "type": "guest"}
 {"aid": "Cameron Diaz", "url": "/Guests/?2986", "type": "guest"}
 {"aid": "Mystikal", "url": "/Guests/?2989", "type": "guest"}
-{"aid": "Woody Harrelson", "url": "/Guests/?2978", "type": "guest"}
 {"aid": "Jennifer Lawrence", "url": "/Guests/?2984", "type": "guest"}
 {"aid": "Josh Hutcherson", "url": "/Guests/?2981", "type": "guest"}
 {"aid": "Uzo Aduba", "url": "/Guests/?2985", "type": "guest"}
@@ -313,7 +352,6 @@
 {"aid": "Prince", "url": "/Guests/?2976", "type": "guest"}
 {"aid": "3RDEYEGIRL", "url": "/Guests/?2977", "type": "guest"}
 {"aid": "Jim Carrey", "url": "/Guests/?2970", "type": "guest"}
-{"aid": "Jeff Daniels", "url": "/Guests/?2972", "type": "guest"}
 {"aid": "Iggy Azalea", "url": "/Guests/?2971", "type": "guest"}
 {"aid": "Rita Ora", "url": "/Guests/?2974", "type": "guest"}
 {"aid": "MO", "url": "/Guests/?2973", "type": "guest"}
@@ -342,11 +380,9 @@
 {"aid": "The Black Keys", "url": "/Guests/?2945", "type": "guest"}
 {"aid": "Barbara Walters", "url": "/Guests/?2946", "type": "guest"}
 {"aid": "Andrew Garfield", "url": "/Guests/?2939", "type": "guest"}
-{"aid": "Kiefer Sutherland", "url": "/Guests/?2943", "type": "guest"}
 {"aid": "Mary Lynn Rajskub", "url": "/Guests/?2942", "type": "guest"}
 {"aid": "Coldplay", "url": "/Guests/?2940", "type": "guest"}
 {"aid": "Chris Martin", "type": "unknown", "url": null}
-{"aid": "Taylor Swift", "url": "/Guests/?2938", "type": "guest"}
 {"aid": "Zooey Deschanel", "url": "/Guests/?2936", "type": "guest"}
 {"aid": "Anna Kendrick", "url": "/Guests/?2930", "type": "guest"}
 {"aid": "Icona Pop", "url": "/Guests/?2933", "type": "guest"}
@@ -364,7 +400,6 @@
 {"aid": "Jhene Aiko", "url": "/Guests/?2908", "type": "guest"}
 {"aid": "Justin Timberlake", "url": "/Guests/?2901", "type": "guest"}
 {"aid": "Barry Gibb", "url": "/Guests/?2903", "type": "guest"}
-{"aid": "Madonna", "url": "/Guests/?2904", "type": "guest"}
 {"aid": "Michael Bloomberg", "url": "/Guests/?2902", "type": "guest"}
 {"aid": "Caleb Followill", "type": "unknown", "url": null}
 {"aid": "Jared Followill", "type": "unknown", "url": null}
@@ -397,7 +432,6 @@
 {"aid": "Kim Gordon", "url": "/Guests/?2861", "type": "guest"}
 {"aid": "Michael Penn", "url": "/Guests/?2864", "type": "guest"}
 {"aid": "Steve Jones", "url": "/Guests/?2866", "type": "guest"}
-{"aid": "Jim Downey", "url": "/Cast/?JiDo", "type": "cast"}
 {"aid": "John Solomon", "url": "/Crew/?JoSo", "type": "crew"}
 {"aid": "Vampire Weekend", "url": "/Guests/?2854", "type": "guest"}
 {"aid": "Zach Galifianakis", "url": "/Guests/?2847", "type": "guest"}
@@ -408,7 +442,9 @@
 {"aid": "Miguel", "url": "/Guests/?2845", "type": "guest"}
 {"aid": "Dennis Rodman", "url": "/Guests/?2843", "type": "guest"}
 {"aid": "Phoenix", "url": "/Guests/?2841", "type": "guest"}
-{"aid": "Chevy Chase", "url": "/Cast/?ChCh", "type": "cast"}
+{"aid": "Candice Bergen", "url": "/Guests/?2832", "type": "guest"}
+{"aid": "Dan Aykroyd", "url": "/Cast/?DaAy", "type": "cast"}
+{"aid": "Paul Simon", "url": "/Guests/?2839", "type": "guest"}
 {"aid": "Adam Epstein", "type": "unknown", "url": null}
 {"aid": "Macklemore", "url": "/Guests/?2825", "type": "guest"}
 {"aid": "Ryan Lewis", "url": "/Guests/?2826", "type": "guest"}
@@ -417,11 +453,11 @@
 {"aid": "Christoph Waltz", "url": "/Guests/?2822", "type": "guest"}
 {"aid": "Justin Bieber", "url": "/Guests/?2820", "type": "guest"}
 {"aid": "Whoopi Goldberg", "url": "/Guests/?2821", "type": "guest"}
-{"aid": "Jerry Seinfeld", "url": "/Guests/?2818", "type": "guest"}
 {"aid": "Danny McBride", "url": "/Guests/?2819", "type": "guest"}
 {"aid": "Mickey Madden", "url": "/Guests/?2816", "type": "guest"}
 {"aid": "The Lumineers", "url": "/Guests/?2812", "type": "guest"}
 {"aid": "The New York City Children's Chorus", "url": "/Guests/?2805", "type": "guest"}
+{"aid": "Paul Shaffer", "url": "/Cast/?PaSh", "type": "cast"}
 {"aid": "Samuel L. Jackson", "url": "/Guests/?2804", "type": "guest"}
 {"aid": "Joe Walsh", "url": "/Guests/?2809", "type": "guest"}
 {"aid": "Dave Grohl", "url": "/Guests/?2802", "type": "guest"}
@@ -466,7 +502,6 @@
 {"aid": "David Diehl", "url": "/Guests/?2740", "type": "guest"}
 {"aid": "Shaun O'Hara", "url": "/Guests/?2742", "type": "guest"}
 {"aid": "Sacha Baron Cohen", "url": "/Guests/?2739", "type": "guest"}
-{"aid": "Martin Scorsese", "url": "/Guests/?2743", "type": "guest"}
 {"aid": "Josh Brolin", "url": "/Guests/?2732", "type": "guest"}
 {"aid": "Steven Spielberg", "url": "/Guests/?2735", "type": "guest"}
 {"aid": "Gotye", "url": "/Guests/?2733", "type": "guest"}
@@ -478,7 +513,6 @@
 {"aid": "Lindsay Lohan", "url": "/Guests/?2720", "type": "guest"}
 {"aid": "Jack White", "url": "/Guests/?2721", "type": "guest"}
 {"aid": "Ruby Amanfu", "url": "/Guests/?2722", "type": "guest"}
-{"aid": "Phil Hyms", "url": "/Crew/?PhHy", "type": "crew"}
 {"aid": "Sleigh Bells", "url": "/Guests/?2714", "type": "guest"}
 {"aid": "Bill O'Reilly", "url": "/Guests/?2715", "type": "guest"}
 {"aid": "Kate Upton", "url": "/Guests/?2719", "type": "guest"}
@@ -505,6 +539,7 @@
 {"aid": "Olivia Wilde", "url": "/Guests/?2684", "type": "guest"}
 {"aid": "Alan Wong", "url": "/Crew/?AlWo", "type": "crew"}
 {"aid": "Shelly Gossman", "url": "/Crew/?ShGo", "type": "crew"}
+{"aid": "Danny DeVito", "url": "/Guests/?2674", "type": "guest"}
 {"aid": "Travie McCoy", "url": "/Guests/?2675", "type": "guest"}
 {"aid": "Hugh Jackman", "url": "/Guests/?2667", "type": "guest"}
 {"aid": "Foster The People", "url": "/Guests/?2666", "type": "guest"}
@@ -516,7 +551,6 @@
 {"aid": "Chris Colfer", "url": "/Guests/?2648", "type": "guest"}
 {"aid": "Lindsey Buckingham", "url": "/Guests/?2647", "type": "guest"}
 {"aid": "Stephen Colbert", "url": "/Crew/?StCo", "type": "crew"}
-{"aid": "Robert Smigel", "url": "/Cast/?RoSm", "type": "cast"}
 {"aid": "Robin Wright", "url": "/Guests/?2644", "type": "guest"}
 {"aid": "Ellie Goulding", "url": "/Guests/?2640", "type": "guest"}
 {"aid": "Helen Mirren", "url": "/Guests/?2637", "type": "guest"}
@@ -545,10 +579,10 @@
 {"aid": "Lil Wayne", "url": "/Guests/?2600", "type": "guest"}
 {"aid": "Mario Batali", "url": "/Guests/?2597", "type": "guest"}
 {"aid": "Rob Klein", "url": "/Crew/?RoKl", "type": "crew"}
+{"aid": "Robin Williams", "url": "/Guests/?2594", "type": "guest"}
 {"aid": "Diddy-Dirty Money", "url": "/Guests/?2591", "type": "guest"}
 {"aid": "Sean Combs", "type": "unknown", "url": null}
 {"aid": "Swizz Beatz", "url": "/Guests/?2593", "type": "guest"}
-{"aid": "David Spade", "type": "unknown", "url": null}
 {"aid": "John Mulaney", "url": "/Crew/?JoMu", "type": "crew"}
 {"aid": "Jane Lynch", "url": "/Guests/?2580", "type": "guest"}
 {"aid": "Ernest Borgnine", "url": "/Guests/?2576", "type": "guest"}
@@ -560,7 +594,6 @@
 {"aid": "Jessi Klein", "url": "/Crew/?JeKl", "type": "crew"}
 {"aid": "John Lutz", "url": "/Crew/?JoLu", "type": "crew"}
 {"aid": "Jenny Slate", "url": "/Cast/?JeSl", "type": "cast"}
-{"aid": "Tom Petty & The Heartbreakers", "url": "/Guests/?2563", "type": "guest"}
 {"aid": "Betty White", "url": "/Guests/?2552", "type": "guest"}
 {"aid": "Molly Shannon", "url": "/Cast/?MoSh", "type": "cast"}
 {"aid": "Bridget Kelly", "url": "/Guests/?2557", "type": "guest"}
@@ -570,7 +603,6 @@
 {"aid": "Ryan Phillippe", "url": "/Guests/?2548", "type": "guest"}
 {"aid": "Ke$ha", "url": "/Guests/?2549", "type": "guest"}
 {"aid": "Mark Sanchez", "url": "/Guests/?2546", "type": "guest"}
-{"aid": "Pearl Jam", "url": "/Guests/?2541", "type": "guest"}
 {"aid": "Anthony Anderson", "url": "/Guests/?2534", "type": "guest"}
 {"aid": "Brian Williams", "url": "/Guests/?2535", "type": "guest"}
 {"aid": "Dr. Mehmet Oz", "url": "/Guests/?2539", "type": "guest"}
@@ -653,7 +685,6 @@
 {"aid": "Queen Latifah", "url": "/Guests/?2383", "type": "guest"}
 {"aid": "The Killers", "url": "/Guests/?2381", "type": "guest"}
 {"aid": "Duffy", "url": "/Guests/?2377", "type": "guest"}
-{"aid": "Kumail Nanjiani", "url": "/Guests/?2374", "type": "guest"}
 {"aid": "Michael Phelps", "url": "/Guests/?2365", "type": "guest"}
 {"aid": "Debbie Phelps", "url": "/Guests/?2369", "type": "guest"}
 {"aid": "William Shatner", "url": "/Guests/?2370", "type": "guest"}
@@ -670,7 +701,6 @@
 {"aid": "Christopher Walken", "url": "/Guests/?2349", "type": "guest"}
 {"aid": "Christopher Dodd", "url": "/Guests/?2351", "type": "guest"}
 {"aid": "Panic At The Disco", "url": "/Guests/?2350", "type": "guest"}
-{"aid": "Mariah Carey", "url": "/Guests/?2346", "type": "guest"}
 {"aid": "Vincent D'Onofrio", "url": "/Guests/?2341", "type": "guest"}
 {"aid": "Ellen Page", "url": "/Guests/?2338", "type": "guest"}
 {"aid": "Wilco", "url": "/Guests/?2339", "type": "guest"}
@@ -684,7 +714,6 @@
 {"aid": "Feist", "url": "/Guests/?2327", "type": "guest"}
 {"aid": "Jon Bon Jovi", "url": "/Guests/?2322", "type": "guest"}
 {"aid": "Richie Sambora", "type": "unknown", "url": null}
-{"aid": "Marci Klein", "url": "/Crew/?MaKl", "type": "crew"}
 {"aid": "Taylor Hawkins", "type": "unknown", "url": null}
 {"aid": "Jack Nicholson", "url": "/Guests/?2325", "type": "guest"}
 {"aid": "Spoon", "url": "/Guests/?2320", "type": "guest"}
@@ -699,7 +728,6 @@
 {"aid": "Snow Patrol", "url": "/Guests/?2297", "type": "guest"}
 {"aid": "Rainn Wilson", "url": "/Guests/?2293", "type": "guest"}
 {"aid": "Rashida Jones", "url": "/Guests/?2295", "type": "guest"}
-{"aid": "Michael Shoemaker", "url": "/Crew/?MiSh", "type": "crew"}
 {"aid": "Forest Whitaker", "url": "/Guests/?2291", "type": "guest"}
 {"aid": "Keith Urban", "url": "/Guests/?2292", "type": "guest"}
 {"aid": "Katreese Barnes", "url": "/Crew/?KaBa", "type": "crew"}
@@ -726,7 +754,6 @@
 {"aid": "Timbaland", "url": "/Guests/?2249", "type": "guest"}
 {"aid": "Stacey Foster", "url": "/Crew/?StFo", "type": "crew"}
 {"aid": "Jason Alexander", "url": "/Guests/?2245", "type": "guest"}
-{"aid": "Red Hot Chili Peppers", "url": "/Guests/?2241", "type": "guest"}
 {"aid": "Michael Lohan", "url": "/Guests/?2239", "type": "guest"}
 {"aid": "Antonio Banderas", "url": "/Guests/?2234", "type": "guest"}
 {"aid": "Matt Dillon", "url": "/Guests/?2232", "type": "guest"}
@@ -744,7 +771,6 @@
 {"aid": "Johnny Knoxville", "url": "/Guests/?2211", "type": "guest"}
 {"aid": "Darlene Love", "url": "/Guests/?2212", "type": "guest"}
 {"aid": "Kyle Gass", "url": "/Guests/?2210", "type": "guest"}
-{"aid": "Tim Meadows", "url": "/Cast/?TiMe", "type": "cast"}
 {"aid": "Dave Foley", "type": "unknown", "url": null}
 {"aid": "Phil Gordon", "type": "unknown", "url": null}
 {"aid": "Alejandro Sanz", "url": "/Guests/?2207", "type": "guest"}
@@ -821,14 +847,13 @@
 {"aid": "G Unit", "url": "/Guests/?2092", "type": "guest"}
 {"aid": "Joe", "url": "/Guests/?2093", "type": "guest"}
 {"aid": "Jet", "url": "/Guests/?2085", "type": "guest"}
-{"aid": "Pink", "url": "/Guests/?2081", "type": "guest"}
 {"aid": "Missy Elliott", "url": "/Guests/?2078", "type": "guest"}
 {"aid": "Andy Roddick", "url": "/Guests/?2073", "type": "guest"}
 {"aid": "Trey Anastasio", "url": "/Guests/?2075", "type": "guest"}
 {"aid": "Outkast", "url": "/Guests/?2071", "type": "guest"}
 {"aid": "Halle Berry", "url": "/Guests/?2067", "type": "guest"}
 {"aid": "Britney Spears", "url": "/Guests/?2068", "type": "guest"}
-{"aid": "George Wendt", "url": "/Guests/?2069", "type": "guest"}
+{"aid": "Carl Weathers", "url": "/Guests/?2066", "type": "guest"}
 {"aid": "Jim Belushi", "url": "/Cast/?JiBe", "type": "cast"}
 {"aid": "Kip King", "url": "/Guests/?2060", "type": "guest"}
 {"aid": "Dean Edwards", "url": "/Cast/?DeEd", "type": "cast"}
@@ -848,7 +873,6 @@
 {"aid": "Ms. Dynamite", "url": "/Guests/?2037", "type": "guest"}
 {"aid": "Jeff Bergman", "type": "unknown", "url": null}
 {"aid": "Tom Kenny", "type": "unknown", "url": null}
-{"aid": "Jack Handey", "type": "crew", "url": null}
 {"aid": "T. Sean Shannon", "url": "/Crew/?TSSh", "type": "crew"}
 {"aid": "The Dixie Chicks", "url": "/Guests/?2027", "type": "guest"}
 {"aid": "Ray Liotta", "url": "/Guests/?2024", "type": "guest"}
@@ -863,8 +887,6 @@
 {"aid": "Phish", "url": "/Guests/?2014", "type": "guest"}
 {"aid": "Brad Pitt", "type": "unknown", "url": null}
 {"aid": "Harvey Keitel", "url": "/Guests/?2012", "type": "guest"}
-{"aid": "Adam Sandler", "url": "/Cast/?AdSa", "type": "cast"}
-{"aid": "Rob Schneider", "url": "/Cast/?RoSc", "type": "cast"}
 {"aid": "Brittany Murphy", "url": "/Guests/?2004", "type": "guest"}
 {"aid": "Kelly Rowland", "url": "/Guests/?2007", "type": "guest"}
 {"aid": "Garrett Morris", "url": "/Cast/?GaMo", "type": "cast"}
@@ -875,7 +897,7 @@
 {"aid": "The White Stripes", "url": "/Guests/?1996", "type": "guest"}
 {"aid": "Sarah Michelle Gellar", "url": "/Guests/?1993", "type": "guest"}
 {"aid": "Faith Hill", "url": "/Guests/?1994", "type": "guest"}
-{"aid": "Bruce Springsteen", "type": "unknown", "url": null}
+{"aid": "Soozie Tyrell", "url": "/Guests/?1992", "type": "guest"}
 {"aid": "Winona Ryder", "url": "/Guests/?1986", "type": "guest"}
 {"aid": "Alex Trebek", "url": "/Guests/?1989", "type": "guest"}
 {"aid": "Neil Diamond", "url": "/Guests/?1988", "type": "guest"}
@@ -998,11 +1020,11 @@
 {"aid": "Joe Franken (II)", "url": "/Guests/?1793", "type": "guest"}
 {"aid": "R.E.M.", "url": "/Guests/?1791", "type": "guest"}
 {"aid": "The Rockettes", "url": "/Guests/?1794", "type": "guest"}
-{"aid": "Christina Ricci", "url": "/Guests/?1788", "type": "guest"}
+{"aid": "Cheryl Hardwick", "url": "/Crew/?ChHa", "type": "crew"}
 {"aid": "John Carpenter", "url": "/Guests/?1786", "type": "guest"}
 {"aid": "Tim Herlihy", "url": "/Crew/?TiHe", "type": "crew"}
+{"aid": "Sting", "url": "/Guests/?1785", "type": "guest"}
 {"aid": "Cheb Mami", "url": "/Guests/?1787", "type": "guest"}
-{"aid": "Garth Brooks", "url": "/Guests/?1782", "type": "guest"}
 {"aid": "Chris Gaines", "url": "/Guests/?1783", "type": "guest"}
 {"aid": "Dylan McDermott", "url": "/Guests/?1780", "type": "guest"}
 {"aid": "Dr. Dre", "url": "/Guests/?1776", "type": "guest"}
@@ -1033,7 +1055,6 @@
 {"aid": "Lori Nasso", "url": "/Crew/?LoNa", "type": "crew"}
 {"aid": "Debbie Matenopoulos", "url": "/Guests/?1727", "type": "guest"}
 {"aid": "Luciano Pavarotti", "url": "/Guests/?1721", "type": "guest"}
-{"aid": "Vanessa Williams", "url": "/Guests/?1722", "type": "guest"}
 {"aid": "Janice Pendarvis", "url": "/Guests/?1724", "type": "guest"}
 {"aid": "Lauryn Hill", "url": "/Guests/?1719", "type": "guest"}
 {"aid": "Jennifer Love Hewitt", "url": "/Guests/?1714", "type": "guest"}
@@ -1051,7 +1072,6 @@
 {"aid": "Judge Judy Sheindlin", "url": "/Guests/?1699", "type": "guest"}
 {"aid": "Chucky", "url": "/Guests/?1698", "type": "guest"}
 {"aid": "Elliott Smith", "url": "/Guests/?1697", "type": "guest"}
-{"aid": "Kelsey Grammer", "url": "/Guests/?1689", "type": "guest"}
 {"aid": "Shaquille O'Neal", "url": "/Guests/?1691", "type": "guest"}
 {"aid": "Christine Baranski", "url": "/Guests/?1692", "type": "guest"}
 {"aid": "Hal Linden", "url": "/Guests/?1693", "type": "guest"}
@@ -1067,7 +1087,6 @@
 {"aid": "Jim Breuer", "url": "/Cast/?JiBr", "type": "cast"}
 {"aid": "Matthew Broderick", "url": "/Guests/?1670", "type": "guest"}
 {"aid": "Regis Philbin", "url": "/Guests/?1673", "type": "guest"}
-{"aid": "Bob Van Ry", "url": "/Crew/?BVRy", "type": "crew"}
 {"aid": "Natalie Merchant", "url": "/Guests/?1671", "type": "guest"}
 {"aid": "Greg Kinnear", "url": "/Guests/?1667", "type": "guest"}
 {"aid": "All Saints", "url": "/Guests/?1668", "type": "guest"}
@@ -1084,11 +1103,13 @@
 {"aid": "Scott Wolf", "url": "/Guests/?1657", "type": "guest"}
 {"aid": "Natalie Imbruglia", "url": "/Guests/?1658", "type": "guest"}
 {"aid": "Robert Duvall", "url": "/Guests/?1656", "type": "guest"}
+{"aid": "Mark McKinney", "url": "/Cast/?MaMc", "type": "cast"}
 {"aid": "Roma Downey", "url": "/Guests/?1651", "type": "guest"}
 {"aid": "Missy \"Misdemeanor\" Elliott", "url": "/Guests/?1652", "type": "guest"}
 {"aid": "Magoo", "url": "/Guests/?1653", "type": "guest"}
 {"aid": "Cindy Caponera", "url": "/Crew/?CiCa", "type": "crew"}
 {"aid": "Lou Marini", "url": "/Crew/?LoMa", "type": "crew"}
+{"aid": "Leon Pendarvis", "url": "/Crew/?LePe", "type": "crew"}
 {"aid": "Alan P. Rubin", "url": "/Crew/?AlPR", "type": "crew"}
 {"aid": "Paula Cole", "url": "/Guests/?1649", "type": "guest"}
 {"aid": "Portishead", "url": "/Guests/?1647", "type": "guest"}
@@ -1121,7 +1142,6 @@
 {"aid": "Claire Danes", "url": "/Guests/?1617", "type": "guest"}
 {"aid": "Jane's Addiction", "url": "/Guests/?1614", "type": "guest"}
 {"aid": "Flea", "url": "/Guests/?1616", "type": "guest"}
-{"aid": "Chris Farley", "url": "/Cast/?ChFa", "type": "cast"}
 {"aid": "The Mighty Mighty Bosstones", "url": "/Guests/?1607", "type": "guest"}
 {"aid": "Bill Kurtis", "url": "/Guests/?1611", "type": "guest"}
 {"aid": "Mike Ditka", "url": "/Guests/?1610", "type": "guest"}
@@ -1132,7 +1152,6 @@
 {"aid": "Richard Jewell", "url": "/Guests/?1600", "type": "guest"}
 {"aid": "Jamiroquai", "url": "/Guests/?1599", "type": "guest"}
 {"aid": "Jeff Goldblum", "url": "/Guests/?1596", "type": "guest"}
-{"aid": "En Vogue", "url": "/Guests/?1597", "type": "guest"}
 {"aid": "Pamela Lee", "url": "/Guests/?1590", "type": "guest"}
 {"aid": "Tommy Lee", "url": "/Guests/?1592", "type": "guest"}
 {"aid": "Rollins Band", "url": "/Guests/?1591", "type": "guest"}
@@ -1166,7 +1185,6 @@
 {"aid": "Abe Vigoda", "url": "/Guests/?1547", "type": "guest"}
 {"aid": "Bill Pullman", "url": "/Guests/?1540", "type": "guest"}
 {"aid": "New Edition", "url": "/Guests/?1541", "type": "guest"}
-{"aid": "Fred Wolf", "url": "/Cast/?FrWo", "type": "cast"}
 {"aid": "David Lander", "url": "/Guests/?1539", "type": "guest"}
 {"aid": "Lisa Kudrow", "url": "/Guests/?1537", "type": "guest"}
 {"aid": "Kerri Strug", "url": "/Guests/?1536", "type": "guest"}
@@ -1175,7 +1193,6 @@
 {"aid": "Jim Gaffigan", "url": "/Guests/?1531", "type": "guest"}
 {"aid": "Teri Hatcher", "url": "/Guests/?1525", "type": "guest"}
 {"aid": "Sam Waterston", "url": "/Guests/?1527", "type": "guest"}
-{"aid": "Erin Maroney", "url": "/Crew/?ErMa", "type": "crew"}
 {"aid": "Steve Forbes", "url": "/Guests/?1517", "type": "guest"}
 {"aid": "Rage Against The Machine", "url": "/Guests/?1518", "type": "guest"}
 {"aid": "Catherine Forbes", "url": "/Guests/?1520", "type": "guest"}
@@ -1187,7 +1204,6 @@
 {"aid": "Gin Blossoms", "url": "/Guests/?1516", "type": "guest"}
 {"aid": "Elle MacPherson", "url": "/Guests/?1514", "type": "guest"}
 {"aid": "Everclear", "url": "/Guests/?1512", "type": "guest"}
-{"aid": "Tom Arnold", "url": "/Guests/?1504", "type": "guest"}
 {"aid": "Tupac Shakur", "url": "/Guests/?1505", "type": "guest"}
 {"aid": "Danny Boy", "url": "/Guests/?1506", "type": "guest"}
 {"aid": "Roger Troutman", "url": "/Guests/?1508", "type": "guest"}
@@ -1204,6 +1220,7 @@
 {"aid": "Laura Leighton", "url": "/Guests/?1481", "type": "guest"}
 {"aid": "Grant Show", "url": "/Guests/?1483", "type": "guest"}
 {"aid": "Rancid", "url": "/Guests/?1482", "type": "guest"}
+{"aid": "Sean Penn", "url": "/Guests/?1484", "type": "guest"}
 {"aid": "Quentin Tarantino", "url": "/Guests/?1478", "type": "guest"}
 {"aid": "Robert Hegyes", "url": "/Guests/?1480", "type": "guest"}
 {"aid": "Bill Bradley", "url": "/Guests/?1473", "type": "guest"}
@@ -1224,7 +1241,6 @@
 {"aid": "Don Novello", "url": "/Cast/?DoNo", "type": "cast"}
 {"aid": "Blues Traveler", "url": "/Guests/?1456", "type": "guest"}
 {"aid": "Morwenna Banks", "url": "/Cast/?MoBa", "type": "cast"}
-{"aid": "Ellen Cleghorne", "url": "/Cast/?ElCl", "type": "cast"}
 {"aid": "Chris Elliott", "url": "/Cast/?ChEl", "type": "cast"}
 {"aid": "Michael Angarano", "url": "/Guests/?1454", "type": "guest"}
 {"aid": "Naomi Campbell", "url": "/Guests/?1453", "type": "guest"}
@@ -1241,13 +1257,9 @@
 {"aid": "The Tragically Hip", "url": "/Guests/?1439", "type": "guest"}
 {"aid": "Paul Reiser", "url": "/Guests/?1435", "type": "guest"}
 {"aid": "Billy Grundfest", "url": "/Guests/?1437", "type": "guest"}
-{"aid": "Steve Koren", "url": "/Crew/?StKo", "type": "crew"}
-{"aid": "Dave Wilson", "url": "/Crew/?DaWi", "type": "crew"}
-{"aid": "Annie Lennox", "url": "/Guests/?1436", "type": "guest"}
 {"aid": "George Clooney", "url": "/Guests/?1433", "type": "guest"}
 {"aid": "Ian Maxtone-Graham", "url": "/Crew/?IaMG", "type": "crew"}
 {"aid": "The Cranberries", "url": "/Guests/?1434", "type": "guest"}
-{"aid": "Akeyla Cleghorne", "url": "/Crew/?AkCl", "type": "crew"}
 {"aid": "Bruce McCulloch", "url": "/Crew/?BrMc", "type": "crew"}
 {"aid": "Deion Sanders", "url": "/Guests/?1430", "type": "guest"}
 {"aid": "Manute Bol", "url": "/Guests/?1432", "type": "guest"}
@@ -1260,7 +1272,6 @@
 {"aid": "George Foreman", "url": "/Guests/?1420", "type": "guest"}
 {"aid": "Michael Buffer", "url": "/Guests/?1422", "type": "guest"}
 {"aid": "Hole", "url": "/Guests/?1421", "type": "guest"}
-{"aid": "Christian Slater", "url": "/Guests/?1419", "type": "guest"}
 {"aid": "Roseanne", "url": "/Guests/?1413", "type": "guest"}
 {"aid": "John Turturro", "url": "/Guests/?1408", "type": "guest"}
 {"aid": "Joey Buttafuoco", "url": "/Guests/?1410", "type": "guest"}
@@ -1271,7 +1282,6 @@
 {"aid": "John Travolta", "url": "/Guests/?1396", "type": "guest"}
 {"aid": "Seal", "url": "/Guests/?1397", "type": "guest"}
 {"aid": "Marisa Tomei", "url": "/Guests/?1394", "type": "guest"}
-{"aid": "Bonnie Raitt", "url": "/Guests/?1395", "type": "guest"}
 {"aid": "Lew Morton", "url": "/Crew/?LeMo", "type": "crew"}
 {"aid": "Eric Clapton", "url": "/Guests/?1387", "type": "guest"}
 {"aid": "Bobby Bonilla", "url": "/Guests/?1389", "type": "guest"}
@@ -1280,11 +1290,9 @@
 {"aid": "Mo Vaughn", "url": "/Guests/?1393", "type": "guest"}
 {"aid": "Roger Clemens", "url": "/Guests/?1390", "type": "guest"}
 {"aid": "Heather Locklear", "url": "/Guests/?1382", "type": "guest"}
-{"aid": "Jay Leno", "url": "/Guests/?1385", "type": "guest"}
-{"aid": "Melanie Hutsell", "url": "/Cast/?MeHu", "type": "cast"}
-{"aid": "Julia Sweeney", "url": "/Cast/?JuSw", "type": "cast"}
 {"aid": "Rafael Fuchs", "url": "/Guests/?1384", "type": "guest"}
 {"aid": "The Pretenders", "url": "/Guests/?1379", "type": "guest"}
+{"aid": "Jan Hooks", "url": "/Cast/?JaHo", "type": "cast"}
 {"aid": "Emilio Estevez", "url": "/Guests/?1376", "type": "guest"}
 {"aid": "Sy Sperling", "url": "/Guests/?1374", "type": "guest"}
 {"aid": "Dave Attell", "url": "/Crew/?DaAt", "type": "crew"}
@@ -1315,10 +1323,9 @@
 {"aid": "Paul Westerberg", "url": "/Guests/?1346", "type": "guest"}
 {"aid": "Nicole Kidman", "url": "/Guests/?1339", "type": "guest"}
 {"aid": "Stone Temple Pilots", "url": "/Guests/?1340", "type": "guest"}
-{"aid": "Tom Schiller", "url": "/Cast/?ToSc", "type": "cast"}
-{"aid": "Jimmy Workman", "url": "/Guests/?1344", "type": "guest"}
 {"aid": "Casey Kasem", "url": "/Guests/?1338", "type": "guest"}
 {"aid": "Billy Joel", "url": "/Guests/?1330", "type": "guest"}
+{"aid": "T-Bone Wolk", "url": "/Crew/?TBWo", "type": "crew"}
 {"aid": "Steven Tyler", "type": "unknown", "url": null}
 {"aid": "Joe Perry", "type": "unknown", "url": null}
 {"aid": "Laura Dern", "url": "/Guests/?1328", "type": "guest"}
@@ -1326,17 +1333,11 @@
 {"aid": "Ashley Hamilton", "url": "/Guests/?1325", "type": "guest"}
 {"aid": "Cypress Hill", "url": "/Guests/?1324", "type": "guest"}
 {"aid": "Muggsy Bogues", "url": "/Guests/?1320", "type": "guest"}
-{"aid": "Nirvana", "url": "/Guests/?1319", "type": "guest"}
-{"aid": "Skid Row", "url": "/Guests/?1322", "type": "guest"}
 {"aid": "RuPaul", "url": "/Guests/?1321", "type": "guest"}
 {"aid": "Kevin Kline", "url": "/Guests/?1313", "type": "guest"}
-{"aid": "Bonnie Turner", "url": "/Crew/?BoTu", "type": "crew"}
-{"aid": "Terry Turner", "url": "/Crew/?TeTu", "type": "crew"}
 {"aid": "Joel Godard", "type": "unknown", "url": null}
 {"aid": "Willie Nelson", "url": "/Guests/?1314", "type": "guest"}
 {"aid": "Midnight Oil", "url": "/Guests/?1312", "type": "guest"}
-{"aid": "Warren Hutcherson", "url": "/Crew/?WaHu", "type": "crew"}
-{"aid": "Kirstie Alley", "url": "/Guests/?1309", "type": "guest"}
 {"aid": "Peter Gabriel", "url": "/Guests/?1308", "type": "guest"}
 {"aid": "Miranda Richardson", "url": "/Guests/?1302", "type": "guest"}
 {"aid": "Stephen Rea", "url": "/Guests/?1305", "type": "guest"}
@@ -1347,59 +1348,28 @@
 {"aid": "Linda McCartney", "url": "/Guests/?1293", "type": "guest"}
 {"aid": "Giorgio Armani", "url": "/Guests/?1290", "type": "guest"}
 {"aid": "Luke Perry", "url": "/Guests/?1287", "type": "guest"}
-{"aid": "Jeff Renaudo", "url": "/Crew/?JeRe", "type": "crew"}
 {"aid": "Joe Mantegna", "url": "/Guests/?1281", "type": "guest"}
-{"aid": "Grafton True", "url": "/Crew/?GrTr", "type": "crew"}
 {"aid": "Glenn Close", "url": "/Guests/?1274", "type": "guest"}
 {"aid": "The Black Crowes", "url": "/Guests/?1275", "type": "guest"}
 {"aid": "Mary Beth Hurt", "url": "/Guests/?1276", "type": "guest"}
-{"aid": "Roseanne Arnold", "url": "/Guests/?1271", "type": "guest"}
 {"aid": "Dick Butkus", "url": "/Guests/?1273", "type": "guest"}
 {"aid": "Sinbad", "url": "/Guests/?1267", "type": "guest"}
 {"aid": "Sade", "url": "/Guests/?1268", "type": "guest"}
 {"aid": "Morrissey", "url": "/Guests/?1266", "type": "guest"}
 {"aid": "Catherine O'Hara", "url": "/Guests/?1263", "type": "guest"}
+{"aid": "10,000 Maniacs", "url": "/Guests/?1264", "type": "guest"}
 {"aid": "Arrested Development", "url": "/Guests/?1261", "type": "guest"}
 {"aid": "Spin Doctors", "url": "/Guests/?1257", "type": "guest"}
 {"aid": "Tim Robbins", "url": "/Guests/?1253", "type": "guest"}
 {"aid": "Sinead O'Connor", "url": "/Guests/?1254", "type": "guest"}
 {"aid": "Bobby Brown", "url": "/Guests/?1250", "type": "guest"}
-{"aid": "Siobhan Fallon", "url": "/Cast/?SiFa", "type": "cast"}
-{"aid": "Beth Cahill", "url": "/Cast/?BeCa", "type": "cast"}
-{"aid": "Sharon Stone", "url": "/Guests/?1236", "type": "guest"}
-{"aid": "Ken Stabler", "url": "/Guests/?1239", "type": "guest"}
-{"aid": "Mary Stuart Masterson", "url": "/Guests/?1234", "type": "guest"}
-{"aid": "Barbra Streisand", "url": "/Guests/?1231", "type": "guest"}
-{"aid": "Jason Priestley", "url": "/Guests/?1225", "type": "guest"}
-{"aid": "Teenage Fanclub", "url": "/Guests/?1226", "type": "guest"}
-{"aid": "Susan Dey", "url": "/Guests/?1223", "type": "guest"}
-{"aid": "C+C Music Factory", "url": "/Guests/?1224", "type": "guest"}
-{"aid": "Bruce Hornsby", "url": "/Guests/?1220", "type": "guest"}
-{"aid": "Ivan Neville", "url": "/Guests/?1221", "type": "guest"}
-{"aid": "Monk Boudreaux", "url": "/Guests/?1219", "type": "guest"}
-{"aid": "Rob Morrow", "url": "/Guests/?1214", "type": "guest"}
-{"aid": "Lew Del Gatto", "url": "/Crew/?LeDG", "type": "crew"}
-{"aid": "Susan Lucci", "url": "/Guests/?1213", "type": "guest"}
-{"aid": "Hammer", "url": "/Guests/?1207", "type": "guest"}
-{"aid": "Macaulay Culkin", "url": "/Guests/?1203", "type": "guest"}
-{"aid": "Kieran Culkin", "url": "/Guests/?1205", "type": "guest"}
-{"aid": "Tin Machine", "url": "/Guests/?1204", "type": "guest"}
-{"aid": "Linda Hamilton", "url": "/Guests/?1199", "type": "guest"}
-{"aid": "Edward Furlong", "url": "/Guests/?1201", "type": "guest"}
-{"aid": "Rachel Bolan", "type": "unknown", "url": null}
-{"aid": "Sebastian Bach", "type": "unknown", "url": null}
-{"aid": "John McLaughlin", "url": "/Guests/?1194", "type": "guest"}
-{"aid": "Arnold Schwarzenegger", "url": "/Guests/?1195", "type": "guest"}
-{"aid": "Ted Danson", "url": "/Guests/?1188", "type": "guest"}
-{"aid": "Color Me Badd", "url": "/Guests/?1185", "type": "guest"}
-{"aid": "Michael Jordan", "url": "/Guests/?1179", "type": "guest"}
-{"aid": "Public Enemy", "url": "/Guests/?1180", "type": "guest"}
-{"aid": "Jesse Jackson", "url": "/Guests/?1181", "type": "guest"}
-{"aid": "Spike Lee", "url": "/Guests/?1182", "type": "guest"}
+{"aid": "Cher", "url": "/Guests/?1252", "type": "guest"}
 {"aid": "Spike Feresten", "url": "/Crew/?SpFe", "type": "crew"}
+{"aid": "Dennis Miller", "url": "/Cast/?DeMi", "type": "cast"}
 {"aid": "Elvis Costello", "url": "/Guests/?1178", "type": "guest"}
 {"aid": "Andrew Robin", "url": "/Crew/?AnRo", "type": "crew"}
 {"aid": "Delta Burke", "url": "/Guests/?1173", "type": "guest"}
+{"aid": "Bob Odenkirk", "url": "/Crew/?BoOd", "type": "crew"}
 {"aid": "Chris Isaak", "url": "/Guests/?1174", "type": "guest"}
 {"aid": "Silvertone", "url": "/Guests/?1175", "type": "guest"}
 {"aid": "Steven Seagal", "url": "/Guests/?1171", "type": "guest"}
@@ -1409,6 +1379,7 @@
 {"aid": "Fishbone", "url": "/Guests/?1163", "type": "guest"}
 {"aid": "Razor Ruddock", "url": "/Guests/?1164", "type": "guest"}
 {"aid": "Michael J. Fox", "url": "/Guests/?1160", "type": "guest"}
+{"aid": "A. Whitney Brown", "url": "/Cast/?AWBr", "type": "cast"}
 {"aid": "Arthur Kent", "url": "/Guests/?1159", "type": "guest"}
 {"aid": "Roseanne Barr", "url": "/Guests/?1150", "type": "guest"}
 {"aid": "Deee-Lite", "url": "/Guests/?1151", "type": "guest"}
@@ -1437,6 +1408,7 @@
 {"aid": "Kyle MacLachlan", "url": "/Guests/?1115", "type": "guest"}
 {"aid": "Audrey Peart Dickman", "url": "/Crew/?AuPD", "type": "crew"}
 {"aid": "The Notting Hillbillies", "url": "/Guests/?1114", "type": "guest"}
+{"aid": "Nora Dunn", "url": "/Cast/?NoDu", "type": "cast"}
 {"aid": "Andrew Dice Clay", "url": "/Guests/?1110", "type": "guest"}
 {"aid": "The Spanic Boys", "url": "/Guests/?1111", "type": "guest"}
 {"aid": "Julee Cruise", "url": "/Guests/?1112", "type": "guest"}
@@ -1465,9 +1437,11 @@
 {"aid": "Ed O'Neill", "url": "/Guests/?1078", "type": "guest"}
 {"aid": "Maury Povich", "url": "/Guests/?1080", "type": "guest"}
 {"aid": "Harry Connick Jr.", "url": "/Guests/?1079", "type": "guest"}
+{"aid": "Marc Shaiman", "url": "/Crew/?MrSh", "type": "crew"}
 {"aid": "Andie MacDowell", "url": "/Guests/?1075", "type": "guest"}
 {"aid": "Tracy Chapman", "url": "/Guests/?1076", "type": "guest"}
 {"aid": "Robert Wagner", "url": "/Guests/?1072", "type": "guest"}
+{"aid": "Linda Ronstadt", "url": "/Guests/?1073", "type": "guest"}
 {"aid": "Aaron Neville", "url": "/Guests/?1074", "type": "guest"}
 {"aid": "K.D. Lang & The Reclines", "url": "/Guests/?1071", "type": "guest"}
 {"aid": "David Byrne", "url": "/Guests/?1069", "type": "guest"}
@@ -1477,6 +1451,7 @@
 {"aid": "Kathleen Turner", "url": "/Guests/?1062", "type": "guest"}
 {"aid": "Rick Moranis", "url": "/Guests/?1060", "type": "guest"}
 {"aid": "Rickie Lee Jones", "url": "/Guests/?1061", "type": "guest"}
+{"aid": "Steve Jordan", "url": "/Crew/?StJo", "type": "crew"}
 {"aid": "Timothy Busfield", "url": "/Guests/?1055", "type": "guest"}
 {"aid": "Paulina Porizkova", "url": "/Guests/?1056", "type": "guest"}
 {"aid": "Wayne Gretzky", "url": "/Guests/?1050", "type": "guest"}
@@ -1517,6 +1492,35 @@
 {"aid": "Fred Newman", "url": "/Guests/?1004", "type": "guest"}
 {"aid": "Laurie Metcalf", "url": "/Cast/?LaMe", "type": "cast"}
 {"aid": "Keith Richards", "url": "/Guests/?997", "type": "guest"}
+{"aid": "Judge Reinhold", "url": "/Guests/?994", "type": "guest"}
+{"aid": "Randy Travis", "url": "/Guests/?993", "type": "guest"}
+{"aid": "Justine Bateman", "url": "/Guests/?989", "type": "guest"}
+{"aid": "Terrance Trent D'Arby", "url": "/Guests/?990", "type": "guest"}
+{"aid": "BoDeans", "url": "/Guests/?987", "type": "guest"}
+{"aid": "Maria McKee", "url": "/Guests/?988", "type": "guest"}
+{"aid": "Leland Sklar", "url": "/Guests/?984", "type": "guest"}
+{"aid": "Sen. Paul Simon", "url": "/Guests/?980", "type": "guest"}
+{"aid": "The Mariachi Vargas de Tecalitlan", "url": "/Guests/?979", "type": "guest"}
+{"aid": "Angie Dickinson", "url": "/Guests/?971", "type": "guest"}
+{"aid": "Buster Poindexter", "url": "/Guests/?972", "type": "guest"}
+{"aid": "The Banshees of Blue", "url": "/Guests/?974", "type": "guest"}
+{"aid": "The Uptown Horns", "url": "/Guests/?976", "type": "guest"}
+{"aid": "David Gilmour", "url": "/Guests/?973", "type": "guest"}
+{"aid": "Bryan Ferry", "url": "/Guests/?969", "type": "guest"}
+{"aid": "Rhea Perlman", "url": "/Guests/?970", "type": "guest"}
+{"aid": "Sydney Biddle Barrows", "url": "/Guests/?966", "type": "guest"}
+{"aid": "Robert Mitchum", "url": "/Guests/?960", "type": "guest"}
+{"aid": "Simply Red", "url": "/Guests/?961", "type": "guest"}
+{"aid": "Bentley Mitchum", "url": "/Guests/?963", "type": "guest"}
+{"aid": "Jane Greer", "url": "/Guests/?962", "type": "guest"}
+{"aid": "Ric Ocasek", "type": "unknown", "url": null}
+{"aid": "Elvira", "url": "/Guests/?959", "type": "guest"}
+{"aid": "Dabney Coleman", "url": "/Guests/?957", "type": "guest"}
+{"aid": "The Cars", "url": "/Guests/?958", "type": "guest"}
+{"aid": "LL Cool J", "url": "/Guests/?955", "type": "guest"}
+{"aid": "The Pull", "url": "/Guests/?956", "type": "guest"}
+{"aid": "Branford Marsalis", "url": "/Guests/?952", "type": "guest"}
+{"aid": "Bruce Babbitt", "url": "/Guests/?953", "type": "guest"}
 {"aid": "Roy Orbison", "url": "/Guests/?949", "type": "guest"}
 {"aid": "Garry Shandling", "url": "/Guests/?944", "type": "guest"}
 {"aid": "Los Lobos", "url": "/Guests/?945", "type": "guest"}

@@ -1,5 +1,4 @@
-{"aid": "Chevy Chase", "sid": 1, "update_anchor": true, "featured": false, "first_epid": null, "last_epid": null}
-{"aid": "Chevy Chase", "sid": 2, "update_anchor": true, "last_epid": "19761030", "featured": false, "first_epid": null}
+{"aid": "George Coe", "sid": 1, "featured": false, "first_epid": null, "last_epid": null, "update_anchor": false}
 {"aid": "Alan Zweibel", "sid": 5, "featured": true, "first_epid": "19800409", "last_epid": null, "update_anchor": false}
 {"aid": "Sasheer Zamata", "sid": 39, "featured": true, "first_epid": "20140118", "last_epid": null, "update_anchor": false}
 {"aid": "Sasheer Zamata", "sid": 40, "featured": true, "first_epid": null, "last_epid": null, "update_anchor": false}
@@ -490,7 +489,6 @@
 {"aid": "Jane Curtin", "sid": 4, "update_anchor": true, "featured": false, "first_epid": null, "last_epid": null}
 {"aid": "Jane Curtin", "sid": 5, "update_anchor": true, "featured": false, "first_epid": null, "last_epid": null}
 {"aid": "Billy Crystal", "sid": 10, "featured": false, "first_epid": null, "last_epid": null, "update_anchor": false}
-{"aid": "George Coe", "sid": 1, "featured": false, "first_epid": null, "last_epid": null, "update_anchor": false}
 {"aid": "Ellen Cleghorne", "sid": 17, "featured": true, "first_epid": null, "last_epid": null, "update_anchor": false}
 {"aid": "Ellen Cleghorne", "sid": 18, "featured": true, "first_epid": null, "last_epid": null, "update_anchor": false}
 {"aid": "Ellen Cleghorne", "sid": 19, "featured": false, "first_epid": null, "last_epid": null, "update_anchor": false}
@@ -499,6 +497,8 @@
 {"aid": "Michael Che", "sid": 41, "featured": true, "update_anchor": true, "first_epid": null, "last_epid": null}
 {"aid": "Michael Che", "sid": 42, "update_anchor": true, "featured": false, "first_epid": null, "last_epid": null}
 {"aid": "Michael Che", "sid": 43, "update_anchor": true, "featured": false, "first_epid": null, "last_epid": null}
+{"aid": "Chevy Chase", "sid": 1, "update_anchor": true, "featured": false, "first_epid": null, "last_epid": null}
+{"aid": "Chevy Chase", "sid": 2, "update_anchor": true, "last_epid": "19761030", "featured": false, "first_epid": null}
 {"aid": "Dana Carvey", "sid": 12, "featured": false, "first_epid": null, "last_epid": null, "update_anchor": false}
 {"aid": "Dana Carvey", "sid": 13, "featured": false, "first_epid": null, "last_epid": null, "update_anchor": false}
 {"aid": "Dana Carvey", "sid": 14, "featured": false, "first_epid": null, "last_epid": null, "update_anchor": false}

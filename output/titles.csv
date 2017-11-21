@@ -1,19 +1,61 @@
 category,epid,name,order,skid,tid,sid
-Cold Opening,19880227,Pumping Up With Hans & Franz,0,74.0,198802271,13
-Monologue,19880227,,1,,198802272,13
-Commercial,19880227,Wilson Trap Doors,2,,198802273,13
-Show,19880227,Church Chat,3,67.0,198802274,13
-Sketch,19880227,Deregulated Airline,4,,198802275,13
-Intro,19880227,,5,,198802276,13
-Musical Performance,19880227,"""Like the Weather""",6,,198802277,13
-Weekend Update,19880227,,7,,198802278,13
-Sketch,19880227,"Jorge Garcia, Nice Guy Dictator",8,,198802279,13
-Show,19880227,The Cop & The Prostitute,9,,1988022710,13
-Show,19880227,When Great Minds Meet,10,,1988022711,13
-Intro,19880227,,11,,1988022712,13
-Musical Performance,19880227,"""What's the Matter Here""",12,,1988022713,13
-Sketch,19880227,Pirates,13,,1988022714,13
-Goodnights,19880227,,14,,1988022715,13
+Cold Opening,19920516,The Tonight Show,0,45.0,199205161,17
+Monologue,19920516,,1,,199205162,17
+Commercial,19920516,Action Cats,2,,199205163,17
+Sketch,19920516,Take Your Shirt Off,3,,199205164,17
+Show,19920516,Sprockets,4,84.0,199205165,17
+Miscellaneous,19920516,Deep Thoughts,5,98.0,199205166,17
+Musical Performance,19920516,"""Save the Best for Last""",6,,199205167,17
+Weekend Update,19920516,,7,,199205168,17
+Sketch,19920516,Delta Delta Delta,8,,199205169,17
+Musical Sketch,19920516,Cowboy Song,9,,1992051610,17
+Miscellaneous,19920516,Backstage,10,,1992051611,17
+Sketch,19920516,"Frank Gannon, P.I. P.I.",11,102.0,1992051612,17
+Musical Performance,19920516,"""The Comfort Zone""",12,,1992051613,17
+Sketch,19920516,The Sensitive Naked Man,13,107.0,1992051614,17
+Sketch,19920516,Bad Expectant Mother,14,,1992051615,17
+Goodnights,19920516,,15,,1992051616,17
+Cold Opening,20171111,Vice President's Office,0,,201711111,43
+Monologue,20171111,,1,,201711112,43
+Sketch,20171111,Tournament Fighter,2,,201711113,43
+Sketch,20171111,Lion King Screen Tests,3,,201711114,43
+Commercial,20171111,Demoratic National Committee (III),4,,201711115,43
+Film,20171111,Beck and Kyle,5,,201711116,43
+Musical Performance,20171111,"""...Ready For It?""",6,,201711117,43
+Weekend Update,20171111,,7,,201711118,43
+Sketch,20171111,The Last Black Unicorn,8,,201711119,43
+Show,20171111,Get Woke With Tamika,9,,2017111110,43
+Show,20171111,The Dolphin Who Learned To Speak,10,,2017111111,43
+Musical Performance,20171111,"""Call It What You Want""",11,,2017111112,43
+Commercial,20171111,Whiskers R' We,12,,2017111113,43
+In Memoriam,20171111,,13,,2017111114,43
+Goodnights,20171111,,14,,2017111115,43
+Cold Opening,20171104,Paul Manafort's Apartment,0,,201711041,43
+Monologue,20171104,,1,,201711042,43
+Game Show,20171104,The Price is Right,2,,201711043,43
+Film,20171104,Confident,3,,201711044,43
+Sketch,20171104,Ad Council Awards Dinner,4,,201711045,43
+Film,20171104,The Baby Step,5,,201711046,43
+Musical Performance,20171104,"""Bad Mood""",6,,201711047,43
+Weekend Update,20171104,,7,,201711048,43
+Show,20171104,Fresh Takes,8,,201711049,43
+Sketch,20171104,New Wife,9,,2017110410,43
+Musical Performance,20171104,"""I Would Die For You""",10,,2017110411,43
+Film,20171104,Beers,11,,2017110412,43
+Goodnights,20171104,,12,,2017110413,43
+Cold Opening,20171014,Trucker Rally,0,,201710141,43
+Monologue,20171014,,1,,201710142,43
+Game Show,20171014,Bank Breakers,2,,201710143,43
+Film,20171014,Kellywise,3,,201710144,43
+Sketch,20171014,Office Halloween Party,4,,201710145,43
+Show,20171014,Women's Round Table,5,290.0,201710146,43
+Musical Performance,20171014,"""What About Us""",6,,201710147,43
+Weekend Update,20171014,,7,,201710148,43
+Sketch,20171014,Hotel Check-In,8,,201710149,43
+Sketch,20171014,Nursing Home,9,,2017101410,43
+Musical Performance,20171014,"""Beautiful Trauma""",10,,2017101411,43
+Film,20171014,Customer Service,11,,2017101412,43
+Goodnights,20171014,,12,,2017101413,43
 Cold Opening,20171007,"""I Won't Back Down""",0,,201710071,43
 Monologue,20171007,,1,,201710072,43
 Commercial,20171007,E! New Fall Lineup,2,,201710073,43
@@ -43,174 +85,305 @@ Film,20170930,Papyrus,10,,2017093011,43
 Sketch,20170930,Dive Bar,11,,2017093012,43
 In Memoriam,20170930,,12,,2017093013,43
 Goodnights,20170930,,13,,2017093014,43
-Cold Opening,19880220,Calgary 1988,0,,198802201,13
-Monologue,19880220,,1,,198802202,13
-Sketch,19880220,Giant Businessman,2,,198802203,13
-Sketch,19880220,The Bean Cafe,3,,198802204,13
-Show,19880220,The Pat Stevens Show,4,61.0,198802205,13
-Musical Performance,19880220,"""Forever and Ever, Amen""",5,,198802206,13
-Weekend Update,19880220,,6,,198802207,13
-Sketch,19880220,Girl Watchers,7,,198802208,13
-Sketch,19880220,Apple Support Systems,8,,198802209,13
-Commercial,19880220,Casey Kasem Sings The Beatles,9,,1988022010,13
-Sketch,19880220,Delivery Room,10,,1988022011,13
-Sketch,19880220,Stand-Ups,11,,1988022012,13
-Musical Performance,19880220,"""What'll You Do""",12,,1988022013,13
-Sketch,19880220,Sentimental Value Pawn Shop,13,,1988022014,13
-Goodnights,19880220,,14,,1988022015,13
-Cold Opening,19880213,Republican Debate 88,0,,198802131,13
-Monologue,19880213,,1,,198802132,13
-Sketch,19880213,Family Ties,2,,198802133,13
-Show,19880213,Learning to Feel,3,75.0,198802134,13
-Musical Performance,19880213,"""Wishing Well""",4,,198802135,13
-Weekend Update,19880213,,5,,198802136,13
-Sketch,19880213,Inspiration,6,,198802137,13
-Sketch,19880213,St. Valentine's Day Massacre,7,,198802138,13
-Musical Performance,19880213,"""Under My Thumb""",8,,198802139,13
-Sketch,19880213,Talking Behind Her Back,9,,1988021310,13
-Show,19880213,Friday Night Videos,10,,1988021311,13
-Goodnights,19880213,,11,,1988021312,13
-Cold Opening,19880130,BushWhacked!,0,,198801301,13
-Monologue,19880130,,1,,198801302,13
-Commercial,19880130,Handi-Off,2,,198801303,13
-Show,19880130,The NFL Today,3,70.0,198801304,13
-Show,19880130,Democratic Debate 88,4,,198801305,13
-Sketch,19880130,Mother-in-Law,5,,198801306,13
-Musical Performance,19880130,"""Testimony""",6,,198801307,13
-Weekend Update,19880130,,7,,198801308,13
-Sketch,19880130,Sitcom Actress,8,,198801309,13
-Musical Performance,19880130,"""Somewhere Down the Crazy River""",9,,1988013010,13
-Sketch,19880130,Master Thespian,10,63.0,1988013011,13
-Film,19880130,The Garden,11,,1988013012,13
-Goodnights,19880130,,12,,1988013013,13
-Cold Opening,19880123,Pumping Up With Hans & Franz,0,74.0,198801231,13
-Monologue,19880123,,1,,198801232,13
-Commercial,19880123,Compulsion,2,,198801233,13
-Sketch,19880123,Birth Tape,3,,198801234,13
-Show,19880123,Learning to Feel,4,75.0,198801235,13
-Musical Performance,19880123,"""Never Die Young""",5,,198801236,13
-Weekend Update,19880123,,6,,198801237,13
-Sketch,19880123,60th Birthday,7,,198801238,13
-Musical Performance,19880123,"""Sweet Potato Pie""",8,,198801239,13
-Award Show,19880123,The 8th Annual ACE Awards,9,,1988012310,13
-Musical Performance,19880123,"""Lonesome Road""",10,,1988012311,13
-Show,19880123,Discover,11,72.0,1988012312,13
-Sketch,19880123,I Wuv You,12,,1988012313,13
-Goodnights,19880123,,13,,1988012314,13
-Cold Opening,19871219,30th Christmas,0,,198712191,13
-Monologue,19871219,,1,,198712192,13
-Commercial,19871219,Gary Hart,2,,198712193,13
-Show,19871219,Pumping Up With Hans & Franz,3,74.0,198712194,13
-Sketch,19871219,Castaways,4,,198712195,13
-Sketch,19871219,Master Thespian,5,63.0,198712196,13
-Musical Performance,19871219,"""Los Laureles"", ""La Cigarra""",6,,198712197,13
-Weekend Update,19871219,,7,,198712198,13
-Sketch,19871219,Ski Lodge,8,,198712199,13
-Sketch,19871219,Subway,9,,1987121910,13
-Show,19871219,Succinctly Speaking,10,,1987121911,13
-Miscellaneous,19871219,Season's Greetings,11,,1987121912,13
-Musical Performance,19871219,"""Under African Skies""",12,,1987121913,13
-Sketch,19871219,Texas Diner,13,,1987121914,13
-Miscellaneous,19871219,A Message to Future Viewers,14,,1987121915,13
-Goodnights,19871219,,15,,1987121916,13
-Cold Opening,19871212,Translator,0,,198712121,13
-Monologue,19871212,,1,,198712122,13
-Commercial,19871212,Docu-fresh,2,,198712123,13
-Sketch,19871212,Airplane,3,,198712124,13
-Show,19871212,Donahue,4,43.0,198712125,13
-Game Show,19871212,Wedgie Fever!,5,,198712126,13
-Musical Performance,19871212,"""Hot Hot Hot""",6,,198712127,13
-Weekend Update,19871212,,7,,198712128,13
-Sketch,19871212,Christmas Party,8,,198712129,13
-Musical Performance,19871212,"""Song For My Sara""",9,,1987121210,13
-Show,19871212,Police Women,10,,1987121211,13
-Commercial,19871212,The Assimilated Jew's Hanukkah,11,,1987121212,13
-Sketch,19871212,Drunk Man,12,,1987121213,13
-Goodnights,19871212,,13,,1987121214,13
-Cold Opening,19871205,Gorbachev/Reagan,0,,198712051,13
-Monologue,19871205,,1,,198712052,13
-Commercial,19871205,Handi-Off,2,,198712053,13
-Show,19871205,At The Movies,3,,198712054,13
-Show,19871205,Church Chat,4,67.0,198712055,13
-Musical Performance,19871205,"""The Right Stuff""",5,,198712056,13
-Weekend Update,19871205,,6,,198712057,13
-Sketch,19871205,Jungle Room,7,,198712058,13
-Sketch,19871205,Mona Lisa,8,,198712059,13
-Show,19871205,Ann Landers' Playhouse,9,,1987120510,13
-Musical Performance,19871205,"""Kiss and Tell""",10,,1987120511,13
-Sketch,19871205,Doorman,11,,1987120512,13
-Goodnights,19871205,,12,,1987120513,13
-Cold Opening,19871121,A Message From The Vice President,0,,198711211,13
-Monologue,19871121,,1,,198711212,13
-Show,19871121,Pumping Up With Hans & Franz,2,74.0,198711213,13
-Sketch,19871121,Anne Boleyn,3,,198711214,13
-Commercial,19871121,Manufacturers of Machine Part Components United To Save Our Courts,4,,198711215,13
-Musical Performance,19871121,"""We All Sleep Alone""",5,,198711216,13
-Sketch,19871121,Ching Change,6,,198711217,13
-Weekend Update,19871121,,7,,198711218,13
-Sketch,19871121,Mayflower Madam,8,,198711219,13
-Musical Sketch,19871121,Country Through and Through,9,,1987112110,13
-Musical Performance,19871121,"""I Found Someone""",10,,1987112111,13
-Sketch,19871121,Thought Bubble,11,,1987112112,13
-Sketch,19871121,Peeping Tom,12,,1987112113,13
-Goodnights,19871121,,13,,1987112114,13
-Cold Opening,19871114,The Rolling Paper Chase,0,,198711141,13
-Monologue,19871114,,1,,198711142,13
-Commercial,19871114,Compulsion,2,,198711143,13
-Sketch,19871114,Death Be Not Deadly,3,,198711144,13
-Sketch,19871114,The Mountain Man,4,,198711145,13
-Musical Performance,19871114,"""The Right Thing""",5,,198711146,13
-Weekend Update,19871114,,6,,198711147,13
-Sketch,19871114,Sweeney's Comeback,7,,198711148,13
-Film,19871114,Out Of Gas,8,,198711149,13
-Sketch,19871114,Andre & Rex: Macho Hairstylists,9,,1987111410,13
-Commercial,19871114,BeautyBath,10,,1987111411,13
-Musical Performance,19871114,"""Suffer""",11,,1987111412,13
-Sketch,19871114,Mysterious Old Man,12,,1987111413,13
-Goodnights,19871114,,13,,1987111414,13
-Cold Opening,19871031,"Lifestyles of the Rich, Famous and Scary",0,,198710311,13
-Monologue,19871031,,1,,198710312,13
-Commercial,19871031,Nature's Broom,2,,198710313,13
-Show,19871031,The Winning Spirit,3,,198710314,13
-Sketch,19871031,Don't Go Down To The Basement,4,,198710315,13
-Sketch,19871031,Campfire Stories,5,,198710316,13
-Musical Performance,19871031,"""Strap Me In""",6,,198710317,13
-Weekend Update,19871031,,7,,198710318,13
-Sketch,19871031,Marriage Counselor,8,,198710319,13
-Sketch,19871031,"Count Dracula, Self-Taught Auto Mechanic",9,,1987103110,13
-Show,19871031,The Pat Stevens Show,10,61.0,1987103111,13
-Sketch,19871031,Mascot Ideas,11,,1987103112,13
-Musical Performance,19871031,"""Double Trouble""",12,,1987103113,13
-Sketch,19871031,Investment Firm,13,,1987103114,13
-Goodnights,19871031,,14,,1987103115,13
-Cold Opening,19871024,Fatal Attraction II,0,,198710241,13
-Monologue,19871024,,1,,198710242,13
-Show,19871024,Wall Street Week,2,,198710243,13
-Show,19871024,Church Chat,3,67.0,198710244,13
-Commercial,19871024,Pitman And Bullock,4,,198710245,13
-Sketch,19871024,Teeny Café,5,,198710246,13
-Weekend Update,19871024,,6,,198710247,13
-Sketch,19871024,After The Date,7,,198710248,13
-Musical Performance,19871024,"""Go Cut Creator Go""",8,,198710249,13
-Show,19871024,Discover,9,72.0,1987102410,13
-Sketch,19871024,Joey Comes Home,10,,1987102411,13
-Musical Performance,19871024,"""This & That""",11,,1987102412,13
-Film,19871024,Cat Dentist,12,,1987102413,13
-Goodnights,19871024,,13,,1987102414,13
-Cold Opening,19871017,White House Dinner,0,,198710171,13
-Monologue,19871017,,1,,198710172,13
-Commercial,19871017,Gary Hart,2,,198710173,13
-Game Show,19871017,Common Knowledge,3,,198710174,13
-Show,19871017,The NFL Today,4,70.0,198710175,13
-Sketch,19871017,Slide Whistles,5,,198710176,13
-Musical Performance,19871017,"""We'll Be Together""",6,,198710177,13
-Weekend Update,19871017,,7,,198710178,13
-Sketch,19871017,Bullets Aren't Cheap,8,,198710179,13
-Sketch,19871017,Permission To Speak Freely,9,,1987101710,13
-Musical Performance,19871017,"""Little Wing""",10,,1987101711,13
-Sketch,19871017,Adventures In The Lost Realm,11,,1987101712,13
-Show,19871017,Pumping Up With Hans & Franz,12,74.0,1987101713,13
-Goodnights,19871017,,13,,1987101714,13
+Cold Opening,19920509,Perot for President,0,,199205091,17
+Monologue,19920509,,1,,199205092,17
+Commercial,19920509,John Cabrizio Chevrolet Mazda Hyundai,2,,199205093,17
+Game Show,19920509,Sabra Price Is Right,3,,199205094,17
+Sketch,19920509,Mr. Belvedere Fan Club,4,,199205095,17
+Musical Performance,19920509,"""Lucky Town""",5,,199205096,17
+Weekend Update,19920509,,6,,199205097,17
+Sketch,19920509,She Turned Into Her Mother!!,7,,199205098,17
+Musical Performance,19920509,"""57 Channels"", ""Living Proof""",8,,199205099,17
+Show,19920509,The Dark Side,9,93.0,1992050910,17
+Miscellaneous,19920509,Deep Thoughts,10,98.0,1992050911,17
+Show,19920509,Showcase Playhouse Theater,11,,1992050912,17
+Goodnights,19920509,,12,,1992050913,17
+Cold Opening,19920418,Clinton-Brown Debate,0,,199204181,17
+Monologue,19920418,,1,,199204182,17
+Game Show,19920418,Stand-Up And Win,2,,199204183,17
+Sketch,19920418,History Class,3,,199204184,17
+Musical Performance,19920418,"""Why""",4,,199204185,17
+Weekend Update,19920418,,5,,199204186,17
+Sketch,19920418,Passover Seder,6,,199204187,17
+Show,19920418,Lank Thompson: I'm A Handsome Black Man,7,,199204188,17
+Sketch,19920418,Permanent Positions,8,,199204189,17
+Musical Performance,19920418,"""Legend In My Living Room""",9,,1992041810,17
+Miscellaneous,19920418,Deep Thoughts,10,98.0,1992041811,17
+Show,19920418,I'm Chillin',11,96.0,1992041812,17
+Sketch,19920418,The Lenny Wise Show,12,,1992041813,17
+Goodnights,19920418,,13,,1992041814,17
+Cold Opening,19920411,Wayne's World,0,80.0,199204111,17
+Monologue,19920411,,1,,199204112,17
+Commercial,19920411,Jiffy Pop Airbag,2,,199204113,17
+Sketch,19920411,Hitting on Women,3,,199204114,17
+Sketch,19920411,Sex Games,4,,199204115,17
+Sketch,19920411,"Flippy, The Flipping Chihuahua",5,,199204116,17
+Commercial,19920411,Lung Brush,6,,199204117,17
+Sketch,19920411,Interrogation,7,,199204118,17
+Musical Performance,19920411,"""Alive""",8,,199204119,17
+Weekend Update,19920411,,9,,1992041110,17
+Sketch,19920411,Security Check,10,,1992041111,17
+Sketch,19920411,Ernie's,11,,1992041112,17
+Commercial,19920411,Tayster's Choice Spermicidal Jelly,12,,1992041113,17
+Commercial,19920411,Phil Hartman Creations,13,,1992041114,17
+Commercial,19920411,Tayster's Choice Spermicidal Jelly,14,,1992041115,17
+Musical Performance,19920411,"""Porch""",15,,1992041116,17
+Sketch,19920411,Porno Couple,16,,1992041117,17
+Commercial,19920411,Tayster's Choice Spermicidal Jelly,17,,1992041118,17
+Goodnights,19920411,,18,,1992041119,17
+Cold Opening,19920321,The McLaughlin Group,0,94.0,199203211,17
+Monologue,19920321,,1,,199203212,17
+Commercial,19920321,Action Cats,2,,199203213,17
+Show,19920321,"Lisa Pongrasic, Very Pregnant Undercover Cop",3,,199203214,17
+Sketch,19920321,"Lyle, The Effeminate Heterosexual",4,88.0,199203215,17
+Miscellaneous,19920321,Deep Thoughts,5,98.0,199203216,17
+Musical Performance,19920321,"""Never Gonna Get It"", ""Hold On""",6,,199203217,17
+Weekend Update,19920321,,7,,199203218,17
+Sketch,19920321,Delta Delta Delta,8,,199203219,17
+Miscellaneous,19920321,Deep Thoughts,9,98.0,1992032110,17
+Commercial,19920321,Monster Spray,10,,1992032111,17
+Sketch,19920321,Who Shot Me?,11,,1992032112,17
+Musical Performance,19920321,"""Free Your Mind""",12,,1992032113,17
+Sketch,19920321,Colosseum Events Committee,13,,1992032114,17
+Film,19920321,Schiller's Reel - Million Dollar Zombie,14,18.0,1992032115,17
+Sketch,19920321,Money for Booze,15,,1992032116,17
+Goodnights,19920321,,16,,1992032117,17
+Cold Opening,19920314,17th Annual Star Trek Convention,0,,199203141,17
+Monologue,19920314,,1,,199203142,17
+Commercial,19920314,Unforgivable,2,,199203143,17
+Show,19920314,My 75 Kids,3,,199203144,17
+Miscellaneous,19920314,Deep Thoughts,4,98.0,199203145,17
+Sketch,19920314,Unfrozen Cave Man Lawyer,5,105.0,199203146,17
+Musical Performance,19920314,"""Rodeo""",6,,199203147,17
+Weekend Update,19920314,,7,,199203148,17
+Show,19920314,Theatre Stories,8,106.0,199203149,17
+Sketch,19920314,"Anton Mesrobian, Teen Dermatologist",9,,1992031410,17
+Musical Performance,19920314,"""The River""",10,,1992031411,17
+Sketch,19920314,Country Singer Names,11,,1992031412,17
+Miscellaneous,19920314,Deep Thoughts,12,98.0,1992031413,17
+Sketch,19920314,The Ides of March,13,,1992031414,17
+Miscellaneous,19920314,Deep Thoughts,14,98.0,1992031415,17
+Goodnights,19920314,,15,,1992031416,17
+Cold Opening,19920222,Presidential Address,0,,199202221,17
+Monologue,19920222,,1,,199202222,17
+Sketch,19920222,Dick Clark Productions,2,,199202223,17
+Show,19920222,Coffee Talk,3,99.0,199202224,17
+Sketch,19920222,Tall Tales Of The Recession,4,,199202225,17
+Musical Performance,19920222,"""Stone Cold Bush""",5,,199202226,17
+Weekend Update,19920222,,6,,199202227,17
+Sketch,19920222,Delta Delta Delta,7,,199202228,17
+Sketch,19920222,A Star Is Born,8,,199202229,17
+Show,19920222,Daily Affirmation,9,100.0,1992022210,17
+Musical Performance,19920222,"""Under The Bridge""",10,,1992022211,17
+Miscellaneous,19920222,Deep Thoughts,11,98.0,1992022212,17
+Goodnights,19920222,,12,,1992022213,17
+Cold Opening,19920215,Olympic Figure Skating,0,,199202151,17
+Monologue,19920215,,1,,199202152,17
+Commercial,19920215,Jiffy Pop Airbag,2,,199202153,17
+Sketch,19920215,The Life and Times of Johnny Hildo,3,,199202154,17
+Game Show,19920215,Love Werks,4,,199202155,17
+Show,19920215,The Arsenio Hall Show,5,,199202156,17
+Miscellaneous,19920215,Deep Thoughts,6,98.0,199202157,17
+Musical Performance,19920215,"""The Concept""",7,,199202158,17
+Weekend Update,19920215,,8,,199202159,17
+Show,19920215,Beverly Hills 90210,9,,1992021510,17
+Commercial,19920215,La Tour and Johnson,10,,1992021511,17
+Sketch,19920215,Marriage Tests,11,,1992021512,17
+Miscellaneous,19920215,Deep Thoughts,12,98.0,1992021513,17
+Musical Performance,19920215,"""What You Do To Me"", ""Pet Rock""",13,,1992021514,17
+Sketch,19920215,Bank Robbery,14,,1992021515,17
+Goodnights,19920215,,15,,1992021516,17
+Cold Opening,19920208,L.A. Law,0,,199202081,17
+Monologue,19920208,,1,,199202082,17
+Commercial,19920208,Leevi's 3 Legged Jeans,2,,199202083,17
+Sketch,19920208,Harrassment Trial,3,,199202084,17
+Show,19920208,The Arakawa Group,4,,199202085,17
+Sketch,19920208,The Sensitive Naked Man,5,107.0,199202086,17
+Musical Performance,19920208,"""Here We Go Let's Rock and Roll"", ""Gonna Make You Sweat""",6,,199202087,17
+Weekend Update,19920208,,7,,199202088,17
+Sketch,19920208,Partridge Family vs. Brady Bunch,8,,199202089,17
+Miscellaneous,19920208,Deep Thoughts,9,98.0,1992020810,17
+Sketch,19920208,Gestures,10,,1992020811,17
+Miscellaneous,19920208,Backstage,11,,1992020812,17
+Sketch,19920208,Boss & Janitor,12,,1992020813,17
+Musical Performance,19920208,"""A Deeper Love""",13,,1992020814,17
+Sketch,19920208,Art Museum,14,,1992020815,17
+Miscellaneous,19920208,Deep Thoughts,15,98.0,1992020816,17
+Goodnights,19920208,,16,,1992020817,17
+Cold Opening,19920118,Wayne's World,0,80.0,199201181,17
+Monologue,19920118,,1,,199201182,17
+Commercial,19920118,The Love Toilet,2,,199201183,17
+Show,19920118,Adopt A Pet,3,,199201184,17
+Sketch,19920118,Daniel's Diner,4,,199201185,17
+Sketch,19920118,Dahmer's Defense,5,,199201186,17
+Musical Performance,19920118,"""Go Back to Your Woods""",6,,199201187,17
+Weekend Update,19920118,,7,,199201188,17
+Game Show,19920118,Bob Swerski's Quiz Masters,8,,199201189,17
+Sketch,19920118,Van Morrison Concert,9,,1992011810,17
+Musical Performance,19920118,"""The Weight""",10,,1992011811,17
+Miscellaneous,19920118,Backstage,11,,1992011812,17
+Commercial,19920118,"Kaufman's Big And Tall, And Short And Small Sephardic Jew Men's Clothing Store",12,,1992011813,17
+Goodnights,19920118,,13,,1992011814,17
+Cold Opening,19920111,Cover-Up,0,,199201111,17
+Monologue,19920111,,1,,199201112,17
+Commercial,19920111,Sálon,2,,199201113,17
+Sketch,19920111,It's Pat,3,101.0,199201114,17
+Sketch,19920111,Delta Delta Delta,4,,199201115,17
+Musical Sketch,19920111,Cowboy Song,5,,199201116,17
+Musical Performance,19920111,"""Smells Like Teen Spirit""",6,,199201117,17
+Weekend Update,19920111,,7,,199201118,17
+Sketch,19920111,Lenin's Body,8,,199201119,17
+Sketch,19920111,Movie Talk,9,,1992011110,17
+Commercial,19920111,Chris Rock's White Person's Guide To Surviving The Apollo,10,,1992011111,17
+Sketch,19920111,Insults,11,,1992011112,17
+Musical Performance,19920111,"""Territorial Pissing""",12,,1992011113,17
+Sketch,19920111,Minutes Behind,13,,1992011114,17
+Goodnights,19920111,,14,,1992011115,17
+Cold Opening,19911214,The Tonight Song,0,,199112141,17
+Monologue,19911214,,1,,199112142,17
+Commercial,19911214,Schmitts Gay,2,,199112143,17
+Game Show,19911214,Suckerpunch,3,,199112144,17
+Sketch,19911214,Doormen,4,,199112145,17
+Miscellaneous,19911214,Deep Thoughts,5,98.0,199112146,17
+Miscellaneous,19911214,The Energy Brothers,6,,199112147,17
+Musical Performance,19911214,"""Stop Thinkin' About That""",7,,199112148,17
+Weekend Update,19911214,,8,,199112149,17
+Show,19911214,Theatre Stories,9,106.0,1991121410,17
+Show,19911214,Live With Regis & Kathie Lee,10,91.0,1991121411,17
+Miscellaneous,19911214,Deep Thoughts,11,98.0,1991121412,17
+Musical Performance,19911214,"""Shed A Little Light""",12,,1991121413,17
+Sketch,19911214,Grandma Pugga,13,,1991121414,17
+Miscellaneous,19911214,Deep Thoughts,14,98.0,1991121415,17
+Sketch,19911214,Cowards,15,,1991121416,17
+Show,19911214,The Dark Side,16,93.0,1991121417,17
+Musical Performance,19911214,"""Sweet Baby James""",17,,1991121418,17
+Miscellaneous,19911214,Season's Greetings,18,,1991121419,17
+Goodnights,19911214,,19,,1991121420,17
+Cold Opening,19911207,Presidential Address,0,,199112071,17
+Monologue,19911207,,1,,199112072,17
+Musical Performance,19911207,"""Too Legit To Quit""",2,,199112073,17
+Sketch,19911207,Bad Haircut Support Group,3,,199112074,17
+Sketch,19911207,Turrell Daily Star,4,,199112075,17
+Intro,19911207,,5,,199112076,17
+Musical Performance,19911207,"""Addams Groove""",6,,199112077,17
+Weekend Update,19911207,,7,,199112078,17
+Sketch,19911207,Tales From The Barbecue,8,103.0,199112079,17
+Sketch,19911207,Johnny Letter,9,,1991120710,17
+Miscellaneous,19911207,Deep Thoughts,10,98.0,1991120711,17
+Sketch,19911207,Remembrances of Love,11,,1991120712,17
+Miscellaneous,19911207,Deep Thoughts,12,98.0,1991120713,17
+Musical Performance,19911207,"""This is the Way We Roll""",13,,1991120714,17
+Sketch,19911207,Dick Clark Productions,14,,1991120715,17
+Goodnights,19911207,,15,,1991120716,17
+Cold Opening,19911123,Hosting Alone,0,,199111231,17
+Monologue,19911123,,1,,199111232,17
+Commercial,19911123,The Love Toilet,2,,199111233,17
+Show,19911123,Bill Swerski's Super Fans,3,97.0,199111234,17
+Miscellaneous,19911123,Deep Thoughts,4,98.0,199111235,17
+Sketch,19911123,Flashback,5,,199111236,17
+Miscellaneous,19911123,Deep Thoughts,6,98.0,199111237,17
+Musical Performance,19911123,"""Baby Universal""",7,,199111238,17
+Weekend Update,19911123,,8,,199111239,17
+Sketch,19911123,Unfrozen Cave Man Lawyer,9,105.0,1991112310,17
+Show,19911123,Simon,10,92.0,1991112311,17
+Miscellaneous,19911123,Deep Thoughts,11,98.0,1991112312,17
+Sketch,19911123,Young Superboy,12,,1991112313,17
+Musical Performance,19911123,"""If There Is Something""",13,,1991112314,17
+Show,19911123,Daily Affirmation,14,100.0,1991112315,17
+Commercial,19911123,U.S. Fon,15,,1991112316,17
+Sketch,19911123,Medieval Scalders,16,,1991112317,17
+Miscellaneous,19911123,Deep Thoughts,17,98.0,1991112318,17
+Goodnights,19911123,,18,,1991112319,17
+Cold Opening,19911116,Campaign '91,0,,199111161,17
+Monologue,19911116,,1,,199111162,17
+Commercial,19911116,Leevi's 3 Legged Jeans,2,,199111163,17
+Sketch,19911116,"Toonces, The Cat Who Could Drive A Car - The Tooncinator",3,86.0,199111164,17
+Sketch,19911116,It's Pat,4,101.0,199111165,17
+Sketch,19911116,Massive Headwound Harry - The Cocktail Party,5,,199111166,17
+Miscellaneous,19911116,Deep Thoughts,6,98.0,199111167,17
+Miscellaneous,19911116,Backstage,7,,199111168,17
+Musical Performance,19911116,"""Can't Let Go""",8,,199111169,17
+Weekend Update,19911116,,9,,1991111610,17
+Sketch,19911116,Tough Girls,10,,1991111611,17
+Show,19911116,The Chris Farley Show,11,104.0,1991111612,17
+Musical Performance,19911116,"""If It's Over""",12,,1991111613,17
+Sketch,19911116,Baby Talk,13,,1991111614,17
+Film,19911116,Schiller's Reel - Hidden Camera Commercials,14,18.0,1991111615,17
+Goodnights,19911116,,15,,1991111616,17
+Cold Opening,19911102,Jury Selection,0,,199111021,17
+Monologue,19911102,,1,,199111022,17
+Commercial,19911102,Lung Brush,2,,199111023,17
+Show,19911102,Campaign '92,3,,199111024,17
+Game Show,19911102,Whose Ass Should I Kiss?,4,,199111025,17
+Miscellaneous,19911102,Deep Thoughts,5,98.0,199111026,17
+Musical Performance,19911102,"""Piece of Me""",6,,199111027,17
+Weekend Update,19911102,,7,,199111028,17
+Sketch,19911102,All Things Scottish,8,,199111029,17
+Commercial,19911102,Kiddie Metal,9,,1991110210,17
+Miscellaneous,19911102,Deep Thoughts,10,98.0,1991110211,17
+Show,19911102,Daily Affirmation,11,100.0,1991110212,17
+Musical Performance,19911102,"""Monkey Business""",12,,1991110213,17
+Sketch,19911102,Phone Illiteracy,13,,1991110214,17
+Show,19911102,I'm Chillin',14,96.0,1991110215,17
+Goodnights,19911102,,15,,1991110216,17
+Cold Opening,19911026,The McLaughlin Group,0,94.0,199110261,17
+Monologue,19911026,,1,,199110262,17
+Commercial,19911026,Coldcock,2,,199110263,17
+Sketch,19911026,Ron's Wings 'N' Things,3,,199110264,17
+Game Show,19911026,Dysfunctional Family Feud,4,,199110265,17
+Sketch,19911026,Club Banana,5,,199110266,17
+Musical Performance,19911026,"""Something To Talk About""",6,,199110267,17
+Weekend Update,19911026,,7,,199110268,17
+Sketch,19911026,The Curse Of The Wolf Man,8,,199110269,17
+Show,19911026,Young Actors Forum,9,,1991102610,17
+Musical Performance,19911026,"""I Can't Make You Love Me""",10,,1991102611,17
+Show,19911026,Pumping Up With Hans & Franz,11,74.0,1991102612,17
+Commercial,19911026,Nich-Aid,12,,1991102613,17
+Goodnights,19911026,,13,,1991102614,17
+Cold Opening,19911012,Clarence Thomas Hearings,0,,199110121,17
+Monologue,19911012,,1,,199110122,17
+Commercial,19911012,Lonely Choice,2,,199110123,17
+Sketch,19911012,Il Cantore,3,,199110124,17
+Sketch,19911012,It's Pat,4,101.0,199110125,17
+Miscellaneous,19911012,Deep Thoughts,5,98.0,199110126,17
+Musical Performance,19911012,"""Into the Great Wide Open""",6,,199110127,17
+Weekend Update,19911012,,7,,199110128,17
+Sketch,19911012,Their Eyes Were On Their Breasts!,8,,199110129,17
+Show,19911012,Coffee Talk,9,99.0,1991101210,17
+Musical Performance,19911012,"""Kings Highway""",10,,1991101211,17
+Show,19911012,Psycho Divorced Mother,11,,1991101212,17
+Miscellaneous,19911012,Deep Thoughts,12,98.0,1991101213,17
+Sketch,19911012,Look Who Else Is Talking Also,13,,1991101214,17
+Miscellaneous,19911012,Deep Thoughts,14,98.0,1991101215,17
+Goodnights,19911012,,15,,1991101216,17
+Cold Opening,19911005,The Tonight Show,0,45.0,199110051,17
+Monologue,19911005,,1,,199110052,17
+Commercial,19911005,Earthies,2,,199110053,17
+Sketch,19911005,Copy Machine,3,,199110054,17
+Game Show,19911005,Community College Bowl,4,,199110055,17
+Show,19911005,The Chris Farley Show,5,104.0,199110056,17
+Musical Performance,19911005,"""I Wanna Sex You Up""",6,,199110057,17
+Weekend Update,19911005,,7,,199110058,17
+Sketch,19911005,Apex Novelty,8,,199110059,17
+Show,19911005,Simon,9,92.0,1991100510,17
+Show,19911005,Real Life With Jane Pauley,10,,1991100511,17
+Musical Performance,19911005,"""I Adore Mi Amor""",11,,1991100512,17
+Sketch,19911005,Don't Get Me Wrong,12,,1991100513,17
+Goodnights,19911005,,13,,1991100514,17
+Cold Opening,19910928,Wayne's World,0,80.0,199109281,17
+Monologue,19910928,,1,,199109282,17
+Commercial,19910928,Schmitts Gay,2,,199109283,17
+Sketch,19910928,The First Black Harlem Globetrotter,3,,199109284,17
+Show,19910928,Bill Swerski's Super Fans,4,97.0,199109285,17
+Musical Performance,19910928,"""Can't Truss It""",5,,199109286,17
+Weekend Update,19910928,,6,,199109287,17
+Show,19910928,Daily Affirmation,7,100.0,199109288,17
+Miscellaneous,19910928,Backstage,8,,199109289,17
+Show,19910928,The Dark Side,9,93.0,1991092810,17
+Sketch,19910928,Tales From The Barbecue,10,103.0,1991092811,17
+Musical Performance,19910928,"""Bring Tha Noize""",11,,1991092812,17
+Sketch,19910928,Elevator,12,,1991092813,17
+Goodnights,19910928,,13,,1991092814,17
 Cold Opening,20170520,Hallelujah,0,,201705201,42
 Monologue,20170520,,1,,201705202,42
 Commercial,20170520,Cartier Fidget Spinner,2,,201705203,42
@@ -510,7 +683,7 @@ Musical Performance,20161001,"""Starboy""",5,,201610016,42
 Weekend Update,20161001,,6,,201610017,42
 Show,20161001,The Hunch Bunch,7,,201610018,42
 Miscellaneous,20161001,Melania Moments,8,289.0,201610019,42
-Show,20161001,Women's Round Table,9,,2016100110,42
+Show,20161001,Women's Round Table,9,290.0,2016100110,42
 Musical Performance,20161001,"""False Alarm""",10,,2016100111,42
 Commercial,20161001,Mr. Robot,11,,2016100112,42
 Goodnights,20161001,,12,,2016100113,42
@@ -7734,321 +7907,6 @@ Show,19920926,The Queen Shenequa Show,12,,1992092613,18
 Sketch,19920926,Mr. Casual Sex,13,,1992092614,18
 Miscellaneous,19920926,Deep Thoughts,14,98.0,1992092615,18
 Goodnights,19920926,,15,,1992092616,18
-Cold Opening,19920516,The Tonight Show,0,45.0,199205161,17
-Monologue,19920516,,1,,199205162,17
-Commercial,19920516,Action Cats,2,,199205163,17
-Sketch,19920516,Take Your Shirt Off,3,,199205164,17
-Show,19920516,Sprockets,4,84.0,199205165,17
-Miscellaneous,19920516,Deep Thoughts,5,98.0,199205166,17
-Musical Performance,19920516,"""Save the Best for Last""",6,,199205167,17
-Weekend Update,19920516,,7,,199205168,17
-Sketch,19920516,Delta Delta Delta,8,,199205169,17
-Musical Sketch,19920516,Cowboy Song,9,,1992051610,17
-Miscellaneous,19920516,Backstage,10,,1992051611,17
-Sketch,19920516,"Frank Gannon, P.I. P.I.",11,102.0,1992051612,17
-Musical Performance,19920516,"""The Comfort Zone""",12,,1992051613,17
-Sketch,19920516,The Sensitive Naked Man,13,107.0,1992051614,17
-Sketch,19920516,Bad Expectant Mother,14,,1992051615,17
-Goodnights,19920516,,15,,1992051616,17
-Cold Opening,19920509,Perot for President,0,,199205091,17
-Monologue,19920509,,1,,199205092,17
-Commercial,19920509,John Cabrizio Chevrolet Mazda Hyundai,2,,199205093,17
-Game Show,19920509,Sabra Price Is Right,3,,199205094,17
-Sketch,19920509,Mr. Belvedere Fan Club,4,,199205095,17
-Musical Performance,19920509,"""Lucky Town""",5,,199205096,17
-Weekend Update,19920509,,6,,199205097,17
-Sketch,19920509,She Turned Into Her Mother!!,7,,199205098,17
-Musical Performance,19920509,"""57 Channels"", ""Living Proof""",8,,199205099,17
-Show,19920509,The Dark Side,9,93.0,1992050910,17
-Miscellaneous,19920509,Deep Thoughts,10,98.0,1992050911,17
-Show,19920509,Showcase Playhouse Theater,11,,1992050912,17
-Goodnights,19920509,,12,,1992050913,17
-Cold Opening,19920418,Clinton-Brown Debate,0,,199204181,17
-Monologue,19920418,,1,,199204182,17
-Game Show,19920418,Stand-Up And Win,2,,199204183,17
-Sketch,19920418,History Class,3,,199204184,17
-Musical Performance,19920418,"""Why""",4,,199204185,17
-Weekend Update,19920418,,5,,199204186,17
-Sketch,19920418,Passover Seder,6,,199204187,17
-Show,19920418,Lank Thompson: I'm A Handsome Black Man,7,,199204188,17
-Sketch,19920418,Permanent Positions,8,,199204189,17
-Musical Performance,19920418,"""Legend In My Living Room""",9,,1992041810,17
-Miscellaneous,19920418,Deep Thoughts,10,98.0,1992041811,17
-Show,19920418,I'm Chillin',11,96.0,1992041812,17
-Sketch,19920418,The Lenny Wise Show,12,,1992041813,17
-Goodnights,19920418,,13,,1992041814,17
-Cold Opening,19920411,Wayne's World,0,80.0,199204111,17
-Monologue,19920411,,1,,199204112,17
-Commercial,19920411,Jiffy Pop Airbag,2,,199204113,17
-Sketch,19920411,Hitting on Women,3,,199204114,17
-Sketch,19920411,Sex Games,4,,199204115,17
-Sketch,19920411,"Flippy, The Flipping Chihuahua",5,,199204116,17
-Commercial,19920411,Lung Brush,6,,199204117,17
-Sketch,19920411,Interrogation,7,,199204118,17
-Musical Performance,19920411,"""Alive""",8,,199204119,17
-Weekend Update,19920411,,9,,1992041110,17
-Sketch,19920411,Security Check,10,,1992041111,17
-Sketch,19920411,Ernie's,11,,1992041112,17
-Commercial,19920411,Tayster's Choice Spermicidal Jelly,12,,1992041113,17
-Commercial,19920411,Phil Hartman Creations,13,,1992041114,17
-Commercial,19920411,Tayster's Choice Spermicidal Jelly,14,,1992041115,17
-Musical Performance,19920411,"""Porch""",15,,1992041116,17
-Sketch,19920411,Porno Couple,16,,1992041117,17
-Commercial,19920411,Tayster's Choice Spermicidal Jelly,17,,1992041118,17
-Goodnights,19920411,,18,,1992041119,17
-Cold Opening,19920321,The McLaughlin Group,0,94.0,199203211,17
-Monologue,19920321,,1,,199203212,17
-Commercial,19920321,Action Cats,2,,199203213,17
-Show,19920321,"Lisa Pongrasic, Very Pregnant Undercover Cop",3,,199203214,17
-Sketch,19920321,"Lyle, The Effeminate Heterosexual",4,88.0,199203215,17
-Miscellaneous,19920321,Deep Thoughts,5,98.0,199203216,17
-Musical Performance,19920321,"""Never Gonna Get It"", ""Hold On""",6,,199203217,17
-Weekend Update,19920321,,7,,199203218,17
-Sketch,19920321,Delta Delta Delta,8,,199203219,17
-Miscellaneous,19920321,Deep Thoughts,9,98.0,1992032110,17
-Commercial,19920321,Monster Spray,10,,1992032111,17
-Sketch,19920321,Who Shot Me?,11,,1992032112,17
-Musical Performance,19920321,"""Free Your Mind""",12,,1992032113,17
-Sketch,19920321,Colosseum Events Committee,13,,1992032114,17
-Film,19920321,Schiller's Reel - Million Dollar Zombie,14,18.0,1992032115,17
-Sketch,19920321,Money for Booze,15,,1992032116,17
-Goodnights,19920321,,16,,1992032117,17
-Cold Opening,19920314,17th Annual Star Trek Convention,0,,199203141,17
-Monologue,19920314,,1,,199203142,17
-Commercial,19920314,Unforgivable,2,,199203143,17
-Show,19920314,My 75 Kids,3,,199203144,17
-Miscellaneous,19920314,Deep Thoughts,4,98.0,199203145,17
-Sketch,19920314,Unfrozen Cave Man Lawyer,5,105.0,199203146,17
-Musical Performance,19920314,"""Rodeo""",6,,199203147,17
-Weekend Update,19920314,,7,,199203148,17
-Show,19920314,Theatre Stories,8,106.0,199203149,17
-Sketch,19920314,"Anton Mesrobian, Teen Dermatologist",9,,1992031410,17
-Musical Performance,19920314,"""The River""",10,,1992031411,17
-Sketch,19920314,Country Singer Names,11,,1992031412,17
-Miscellaneous,19920314,Deep Thoughts,12,98.0,1992031413,17
-Sketch,19920314,The Ides of March,13,,1992031414,17
-Miscellaneous,19920314,Deep Thoughts,14,98.0,1992031415,17
-Goodnights,19920314,,15,,1992031416,17
-Cold Opening,19920222,Presidential Address,0,,199202221,17
-Monologue,19920222,,1,,199202222,17
-Sketch,19920222,Dick Clark Productions,2,,199202223,17
-Show,19920222,Coffee Talk,3,99.0,199202224,17
-Sketch,19920222,Tall Tales Of The Recession,4,,199202225,17
-Musical Performance,19920222,"""Stone Cold Bush""",5,,199202226,17
-Weekend Update,19920222,,6,,199202227,17
-Sketch,19920222,Delta Delta Delta,7,,199202228,17
-Sketch,19920222,A Star Is Born,8,,199202229,17
-Show,19920222,Daily Affirmation,9,100.0,1992022210,17
-Musical Performance,19920222,"""Under The Bridge""",10,,1992022211,17
-Miscellaneous,19920222,Deep Thoughts,11,98.0,1992022212,17
-Goodnights,19920222,,12,,1992022213,17
-Cold Opening,19920215,Olympic Figure Skating,0,,199202151,17
-Monologue,19920215,,1,,199202152,17
-Commercial,19920215,Jiffy Pop Airbag,2,,199202153,17
-Sketch,19920215,The Life and Times of Johnny Hildo,3,,199202154,17
-Game Show,19920215,Love Werks,4,,199202155,17
-Show,19920215,The Arsenio Hall Show,5,,199202156,17
-Miscellaneous,19920215,Deep Thoughts,6,98.0,199202157,17
-Musical Performance,19920215,"""The Concept""",7,,199202158,17
-Weekend Update,19920215,,8,,199202159,17
-Show,19920215,Beverly Hills 90210,9,,1992021510,17
-Commercial,19920215,La Tour and Johnson,10,,1992021511,17
-Sketch,19920215,Marriage Tests,11,,1992021512,17
-Miscellaneous,19920215,Deep Thoughts,12,98.0,1992021513,17
-Musical Performance,19920215,"""What You Do To Me"", ""Pet Rock""",13,,1992021514,17
-Sketch,19920215,Bank Robbery,14,,1992021515,17
-Goodnights,19920215,,15,,1992021516,17
-Cold Opening,19920208,L.A. Law,0,,199202081,17
-Monologue,19920208,,1,,199202082,17
-Commercial,19920208,Leevi's 3 Legged Jeans,2,,199202083,17
-Sketch,19920208,Harrassment Trial,3,,199202084,17
-Show,19920208,The Arakawa Group,4,,199202085,17
-Sketch,19920208,The Sensitive Naked Man,5,107.0,199202086,17
-Musical Performance,19920208,"""Here We Go Let's Rock and Roll"", ""Gonna Make You Sweat""",6,,199202087,17
-Weekend Update,19920208,,7,,199202088,17
-Sketch,19920208,Partridge Family vs. Brady Bunch,8,,199202089,17
-Miscellaneous,19920208,Deep Thoughts,9,98.0,1992020810,17
-Sketch,19920208,Gestures,10,,1992020811,17
-Miscellaneous,19920208,Backstage,11,,1992020812,17
-Sketch,19920208,Boss & Janitor,12,,1992020813,17
-Musical Performance,19920208,"""A Deeper Love""",13,,1992020814,17
-Sketch,19920208,Art Museum,14,,1992020815,17
-Miscellaneous,19920208,Deep Thoughts,15,98.0,1992020816,17
-Goodnights,19920208,,16,,1992020817,17
-Cold Opening,19920118,Wayne's World,0,80.0,199201181,17
-Monologue,19920118,,1,,199201182,17
-Commercial,19920118,The Love Toilet,2,,199201183,17
-Show,19920118,Adopt A Pet,3,,199201184,17
-Sketch,19920118,Daniel's Diner,4,,199201185,17
-Sketch,19920118,Dahmer's Defense,5,,199201186,17
-Musical Performance,19920118,"""Go Back to Your Woods""",6,,199201187,17
-Weekend Update,19920118,,7,,199201188,17
-Game Show,19920118,Bob Swerski's Quiz Masters,8,,199201189,17
-Sketch,19920118,Van Morrison Concert,9,,1992011810,17
-Musical Performance,19920118,"""The Weight""",10,,1992011811,17
-Miscellaneous,19920118,Backstage,11,,1992011812,17
-Commercial,19920118,"Kaufman's Big And Tall, And Short And Small Sephardic Jew Men's Clothing Store",12,,1992011813,17
-Goodnights,19920118,,13,,1992011814,17
-Cold Opening,19920111,Cover-Up,0,,199201111,17
-Monologue,19920111,,1,,199201112,17
-Commercial,19920111,Sálon,2,,199201113,17
-Sketch,19920111,It's Pat,3,101.0,199201114,17
-Sketch,19920111,Delta Delta Delta,4,,199201115,17
-Musical Sketch,19920111,Cowboy Song,5,,199201116,17
-Musical Performance,19920111,"""Smells Like Teen Spirit""",6,,199201117,17
-Weekend Update,19920111,,7,,199201118,17
-Sketch,19920111,Lenin's Body,8,,199201119,17
-Sketch,19920111,Movie Talk,9,,1992011110,17
-Commercial,19920111,Chris Rock's White Person's Guide To Surviving The Apollo,10,,1992011111,17
-Sketch,19920111,Insults,11,,1992011112,17
-Musical Performance,19920111,"""Territorial Pissing""",12,,1992011113,17
-Sketch,19920111,Minutes Behind,13,,1992011114,17
-Goodnights,19920111,,14,,1992011115,17
-Cold Opening,19911214,The Tonight Song,0,,199112141,17
-Monologue,19911214,,1,,199112142,17
-Commercial,19911214,Schmitts Gay,2,,199112143,17
-Game Show,19911214,Suckerpunch,3,,199112144,17
-Sketch,19911214,Doormen,4,,199112145,17
-Miscellaneous,19911214,Deep Thoughts,5,98.0,199112146,17
-Miscellaneous,19911214,The Energy Brothers,6,,199112147,17
-Musical Performance,19911214,"""Stop Thinkin' About That""",7,,199112148,17
-Weekend Update,19911214,,8,,199112149,17
-Show,19911214,Theatre Stories,9,106.0,1991121410,17
-Show,19911214,Live With Regis & Kathie Lee,10,91.0,1991121411,17
-Miscellaneous,19911214,Deep Thoughts,11,98.0,1991121412,17
-Musical Performance,19911214,"""Shed A Little Light""",12,,1991121413,17
-Sketch,19911214,Grandma Pugga,13,,1991121414,17
-Miscellaneous,19911214,Deep Thoughts,14,98.0,1991121415,17
-Sketch,19911214,Cowards,15,,1991121416,17
-Show,19911214,The Dark Side,16,93.0,1991121417,17
-Musical Performance,19911214,"""Sweet Baby James""",17,,1991121418,17
-Miscellaneous,19911214,Season's Greetings,18,,1991121419,17
-Goodnights,19911214,,19,,1991121420,17
-Cold Opening,19911207,Presidential Address,0,,199112071,17
-Monologue,19911207,,1,,199112072,17
-Musical Performance,19911207,"""Too Legit To Quit""",2,,199112073,17
-Sketch,19911207,Bad Haircut Support Group,3,,199112074,17
-Sketch,19911207,Turrell Daily Star,4,,199112075,17
-Intro,19911207,,5,,199112076,17
-Musical Performance,19911207,"""Addams Groove""",6,,199112077,17
-Weekend Update,19911207,,7,,199112078,17
-Sketch,19911207,Tales From The Barbecue,8,103.0,199112079,17
-Sketch,19911207,Johnny Letter,9,,1991120710,17
-Miscellaneous,19911207,Deep Thoughts,10,98.0,1991120711,17
-Sketch,19911207,Remembrances of Love,11,,1991120712,17
-Miscellaneous,19911207,Deep Thoughts,12,98.0,1991120713,17
-Musical Performance,19911207,"""This is the Way We Roll""",13,,1991120714,17
-Sketch,19911207,Dick Clark Productions,14,,1991120715,17
-Goodnights,19911207,,15,,1991120716,17
-Cold Opening,19911123,Hosting Alone,0,,199111231,17
-Monologue,19911123,,1,,199111232,17
-Commercial,19911123,The Love Toilet,2,,199111233,17
-Show,19911123,Bill Swerski's Super Fans,3,97.0,199111234,17
-Miscellaneous,19911123,Deep Thoughts,4,98.0,199111235,17
-Sketch,19911123,Flashback,5,,199111236,17
-Miscellaneous,19911123,Deep Thoughts,6,98.0,199111237,17
-Musical Performance,19911123,"""Baby Universal""",7,,199111238,17
-Weekend Update,19911123,,8,,199111239,17
-Sketch,19911123,Unfrozen Cave Man Lawyer,9,105.0,1991112310,17
-Show,19911123,Simon,10,92.0,1991112311,17
-Miscellaneous,19911123,Deep Thoughts,11,98.0,1991112312,17
-Sketch,19911123,Young Superboy,12,,1991112313,17
-Musical Performance,19911123,"""If There Is Something""",13,,1991112314,17
-Show,19911123,Daily Affirmation,14,100.0,1991112315,17
-Commercial,19911123,U.S. Fon,15,,1991112316,17
-Sketch,19911123,Medieval Scalders,16,,1991112317,17
-Miscellaneous,19911123,Deep Thoughts,17,98.0,1991112318,17
-Goodnights,19911123,,18,,1991112319,17
-Cold Opening,19911116,Campaign '91,0,,199111161,17
-Monologue,19911116,,1,,199111162,17
-Commercial,19911116,Leevi's 3 Legged Jeans,2,,199111163,17
-Sketch,19911116,"Toonces, The Cat Who Could Drive A Car - The Tooncinator",3,86.0,199111164,17
-Sketch,19911116,It's Pat,4,101.0,199111165,17
-Sketch,19911116,Massive Headwound Harry - The Cocktail Party,5,,199111166,17
-Miscellaneous,19911116,Deep Thoughts,6,98.0,199111167,17
-Miscellaneous,19911116,Backstage,7,,199111168,17
-Musical Performance,19911116,"""Can't Let Go""",8,,199111169,17
-Weekend Update,19911116,,9,,1991111610,17
-Sketch,19911116,Tough Girls,10,,1991111611,17
-Show,19911116,The Chris Farley Show,11,104.0,1991111612,17
-Musical Performance,19911116,"""If It's Over""",12,,1991111613,17
-Sketch,19911116,Baby Talk,13,,1991111614,17
-Film,19911116,Schiller's Reel - Hidden Camera Commercials,14,18.0,1991111615,17
-Goodnights,19911116,,15,,1991111616,17
-Cold Opening,19911102,Jury Selection,0,,199111021,17
-Monologue,19911102,,1,,199111022,17
-Commercial,19911102,Lung Brush,2,,199111023,17
-Show,19911102,Campaign '92,3,,199111024,17
-Game Show,19911102,Whose Ass Should I Kiss?,4,,199111025,17
-Miscellaneous,19911102,Deep Thoughts,5,98.0,199111026,17
-Musical Performance,19911102,"""Piece of Me""",6,,199111027,17
-Weekend Update,19911102,,7,,199111028,17
-Sketch,19911102,All Things Scottish,8,,199111029,17
-Commercial,19911102,Kiddie Metal,9,,1991110210,17
-Miscellaneous,19911102,Deep Thoughts,10,98.0,1991110211,17
-Show,19911102,Daily Affirmation,11,100.0,1991110212,17
-Musical Performance,19911102,"""Monkey Business""",12,,1991110213,17
-Sketch,19911102,Phone Illiteracy,13,,1991110214,17
-Show,19911102,I'm Chillin',14,96.0,1991110215,17
-Goodnights,19911102,,15,,1991110216,17
-Cold Opening,19911026,The McLaughlin Group,0,94.0,199110261,17
-Monologue,19911026,,1,,199110262,17
-Commercial,19911026,Coldcock,2,,199110263,17
-Sketch,19911026,Ron's Wings 'N' Things,3,,199110264,17
-Game Show,19911026,Dysfunctional Family Feud,4,,199110265,17
-Sketch,19911026,Club Banana,5,,199110266,17
-Musical Performance,19911026,"""Something To Talk About""",6,,199110267,17
-Weekend Update,19911026,,7,,199110268,17
-Sketch,19911026,The Curse Of The Wolf Man,8,,199110269,17
-Show,19911026,Young Actors Forum,9,,1991102610,17
-Musical Performance,19911026,"""I Can't Make You Love Me""",10,,1991102611,17
-Show,19911026,Pumping Up With Hans & Franz,11,74.0,1991102612,17
-Commercial,19911026,Nich-Aid,12,,1991102613,17
-Goodnights,19911026,,13,,1991102614,17
-Cold Opening,19911012,Clarence Thomas Hearings,0,,199110121,17
-Monologue,19911012,,1,,199110122,17
-Commercial,19911012,Lonely Choice,2,,199110123,17
-Sketch,19911012,Il Cantore,3,,199110124,17
-Sketch,19911012,It's Pat,4,101.0,199110125,17
-Miscellaneous,19911012,Deep Thoughts,5,98.0,199110126,17
-Musical Performance,19911012,"""Into the Great Wide Open""",6,,199110127,17
-Weekend Update,19911012,,7,,199110128,17
-Sketch,19911012,Their Eyes Were On Their Breasts!,8,,199110129,17
-Show,19911012,Coffee Talk,9,99.0,1991101210,17
-Musical Performance,19911012,"""Kings Highway""",10,,1991101211,17
-Show,19911012,Psycho Divorced Mother,11,,1991101212,17
-Miscellaneous,19911012,Deep Thoughts,12,98.0,1991101213,17
-Sketch,19911012,Look Who Else Is Talking Also,13,,1991101214,17
-Miscellaneous,19911012,Deep Thoughts,14,98.0,1991101215,17
-Goodnights,19911012,,15,,1991101216,17
-Cold Opening,19911005,The Tonight Show,0,45.0,199110051,17
-Monologue,19911005,,1,,199110052,17
-Commercial,19911005,Earthies,2,,199110053,17
-Sketch,19911005,Copy Machine,3,,199110054,17
-Game Show,19911005,Community College Bowl,4,,199110055,17
-Show,19911005,The Chris Farley Show,5,104.0,199110056,17
-Musical Performance,19911005,"""I Wanna Sex You Up""",6,,199110057,17
-Weekend Update,19911005,,7,,199110058,17
-Sketch,19911005,Apex Novelty,8,,199110059,17
-Show,19911005,Simon,9,92.0,1991100510,17
-Show,19911005,Real Life With Jane Pauley,10,,1991100511,17
-Musical Performance,19911005,"""I Adore Mi Amor""",11,,1991100512,17
-Sketch,19911005,Don't Get Me Wrong,12,,1991100513,17
-Goodnights,19911005,,13,,1991100514,17
-Cold Opening,19910928,Wayne's World,0,80.0,199109281,17
-Monologue,19910928,,1,,199109282,17
-Commercial,19910928,Schmitts Gay,2,,199109283,17
-Sketch,19910928,The First Black Harlem Globetrotter,3,,199109284,17
-Show,19910928,Bill Swerski's Super Fans,4,97.0,199109285,17
-Musical Performance,19910928,"""Can't Truss It""",5,,199109286,17
-Weekend Update,19910928,,6,,199109287,17
-Show,19910928,Daily Affirmation,7,100.0,199109288,17
-Miscellaneous,19910928,Backstage,8,,199109289,17
-Show,19910928,The Dark Side,9,93.0,1991092810,17
-Sketch,19910928,Tales From The Barbecue,10,103.0,1991092811,17
-Musical Performance,19910928,"""Bring Tha Noize""",11,,1991092812,17
-Sketch,19910928,Elevator,12,,1991092813,17
-Goodnights,19910928,,13,,1991092814,17
 Cold Opening,19910518,Last Show,0,,199105181,16
 Monologue,19910518,,1,,199105182,16
 Commercial,19910518,Lil' General Fireworks,2,,199105183,16
@@ -8928,6 +8786,189 @@ Miscellaneous,19881008,Big,10,,1988100811,14
 Musical Performance,19881008,"""Struggle""",11,,1988100812,14
 Show,19881008,The Pat Stevens Show,12,61.0,1988100813,14
 Goodnights,19881008,,13,,1988100814,14
+Cold Opening,19880227,Pumping Up With Hans & Franz,0,74.0,198802271,13
+Monologue,19880227,,1,,198802272,13
+Commercial,19880227,Wilson Trap Doors,2,,198802273,13
+Show,19880227,Church Chat,3,67.0,198802274,13
+Sketch,19880227,Deregulated Airline,4,,198802275,13
+Intro,19880227,,5,,198802276,13
+Musical Performance,19880227,"""Like the Weather""",6,,198802277,13
+Weekend Update,19880227,,7,,198802278,13
+Sketch,19880227,"Jorge Garcia, Nice Guy Dictator",8,,198802279,13
+Show,19880227,The Cop & The Prostitute,9,,1988022710,13
+Show,19880227,When Great Minds Meet,10,,1988022711,13
+Intro,19880227,,11,,1988022712,13
+Musical Performance,19880227,"""What's the Matter Here""",12,,1988022713,13
+Sketch,19880227,Pirates,13,,1988022714,13
+Goodnights,19880227,,14,,1988022715,13
+Cold Opening,19880220,Calgary 1988,0,,198802201,13
+Monologue,19880220,,1,,198802202,13
+Sketch,19880220,Giant Businessman,2,,198802203,13
+Sketch,19880220,The Bean Cafe,3,,198802204,13
+Show,19880220,The Pat Stevens Show,4,61.0,198802205,13
+Musical Performance,19880220,"""Forever and Ever, Amen""",5,,198802206,13
+Weekend Update,19880220,,6,,198802207,13
+Sketch,19880220,Girl Watchers,7,,198802208,13
+Sketch,19880220,Apple Support Systems,8,,198802209,13
+Commercial,19880220,Casey Kasem Sings The Beatles,9,,1988022010,13
+Sketch,19880220,Delivery Room,10,,1988022011,13
+Sketch,19880220,Stand-Ups,11,,1988022012,13
+Musical Performance,19880220,"""What'll You Do""",12,,1988022013,13
+Sketch,19880220,Sentimental Value Pawn Shop,13,,1988022014,13
+Goodnights,19880220,,14,,1988022015,13
+Cold Opening,19880213,Republican Debate 88,0,,198802131,13
+Monologue,19880213,,1,,198802132,13
+Sketch,19880213,Family Ties,2,,198802133,13
+Show,19880213,Learning to Feel,3,75.0,198802134,13
+Musical Performance,19880213,"""Wishing Well""",4,,198802135,13
+Weekend Update,19880213,,5,,198802136,13
+Sketch,19880213,Inspiration,6,,198802137,13
+Sketch,19880213,St. Valentine's Day Massacre,7,,198802138,13
+Musical Performance,19880213,"""Under My Thumb""",8,,198802139,13
+Sketch,19880213,Talking Behind Her Back,9,,1988021310,13
+Show,19880213,Friday Night Videos,10,,1988021311,13
+Goodnights,19880213,,11,,1988021312,13
+Cold Opening,19880130,BushWhacked!,0,,198801301,13
+Monologue,19880130,,1,,198801302,13
+Commercial,19880130,Handi-Off,2,,198801303,13
+Show,19880130,The NFL Today,3,70.0,198801304,13
+Show,19880130,Democratic Debate 88,4,,198801305,13
+Sketch,19880130,Mother-in-Law,5,,198801306,13
+Musical Performance,19880130,"""Testimony""",6,,198801307,13
+Weekend Update,19880130,,7,,198801308,13
+Sketch,19880130,Sitcom Actress,8,,198801309,13
+Musical Performance,19880130,"""Somewhere Down the Crazy River""",9,,1988013010,13
+Sketch,19880130,Master Thespian,10,63.0,1988013011,13
+Film,19880130,The Garden,11,,1988013012,13
+Goodnights,19880130,,12,,1988013013,13
+Cold Opening,19880123,Pumping Up With Hans & Franz,0,74.0,198801231,13
+Monologue,19880123,,1,,198801232,13
+Commercial,19880123,Compulsion,2,,198801233,13
+Sketch,19880123,Birth Tape,3,,198801234,13
+Show,19880123,Learning to Feel,4,75.0,198801235,13
+Musical Performance,19880123,"""Never Die Young""",5,,198801236,13
+Weekend Update,19880123,,6,,198801237,13
+Sketch,19880123,60th Birthday,7,,198801238,13
+Musical Performance,19880123,"""Sweet Potato Pie""",8,,198801239,13
+Award Show,19880123,The 8th Annual ACE Awards,9,,1988012310,13
+Musical Performance,19880123,"""Lonesome Road""",10,,1988012311,13
+Show,19880123,Discover,11,72.0,1988012312,13
+Sketch,19880123,I Wuv You,12,,1988012313,13
+Goodnights,19880123,,13,,1988012314,13
+Cold Opening,19871219,30th Christmas,0,,198712191,13
+Monologue,19871219,,1,,198712192,13
+Commercial,19871219,Gary Hart,2,,198712193,13
+Show,19871219,Pumping Up With Hans & Franz,3,74.0,198712194,13
+Sketch,19871219,Castaways,4,,198712195,13
+Sketch,19871219,Master Thespian,5,63.0,198712196,13
+Musical Performance,19871219,"""Los Laureles"", ""La Cigarra""",6,,198712197,13
+Weekend Update,19871219,,7,,198712198,13
+Sketch,19871219,Ski Lodge,8,,198712199,13
+Sketch,19871219,Subway,9,,1987121910,13
+Show,19871219,Succinctly Speaking,10,,1987121911,13
+Miscellaneous,19871219,Season's Greetings,11,,1987121912,13
+Musical Performance,19871219,"""Under African Skies""",12,,1987121913,13
+Sketch,19871219,Texas Diner,13,,1987121914,13
+Miscellaneous,19871219,A Message to Future Viewers,14,,1987121915,13
+Goodnights,19871219,,15,,1987121916,13
+Cold Opening,19871212,Translator,0,,198712121,13
+Monologue,19871212,,1,,198712122,13
+Commercial,19871212,Docu-fresh,2,,198712123,13
+Sketch,19871212,Airplane,3,,198712124,13
+Show,19871212,Donahue,4,43.0,198712125,13
+Game Show,19871212,Wedgie Fever!,5,,198712126,13
+Musical Performance,19871212,"""Hot Hot Hot""",6,,198712127,13
+Weekend Update,19871212,,7,,198712128,13
+Sketch,19871212,Christmas Party,8,,198712129,13
+Musical Performance,19871212,"""Song For My Sara""",9,,1987121210,13
+Show,19871212,Police Women,10,,1987121211,13
+Commercial,19871212,The Assimilated Jew's Hanukkah,11,,1987121212,13
+Sketch,19871212,Drunk Man,12,,1987121213,13
+Goodnights,19871212,,13,,1987121214,13
+Cold Opening,19871205,Gorbachev/Reagan,0,,198712051,13
+Monologue,19871205,,1,,198712052,13
+Commercial,19871205,Handi-Off,2,,198712053,13
+Show,19871205,At The Movies,3,,198712054,13
+Show,19871205,Church Chat,4,67.0,198712055,13
+Musical Performance,19871205,"""The Right Stuff""",5,,198712056,13
+Weekend Update,19871205,,6,,198712057,13
+Sketch,19871205,Jungle Room,7,,198712058,13
+Sketch,19871205,Mona Lisa,8,,198712059,13
+Show,19871205,Ann Landers' Playhouse,9,,1987120510,13
+Musical Performance,19871205,"""Kiss and Tell""",10,,1987120511,13
+Sketch,19871205,Doorman,11,,1987120512,13
+Goodnights,19871205,,12,,1987120513,13
+Cold Opening,19871121,A Message From The Vice President,0,,198711211,13
+Monologue,19871121,,1,,198711212,13
+Show,19871121,Pumping Up With Hans & Franz,2,74.0,198711213,13
+Sketch,19871121,Anne Boleyn,3,,198711214,13
+Commercial,19871121,Manufacturers of Machine Part Components United To Save Our Courts,4,,198711215,13
+Musical Performance,19871121,"""We All Sleep Alone""",5,,198711216,13
+Sketch,19871121,Ching Change,6,,198711217,13
+Weekend Update,19871121,,7,,198711218,13
+Sketch,19871121,Mayflower Madam,8,,198711219,13
+Musical Sketch,19871121,Country Through and Through,9,,1987112110,13
+Musical Performance,19871121,"""I Found Someone""",10,,1987112111,13
+Sketch,19871121,Thought Bubble,11,,1987112112,13
+Sketch,19871121,Peeping Tom,12,,1987112113,13
+Goodnights,19871121,,13,,1987112114,13
+Cold Opening,19871114,The Rolling Paper Chase,0,,198711141,13
+Monologue,19871114,,1,,198711142,13
+Commercial,19871114,Compulsion,2,,198711143,13
+Sketch,19871114,Death Be Not Deadly,3,,198711144,13
+Sketch,19871114,The Mountain Man,4,,198711145,13
+Musical Performance,19871114,"""The Right Thing""",5,,198711146,13
+Weekend Update,19871114,,6,,198711147,13
+Sketch,19871114,Sweeney's Comeback,7,,198711148,13
+Film,19871114,Out Of Gas,8,,198711149,13
+Sketch,19871114,Andre & Rex: Macho Hairstylists,9,,1987111410,13
+Commercial,19871114,BeautyBath,10,,1987111411,13
+Musical Performance,19871114,"""Suffer""",11,,1987111412,13
+Sketch,19871114,Mysterious Old Man,12,,1987111413,13
+Goodnights,19871114,,13,,1987111414,13
+Cold Opening,19871031,"Lifestyles of the Rich, Famous and Scary",0,,198710311,13
+Monologue,19871031,,1,,198710312,13
+Commercial,19871031,Nature's Broom,2,,198710313,13
+Show,19871031,The Winning Spirit,3,,198710314,13
+Sketch,19871031,Don't Go Down To The Basement,4,,198710315,13
+Sketch,19871031,Campfire Stories,5,,198710316,13
+Musical Performance,19871031,"""Strap Me In""",6,,198710317,13
+Weekend Update,19871031,,7,,198710318,13
+Sketch,19871031,Marriage Counselor,8,,198710319,13
+Sketch,19871031,"Count Dracula, Self-Taught Auto Mechanic",9,,1987103110,13
+Show,19871031,The Pat Stevens Show,10,61.0,1987103111,13
+Sketch,19871031,Mascot Ideas,11,,1987103112,13
+Musical Performance,19871031,"""Double Trouble""",12,,1987103113,13
+Sketch,19871031,Investment Firm,13,,1987103114,13
+Goodnights,19871031,,14,,1987103115,13
+Cold Opening,19871024,Fatal Attraction II,0,,198710241,13
+Monologue,19871024,,1,,198710242,13
+Show,19871024,Wall Street Week,2,,198710243,13
+Show,19871024,Church Chat,3,67.0,198710244,13
+Commercial,19871024,Pitman And Bullock,4,,198710245,13
+Sketch,19871024,Teeny Café,5,,198710246,13
+Weekend Update,19871024,,6,,198710247,13
+Sketch,19871024,After The Date,7,,198710248,13
+Musical Performance,19871024,"""Go Cut Creator Go""",8,,198710249,13
+Show,19871024,Discover,9,72.0,1987102410,13
+Sketch,19871024,Joey Comes Home,10,,1987102411,13
+Musical Performance,19871024,"""This & That""",11,,1987102412,13
+Film,19871024,Cat Dentist,12,,1987102413,13
+Goodnights,19871024,,13,,1987102414,13
+Cold Opening,19871017,White House Dinner,0,,198710171,13
+Monologue,19871017,,1,,198710172,13
+Commercial,19871017,Gary Hart,2,,198710173,13
+Game Show,19871017,Common Knowledge,3,,198710174,13
+Show,19871017,The NFL Today,4,70.0,198710175,13
+Sketch,19871017,Slide Whistles,5,,198710176,13
+Musical Performance,19871017,"""We'll Be Together""",6,,198710177,13
+Weekend Update,19871017,,7,,198710178,13
+Sketch,19871017,Bullets Aren't Cheap,8,,198710179,13
+Sketch,19871017,Permission To Speak Freely,9,,1987101710,13
+Musical Performance,19871017,"""Little Wing""",10,,1987101711,13
+Sketch,19871017,Adventures In The Lost Realm,11,,1987101712,13
+Show,19871017,Pumping Up With Hans & Franz,12,74.0,1987101713,13
+Goodnights,19871017,,13,,1987101714,13
 Cold Opening,19870523,Easy Rider,0,,198705231,12
 Monologue,19870523,,1,,198705232,12
 Show,19870523,Church Chat,2,67.0,198705233,12

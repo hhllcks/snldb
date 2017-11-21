@@ -1,18 +1,60 @@
-{"order": 0, "epid": "19880227", "tid": "198802271", "name": "Pumping Up With Hans & Franz", "category": "Cold Opening", "skid": "74"}
-{"order": 1, "epid": "19880227", "tid": "198802272", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19880227", "tid": "198802273", "name": "Wilson Trap Doors", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19880227", "tid": "198802274", "name": "Church Chat", "category": "Show", "skid": "67"}
-{"order": 4, "epid": "19880227", "tid": "198802275", "name": "Deregulated Airline", "category": "Sketch", "skid": null}
-{"order": 5, "epid": "19880227", "tid": "198802276", "name": "", "category": "Intro", "skid": null}
-{"order": 6, "epid": "19880227", "tid": "198802277", "name": "\"Like the Weather\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19880227", "tid": "198802278", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19880227", "tid": "198802279", "name": "Jorge Garcia, Nice Guy Dictator", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19880227", "tid": "1988022710", "name": "The Cop & The Prostitute", "category": "Show", "skid": null}
-{"order": 10, "epid": "19880227", "tid": "1988022711", "name": "When Great Minds Meet", "category": "Show", "skid": null}
-{"order": 11, "epid": "19880227", "tid": "1988022712", "name": "", "category": "Intro", "skid": null}
-{"order": 12, "epid": "19880227", "tid": "1988022713", "name": "\"What's the Matter Here\"", "category": "Musical Performance", "skid": null}
-{"order": 13, "epid": "19880227", "tid": "1988022714", "name": "Pirates", "category": "Sketch", "skid": null}
-{"order": 14, "epid": "19880227", "tid": "1988022715", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19920516", "tid": "199205161", "name": "The Tonight Show", "category": "Cold Opening", "skid": "45"}
+{"order": 1, "epid": "19920516", "tid": "199205162", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19920516", "tid": "199205163", "name": "Action Cats", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19920516", "tid": "199205164", "name": "Take Your Shirt Off", "category": "Sketch", "skid": null}
+{"order": 4, "epid": "19920516", "tid": "199205165", "name": "Sprockets", "category": "Show", "skid": "84"}
+{"order": 5, "epid": "19920516", "tid": "199205166", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 6, "epid": "19920516", "tid": "199205167", "name": "\"Save the Best for Last\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19920516", "tid": "199205168", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19920516", "tid": "199205169", "name": "Delta Delta Delta", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19920516", "tid": "1992051610", "name": "Cowboy Song", "category": "Musical Sketch", "skid": null}
+{"order": 10, "epid": "19920516", "tid": "1992051611", "name": "Backstage", "category": "Miscellaneous", "skid": null}
+{"order": 11, "epid": "19920516", "tid": "1992051612", "name": "Frank Gannon, P.I. P.I.", "category": "Sketch", "skid": "102"}
+{"order": 12, "epid": "19920516", "tid": "1992051613", "name": "\"The Comfort Zone\"", "category": "Musical Performance", "skid": null}
+{"order": 13, "epid": "19920516", "tid": "1992051614", "name": "The Sensitive Naked Man", "category": "Sketch", "skid": "107"}
+{"order": 14, "epid": "19920516", "tid": "1992051615", "name": "Bad Expectant Mother", "category": "Sketch", "skid": null}
+{"order": 15, "epid": "19920516", "tid": "1992051616", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "20171111", "tid": "201711111", "name": "Vice President's Office", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "20171111", "tid": "201711112", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "20171111", "tid": "201711113", "name": "Tournament Fighter", "category": "Sketch", "skid": null}
+{"order": 3, "epid": "20171111", "tid": "201711114", "name": "Lion King Screen Tests", "category": "Sketch", "skid": null}
+{"order": 4, "epid": "20171111", "tid": "201711115", "name": "Demoratic National Committee (III)", "category": "Commercial", "skid": null}
+{"order": 5, "epid": "20171111", "tid": "201711116", "name": "Beck and Kyle", "category": "Film", "skid": null}
+{"order": 6, "epid": "20171111", "tid": "201711117", "name": "\"...Ready For It?\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "20171111", "tid": "201711118", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "20171111", "tid": "201711119", "name": "The Last Black Unicorn", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "20171111", "tid": "2017111110", "name": "Get Woke With Tamika", "category": "Show", "skid": null}
+{"order": 10, "epid": "20171111", "tid": "2017111111", "name": "The Dolphin Who Learned To Speak", "category": "Show", "skid": null}
+{"order": 11, "epid": "20171111", "tid": "2017111112", "name": "\"Call It What You Want\"", "category": "Musical Performance", "skid": null}
+{"order": 12, "epid": "20171111", "tid": "2017111113", "name": "Whiskers R' We", "category": "Commercial", "skid": null}
+{"order": 13, "epid": "20171111", "tid": "2017111114", "name": "", "category": "In Memoriam", "skid": null}
+{"order": 14, "epid": "20171111", "tid": "2017111115", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "20171104", "tid": "201711041", "name": "Paul Manafort's Apartment", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "20171104", "tid": "201711042", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "20171104", "tid": "201711043", "name": "The Price is Right", "category": "Game Show", "skid": null}
+{"order": 3, "epid": "20171104", "tid": "201711044", "name": "Confident", "category": "Film", "skid": null}
+{"order": 4, "epid": "20171104", "tid": "201711045", "name": "Ad Council Awards Dinner", "category": "Sketch", "skid": null}
+{"order": 5, "epid": "20171104", "tid": "201711046", "name": "The Baby Step", "category": "Film", "skid": null}
+{"order": 6, "epid": "20171104", "tid": "201711047", "name": "\"Bad Mood\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "20171104", "tid": "201711048", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "20171104", "tid": "201711049", "name": "Fresh Takes", "category": "Show", "skid": null}
+{"order": 9, "epid": "20171104", "tid": "2017110410", "name": "New Wife", "category": "Sketch", "skid": null}
+{"order": 10, "epid": "20171104", "tid": "2017110411", "name": "\"I Would Die For You\"", "category": "Musical Performance", "skid": null}
+{"order": 11, "epid": "20171104", "tid": "2017110412", "name": "Beers", "category": "Film", "skid": null}
+{"order": 12, "epid": "20171104", "tid": "2017110413", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "20171014", "tid": "201710141", "name": "Trucker Rally", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "20171014", "tid": "201710142", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "20171014", "tid": "201710143", "name": "Bank Breakers", "category": "Game Show", "skid": null}
+{"order": 3, "epid": "20171014", "tid": "201710144", "name": "Kellywise", "category": "Film", "skid": null}
+{"order": 4, "epid": "20171014", "tid": "201710145", "name": "Office Halloween Party", "category": "Sketch", "skid": null}
+{"order": 5, "epid": "20171014", "tid": "201710146", "name": "Women's Round Table", "category": "Show", "skid": "290"}
+{"order": 6, "epid": "20171014", "tid": "201710147", "name": "\"What About Us\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "20171014", "tid": "201710148", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "20171014", "tid": "201710149", "name": "Hotel Check-In", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "20171014", "tid": "2017101410", "name": "Nursing Home", "category": "Sketch", "skid": null}
+{"order": 10, "epid": "20171014", "tid": "2017101411", "name": "\"Beautiful Trauma\"", "category": "Musical Performance", "skid": null}
+{"order": 11, "epid": "20171014", "tid": "2017101412", "name": "Customer Service", "category": "Film", "skid": null}
+{"order": 12, "epid": "20171014", "tid": "2017101413", "name": "", "category": "Goodnights", "skid": null}
 {"order": 0, "epid": "20171007", "tid": "201710071", "name": "\"I Won't Back Down\"", "category": "Cold Opening", "skid": null}
 {"order": 1, "epid": "20171007", "tid": "201710072", "name": "", "category": "Monologue", "skid": null}
 {"order": 2, "epid": "20171007", "tid": "201710073", "name": "E! New Fall Lineup", "category": "Commercial", "skid": null}
@@ -42,174 +84,305 @@
 {"order": 11, "epid": "20170930", "tid": "2017093012", "name": "Dive Bar", "category": "Sketch", "skid": null}
 {"order": 12, "epid": "20170930", "tid": "2017093013", "name": "", "category": "In Memoriam", "skid": null}
 {"order": 13, "epid": "20170930", "tid": "2017093014", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19880220", "tid": "198802201", "name": "Calgary 1988", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19880220", "tid": "198802202", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19880220", "tid": "198802203", "name": "Giant Businessman", "category": "Sketch", "skid": null}
-{"order": 3, "epid": "19880220", "tid": "198802204", "name": "The Bean Cafe", "category": "Sketch", "skid": null}
-{"order": 4, "epid": "19880220", "tid": "198802205", "name": "The Pat Stevens Show", "category": "Show", "skid": "61"}
-{"order": 5, "epid": "19880220", "tid": "198802206", "name": "\"Forever and Ever, Amen\"", "category": "Musical Performance", "skid": null}
-{"order": 6, "epid": "19880220", "tid": "198802207", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 7, "epid": "19880220", "tid": "198802208", "name": "Girl Watchers", "category": "Sketch", "skid": null}
-{"order": 8, "epid": "19880220", "tid": "198802209", "name": "Apple Support Systems", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19880220", "tid": "1988022010", "name": "Casey Kasem Sings The Beatles", "category": "Commercial", "skid": null}
-{"order": 10, "epid": "19880220", "tid": "1988022011", "name": "Delivery Room", "category": "Sketch", "skid": null}
-{"order": 11, "epid": "19880220", "tid": "1988022012", "name": "Stand-Ups", "category": "Sketch", "skid": null}
-{"order": 12, "epid": "19880220", "tid": "1988022013", "name": "\"What'll You Do\"", "category": "Musical Performance", "skid": null}
-{"order": 13, "epid": "19880220", "tid": "1988022014", "name": "Sentimental Value Pawn Shop", "category": "Sketch", "skid": null}
-{"order": 14, "epid": "19880220", "tid": "1988022015", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19880213", "tid": "198802131", "name": "Republican Debate 88", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19880213", "tid": "198802132", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19880213", "tid": "198802133", "name": "Family Ties", "category": "Sketch", "skid": null}
-{"order": 3, "epid": "19880213", "tid": "198802134", "name": "Learning to Feel", "category": "Show", "skid": "75"}
-{"order": 4, "epid": "19880213", "tid": "198802135", "name": "\"Wishing Well\"", "category": "Musical Performance", "skid": null}
-{"order": 5, "epid": "19880213", "tid": "198802136", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 6, "epid": "19880213", "tid": "198802137", "name": "Inspiration", "category": "Sketch", "skid": null}
-{"order": 7, "epid": "19880213", "tid": "198802138", "name": "St. Valentine's Day Massacre", "category": "Sketch", "skid": null}
-{"order": 8, "epid": "19880213", "tid": "198802139", "name": "\"Under My Thumb\"", "category": "Musical Performance", "skid": null}
-{"order": 9, "epid": "19880213", "tid": "1988021310", "name": "Talking Behind Her Back", "category": "Sketch", "skid": null}
-{"order": 10, "epid": "19880213", "tid": "1988021311", "name": "Friday Night Videos", "category": "Show", "skid": null}
-{"order": 11, "epid": "19880213", "tid": "1988021312", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19880130", "tid": "198801301", "name": "BushWhacked!", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19880130", "tid": "198801302", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19880130", "tid": "198801303", "name": "Handi-Off", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19880130", "tid": "198801304", "name": "The NFL Today", "category": "Show", "skid": "70"}
-{"order": 4, "epid": "19880130", "tid": "198801305", "name": "Democratic Debate 88", "category": "Show", "skid": null}
-{"order": 5, "epid": "19880130", "tid": "198801306", "name": "Mother-in-Law", "category": "Sketch", "skid": null}
-{"order": 6, "epid": "19880130", "tid": "198801307", "name": "\"Testimony\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19880130", "tid": "198801308", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19880130", "tid": "198801309", "name": "Sitcom Actress", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19880130", "tid": "1988013010", "name": "\"Somewhere Down the Crazy River\"", "category": "Musical Performance", "skid": null}
-{"order": 10, "epid": "19880130", "tid": "1988013011", "name": "Master Thespian", "category": "Sketch", "skid": "63"}
-{"order": 11, "epid": "19880130", "tid": "1988013012", "name": "The Garden", "category": "Film", "skid": null}
-{"order": 12, "epid": "19880130", "tid": "1988013013", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19880123", "tid": "198801231", "name": "Pumping Up With Hans & Franz", "category": "Cold Opening", "skid": "74"}
-{"order": 1, "epid": "19880123", "tid": "198801232", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19880123", "tid": "198801233", "name": "Compulsion", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19880123", "tid": "198801234", "name": "Birth Tape", "category": "Sketch", "skid": null}
-{"order": 4, "epid": "19880123", "tid": "198801235", "name": "Learning to Feel", "category": "Show", "skid": "75"}
-{"order": 5, "epid": "19880123", "tid": "198801236", "name": "\"Never Die Young\"", "category": "Musical Performance", "skid": null}
-{"order": 6, "epid": "19880123", "tid": "198801237", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 7, "epid": "19880123", "tid": "198801238", "name": "60th Birthday", "category": "Sketch", "skid": null}
-{"order": 8, "epid": "19880123", "tid": "198801239", "name": "\"Sweet Potato Pie\"", "category": "Musical Performance", "skid": null}
-{"order": 9, "epid": "19880123", "tid": "1988012310", "name": "The 8th Annual ACE Awards", "category": "Award Show", "skid": null}
-{"order": 10, "epid": "19880123", "tid": "1988012311", "name": "\"Lonesome Road\"", "category": "Musical Performance", "skid": null}
-{"order": 11, "epid": "19880123", "tid": "1988012312", "name": "Discover", "category": "Show", "skid": "72"}
-{"order": 12, "epid": "19880123", "tid": "1988012313", "name": "I Wuv You", "category": "Sketch", "skid": null}
-{"order": 13, "epid": "19880123", "tid": "1988012314", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19871219", "tid": "198712191", "name": "30th Christmas", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19871219", "tid": "198712192", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19871219", "tid": "198712193", "name": "Gary Hart", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19871219", "tid": "198712194", "name": "Pumping Up With Hans & Franz", "category": "Show", "skid": "74"}
-{"order": 4, "epid": "19871219", "tid": "198712195", "name": "Castaways", "category": "Sketch", "skid": null}
-{"order": 5, "epid": "19871219", "tid": "198712196", "name": "Master Thespian", "category": "Sketch", "skid": "63"}
-{"order": 6, "epid": "19871219", "tid": "198712197", "name": "\"Los Laureles\", \"La Cigarra\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19871219", "tid": "198712198", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19871219", "tid": "198712199", "name": "Ski Lodge", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19871219", "tid": "1987121910", "name": "Subway", "category": "Sketch", "skid": null}
-{"order": 10, "epid": "19871219", "tid": "1987121911", "name": "Succinctly Speaking", "category": "Show", "skid": null}
-{"order": 11, "epid": "19871219", "tid": "1987121912", "name": "Season's Greetings", "category": "Miscellaneous", "skid": null}
-{"order": 12, "epid": "19871219", "tid": "1987121913", "name": "\"Under African Skies\"", "category": "Musical Performance", "skid": null}
-{"order": 13, "epid": "19871219", "tid": "1987121914", "name": "Texas Diner", "category": "Sketch", "skid": null}
-{"order": 14, "epid": "19871219", "tid": "1987121915", "name": "A Message to Future Viewers", "category": "Miscellaneous", "skid": null}
-{"order": 15, "epid": "19871219", "tid": "1987121916", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19871212", "tid": "198712121", "name": "Translator", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19871212", "tid": "198712122", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19871212", "tid": "198712123", "name": "Docu-fresh", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19871212", "tid": "198712124", "name": "Airplane", "category": "Sketch", "skid": null}
-{"order": 4, "epid": "19871212", "tid": "198712125", "name": "Donahue", "category": "Show", "skid": "43"}
-{"order": 5, "epid": "19871212", "tid": "198712126", "name": "Wedgie Fever!", "category": "Game Show", "skid": null}
-{"order": 6, "epid": "19871212", "tid": "198712127", "name": "\"Hot Hot Hot\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19871212", "tid": "198712128", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19871212", "tid": "198712129", "name": "Christmas Party", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19871212", "tid": "1987121210", "name": "\"Song For My Sara\"", "category": "Musical Performance", "skid": null}
-{"order": 10, "epid": "19871212", "tid": "1987121211", "name": "Police Women", "category": "Show", "skid": null}
-{"order": 11, "epid": "19871212", "tid": "1987121212", "name": "The Assimilated Jew's Hanukkah", "category": "Commercial", "skid": null}
-{"order": 12, "epid": "19871212", "tid": "1987121213", "name": "Drunk Man", "category": "Sketch", "skid": null}
-{"order": 13, "epid": "19871212", "tid": "1987121214", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19871205", "tid": "198712051", "name": "Gorbachev/Reagan", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19871205", "tid": "198712052", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19871205", "tid": "198712053", "name": "Handi-Off", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19871205", "tid": "198712054", "name": "At The Movies", "category": "Show", "skid": null}
-{"order": 4, "epid": "19871205", "tid": "198712055", "name": "Church Chat", "category": "Show", "skid": "67"}
-{"order": 5, "epid": "19871205", "tid": "198712056", "name": "\"The Right Stuff\"", "category": "Musical Performance", "skid": null}
-{"order": 6, "epid": "19871205", "tid": "198712057", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 7, "epid": "19871205", "tid": "198712058", "name": "Jungle Room", "category": "Sketch", "skid": null}
-{"order": 8, "epid": "19871205", "tid": "198712059", "name": "Mona Lisa", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19871205", "tid": "1987120510", "name": "Ann Landers' Playhouse", "category": "Show", "skid": null}
-{"order": 10, "epid": "19871205", "tid": "1987120511", "name": "\"Kiss and Tell\"", "category": "Musical Performance", "skid": null}
-{"order": 11, "epid": "19871205", "tid": "1987120512", "name": "Doorman", "category": "Sketch", "skid": null}
-{"order": 12, "epid": "19871205", "tid": "1987120513", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19871121", "tid": "198711211", "name": "A Message From The Vice President", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19871121", "tid": "198711212", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19871121", "tid": "198711213", "name": "Pumping Up With Hans & Franz", "category": "Show", "skid": "74"}
-{"order": 3, "epid": "19871121", "tid": "198711214", "name": "Anne Boleyn", "category": "Sketch", "skid": null}
-{"order": 4, "epid": "19871121", "tid": "198711215", "name": "Manufacturers of Machine Part Components United To Save Our Courts", "category": "Commercial", "skid": null}
-{"order": 5, "epid": "19871121", "tid": "198711216", "name": "\"We All Sleep Alone\"", "category": "Musical Performance", "skid": null}
-{"order": 6, "epid": "19871121", "tid": "198711217", "name": "Ching Change", "category": "Sketch", "skid": null}
-{"order": 7, "epid": "19871121", "tid": "198711218", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19871121", "tid": "198711219", "name": "Mayflower Madam", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19871121", "tid": "1987112110", "name": "Country Through and Through", "category": "Musical Sketch", "skid": null}
-{"order": 10, "epid": "19871121", "tid": "1987112111", "name": "\"I Found Someone\"", "category": "Musical Performance", "skid": null}
-{"order": 11, "epid": "19871121", "tid": "1987112112", "name": "Thought Bubble", "category": "Sketch", "skid": null}
-{"order": 12, "epid": "19871121", "tid": "1987112113", "name": "Peeping Tom", "category": "Sketch", "skid": null}
-{"order": 13, "epid": "19871121", "tid": "1987112114", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19871114", "tid": "198711141", "name": "The Rolling Paper Chase", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19871114", "tid": "198711142", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19871114", "tid": "198711143", "name": "Compulsion", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19871114", "tid": "198711144", "name": "Death Be Not Deadly", "category": "Sketch", "skid": null}
-{"order": 4, "epid": "19871114", "tid": "198711145", "name": "The Mountain Man", "category": "Sketch", "skid": null}
-{"order": 5, "epid": "19871114", "tid": "198711146", "name": "\"The Right Thing\"", "category": "Musical Performance", "skid": null}
-{"order": 6, "epid": "19871114", "tid": "198711147", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 7, "epid": "19871114", "tid": "198711148", "name": "Sweeney's Comeback", "category": "Sketch", "skid": null}
-{"order": 8, "epid": "19871114", "tid": "198711149", "name": "Out Of Gas", "category": "Film", "skid": null}
-{"order": 9, "epid": "19871114", "tid": "1987111410", "name": "Andre & Rex: Macho Hairstylists", "category": "Sketch", "skid": null}
-{"order": 10, "epid": "19871114", "tid": "1987111411", "name": "BeautyBath", "category": "Commercial", "skid": null}
-{"order": 11, "epid": "19871114", "tid": "1987111412", "name": "\"Suffer\"", "category": "Musical Performance", "skid": null}
-{"order": 12, "epid": "19871114", "tid": "1987111413", "name": "Mysterious Old Man", "category": "Sketch", "skid": null}
-{"order": 13, "epid": "19871114", "tid": "1987111414", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19871031", "tid": "198710311", "name": "Lifestyles of the Rich, Famous and Scary", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19871031", "tid": "198710312", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19871031", "tid": "198710313", "name": "Nature's Broom", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19871031", "tid": "198710314", "name": "The Winning Spirit", "category": "Show", "skid": null}
-{"order": 4, "epid": "19871031", "tid": "198710315", "name": "Don't Go Down To The Basement", "category": "Sketch", "skid": null}
-{"order": 5, "epid": "19871031", "tid": "198710316", "name": "Campfire Stories", "category": "Sketch", "skid": null}
-{"order": 6, "epid": "19871031", "tid": "198710317", "name": "\"Strap Me In\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19871031", "tid": "198710318", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19871031", "tid": "198710319", "name": "Marriage Counselor", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19871031", "tid": "1987103110", "name": "Count Dracula, Self-Taught Auto Mechanic", "category": "Sketch", "skid": null}
-{"order": 10, "epid": "19871031", "tid": "1987103111", "name": "The Pat Stevens Show", "category": "Show", "skid": "61"}
-{"order": 11, "epid": "19871031", "tid": "1987103112", "name": "Mascot Ideas", "category": "Sketch", "skid": null}
-{"order": 12, "epid": "19871031", "tid": "1987103113", "name": "\"Double Trouble\"", "category": "Musical Performance", "skid": null}
-{"order": 13, "epid": "19871031", "tid": "1987103114", "name": "Investment Firm", "category": "Sketch", "skid": null}
-{"order": 14, "epid": "19871031", "tid": "1987103115", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19871024", "tid": "198710241", "name": "Fatal Attraction II", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19871024", "tid": "198710242", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19871024", "tid": "198710243", "name": "Wall Street Week", "category": "Show", "skid": null}
-{"order": 3, "epid": "19871024", "tid": "198710244", "name": "Church Chat", "category": "Show", "skid": "67"}
-{"order": 4, "epid": "19871024", "tid": "198710245", "name": "Pitman And Bullock", "category": "Commercial", "skid": null}
-{"order": 5, "epid": "19871024", "tid": "198710246", "name": "Teeny Caf\u00e9", "category": "Sketch", "skid": null}
-{"order": 6, "epid": "19871024", "tid": "198710247", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 7, "epid": "19871024", "tid": "198710248", "name": "After The Date", "category": "Sketch", "skid": null}
-{"order": 8, "epid": "19871024", "tid": "198710249", "name": "\"Go Cut Creator Go\"", "category": "Musical Performance", "skid": null}
-{"order": 9, "epid": "19871024", "tid": "1987102410", "name": "Discover", "category": "Show", "skid": "72"}
-{"order": 10, "epid": "19871024", "tid": "1987102411", "name": "Joey Comes Home", "category": "Sketch", "skid": null}
-{"order": 11, "epid": "19871024", "tid": "1987102412", "name": "\"This & That\"", "category": "Musical Performance", "skid": null}
-{"order": 12, "epid": "19871024", "tid": "1987102413", "name": "Cat Dentist", "category": "Film", "skid": null}
-{"order": 13, "epid": "19871024", "tid": "1987102414", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19871017", "tid": "198710171", "name": "White House Dinner", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19871017", "tid": "198710172", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19871017", "tid": "198710173", "name": "Gary Hart", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19871017", "tid": "198710174", "name": "Common Knowledge", "category": "Game Show", "skid": null}
-{"order": 4, "epid": "19871017", "tid": "198710175", "name": "The NFL Today", "category": "Show", "skid": "70"}
-{"order": 5, "epid": "19871017", "tid": "198710176", "name": "Slide Whistles", "category": "Sketch", "skid": null}
-{"order": 6, "epid": "19871017", "tid": "198710177", "name": "\"We'll Be Together\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19871017", "tid": "198710178", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19871017", "tid": "198710179", "name": "Bullets Aren't Cheap", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19871017", "tid": "1987101710", "name": "Permission To Speak Freely", "category": "Sketch", "skid": null}
-{"order": 10, "epid": "19871017", "tid": "1987101711", "name": "\"Little Wing\"", "category": "Musical Performance", "skid": null}
-{"order": 11, "epid": "19871017", "tid": "1987101712", "name": "Adventures In The Lost Realm", "category": "Sketch", "skid": null}
-{"order": 12, "epid": "19871017", "tid": "1987101713", "name": "Pumping Up With Hans & Franz", "category": "Show", "skid": "74"}
-{"order": 13, "epid": "19871017", "tid": "1987101714", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19920509", "tid": "199205091", "name": "Perot for President", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19920509", "tid": "199205092", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19920509", "tid": "199205093", "name": "John Cabrizio Chevrolet Mazda Hyundai", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19920509", "tid": "199205094", "name": "Sabra Price Is Right", "category": "Game Show", "skid": null}
+{"order": 4, "epid": "19920509", "tid": "199205095", "name": "Mr. Belvedere Fan Club", "category": "Sketch", "skid": null}
+{"order": 5, "epid": "19920509", "tid": "199205096", "name": "\"Lucky Town\"", "category": "Musical Performance", "skid": null}
+{"order": 6, "epid": "19920509", "tid": "199205097", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 7, "epid": "19920509", "tid": "199205098", "name": "She Turned Into Her Mother!!", "category": "Sketch", "skid": null}
+{"order": 8, "epid": "19920509", "tid": "199205099", "name": "\"57 Channels\", \"Living Proof\"", "category": "Musical Performance", "skid": null}
+{"order": 9, "epid": "19920509", "tid": "1992050910", "name": "The Dark Side", "category": "Show", "skid": "93"}
+{"order": 10, "epid": "19920509", "tid": "1992050911", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 11, "epid": "19920509", "tid": "1992050912", "name": "Showcase Playhouse Theater", "category": "Show", "skid": null}
+{"order": 12, "epid": "19920509", "tid": "1992050913", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19920418", "tid": "199204181", "name": "Clinton-Brown Debate", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19920418", "tid": "199204182", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19920418", "tid": "199204183", "name": "Stand-Up And Win", "category": "Game Show", "skid": null}
+{"order": 3, "epid": "19920418", "tid": "199204184", "name": "History Class", "category": "Sketch", "skid": null}
+{"order": 4, "epid": "19920418", "tid": "199204185", "name": "\"Why\"", "category": "Musical Performance", "skid": null}
+{"order": 5, "epid": "19920418", "tid": "199204186", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 6, "epid": "19920418", "tid": "199204187", "name": "Passover Seder", "category": "Sketch", "skid": null}
+{"order": 7, "epid": "19920418", "tid": "199204188", "name": "Lank Thompson: I'm A Handsome Black Man", "category": "Show", "skid": null}
+{"order": 8, "epid": "19920418", "tid": "199204189", "name": "Permanent Positions", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19920418", "tid": "1992041810", "name": "\"Legend In My Living Room\"", "category": "Musical Performance", "skid": null}
+{"order": 10, "epid": "19920418", "tid": "1992041811", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 11, "epid": "19920418", "tid": "1992041812", "name": "I'm Chillin'", "category": "Show", "skid": "96"}
+{"order": 12, "epid": "19920418", "tid": "1992041813", "name": "The Lenny Wise Show", "category": "Sketch", "skid": null}
+{"order": 13, "epid": "19920418", "tid": "1992041814", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19920411", "tid": "199204111", "name": "Wayne's World", "category": "Cold Opening", "skid": "80"}
+{"order": 1, "epid": "19920411", "tid": "199204112", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19920411", "tid": "199204113", "name": "Jiffy Pop Airbag", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19920411", "tid": "199204114", "name": "Hitting on Women", "category": "Sketch", "skid": null}
+{"order": 4, "epid": "19920411", "tid": "199204115", "name": "Sex Games", "category": "Sketch", "skid": null}
+{"order": 5, "epid": "19920411", "tid": "199204116", "name": "Flippy, The Flipping Chihuahua", "category": "Sketch", "skid": null}
+{"order": 6, "epid": "19920411", "tid": "199204117", "name": "Lung Brush", "category": "Commercial", "skid": null}
+{"order": 7, "epid": "19920411", "tid": "199204118", "name": "Interrogation", "category": "Sketch", "skid": null}
+{"order": 8, "epid": "19920411", "tid": "199204119", "name": "\"Alive\"", "category": "Musical Performance", "skid": null}
+{"order": 9, "epid": "19920411", "tid": "1992041110", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 10, "epid": "19920411", "tid": "1992041111", "name": "Security Check", "category": "Sketch", "skid": null}
+{"order": 11, "epid": "19920411", "tid": "1992041112", "name": "Ernie's", "category": "Sketch", "skid": null}
+{"order": 12, "epid": "19920411", "tid": "1992041113", "name": "Tayster's Choice Spermicidal Jelly", "category": "Commercial", "skid": null}
+{"order": 13, "epid": "19920411", "tid": "1992041114", "name": "Phil Hartman Creations", "category": "Commercial", "skid": null}
+{"order": 14, "epid": "19920411", "tid": "1992041115", "name": "Tayster's Choice Spermicidal Jelly", "category": "Commercial", "skid": null}
+{"order": 15, "epid": "19920411", "tid": "1992041116", "name": "\"Porch\"", "category": "Musical Performance", "skid": null}
+{"order": 16, "epid": "19920411", "tid": "1992041117", "name": "Porno Couple", "category": "Sketch", "skid": null}
+{"order": 17, "epid": "19920411", "tid": "1992041118", "name": "Tayster's Choice Spermicidal Jelly", "category": "Commercial", "skid": null}
+{"order": 18, "epid": "19920411", "tid": "1992041119", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19920321", "tid": "199203211", "name": "The McLaughlin Group", "category": "Cold Opening", "skid": "94"}
+{"order": 1, "epid": "19920321", "tid": "199203212", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19920321", "tid": "199203213", "name": "Action Cats", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19920321", "tid": "199203214", "name": "Lisa Pongrasic, Very Pregnant Undercover Cop", "category": "Show", "skid": null}
+{"order": 4, "epid": "19920321", "tid": "199203215", "name": "Lyle, The Effeminate Heterosexual", "category": "Sketch", "skid": "88"}
+{"order": 5, "epid": "19920321", "tid": "199203216", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 6, "epid": "19920321", "tid": "199203217", "name": "\"Never Gonna Get It\", \"Hold On\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19920321", "tid": "199203218", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19920321", "tid": "199203219", "name": "Delta Delta Delta", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19920321", "tid": "1992032110", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 10, "epid": "19920321", "tid": "1992032111", "name": "Monster Spray", "category": "Commercial", "skid": null}
+{"order": 11, "epid": "19920321", "tid": "1992032112", "name": "Who Shot Me?", "category": "Sketch", "skid": null}
+{"order": 12, "epid": "19920321", "tid": "1992032113", "name": "\"Free Your Mind\"", "category": "Musical Performance", "skid": null}
+{"order": 13, "epid": "19920321", "tid": "1992032114", "name": "Colosseum Events Committee", "category": "Sketch", "skid": null}
+{"order": 14, "epid": "19920321", "tid": "1992032115", "name": "Schiller's Reel - Million Dollar Zombie", "category": "Film", "skid": "18"}
+{"order": 15, "epid": "19920321", "tid": "1992032116", "name": "Money for Booze", "category": "Sketch", "skid": null}
+{"order": 16, "epid": "19920321", "tid": "1992032117", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19920314", "tid": "199203141", "name": "17th Annual Star Trek Convention", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19920314", "tid": "199203142", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19920314", "tid": "199203143", "name": "Unforgivable", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19920314", "tid": "199203144", "name": "My 75 Kids", "category": "Show", "skid": null}
+{"order": 4, "epid": "19920314", "tid": "199203145", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 5, "epid": "19920314", "tid": "199203146", "name": "Unfrozen Cave Man Lawyer", "category": "Sketch", "skid": "105"}
+{"order": 6, "epid": "19920314", "tid": "199203147", "name": "\"Rodeo\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19920314", "tid": "199203148", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19920314", "tid": "199203149", "name": "Theatre Stories", "category": "Show", "skid": "106"}
+{"order": 9, "epid": "19920314", "tid": "1992031410", "name": "Anton Mesrobian, Teen Dermatologist", "category": "Sketch", "skid": null}
+{"order": 10, "epid": "19920314", "tid": "1992031411", "name": "\"The River\"", "category": "Musical Performance", "skid": null}
+{"order": 11, "epid": "19920314", "tid": "1992031412", "name": "Country Singer Names", "category": "Sketch", "skid": null}
+{"order": 12, "epid": "19920314", "tid": "1992031413", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 13, "epid": "19920314", "tid": "1992031414", "name": "The Ides of March", "category": "Sketch", "skid": null}
+{"order": 14, "epid": "19920314", "tid": "1992031415", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 15, "epid": "19920314", "tid": "1992031416", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19920222", "tid": "199202221", "name": "Presidential Address", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19920222", "tid": "199202222", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19920222", "tid": "199202223", "name": "Dick Clark Productions", "category": "Sketch", "skid": null}
+{"order": 3, "epid": "19920222", "tid": "199202224", "name": "Coffee Talk", "category": "Show", "skid": "99"}
+{"order": 4, "epid": "19920222", "tid": "199202225", "name": "Tall Tales Of The Recession", "category": "Sketch", "skid": null}
+{"order": 5, "epid": "19920222", "tid": "199202226", "name": "\"Stone Cold Bush\"", "category": "Musical Performance", "skid": null}
+{"order": 6, "epid": "19920222", "tid": "199202227", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 7, "epid": "19920222", "tid": "199202228", "name": "Delta Delta Delta", "category": "Sketch", "skid": null}
+{"order": 8, "epid": "19920222", "tid": "199202229", "name": "A Star Is Born", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19920222", "tid": "1992022210", "name": "Daily Affirmation", "category": "Show", "skid": "100"}
+{"order": 10, "epid": "19920222", "tid": "1992022211", "name": "\"Under The Bridge\"", "category": "Musical Performance", "skid": null}
+{"order": 11, "epid": "19920222", "tid": "1992022212", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 12, "epid": "19920222", "tid": "1992022213", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19920215", "tid": "199202151", "name": "Olympic Figure Skating", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19920215", "tid": "199202152", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19920215", "tid": "199202153", "name": "Jiffy Pop Airbag", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19920215", "tid": "199202154", "name": "The Life and Times of Johnny Hildo", "category": "Sketch", "skid": null}
+{"order": 4, "epid": "19920215", "tid": "199202155", "name": "Love Werks", "category": "Game Show", "skid": null}
+{"order": 5, "epid": "19920215", "tid": "199202156", "name": "The Arsenio Hall Show", "category": "Show", "skid": null}
+{"order": 6, "epid": "19920215", "tid": "199202157", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 7, "epid": "19920215", "tid": "199202158", "name": "\"The Concept\"", "category": "Musical Performance", "skid": null}
+{"order": 8, "epid": "19920215", "tid": "199202159", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 9, "epid": "19920215", "tid": "1992021510", "name": "Beverly Hills 90210", "category": "Show", "skid": null}
+{"order": 10, "epid": "19920215", "tid": "1992021511", "name": "La Tour and Johnson", "category": "Commercial", "skid": null}
+{"order": 11, "epid": "19920215", "tid": "1992021512", "name": "Marriage Tests", "category": "Sketch", "skid": null}
+{"order": 12, "epid": "19920215", "tid": "1992021513", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 13, "epid": "19920215", "tid": "1992021514", "name": "\"What You Do To Me\", \"Pet Rock\"", "category": "Musical Performance", "skid": null}
+{"order": 14, "epid": "19920215", "tid": "1992021515", "name": "Bank Robbery", "category": "Sketch", "skid": null}
+{"order": 15, "epid": "19920215", "tid": "1992021516", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19920208", "tid": "199202081", "name": "L.A. Law", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19920208", "tid": "199202082", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19920208", "tid": "199202083", "name": "Leevi's 3 Legged Jeans", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19920208", "tid": "199202084", "name": "Harrassment Trial", "category": "Sketch", "skid": null}
+{"order": 4, "epid": "19920208", "tid": "199202085", "name": "The Arakawa Group", "category": "Show", "skid": null}
+{"order": 5, "epid": "19920208", "tid": "199202086", "name": "The Sensitive Naked Man", "category": "Sketch", "skid": "107"}
+{"order": 6, "epid": "19920208", "tid": "199202087", "name": "\"Here We Go Let's Rock and Roll\", \"Gonna Make You Sweat\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19920208", "tid": "199202088", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19920208", "tid": "199202089", "name": "Partridge Family vs. Brady Bunch", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19920208", "tid": "1992020810", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 10, "epid": "19920208", "tid": "1992020811", "name": "Gestures", "category": "Sketch", "skid": null}
+{"order": 11, "epid": "19920208", "tid": "1992020812", "name": "Backstage", "category": "Miscellaneous", "skid": null}
+{"order": 12, "epid": "19920208", "tid": "1992020813", "name": "Boss & Janitor", "category": "Sketch", "skid": null}
+{"order": 13, "epid": "19920208", "tid": "1992020814", "name": "\"A Deeper Love\"", "category": "Musical Performance", "skid": null}
+{"order": 14, "epid": "19920208", "tid": "1992020815", "name": "Art Museum", "category": "Sketch", "skid": null}
+{"order": 15, "epid": "19920208", "tid": "1992020816", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 16, "epid": "19920208", "tid": "1992020817", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19920118", "tid": "199201181", "name": "Wayne's World", "category": "Cold Opening", "skid": "80"}
+{"order": 1, "epid": "19920118", "tid": "199201182", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19920118", "tid": "199201183", "name": "The Love Toilet", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19920118", "tid": "199201184", "name": "Adopt A Pet", "category": "Show", "skid": null}
+{"order": 4, "epid": "19920118", "tid": "199201185", "name": "Daniel's Diner", "category": "Sketch", "skid": null}
+{"order": 5, "epid": "19920118", "tid": "199201186", "name": "Dahmer's Defense", "category": "Sketch", "skid": null}
+{"order": 6, "epid": "19920118", "tid": "199201187", "name": "\"Go Back to Your Woods\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19920118", "tid": "199201188", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19920118", "tid": "199201189", "name": "Bob Swerski's Quiz Masters", "category": "Game Show", "skid": null}
+{"order": 9, "epid": "19920118", "tid": "1992011810", "name": "Van Morrison Concert", "category": "Sketch", "skid": null}
+{"order": 10, "epid": "19920118", "tid": "1992011811", "name": "\"The Weight\"", "category": "Musical Performance", "skid": null}
+{"order": 11, "epid": "19920118", "tid": "1992011812", "name": "Backstage", "category": "Miscellaneous", "skid": null}
+{"order": 12, "epid": "19920118", "tid": "1992011813", "name": "Kaufman's Big And Tall, And Short And Small Sephardic Jew Men's Clothing Store", "category": "Commercial", "skid": null}
+{"order": 13, "epid": "19920118", "tid": "1992011814", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19920111", "tid": "199201111", "name": "Cover-Up", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19920111", "tid": "199201112", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19920111", "tid": "199201113", "name": "S\u00e1lon", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19920111", "tid": "199201114", "name": "It's Pat", "category": "Sketch", "skid": "101"}
+{"order": 4, "epid": "19920111", "tid": "199201115", "name": "Delta Delta Delta", "category": "Sketch", "skid": null}
+{"order": 5, "epid": "19920111", "tid": "199201116", "name": "Cowboy Song", "category": "Musical Sketch", "skid": null}
+{"order": 6, "epid": "19920111", "tid": "199201117", "name": "\"Smells Like Teen Spirit\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19920111", "tid": "199201118", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19920111", "tid": "199201119", "name": "Lenin's Body", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19920111", "tid": "1992011110", "name": "Movie Talk", "category": "Sketch", "skid": null}
+{"order": 10, "epid": "19920111", "tid": "1992011111", "name": "Chris Rock's White Person's Guide To Surviving The Apollo", "category": "Commercial", "skid": null}
+{"order": 11, "epid": "19920111", "tid": "1992011112", "name": "Insults", "category": "Sketch", "skid": null}
+{"order": 12, "epid": "19920111", "tid": "1992011113", "name": "\"Territorial Pissing\"", "category": "Musical Performance", "skid": null}
+{"order": 13, "epid": "19920111", "tid": "1992011114", "name": "Minutes Behind", "category": "Sketch", "skid": null}
+{"order": 14, "epid": "19920111", "tid": "1992011115", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19911214", "tid": "199112141", "name": "The Tonight Song", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19911214", "tid": "199112142", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19911214", "tid": "199112143", "name": "Schmitts Gay", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19911214", "tid": "199112144", "name": "Suckerpunch", "category": "Game Show", "skid": null}
+{"order": 4, "epid": "19911214", "tid": "199112145", "name": "Doormen", "category": "Sketch", "skid": null}
+{"order": 5, "epid": "19911214", "tid": "199112146", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 6, "epid": "19911214", "tid": "199112147", "name": "The Energy Brothers", "category": "Miscellaneous", "skid": null}
+{"order": 7, "epid": "19911214", "tid": "199112148", "name": "\"Stop Thinkin' About That\"", "category": "Musical Performance", "skid": null}
+{"order": 8, "epid": "19911214", "tid": "199112149", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 9, "epid": "19911214", "tid": "1991121410", "name": "Theatre Stories", "category": "Show", "skid": "106"}
+{"order": 10, "epid": "19911214", "tid": "1991121411", "name": "Live With Regis & Kathie Lee", "category": "Show", "skid": "91"}
+{"order": 11, "epid": "19911214", "tid": "1991121412", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 12, "epid": "19911214", "tid": "1991121413", "name": "\"Shed A Little Light\"", "category": "Musical Performance", "skid": null}
+{"order": 13, "epid": "19911214", "tid": "1991121414", "name": "Grandma Pugga", "category": "Sketch", "skid": null}
+{"order": 14, "epid": "19911214", "tid": "1991121415", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 15, "epid": "19911214", "tid": "1991121416", "name": "Cowards", "category": "Sketch", "skid": null}
+{"order": 16, "epid": "19911214", "tid": "1991121417", "name": "The Dark Side", "category": "Show", "skid": "93"}
+{"order": 17, "epid": "19911214", "tid": "1991121418", "name": "\"Sweet Baby James\"", "category": "Musical Performance", "skid": null}
+{"order": 18, "epid": "19911214", "tid": "1991121419", "name": "Season's Greetings", "category": "Miscellaneous", "skid": null}
+{"order": 19, "epid": "19911214", "tid": "1991121420", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19911207", "tid": "199112071", "name": "Presidential Address", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19911207", "tid": "199112072", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19911207", "tid": "199112073", "name": "\"Too Legit To Quit\"", "category": "Musical Performance", "skid": null}
+{"order": 3, "epid": "19911207", "tid": "199112074", "name": "Bad Haircut Support Group", "category": "Sketch", "skid": null}
+{"order": 4, "epid": "19911207", "tid": "199112075", "name": "Turrell Daily Star", "category": "Sketch", "skid": null}
+{"order": 5, "epid": "19911207", "tid": "199112076", "name": "", "category": "Intro", "skid": null}
+{"order": 6, "epid": "19911207", "tid": "199112077", "name": "\"Addams Groove\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19911207", "tid": "199112078", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19911207", "tid": "199112079", "name": "Tales From The Barbecue", "category": "Sketch", "skid": "103"}
+{"order": 9, "epid": "19911207", "tid": "1991120710", "name": "Johnny Letter", "category": "Sketch", "skid": null}
+{"order": 10, "epid": "19911207", "tid": "1991120711", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 11, "epid": "19911207", "tid": "1991120712", "name": "Remembrances of Love", "category": "Sketch", "skid": null}
+{"order": 12, "epid": "19911207", "tid": "1991120713", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 13, "epid": "19911207", "tid": "1991120714", "name": "\"This is the Way We Roll\"", "category": "Musical Performance", "skid": null}
+{"order": 14, "epid": "19911207", "tid": "1991120715", "name": "Dick Clark Productions", "category": "Sketch", "skid": null}
+{"order": 15, "epid": "19911207", "tid": "1991120716", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19911123", "tid": "199111231", "name": "Hosting Alone", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19911123", "tid": "199111232", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19911123", "tid": "199111233", "name": "The Love Toilet", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19911123", "tid": "199111234", "name": "Bill Swerski's Super Fans", "category": "Show", "skid": "97"}
+{"order": 4, "epid": "19911123", "tid": "199111235", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 5, "epid": "19911123", "tid": "199111236", "name": "Flashback", "category": "Sketch", "skid": null}
+{"order": 6, "epid": "19911123", "tid": "199111237", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 7, "epid": "19911123", "tid": "199111238", "name": "\"Baby Universal\"", "category": "Musical Performance", "skid": null}
+{"order": 8, "epid": "19911123", "tid": "199111239", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 9, "epid": "19911123", "tid": "1991112310", "name": "Unfrozen Cave Man Lawyer", "category": "Sketch", "skid": "105"}
+{"order": 10, "epid": "19911123", "tid": "1991112311", "name": "Simon", "category": "Show", "skid": "92"}
+{"order": 11, "epid": "19911123", "tid": "1991112312", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 12, "epid": "19911123", "tid": "1991112313", "name": "Young Superboy", "category": "Sketch", "skid": null}
+{"order": 13, "epid": "19911123", "tid": "1991112314", "name": "\"If There Is Something\"", "category": "Musical Performance", "skid": null}
+{"order": 14, "epid": "19911123", "tid": "1991112315", "name": "Daily Affirmation", "category": "Show", "skid": "100"}
+{"order": 15, "epid": "19911123", "tid": "1991112316", "name": "U.S. Fon", "category": "Commercial", "skid": null}
+{"order": 16, "epid": "19911123", "tid": "1991112317", "name": "Medieval Scalders", "category": "Sketch", "skid": null}
+{"order": 17, "epid": "19911123", "tid": "1991112318", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 18, "epid": "19911123", "tid": "1991112319", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19911116", "tid": "199111161", "name": "Campaign '91", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19911116", "tid": "199111162", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19911116", "tid": "199111163", "name": "Leevi's 3 Legged Jeans", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19911116", "tid": "199111164", "name": "Toonces, The Cat Who Could Drive A Car - The Tooncinator", "category": "Sketch", "skid": "86"}
+{"order": 4, "epid": "19911116", "tid": "199111165", "name": "It's Pat", "category": "Sketch", "skid": "101"}
+{"order": 5, "epid": "19911116", "tid": "199111166", "name": "Massive Headwound Harry - The Cocktail Party", "category": "Sketch", "skid": null}
+{"order": 6, "epid": "19911116", "tid": "199111167", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 7, "epid": "19911116", "tid": "199111168", "name": "Backstage", "category": "Miscellaneous", "skid": null}
+{"order": 8, "epid": "19911116", "tid": "199111169", "name": "\"Can't Let Go\"", "category": "Musical Performance", "skid": null}
+{"order": 9, "epid": "19911116", "tid": "1991111610", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 10, "epid": "19911116", "tid": "1991111611", "name": "Tough Girls", "category": "Sketch", "skid": null}
+{"order": 11, "epid": "19911116", "tid": "1991111612", "name": "The Chris Farley Show", "category": "Show", "skid": "104"}
+{"order": 12, "epid": "19911116", "tid": "1991111613", "name": "\"If It's Over\"", "category": "Musical Performance", "skid": null}
+{"order": 13, "epid": "19911116", "tid": "1991111614", "name": "Baby Talk", "category": "Sketch", "skid": null}
+{"order": 14, "epid": "19911116", "tid": "1991111615", "name": "Schiller's Reel - Hidden Camera Commercials", "category": "Film", "skid": "18"}
+{"order": 15, "epid": "19911116", "tid": "1991111616", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19911102", "tid": "199111021", "name": "Jury Selection", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19911102", "tid": "199111022", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19911102", "tid": "199111023", "name": "Lung Brush", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19911102", "tid": "199111024", "name": "Campaign '92", "category": "Show", "skid": null}
+{"order": 4, "epid": "19911102", "tid": "199111025", "name": "Whose Ass Should I Kiss?", "category": "Game Show", "skid": null}
+{"order": 5, "epid": "19911102", "tid": "199111026", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 6, "epid": "19911102", "tid": "199111027", "name": "\"Piece of Me\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19911102", "tid": "199111028", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19911102", "tid": "199111029", "name": "All Things Scottish", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19911102", "tid": "1991110210", "name": "Kiddie Metal", "category": "Commercial", "skid": null}
+{"order": 10, "epid": "19911102", "tid": "1991110211", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 11, "epid": "19911102", "tid": "1991110212", "name": "Daily Affirmation", "category": "Show", "skid": "100"}
+{"order": 12, "epid": "19911102", "tid": "1991110213", "name": "\"Monkey Business\"", "category": "Musical Performance", "skid": null}
+{"order": 13, "epid": "19911102", "tid": "1991110214", "name": "Phone Illiteracy", "category": "Sketch", "skid": null}
+{"order": 14, "epid": "19911102", "tid": "1991110215", "name": "I'm Chillin'", "category": "Show", "skid": "96"}
+{"order": 15, "epid": "19911102", "tid": "1991110216", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19911026", "tid": "199110261", "name": "The McLaughlin Group", "category": "Cold Opening", "skid": "94"}
+{"order": 1, "epid": "19911026", "tid": "199110262", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19911026", "tid": "199110263", "name": "Coldcock", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19911026", "tid": "199110264", "name": "Ron's Wings 'N' Things", "category": "Sketch", "skid": null}
+{"order": 4, "epid": "19911026", "tid": "199110265", "name": "Dysfunctional Family Feud", "category": "Game Show", "skid": null}
+{"order": 5, "epid": "19911026", "tid": "199110266", "name": "Club Banana", "category": "Sketch", "skid": null}
+{"order": 6, "epid": "19911026", "tid": "199110267", "name": "\"Something To Talk About\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19911026", "tid": "199110268", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19911026", "tid": "199110269", "name": "The Curse Of The Wolf Man", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19911026", "tid": "1991102610", "name": "Young Actors Forum", "category": "Show", "skid": null}
+{"order": 10, "epid": "19911026", "tid": "1991102611", "name": "\"I Can't Make You Love Me\"", "category": "Musical Performance", "skid": null}
+{"order": 11, "epid": "19911026", "tid": "1991102612", "name": "Pumping Up With Hans & Franz", "category": "Show", "skid": "74"}
+{"order": 12, "epid": "19911026", "tid": "1991102613", "name": "Nich-Aid", "category": "Commercial", "skid": null}
+{"order": 13, "epid": "19911026", "tid": "1991102614", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19911012", "tid": "199110121", "name": "Clarence Thomas Hearings", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19911012", "tid": "199110122", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19911012", "tid": "199110123", "name": "Lonely Choice", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19911012", "tid": "199110124", "name": "Il Cantore", "category": "Sketch", "skid": null}
+{"order": 4, "epid": "19911012", "tid": "199110125", "name": "It's Pat", "category": "Sketch", "skid": "101"}
+{"order": 5, "epid": "19911012", "tid": "199110126", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 6, "epid": "19911012", "tid": "199110127", "name": "\"Into the Great Wide Open\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19911012", "tid": "199110128", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19911012", "tid": "199110129", "name": "Their Eyes Were On Their Breasts!", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19911012", "tid": "1991101210", "name": "Coffee Talk", "category": "Show", "skid": "99"}
+{"order": 10, "epid": "19911012", "tid": "1991101211", "name": "\"Kings Highway\"", "category": "Musical Performance", "skid": null}
+{"order": 11, "epid": "19911012", "tid": "1991101212", "name": "Psycho Divorced Mother", "category": "Show", "skid": null}
+{"order": 12, "epid": "19911012", "tid": "1991101213", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 13, "epid": "19911012", "tid": "1991101214", "name": "Look Who Else Is Talking Also", "category": "Sketch", "skid": null}
+{"order": 14, "epid": "19911012", "tid": "1991101215", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
+{"order": 15, "epid": "19911012", "tid": "1991101216", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19911005", "tid": "199110051", "name": "The Tonight Show", "category": "Cold Opening", "skid": "45"}
+{"order": 1, "epid": "19911005", "tid": "199110052", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19911005", "tid": "199110053", "name": "Earthies", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19911005", "tid": "199110054", "name": "Copy Machine", "category": "Sketch", "skid": null}
+{"order": 4, "epid": "19911005", "tid": "199110055", "name": "Community College Bowl", "category": "Game Show", "skid": null}
+{"order": 5, "epid": "19911005", "tid": "199110056", "name": "The Chris Farley Show", "category": "Show", "skid": "104"}
+{"order": 6, "epid": "19911005", "tid": "199110057", "name": "\"I Wanna Sex You Up\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19911005", "tid": "199110058", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19911005", "tid": "199110059", "name": "Apex Novelty", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19911005", "tid": "1991100510", "name": "Simon", "category": "Show", "skid": "92"}
+{"order": 10, "epid": "19911005", "tid": "1991100511", "name": "Real Life With Jane Pauley", "category": "Show", "skid": null}
+{"order": 11, "epid": "19911005", "tid": "1991100512", "name": "\"I Adore Mi Amor\"", "category": "Musical Performance", "skid": null}
+{"order": 12, "epid": "19911005", "tid": "1991100513", "name": "Don't Get Me Wrong", "category": "Sketch", "skid": null}
+{"order": 13, "epid": "19911005", "tid": "1991100514", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19910928", "tid": "199109281", "name": "Wayne's World", "category": "Cold Opening", "skid": "80"}
+{"order": 1, "epid": "19910928", "tid": "199109282", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19910928", "tid": "199109283", "name": "Schmitts Gay", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19910928", "tid": "199109284", "name": "The First Black Harlem Globetrotter", "category": "Sketch", "skid": null}
+{"order": 4, "epid": "19910928", "tid": "199109285", "name": "Bill Swerski's Super Fans", "category": "Show", "skid": "97"}
+{"order": 5, "epid": "19910928", "tid": "199109286", "name": "\"Can't Truss It\"", "category": "Musical Performance", "skid": null}
+{"order": 6, "epid": "19910928", "tid": "199109287", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 7, "epid": "19910928", "tid": "199109288", "name": "Daily Affirmation", "category": "Show", "skid": "100"}
+{"order": 8, "epid": "19910928", "tid": "199109289", "name": "Backstage", "category": "Miscellaneous", "skid": null}
+{"order": 9, "epid": "19910928", "tid": "1991092810", "name": "The Dark Side", "category": "Show", "skid": "93"}
+{"order": 10, "epid": "19910928", "tid": "1991092811", "name": "Tales From The Barbecue", "category": "Sketch", "skid": "103"}
+{"order": 11, "epid": "19910928", "tid": "1991092812", "name": "\"Bring Tha Noize\"", "category": "Musical Performance", "skid": null}
+{"order": 12, "epid": "19910928", "tid": "1991092813", "name": "Elevator", "category": "Sketch", "skid": null}
+{"order": 13, "epid": "19910928", "tid": "1991092814", "name": "", "category": "Goodnights", "skid": null}
 {"order": 0, "epid": "20170520", "tid": "201705201", "name": "Hallelujah", "category": "Cold Opening", "skid": null}
 {"order": 1, "epid": "20170520", "tid": "201705202", "name": "", "category": "Monologue", "skid": null}
 {"order": 2, "epid": "20170520", "tid": "201705203", "name": "Cartier Fidget Spinner", "category": "Commercial", "skid": null}
@@ -509,7 +682,7 @@
 {"order": 6, "epid": "20161001", "tid": "201610017", "name": "", "category": "Weekend Update", "skid": null}
 {"order": 7, "epid": "20161001", "tid": "201610018", "name": "The Hunch Bunch", "category": "Show", "skid": null}
 {"order": 8, "epid": "20161001", "tid": "201610019", "name": "Melania Moments", "category": "Miscellaneous", "skid": "289"}
-{"order": 9, "epid": "20161001", "tid": "2016100110", "name": "Women's Round Table", "category": "Show", "skid": null}
+{"order": 9, "epid": "20161001", "tid": "2016100110", "name": "Women's Round Table", "category": "Show", "skid": "290"}
 {"order": 10, "epid": "20161001", "tid": "2016100111", "name": "\"False Alarm\"", "category": "Musical Performance", "skid": null}
 {"order": 11, "epid": "20161001", "tid": "2016100112", "name": "Mr. Robot", "category": "Commercial", "skid": null}
 {"order": 12, "epid": "20161001", "tid": "2016100113", "name": "", "category": "Goodnights", "skid": null}
@@ -7733,321 +7906,6 @@
 {"order": 13, "epid": "19920926", "tid": "1992092614", "name": "Mr. Casual Sex", "category": "Sketch", "skid": null}
 {"order": 14, "epid": "19920926", "tid": "1992092615", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
 {"order": 15, "epid": "19920926", "tid": "1992092616", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19920516", "tid": "199205161", "name": "The Tonight Show", "category": "Cold Opening", "skid": "45"}
-{"order": 1, "epid": "19920516", "tid": "199205162", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19920516", "tid": "199205163", "name": "Action Cats", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19920516", "tid": "199205164", "name": "Take Your Shirt Off", "category": "Sketch", "skid": null}
-{"order": 4, "epid": "19920516", "tid": "199205165", "name": "Sprockets", "category": "Show", "skid": "84"}
-{"order": 5, "epid": "19920516", "tid": "199205166", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 6, "epid": "19920516", "tid": "199205167", "name": "\"Save the Best for Last\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19920516", "tid": "199205168", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19920516", "tid": "199205169", "name": "Delta Delta Delta", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19920516", "tid": "1992051610", "name": "Cowboy Song", "category": "Musical Sketch", "skid": null}
-{"order": 10, "epid": "19920516", "tid": "1992051611", "name": "Backstage", "category": "Miscellaneous", "skid": null}
-{"order": 11, "epid": "19920516", "tid": "1992051612", "name": "Frank Gannon, P.I. P.I.", "category": "Sketch", "skid": "102"}
-{"order": 12, "epid": "19920516", "tid": "1992051613", "name": "\"The Comfort Zone\"", "category": "Musical Performance", "skid": null}
-{"order": 13, "epid": "19920516", "tid": "1992051614", "name": "The Sensitive Naked Man", "category": "Sketch", "skid": "107"}
-{"order": 14, "epid": "19920516", "tid": "1992051615", "name": "Bad Expectant Mother", "category": "Sketch", "skid": null}
-{"order": 15, "epid": "19920516", "tid": "1992051616", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19920509", "tid": "199205091", "name": "Perot for President", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19920509", "tid": "199205092", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19920509", "tid": "199205093", "name": "John Cabrizio Chevrolet Mazda Hyundai", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19920509", "tid": "199205094", "name": "Sabra Price Is Right", "category": "Game Show", "skid": null}
-{"order": 4, "epid": "19920509", "tid": "199205095", "name": "Mr. Belvedere Fan Club", "category": "Sketch", "skid": null}
-{"order": 5, "epid": "19920509", "tid": "199205096", "name": "\"Lucky Town\"", "category": "Musical Performance", "skid": null}
-{"order": 6, "epid": "19920509", "tid": "199205097", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 7, "epid": "19920509", "tid": "199205098", "name": "She Turned Into Her Mother!!", "category": "Sketch", "skid": null}
-{"order": 8, "epid": "19920509", "tid": "199205099", "name": "\"57 Channels\", \"Living Proof\"", "category": "Musical Performance", "skid": null}
-{"order": 9, "epid": "19920509", "tid": "1992050910", "name": "The Dark Side", "category": "Show", "skid": "93"}
-{"order": 10, "epid": "19920509", "tid": "1992050911", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 11, "epid": "19920509", "tid": "1992050912", "name": "Showcase Playhouse Theater", "category": "Show", "skid": null}
-{"order": 12, "epid": "19920509", "tid": "1992050913", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19920418", "tid": "199204181", "name": "Clinton-Brown Debate", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19920418", "tid": "199204182", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19920418", "tid": "199204183", "name": "Stand-Up And Win", "category": "Game Show", "skid": null}
-{"order": 3, "epid": "19920418", "tid": "199204184", "name": "History Class", "category": "Sketch", "skid": null}
-{"order": 4, "epid": "19920418", "tid": "199204185", "name": "\"Why\"", "category": "Musical Performance", "skid": null}
-{"order": 5, "epid": "19920418", "tid": "199204186", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 6, "epid": "19920418", "tid": "199204187", "name": "Passover Seder", "category": "Sketch", "skid": null}
-{"order": 7, "epid": "19920418", "tid": "199204188", "name": "Lank Thompson: I'm A Handsome Black Man", "category": "Show", "skid": null}
-{"order": 8, "epid": "19920418", "tid": "199204189", "name": "Permanent Positions", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19920418", "tid": "1992041810", "name": "\"Legend In My Living Room\"", "category": "Musical Performance", "skid": null}
-{"order": 10, "epid": "19920418", "tid": "1992041811", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 11, "epid": "19920418", "tid": "1992041812", "name": "I'm Chillin'", "category": "Show", "skid": "96"}
-{"order": 12, "epid": "19920418", "tid": "1992041813", "name": "The Lenny Wise Show", "category": "Sketch", "skid": null}
-{"order": 13, "epid": "19920418", "tid": "1992041814", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19920411", "tid": "199204111", "name": "Wayne's World", "category": "Cold Opening", "skid": "80"}
-{"order": 1, "epid": "19920411", "tid": "199204112", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19920411", "tid": "199204113", "name": "Jiffy Pop Airbag", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19920411", "tid": "199204114", "name": "Hitting on Women", "category": "Sketch", "skid": null}
-{"order": 4, "epid": "19920411", "tid": "199204115", "name": "Sex Games", "category": "Sketch", "skid": null}
-{"order": 5, "epid": "19920411", "tid": "199204116", "name": "Flippy, The Flipping Chihuahua", "category": "Sketch", "skid": null}
-{"order": 6, "epid": "19920411", "tid": "199204117", "name": "Lung Brush", "category": "Commercial", "skid": null}
-{"order": 7, "epid": "19920411", "tid": "199204118", "name": "Interrogation", "category": "Sketch", "skid": null}
-{"order": 8, "epid": "19920411", "tid": "199204119", "name": "\"Alive\"", "category": "Musical Performance", "skid": null}
-{"order": 9, "epid": "19920411", "tid": "1992041110", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 10, "epid": "19920411", "tid": "1992041111", "name": "Security Check", "category": "Sketch", "skid": null}
-{"order": 11, "epid": "19920411", "tid": "1992041112", "name": "Ernie's", "category": "Sketch", "skid": null}
-{"order": 12, "epid": "19920411", "tid": "1992041113", "name": "Tayster's Choice Spermicidal Jelly", "category": "Commercial", "skid": null}
-{"order": 13, "epid": "19920411", "tid": "1992041114", "name": "Phil Hartman Creations", "category": "Commercial", "skid": null}
-{"order": 14, "epid": "19920411", "tid": "1992041115", "name": "Tayster's Choice Spermicidal Jelly", "category": "Commercial", "skid": null}
-{"order": 15, "epid": "19920411", "tid": "1992041116", "name": "\"Porch\"", "category": "Musical Performance", "skid": null}
-{"order": 16, "epid": "19920411", "tid": "1992041117", "name": "Porno Couple", "category": "Sketch", "skid": null}
-{"order": 17, "epid": "19920411", "tid": "1992041118", "name": "Tayster's Choice Spermicidal Jelly", "category": "Commercial", "skid": null}
-{"order": 18, "epid": "19920411", "tid": "1992041119", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19920321", "tid": "199203211", "name": "The McLaughlin Group", "category": "Cold Opening", "skid": "94"}
-{"order": 1, "epid": "19920321", "tid": "199203212", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19920321", "tid": "199203213", "name": "Action Cats", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19920321", "tid": "199203214", "name": "Lisa Pongrasic, Very Pregnant Undercover Cop", "category": "Show", "skid": null}
-{"order": 4, "epid": "19920321", "tid": "199203215", "name": "Lyle, The Effeminate Heterosexual", "category": "Sketch", "skid": "88"}
-{"order": 5, "epid": "19920321", "tid": "199203216", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 6, "epid": "19920321", "tid": "199203217", "name": "\"Never Gonna Get It\", \"Hold On\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19920321", "tid": "199203218", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19920321", "tid": "199203219", "name": "Delta Delta Delta", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19920321", "tid": "1992032110", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 10, "epid": "19920321", "tid": "1992032111", "name": "Monster Spray", "category": "Commercial", "skid": null}
-{"order": 11, "epid": "19920321", "tid": "1992032112", "name": "Who Shot Me?", "category": "Sketch", "skid": null}
-{"order": 12, "epid": "19920321", "tid": "1992032113", "name": "\"Free Your Mind\"", "category": "Musical Performance", "skid": null}
-{"order": 13, "epid": "19920321", "tid": "1992032114", "name": "Colosseum Events Committee", "category": "Sketch", "skid": null}
-{"order": 14, "epid": "19920321", "tid": "1992032115", "name": "Schiller's Reel - Million Dollar Zombie", "category": "Film", "skid": "18"}
-{"order": 15, "epid": "19920321", "tid": "1992032116", "name": "Money for Booze", "category": "Sketch", "skid": null}
-{"order": 16, "epid": "19920321", "tid": "1992032117", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19920314", "tid": "199203141", "name": "17th Annual Star Trek Convention", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19920314", "tid": "199203142", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19920314", "tid": "199203143", "name": "Unforgivable", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19920314", "tid": "199203144", "name": "My 75 Kids", "category": "Show", "skid": null}
-{"order": 4, "epid": "19920314", "tid": "199203145", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 5, "epid": "19920314", "tid": "199203146", "name": "Unfrozen Cave Man Lawyer", "category": "Sketch", "skid": "105"}
-{"order": 6, "epid": "19920314", "tid": "199203147", "name": "\"Rodeo\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19920314", "tid": "199203148", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19920314", "tid": "199203149", "name": "Theatre Stories", "category": "Show", "skid": "106"}
-{"order": 9, "epid": "19920314", "tid": "1992031410", "name": "Anton Mesrobian, Teen Dermatologist", "category": "Sketch", "skid": null}
-{"order": 10, "epid": "19920314", "tid": "1992031411", "name": "\"The River\"", "category": "Musical Performance", "skid": null}
-{"order": 11, "epid": "19920314", "tid": "1992031412", "name": "Country Singer Names", "category": "Sketch", "skid": null}
-{"order": 12, "epid": "19920314", "tid": "1992031413", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 13, "epid": "19920314", "tid": "1992031414", "name": "The Ides of March", "category": "Sketch", "skid": null}
-{"order": 14, "epid": "19920314", "tid": "1992031415", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 15, "epid": "19920314", "tid": "1992031416", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19920222", "tid": "199202221", "name": "Presidential Address", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19920222", "tid": "199202222", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19920222", "tid": "199202223", "name": "Dick Clark Productions", "category": "Sketch", "skid": null}
-{"order": 3, "epid": "19920222", "tid": "199202224", "name": "Coffee Talk", "category": "Show", "skid": "99"}
-{"order": 4, "epid": "19920222", "tid": "199202225", "name": "Tall Tales Of The Recession", "category": "Sketch", "skid": null}
-{"order": 5, "epid": "19920222", "tid": "199202226", "name": "\"Stone Cold Bush\"", "category": "Musical Performance", "skid": null}
-{"order": 6, "epid": "19920222", "tid": "199202227", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 7, "epid": "19920222", "tid": "199202228", "name": "Delta Delta Delta", "category": "Sketch", "skid": null}
-{"order": 8, "epid": "19920222", "tid": "199202229", "name": "A Star Is Born", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19920222", "tid": "1992022210", "name": "Daily Affirmation", "category": "Show", "skid": "100"}
-{"order": 10, "epid": "19920222", "tid": "1992022211", "name": "\"Under The Bridge\"", "category": "Musical Performance", "skid": null}
-{"order": 11, "epid": "19920222", "tid": "1992022212", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 12, "epid": "19920222", "tid": "1992022213", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19920215", "tid": "199202151", "name": "Olympic Figure Skating", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19920215", "tid": "199202152", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19920215", "tid": "199202153", "name": "Jiffy Pop Airbag", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19920215", "tid": "199202154", "name": "The Life and Times of Johnny Hildo", "category": "Sketch", "skid": null}
-{"order": 4, "epid": "19920215", "tid": "199202155", "name": "Love Werks", "category": "Game Show", "skid": null}
-{"order": 5, "epid": "19920215", "tid": "199202156", "name": "The Arsenio Hall Show", "category": "Show", "skid": null}
-{"order": 6, "epid": "19920215", "tid": "199202157", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 7, "epid": "19920215", "tid": "199202158", "name": "\"The Concept\"", "category": "Musical Performance", "skid": null}
-{"order": 8, "epid": "19920215", "tid": "199202159", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 9, "epid": "19920215", "tid": "1992021510", "name": "Beverly Hills 90210", "category": "Show", "skid": null}
-{"order": 10, "epid": "19920215", "tid": "1992021511", "name": "La Tour and Johnson", "category": "Commercial", "skid": null}
-{"order": 11, "epid": "19920215", "tid": "1992021512", "name": "Marriage Tests", "category": "Sketch", "skid": null}
-{"order": 12, "epid": "19920215", "tid": "1992021513", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 13, "epid": "19920215", "tid": "1992021514", "name": "\"What You Do To Me\", \"Pet Rock\"", "category": "Musical Performance", "skid": null}
-{"order": 14, "epid": "19920215", "tid": "1992021515", "name": "Bank Robbery", "category": "Sketch", "skid": null}
-{"order": 15, "epid": "19920215", "tid": "1992021516", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19920208", "tid": "199202081", "name": "L.A. Law", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19920208", "tid": "199202082", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19920208", "tid": "199202083", "name": "Leevi's 3 Legged Jeans", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19920208", "tid": "199202084", "name": "Harrassment Trial", "category": "Sketch", "skid": null}
-{"order": 4, "epid": "19920208", "tid": "199202085", "name": "The Arakawa Group", "category": "Show", "skid": null}
-{"order": 5, "epid": "19920208", "tid": "199202086", "name": "The Sensitive Naked Man", "category": "Sketch", "skid": "107"}
-{"order": 6, "epid": "19920208", "tid": "199202087", "name": "\"Here We Go Let's Rock and Roll\", \"Gonna Make You Sweat\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19920208", "tid": "199202088", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19920208", "tid": "199202089", "name": "Partridge Family vs. Brady Bunch", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19920208", "tid": "1992020810", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 10, "epid": "19920208", "tid": "1992020811", "name": "Gestures", "category": "Sketch", "skid": null}
-{"order": 11, "epid": "19920208", "tid": "1992020812", "name": "Backstage", "category": "Miscellaneous", "skid": null}
-{"order": 12, "epid": "19920208", "tid": "1992020813", "name": "Boss & Janitor", "category": "Sketch", "skid": null}
-{"order": 13, "epid": "19920208", "tid": "1992020814", "name": "\"A Deeper Love\"", "category": "Musical Performance", "skid": null}
-{"order": 14, "epid": "19920208", "tid": "1992020815", "name": "Art Museum", "category": "Sketch", "skid": null}
-{"order": 15, "epid": "19920208", "tid": "1992020816", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 16, "epid": "19920208", "tid": "1992020817", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19920118", "tid": "199201181", "name": "Wayne's World", "category": "Cold Opening", "skid": "80"}
-{"order": 1, "epid": "19920118", "tid": "199201182", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19920118", "tid": "199201183", "name": "The Love Toilet", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19920118", "tid": "199201184", "name": "Adopt A Pet", "category": "Show", "skid": null}
-{"order": 4, "epid": "19920118", "tid": "199201185", "name": "Daniel's Diner", "category": "Sketch", "skid": null}
-{"order": 5, "epid": "19920118", "tid": "199201186", "name": "Dahmer's Defense", "category": "Sketch", "skid": null}
-{"order": 6, "epid": "19920118", "tid": "199201187", "name": "\"Go Back to Your Woods\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19920118", "tid": "199201188", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19920118", "tid": "199201189", "name": "Bob Swerski's Quiz Masters", "category": "Game Show", "skid": null}
-{"order": 9, "epid": "19920118", "tid": "1992011810", "name": "Van Morrison Concert", "category": "Sketch", "skid": null}
-{"order": 10, "epid": "19920118", "tid": "1992011811", "name": "\"The Weight\"", "category": "Musical Performance", "skid": null}
-{"order": 11, "epid": "19920118", "tid": "1992011812", "name": "Backstage", "category": "Miscellaneous", "skid": null}
-{"order": 12, "epid": "19920118", "tid": "1992011813", "name": "Kaufman's Big And Tall, And Short And Small Sephardic Jew Men's Clothing Store", "category": "Commercial", "skid": null}
-{"order": 13, "epid": "19920118", "tid": "1992011814", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19920111", "tid": "199201111", "name": "Cover-Up", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19920111", "tid": "199201112", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19920111", "tid": "199201113", "name": "S\u00e1lon", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19920111", "tid": "199201114", "name": "It's Pat", "category": "Sketch", "skid": "101"}
-{"order": 4, "epid": "19920111", "tid": "199201115", "name": "Delta Delta Delta", "category": "Sketch", "skid": null}
-{"order": 5, "epid": "19920111", "tid": "199201116", "name": "Cowboy Song", "category": "Musical Sketch", "skid": null}
-{"order": 6, "epid": "19920111", "tid": "199201117", "name": "\"Smells Like Teen Spirit\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19920111", "tid": "199201118", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19920111", "tid": "199201119", "name": "Lenin's Body", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19920111", "tid": "1992011110", "name": "Movie Talk", "category": "Sketch", "skid": null}
-{"order": 10, "epid": "19920111", "tid": "1992011111", "name": "Chris Rock's White Person's Guide To Surviving The Apollo", "category": "Commercial", "skid": null}
-{"order": 11, "epid": "19920111", "tid": "1992011112", "name": "Insults", "category": "Sketch", "skid": null}
-{"order": 12, "epid": "19920111", "tid": "1992011113", "name": "\"Territorial Pissing\"", "category": "Musical Performance", "skid": null}
-{"order": 13, "epid": "19920111", "tid": "1992011114", "name": "Minutes Behind", "category": "Sketch", "skid": null}
-{"order": 14, "epid": "19920111", "tid": "1992011115", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19911214", "tid": "199112141", "name": "The Tonight Song", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19911214", "tid": "199112142", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19911214", "tid": "199112143", "name": "Schmitts Gay", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19911214", "tid": "199112144", "name": "Suckerpunch", "category": "Game Show", "skid": null}
-{"order": 4, "epid": "19911214", "tid": "199112145", "name": "Doormen", "category": "Sketch", "skid": null}
-{"order": 5, "epid": "19911214", "tid": "199112146", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 6, "epid": "19911214", "tid": "199112147", "name": "The Energy Brothers", "category": "Miscellaneous", "skid": null}
-{"order": 7, "epid": "19911214", "tid": "199112148", "name": "\"Stop Thinkin' About That\"", "category": "Musical Performance", "skid": null}
-{"order": 8, "epid": "19911214", "tid": "199112149", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 9, "epid": "19911214", "tid": "1991121410", "name": "Theatre Stories", "category": "Show", "skid": "106"}
-{"order": 10, "epid": "19911214", "tid": "1991121411", "name": "Live With Regis & Kathie Lee", "category": "Show", "skid": "91"}
-{"order": 11, "epid": "19911214", "tid": "1991121412", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 12, "epid": "19911214", "tid": "1991121413", "name": "\"Shed A Little Light\"", "category": "Musical Performance", "skid": null}
-{"order": 13, "epid": "19911214", "tid": "1991121414", "name": "Grandma Pugga", "category": "Sketch", "skid": null}
-{"order": 14, "epid": "19911214", "tid": "1991121415", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 15, "epid": "19911214", "tid": "1991121416", "name": "Cowards", "category": "Sketch", "skid": null}
-{"order": 16, "epid": "19911214", "tid": "1991121417", "name": "The Dark Side", "category": "Show", "skid": "93"}
-{"order": 17, "epid": "19911214", "tid": "1991121418", "name": "\"Sweet Baby James\"", "category": "Musical Performance", "skid": null}
-{"order": 18, "epid": "19911214", "tid": "1991121419", "name": "Season's Greetings", "category": "Miscellaneous", "skid": null}
-{"order": 19, "epid": "19911214", "tid": "1991121420", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19911207", "tid": "199112071", "name": "Presidential Address", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19911207", "tid": "199112072", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19911207", "tid": "199112073", "name": "\"Too Legit To Quit\"", "category": "Musical Performance", "skid": null}
-{"order": 3, "epid": "19911207", "tid": "199112074", "name": "Bad Haircut Support Group", "category": "Sketch", "skid": null}
-{"order": 4, "epid": "19911207", "tid": "199112075", "name": "Turrell Daily Star", "category": "Sketch", "skid": null}
-{"order": 5, "epid": "19911207", "tid": "199112076", "name": "", "category": "Intro", "skid": null}
-{"order": 6, "epid": "19911207", "tid": "199112077", "name": "\"Addams Groove\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19911207", "tid": "199112078", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19911207", "tid": "199112079", "name": "Tales From The Barbecue", "category": "Sketch", "skid": "103"}
-{"order": 9, "epid": "19911207", "tid": "1991120710", "name": "Johnny Letter", "category": "Sketch", "skid": null}
-{"order": 10, "epid": "19911207", "tid": "1991120711", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 11, "epid": "19911207", "tid": "1991120712", "name": "Remembrances of Love", "category": "Sketch", "skid": null}
-{"order": 12, "epid": "19911207", "tid": "1991120713", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 13, "epid": "19911207", "tid": "1991120714", "name": "\"This is the Way We Roll\"", "category": "Musical Performance", "skid": null}
-{"order": 14, "epid": "19911207", "tid": "1991120715", "name": "Dick Clark Productions", "category": "Sketch", "skid": null}
-{"order": 15, "epid": "19911207", "tid": "1991120716", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19911123", "tid": "199111231", "name": "Hosting Alone", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19911123", "tid": "199111232", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19911123", "tid": "199111233", "name": "The Love Toilet", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19911123", "tid": "199111234", "name": "Bill Swerski's Super Fans", "category": "Show", "skid": "97"}
-{"order": 4, "epid": "19911123", "tid": "199111235", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 5, "epid": "19911123", "tid": "199111236", "name": "Flashback", "category": "Sketch", "skid": null}
-{"order": 6, "epid": "19911123", "tid": "199111237", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 7, "epid": "19911123", "tid": "199111238", "name": "\"Baby Universal\"", "category": "Musical Performance", "skid": null}
-{"order": 8, "epid": "19911123", "tid": "199111239", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 9, "epid": "19911123", "tid": "1991112310", "name": "Unfrozen Cave Man Lawyer", "category": "Sketch", "skid": "105"}
-{"order": 10, "epid": "19911123", "tid": "1991112311", "name": "Simon", "category": "Show", "skid": "92"}
-{"order": 11, "epid": "19911123", "tid": "1991112312", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 12, "epid": "19911123", "tid": "1991112313", "name": "Young Superboy", "category": "Sketch", "skid": null}
-{"order": 13, "epid": "19911123", "tid": "1991112314", "name": "\"If There Is Something\"", "category": "Musical Performance", "skid": null}
-{"order": 14, "epid": "19911123", "tid": "1991112315", "name": "Daily Affirmation", "category": "Show", "skid": "100"}
-{"order": 15, "epid": "19911123", "tid": "1991112316", "name": "U.S. Fon", "category": "Commercial", "skid": null}
-{"order": 16, "epid": "19911123", "tid": "1991112317", "name": "Medieval Scalders", "category": "Sketch", "skid": null}
-{"order": 17, "epid": "19911123", "tid": "1991112318", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 18, "epid": "19911123", "tid": "1991112319", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19911116", "tid": "199111161", "name": "Campaign '91", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19911116", "tid": "199111162", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19911116", "tid": "199111163", "name": "Leevi's 3 Legged Jeans", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19911116", "tid": "199111164", "name": "Toonces, The Cat Who Could Drive A Car - The Tooncinator", "category": "Sketch", "skid": "86"}
-{"order": 4, "epid": "19911116", "tid": "199111165", "name": "It's Pat", "category": "Sketch", "skid": "101"}
-{"order": 5, "epid": "19911116", "tid": "199111166", "name": "Massive Headwound Harry - The Cocktail Party", "category": "Sketch", "skid": null}
-{"order": 6, "epid": "19911116", "tid": "199111167", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 7, "epid": "19911116", "tid": "199111168", "name": "Backstage", "category": "Miscellaneous", "skid": null}
-{"order": 8, "epid": "19911116", "tid": "199111169", "name": "\"Can't Let Go\"", "category": "Musical Performance", "skid": null}
-{"order": 9, "epid": "19911116", "tid": "1991111610", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 10, "epid": "19911116", "tid": "1991111611", "name": "Tough Girls", "category": "Sketch", "skid": null}
-{"order": 11, "epid": "19911116", "tid": "1991111612", "name": "The Chris Farley Show", "category": "Show", "skid": "104"}
-{"order": 12, "epid": "19911116", "tid": "1991111613", "name": "\"If It's Over\"", "category": "Musical Performance", "skid": null}
-{"order": 13, "epid": "19911116", "tid": "1991111614", "name": "Baby Talk", "category": "Sketch", "skid": null}
-{"order": 14, "epid": "19911116", "tid": "1991111615", "name": "Schiller's Reel - Hidden Camera Commercials", "category": "Film", "skid": "18"}
-{"order": 15, "epid": "19911116", "tid": "1991111616", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19911102", "tid": "199111021", "name": "Jury Selection", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19911102", "tid": "199111022", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19911102", "tid": "199111023", "name": "Lung Brush", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19911102", "tid": "199111024", "name": "Campaign '92", "category": "Show", "skid": null}
-{"order": 4, "epid": "19911102", "tid": "199111025", "name": "Whose Ass Should I Kiss?", "category": "Game Show", "skid": null}
-{"order": 5, "epid": "19911102", "tid": "199111026", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 6, "epid": "19911102", "tid": "199111027", "name": "\"Piece of Me\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19911102", "tid": "199111028", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19911102", "tid": "199111029", "name": "All Things Scottish", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19911102", "tid": "1991110210", "name": "Kiddie Metal", "category": "Commercial", "skid": null}
-{"order": 10, "epid": "19911102", "tid": "1991110211", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 11, "epid": "19911102", "tid": "1991110212", "name": "Daily Affirmation", "category": "Show", "skid": "100"}
-{"order": 12, "epid": "19911102", "tid": "1991110213", "name": "\"Monkey Business\"", "category": "Musical Performance", "skid": null}
-{"order": 13, "epid": "19911102", "tid": "1991110214", "name": "Phone Illiteracy", "category": "Sketch", "skid": null}
-{"order": 14, "epid": "19911102", "tid": "1991110215", "name": "I'm Chillin'", "category": "Show", "skid": "96"}
-{"order": 15, "epid": "19911102", "tid": "1991110216", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19911026", "tid": "199110261", "name": "The McLaughlin Group", "category": "Cold Opening", "skid": "94"}
-{"order": 1, "epid": "19911026", "tid": "199110262", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19911026", "tid": "199110263", "name": "Coldcock", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19911026", "tid": "199110264", "name": "Ron's Wings 'N' Things", "category": "Sketch", "skid": null}
-{"order": 4, "epid": "19911026", "tid": "199110265", "name": "Dysfunctional Family Feud", "category": "Game Show", "skid": null}
-{"order": 5, "epid": "19911026", "tid": "199110266", "name": "Club Banana", "category": "Sketch", "skid": null}
-{"order": 6, "epid": "19911026", "tid": "199110267", "name": "\"Something To Talk About\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19911026", "tid": "199110268", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19911026", "tid": "199110269", "name": "The Curse Of The Wolf Man", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19911026", "tid": "1991102610", "name": "Young Actors Forum", "category": "Show", "skid": null}
-{"order": 10, "epid": "19911026", "tid": "1991102611", "name": "\"I Can't Make You Love Me\"", "category": "Musical Performance", "skid": null}
-{"order": 11, "epid": "19911026", "tid": "1991102612", "name": "Pumping Up With Hans & Franz", "category": "Show", "skid": "74"}
-{"order": 12, "epid": "19911026", "tid": "1991102613", "name": "Nich-Aid", "category": "Commercial", "skid": null}
-{"order": 13, "epid": "19911026", "tid": "1991102614", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19911012", "tid": "199110121", "name": "Clarence Thomas Hearings", "category": "Cold Opening", "skid": null}
-{"order": 1, "epid": "19911012", "tid": "199110122", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19911012", "tid": "199110123", "name": "Lonely Choice", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19911012", "tid": "199110124", "name": "Il Cantore", "category": "Sketch", "skid": null}
-{"order": 4, "epid": "19911012", "tid": "199110125", "name": "It's Pat", "category": "Sketch", "skid": "101"}
-{"order": 5, "epid": "19911012", "tid": "199110126", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 6, "epid": "19911012", "tid": "199110127", "name": "\"Into the Great Wide Open\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19911012", "tid": "199110128", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19911012", "tid": "199110129", "name": "Their Eyes Were On Their Breasts!", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19911012", "tid": "1991101210", "name": "Coffee Talk", "category": "Show", "skid": "99"}
-{"order": 10, "epid": "19911012", "tid": "1991101211", "name": "\"Kings Highway\"", "category": "Musical Performance", "skid": null}
-{"order": 11, "epid": "19911012", "tid": "1991101212", "name": "Psycho Divorced Mother", "category": "Show", "skid": null}
-{"order": 12, "epid": "19911012", "tid": "1991101213", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 13, "epid": "19911012", "tid": "1991101214", "name": "Look Who Else Is Talking Also", "category": "Sketch", "skid": null}
-{"order": 14, "epid": "19911012", "tid": "1991101215", "name": "Deep Thoughts", "category": "Miscellaneous", "skid": "98"}
-{"order": 15, "epid": "19911012", "tid": "1991101216", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19911005", "tid": "199110051", "name": "The Tonight Show", "category": "Cold Opening", "skid": "45"}
-{"order": 1, "epid": "19911005", "tid": "199110052", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19911005", "tid": "199110053", "name": "Earthies", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19911005", "tid": "199110054", "name": "Copy Machine", "category": "Sketch", "skid": null}
-{"order": 4, "epid": "19911005", "tid": "199110055", "name": "Community College Bowl", "category": "Game Show", "skid": null}
-{"order": 5, "epid": "19911005", "tid": "199110056", "name": "The Chris Farley Show", "category": "Show", "skid": "104"}
-{"order": 6, "epid": "19911005", "tid": "199110057", "name": "\"I Wanna Sex You Up\"", "category": "Musical Performance", "skid": null}
-{"order": 7, "epid": "19911005", "tid": "199110058", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 8, "epid": "19911005", "tid": "199110059", "name": "Apex Novelty", "category": "Sketch", "skid": null}
-{"order": 9, "epid": "19911005", "tid": "1991100510", "name": "Simon", "category": "Show", "skid": "92"}
-{"order": 10, "epid": "19911005", "tid": "1991100511", "name": "Real Life With Jane Pauley", "category": "Show", "skid": null}
-{"order": 11, "epid": "19911005", "tid": "1991100512", "name": "\"I Adore Mi Amor\"", "category": "Musical Performance", "skid": null}
-{"order": 12, "epid": "19911005", "tid": "1991100513", "name": "Don't Get Me Wrong", "category": "Sketch", "skid": null}
-{"order": 13, "epid": "19911005", "tid": "1991100514", "name": "", "category": "Goodnights", "skid": null}
-{"order": 0, "epid": "19910928", "tid": "199109281", "name": "Wayne's World", "category": "Cold Opening", "skid": "80"}
-{"order": 1, "epid": "19910928", "tid": "199109282", "name": "", "category": "Monologue", "skid": null}
-{"order": 2, "epid": "19910928", "tid": "199109283", "name": "Schmitts Gay", "category": "Commercial", "skid": null}
-{"order": 3, "epid": "19910928", "tid": "199109284", "name": "The First Black Harlem Globetrotter", "category": "Sketch", "skid": null}
-{"order": 4, "epid": "19910928", "tid": "199109285", "name": "Bill Swerski's Super Fans", "category": "Show", "skid": "97"}
-{"order": 5, "epid": "19910928", "tid": "199109286", "name": "\"Can't Truss It\"", "category": "Musical Performance", "skid": null}
-{"order": 6, "epid": "19910928", "tid": "199109287", "name": "", "category": "Weekend Update", "skid": null}
-{"order": 7, "epid": "19910928", "tid": "199109288", "name": "Daily Affirmation", "category": "Show", "skid": "100"}
-{"order": 8, "epid": "19910928", "tid": "199109289", "name": "Backstage", "category": "Miscellaneous", "skid": null}
-{"order": 9, "epid": "19910928", "tid": "1991092810", "name": "The Dark Side", "category": "Show", "skid": "93"}
-{"order": 10, "epid": "19910928", "tid": "1991092811", "name": "Tales From The Barbecue", "category": "Sketch", "skid": "103"}
-{"order": 11, "epid": "19910928", "tid": "1991092812", "name": "\"Bring Tha Noize\"", "category": "Musical Performance", "skid": null}
-{"order": 12, "epid": "19910928", "tid": "1991092813", "name": "Elevator", "category": "Sketch", "skid": null}
-{"order": 13, "epid": "19910928", "tid": "1991092814", "name": "", "category": "Goodnights", "skid": null}
 {"order": 0, "epid": "19910518", "tid": "199105181", "name": "Last Show", "category": "Cold Opening", "skid": null}
 {"order": 1, "epid": "19910518", "tid": "199105182", "name": "", "category": "Monologue", "skid": null}
 {"order": 2, "epid": "19910518", "tid": "199105183", "name": "Lil' General Fireworks", "category": "Commercial", "skid": null}
@@ -8927,6 +8785,189 @@
 {"order": 11, "epid": "19881008", "tid": "1988100812", "name": "\"Struggle\"", "category": "Musical Performance", "skid": null}
 {"order": 12, "epid": "19881008", "tid": "1988100813", "name": "The Pat Stevens Show", "category": "Show", "skid": "61"}
 {"order": 13, "epid": "19881008", "tid": "1988100814", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19880227", "tid": "198802271", "name": "Pumping Up With Hans & Franz", "category": "Cold Opening", "skid": "74"}
+{"order": 1, "epid": "19880227", "tid": "198802272", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19880227", "tid": "198802273", "name": "Wilson Trap Doors", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19880227", "tid": "198802274", "name": "Church Chat", "category": "Show", "skid": "67"}
+{"order": 4, "epid": "19880227", "tid": "198802275", "name": "Deregulated Airline", "category": "Sketch", "skid": null}
+{"order": 5, "epid": "19880227", "tid": "198802276", "name": "", "category": "Intro", "skid": null}
+{"order": 6, "epid": "19880227", "tid": "198802277", "name": "\"Like the Weather\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19880227", "tid": "198802278", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19880227", "tid": "198802279", "name": "Jorge Garcia, Nice Guy Dictator", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19880227", "tid": "1988022710", "name": "The Cop & The Prostitute", "category": "Show", "skid": null}
+{"order": 10, "epid": "19880227", "tid": "1988022711", "name": "When Great Minds Meet", "category": "Show", "skid": null}
+{"order": 11, "epid": "19880227", "tid": "1988022712", "name": "", "category": "Intro", "skid": null}
+{"order": 12, "epid": "19880227", "tid": "1988022713", "name": "\"What's the Matter Here\"", "category": "Musical Performance", "skid": null}
+{"order": 13, "epid": "19880227", "tid": "1988022714", "name": "Pirates", "category": "Sketch", "skid": null}
+{"order": 14, "epid": "19880227", "tid": "1988022715", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19880220", "tid": "198802201", "name": "Calgary 1988", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19880220", "tid": "198802202", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19880220", "tid": "198802203", "name": "Giant Businessman", "category": "Sketch", "skid": null}
+{"order": 3, "epid": "19880220", "tid": "198802204", "name": "The Bean Cafe", "category": "Sketch", "skid": null}
+{"order": 4, "epid": "19880220", "tid": "198802205", "name": "The Pat Stevens Show", "category": "Show", "skid": "61"}
+{"order": 5, "epid": "19880220", "tid": "198802206", "name": "\"Forever and Ever, Amen\"", "category": "Musical Performance", "skid": null}
+{"order": 6, "epid": "19880220", "tid": "198802207", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 7, "epid": "19880220", "tid": "198802208", "name": "Girl Watchers", "category": "Sketch", "skid": null}
+{"order": 8, "epid": "19880220", "tid": "198802209", "name": "Apple Support Systems", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19880220", "tid": "1988022010", "name": "Casey Kasem Sings The Beatles", "category": "Commercial", "skid": null}
+{"order": 10, "epid": "19880220", "tid": "1988022011", "name": "Delivery Room", "category": "Sketch", "skid": null}
+{"order": 11, "epid": "19880220", "tid": "1988022012", "name": "Stand-Ups", "category": "Sketch", "skid": null}
+{"order": 12, "epid": "19880220", "tid": "1988022013", "name": "\"What'll You Do\"", "category": "Musical Performance", "skid": null}
+{"order": 13, "epid": "19880220", "tid": "1988022014", "name": "Sentimental Value Pawn Shop", "category": "Sketch", "skid": null}
+{"order": 14, "epid": "19880220", "tid": "1988022015", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19880213", "tid": "198802131", "name": "Republican Debate 88", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19880213", "tid": "198802132", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19880213", "tid": "198802133", "name": "Family Ties", "category": "Sketch", "skid": null}
+{"order": 3, "epid": "19880213", "tid": "198802134", "name": "Learning to Feel", "category": "Show", "skid": "75"}
+{"order": 4, "epid": "19880213", "tid": "198802135", "name": "\"Wishing Well\"", "category": "Musical Performance", "skid": null}
+{"order": 5, "epid": "19880213", "tid": "198802136", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 6, "epid": "19880213", "tid": "198802137", "name": "Inspiration", "category": "Sketch", "skid": null}
+{"order": 7, "epid": "19880213", "tid": "198802138", "name": "St. Valentine's Day Massacre", "category": "Sketch", "skid": null}
+{"order": 8, "epid": "19880213", "tid": "198802139", "name": "\"Under My Thumb\"", "category": "Musical Performance", "skid": null}
+{"order": 9, "epid": "19880213", "tid": "1988021310", "name": "Talking Behind Her Back", "category": "Sketch", "skid": null}
+{"order": 10, "epid": "19880213", "tid": "1988021311", "name": "Friday Night Videos", "category": "Show", "skid": null}
+{"order": 11, "epid": "19880213", "tid": "1988021312", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19880130", "tid": "198801301", "name": "BushWhacked!", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19880130", "tid": "198801302", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19880130", "tid": "198801303", "name": "Handi-Off", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19880130", "tid": "198801304", "name": "The NFL Today", "category": "Show", "skid": "70"}
+{"order": 4, "epid": "19880130", "tid": "198801305", "name": "Democratic Debate 88", "category": "Show", "skid": null}
+{"order": 5, "epid": "19880130", "tid": "198801306", "name": "Mother-in-Law", "category": "Sketch", "skid": null}
+{"order": 6, "epid": "19880130", "tid": "198801307", "name": "\"Testimony\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19880130", "tid": "198801308", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19880130", "tid": "198801309", "name": "Sitcom Actress", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19880130", "tid": "1988013010", "name": "\"Somewhere Down the Crazy River\"", "category": "Musical Performance", "skid": null}
+{"order": 10, "epid": "19880130", "tid": "1988013011", "name": "Master Thespian", "category": "Sketch", "skid": "63"}
+{"order": 11, "epid": "19880130", "tid": "1988013012", "name": "The Garden", "category": "Film", "skid": null}
+{"order": 12, "epid": "19880130", "tid": "1988013013", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19880123", "tid": "198801231", "name": "Pumping Up With Hans & Franz", "category": "Cold Opening", "skid": "74"}
+{"order": 1, "epid": "19880123", "tid": "198801232", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19880123", "tid": "198801233", "name": "Compulsion", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19880123", "tid": "198801234", "name": "Birth Tape", "category": "Sketch", "skid": null}
+{"order": 4, "epid": "19880123", "tid": "198801235", "name": "Learning to Feel", "category": "Show", "skid": "75"}
+{"order": 5, "epid": "19880123", "tid": "198801236", "name": "\"Never Die Young\"", "category": "Musical Performance", "skid": null}
+{"order": 6, "epid": "19880123", "tid": "198801237", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 7, "epid": "19880123", "tid": "198801238", "name": "60th Birthday", "category": "Sketch", "skid": null}
+{"order": 8, "epid": "19880123", "tid": "198801239", "name": "\"Sweet Potato Pie\"", "category": "Musical Performance", "skid": null}
+{"order": 9, "epid": "19880123", "tid": "1988012310", "name": "The 8th Annual ACE Awards", "category": "Award Show", "skid": null}
+{"order": 10, "epid": "19880123", "tid": "1988012311", "name": "\"Lonesome Road\"", "category": "Musical Performance", "skid": null}
+{"order": 11, "epid": "19880123", "tid": "1988012312", "name": "Discover", "category": "Show", "skid": "72"}
+{"order": 12, "epid": "19880123", "tid": "1988012313", "name": "I Wuv You", "category": "Sketch", "skid": null}
+{"order": 13, "epid": "19880123", "tid": "1988012314", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19871219", "tid": "198712191", "name": "30th Christmas", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19871219", "tid": "198712192", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19871219", "tid": "198712193", "name": "Gary Hart", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19871219", "tid": "198712194", "name": "Pumping Up With Hans & Franz", "category": "Show", "skid": "74"}
+{"order": 4, "epid": "19871219", "tid": "198712195", "name": "Castaways", "category": "Sketch", "skid": null}
+{"order": 5, "epid": "19871219", "tid": "198712196", "name": "Master Thespian", "category": "Sketch", "skid": "63"}
+{"order": 6, "epid": "19871219", "tid": "198712197", "name": "\"Los Laureles\", \"La Cigarra\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19871219", "tid": "198712198", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19871219", "tid": "198712199", "name": "Ski Lodge", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19871219", "tid": "1987121910", "name": "Subway", "category": "Sketch", "skid": null}
+{"order": 10, "epid": "19871219", "tid": "1987121911", "name": "Succinctly Speaking", "category": "Show", "skid": null}
+{"order": 11, "epid": "19871219", "tid": "1987121912", "name": "Season's Greetings", "category": "Miscellaneous", "skid": null}
+{"order": 12, "epid": "19871219", "tid": "1987121913", "name": "\"Under African Skies\"", "category": "Musical Performance", "skid": null}
+{"order": 13, "epid": "19871219", "tid": "1987121914", "name": "Texas Diner", "category": "Sketch", "skid": null}
+{"order": 14, "epid": "19871219", "tid": "1987121915", "name": "A Message to Future Viewers", "category": "Miscellaneous", "skid": null}
+{"order": 15, "epid": "19871219", "tid": "1987121916", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19871212", "tid": "198712121", "name": "Translator", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19871212", "tid": "198712122", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19871212", "tid": "198712123", "name": "Docu-fresh", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19871212", "tid": "198712124", "name": "Airplane", "category": "Sketch", "skid": null}
+{"order": 4, "epid": "19871212", "tid": "198712125", "name": "Donahue", "category": "Show", "skid": "43"}
+{"order": 5, "epid": "19871212", "tid": "198712126", "name": "Wedgie Fever!", "category": "Game Show", "skid": null}
+{"order": 6, "epid": "19871212", "tid": "198712127", "name": "\"Hot Hot Hot\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19871212", "tid": "198712128", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19871212", "tid": "198712129", "name": "Christmas Party", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19871212", "tid": "1987121210", "name": "\"Song For My Sara\"", "category": "Musical Performance", "skid": null}
+{"order": 10, "epid": "19871212", "tid": "1987121211", "name": "Police Women", "category": "Show", "skid": null}
+{"order": 11, "epid": "19871212", "tid": "1987121212", "name": "The Assimilated Jew's Hanukkah", "category": "Commercial", "skid": null}
+{"order": 12, "epid": "19871212", "tid": "1987121213", "name": "Drunk Man", "category": "Sketch", "skid": null}
+{"order": 13, "epid": "19871212", "tid": "1987121214", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19871205", "tid": "198712051", "name": "Gorbachev/Reagan", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19871205", "tid": "198712052", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19871205", "tid": "198712053", "name": "Handi-Off", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19871205", "tid": "198712054", "name": "At The Movies", "category": "Show", "skid": null}
+{"order": 4, "epid": "19871205", "tid": "198712055", "name": "Church Chat", "category": "Show", "skid": "67"}
+{"order": 5, "epid": "19871205", "tid": "198712056", "name": "\"The Right Stuff\"", "category": "Musical Performance", "skid": null}
+{"order": 6, "epid": "19871205", "tid": "198712057", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 7, "epid": "19871205", "tid": "198712058", "name": "Jungle Room", "category": "Sketch", "skid": null}
+{"order": 8, "epid": "19871205", "tid": "198712059", "name": "Mona Lisa", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19871205", "tid": "1987120510", "name": "Ann Landers' Playhouse", "category": "Show", "skid": null}
+{"order": 10, "epid": "19871205", "tid": "1987120511", "name": "\"Kiss and Tell\"", "category": "Musical Performance", "skid": null}
+{"order": 11, "epid": "19871205", "tid": "1987120512", "name": "Doorman", "category": "Sketch", "skid": null}
+{"order": 12, "epid": "19871205", "tid": "1987120513", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19871121", "tid": "198711211", "name": "A Message From The Vice President", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19871121", "tid": "198711212", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19871121", "tid": "198711213", "name": "Pumping Up With Hans & Franz", "category": "Show", "skid": "74"}
+{"order": 3, "epid": "19871121", "tid": "198711214", "name": "Anne Boleyn", "category": "Sketch", "skid": null}
+{"order": 4, "epid": "19871121", "tid": "198711215", "name": "Manufacturers of Machine Part Components United To Save Our Courts", "category": "Commercial", "skid": null}
+{"order": 5, "epid": "19871121", "tid": "198711216", "name": "\"We All Sleep Alone\"", "category": "Musical Performance", "skid": null}
+{"order": 6, "epid": "19871121", "tid": "198711217", "name": "Ching Change", "category": "Sketch", "skid": null}
+{"order": 7, "epid": "19871121", "tid": "198711218", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19871121", "tid": "198711219", "name": "Mayflower Madam", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19871121", "tid": "1987112110", "name": "Country Through and Through", "category": "Musical Sketch", "skid": null}
+{"order": 10, "epid": "19871121", "tid": "1987112111", "name": "\"I Found Someone\"", "category": "Musical Performance", "skid": null}
+{"order": 11, "epid": "19871121", "tid": "1987112112", "name": "Thought Bubble", "category": "Sketch", "skid": null}
+{"order": 12, "epid": "19871121", "tid": "1987112113", "name": "Peeping Tom", "category": "Sketch", "skid": null}
+{"order": 13, "epid": "19871121", "tid": "1987112114", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19871114", "tid": "198711141", "name": "The Rolling Paper Chase", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19871114", "tid": "198711142", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19871114", "tid": "198711143", "name": "Compulsion", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19871114", "tid": "198711144", "name": "Death Be Not Deadly", "category": "Sketch", "skid": null}
+{"order": 4, "epid": "19871114", "tid": "198711145", "name": "The Mountain Man", "category": "Sketch", "skid": null}
+{"order": 5, "epid": "19871114", "tid": "198711146", "name": "\"The Right Thing\"", "category": "Musical Performance", "skid": null}
+{"order": 6, "epid": "19871114", "tid": "198711147", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 7, "epid": "19871114", "tid": "198711148", "name": "Sweeney's Comeback", "category": "Sketch", "skid": null}
+{"order": 8, "epid": "19871114", "tid": "198711149", "name": "Out Of Gas", "category": "Film", "skid": null}
+{"order": 9, "epid": "19871114", "tid": "1987111410", "name": "Andre & Rex: Macho Hairstylists", "category": "Sketch", "skid": null}
+{"order": 10, "epid": "19871114", "tid": "1987111411", "name": "BeautyBath", "category": "Commercial", "skid": null}
+{"order": 11, "epid": "19871114", "tid": "1987111412", "name": "\"Suffer\"", "category": "Musical Performance", "skid": null}
+{"order": 12, "epid": "19871114", "tid": "1987111413", "name": "Mysterious Old Man", "category": "Sketch", "skid": null}
+{"order": 13, "epid": "19871114", "tid": "1987111414", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19871031", "tid": "198710311", "name": "Lifestyles of the Rich, Famous and Scary", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19871031", "tid": "198710312", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19871031", "tid": "198710313", "name": "Nature's Broom", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19871031", "tid": "198710314", "name": "The Winning Spirit", "category": "Show", "skid": null}
+{"order": 4, "epid": "19871031", "tid": "198710315", "name": "Don't Go Down To The Basement", "category": "Sketch", "skid": null}
+{"order": 5, "epid": "19871031", "tid": "198710316", "name": "Campfire Stories", "category": "Sketch", "skid": null}
+{"order": 6, "epid": "19871031", "tid": "198710317", "name": "\"Strap Me In\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19871031", "tid": "198710318", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19871031", "tid": "198710319", "name": "Marriage Counselor", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19871031", "tid": "1987103110", "name": "Count Dracula, Self-Taught Auto Mechanic", "category": "Sketch", "skid": null}
+{"order": 10, "epid": "19871031", "tid": "1987103111", "name": "The Pat Stevens Show", "category": "Show", "skid": "61"}
+{"order": 11, "epid": "19871031", "tid": "1987103112", "name": "Mascot Ideas", "category": "Sketch", "skid": null}
+{"order": 12, "epid": "19871031", "tid": "1987103113", "name": "\"Double Trouble\"", "category": "Musical Performance", "skid": null}
+{"order": 13, "epid": "19871031", "tid": "1987103114", "name": "Investment Firm", "category": "Sketch", "skid": null}
+{"order": 14, "epid": "19871031", "tid": "1987103115", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19871024", "tid": "198710241", "name": "Fatal Attraction II", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19871024", "tid": "198710242", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19871024", "tid": "198710243", "name": "Wall Street Week", "category": "Show", "skid": null}
+{"order": 3, "epid": "19871024", "tid": "198710244", "name": "Church Chat", "category": "Show", "skid": "67"}
+{"order": 4, "epid": "19871024", "tid": "198710245", "name": "Pitman And Bullock", "category": "Commercial", "skid": null}
+{"order": 5, "epid": "19871024", "tid": "198710246", "name": "Teeny Caf\u00e9", "category": "Sketch", "skid": null}
+{"order": 6, "epid": "19871024", "tid": "198710247", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 7, "epid": "19871024", "tid": "198710248", "name": "After The Date", "category": "Sketch", "skid": null}
+{"order": 8, "epid": "19871024", "tid": "198710249", "name": "\"Go Cut Creator Go\"", "category": "Musical Performance", "skid": null}
+{"order": 9, "epid": "19871024", "tid": "1987102410", "name": "Discover", "category": "Show", "skid": "72"}
+{"order": 10, "epid": "19871024", "tid": "1987102411", "name": "Joey Comes Home", "category": "Sketch", "skid": null}
+{"order": 11, "epid": "19871024", "tid": "1987102412", "name": "\"This & That\"", "category": "Musical Performance", "skid": null}
+{"order": 12, "epid": "19871024", "tid": "1987102413", "name": "Cat Dentist", "category": "Film", "skid": null}
+{"order": 13, "epid": "19871024", "tid": "1987102414", "name": "", "category": "Goodnights", "skid": null}
+{"order": 0, "epid": "19871017", "tid": "198710171", "name": "White House Dinner", "category": "Cold Opening", "skid": null}
+{"order": 1, "epid": "19871017", "tid": "198710172", "name": "", "category": "Monologue", "skid": null}
+{"order": 2, "epid": "19871017", "tid": "198710173", "name": "Gary Hart", "category": "Commercial", "skid": null}
+{"order": 3, "epid": "19871017", "tid": "198710174", "name": "Common Knowledge", "category": "Game Show", "skid": null}
+{"order": 4, "epid": "19871017", "tid": "198710175", "name": "The NFL Today", "category": "Show", "skid": "70"}
+{"order": 5, "epid": "19871017", "tid": "198710176", "name": "Slide Whistles", "category": "Sketch", "skid": null}
+{"order": 6, "epid": "19871017", "tid": "198710177", "name": "\"We'll Be Together\"", "category": "Musical Performance", "skid": null}
+{"order": 7, "epid": "19871017", "tid": "198710178", "name": "", "category": "Weekend Update", "skid": null}
+{"order": 8, "epid": "19871017", "tid": "198710179", "name": "Bullets Aren't Cheap", "category": "Sketch", "skid": null}
+{"order": 9, "epid": "19871017", "tid": "1987101710", "name": "Permission To Speak Freely", "category": "Sketch", "skid": null}
+{"order": 10, "epid": "19871017", "tid": "1987101711", "name": "\"Little Wing\"", "category": "Musical Performance", "skid": null}
+{"order": 11, "epid": "19871017", "tid": "1987101712", "name": "Adventures In The Lost Realm", "category": "Sketch", "skid": null}
+{"order": 12, "epid": "19871017", "tid": "1987101713", "name": "Pumping Up With Hans & Franz", "category": "Show", "skid": "74"}
+{"order": 13, "epid": "19871017", "tid": "1987101714", "name": "", "category": "Goodnights", "skid": null}
 {"order": 0, "epid": "19870523", "tid": "198705231", "name": "Easy Rider", "category": "Cold Opening", "skid": null}
 {"order": 1, "epid": "19870523", "tid": "198705232", "name": "", "category": "Monologue", "skid": null}
 {"order": 2, "epid": "19870523", "tid": "198705233", "name": "Church Chat", "category": "Show", "skid": "67"}

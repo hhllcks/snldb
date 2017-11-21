@@ -1,6 +1,5 @@
 aid,featured,first_epid,last_epid,sid,update_anchor,n_episodes,season_fraction
-Chevy Chase,False,,,1,True,24,1.0
-Chevy Chase,False,,19761030.0,2,True,6,0.2727272727272727
+George Coe,False,,19751011.0,1,False,1,0.041666666666666664
 Alan Zweibel,True,19800409.0,,5,False,5,0.25
 Sasheer Zamata,True,20140118.0,,39,False,11,0.5238095238095238
 Sasheer Zamata,True,,,40,False,21,1.0
@@ -25,7 +24,7 @@ Michaela Watkins,True,20081115.0,,34,False,15,0.6818181818181818
 Nancy Walls,False,,,21,False,20,1.0
 Dan Vitale,True,,,11,False,18,1.0
 Melissa Villasenor,True,,,42,False,21,1.0
-Melissa Villasenor,True,,,43,False,2,1.0
+Melissa Villasenor,True,,,43,False,5,1.0
 Danitra Vance,False,,,11,False,18,1.0
 Kenan Thompson,True,,,29,False,20,1.0
 Kenan Thompson,True,,,30,False,20,1.0
@@ -41,7 +40,7 @@ Kenan Thompson,False,,,39,False,21,1.0
 Kenan Thompson,False,,,40,False,21,1.0
 Kenan Thompson,False,,,41,False,21,1.0
 Kenan Thompson,False,,,42,False,21,1.0
-Kenan Thompson,False,,,43,False,2,1.0
+Kenan Thompson,False,,,43,False,5,1.0
 Terry Sweeney,False,,,11,False,18,1.0
 Julia Sweeney,True,19901110.0,,16,False,16,0.8
 Julia Sweeney,False,,,17,False,20,1.0
@@ -61,7 +60,7 @@ Cecily Strong,False,,,39,True,21,1.0
 Cecily Strong,False,,,40,False,21,1.0
 Cecily Strong,False,,,41,False,21,1.0
 Cecily Strong,False,,,42,False,21,1.0
-Cecily Strong,False,,,43,False,2,1.0
+Cecily Strong,False,,,43,False,5,1.0
 Ben Stiller,True,19890325.0,,14,False,6,0.3
 Pamela Stephenson,False,,,10,False,17,1.0
 David Spade,True,19901110.0,,16,False,16,0.8
@@ -132,7 +131,7 @@ Rob Riggle,True,,,30,False,20,1.0
 Jeff Richards,True,,,27,False,20,1.0
 Jeff Richards,True,,,28,False,20,1.0
 Jeff Richards,False,,20040117.0,29,False,10,0.5
-Chris Redd,True,,,43,False,2,1.0
+Chris Redd,True,,,43,False,5,1.0
 Gilda Radner,False,,,1,False,24,1.0
 Gilda Radner,False,,,2,False,22,1.0
 Gilda Radner,False,,,3,False,20,1.0
@@ -183,7 +182,7 @@ Cheri Oteri,False,,,24,False,19,1.0
 Cheri Oteri,False,,,25,False,20,1.0
 Michael O'Donoghue,False,,19751108.0,1,False,4,0.16666666666666666
 Mike O'Brien,True,,,39,False,21,1.0
-Luke Null,True,,,43,False,2,1.0
+Luke Null,True,,,43,False,5,1.0
 Don Novello,True,19791013.0,,5,False,20,1.0
 Don Novello,True,,,11,False,18,1.0
 Laraine Newman,False,,,1,False,24,1.0
@@ -240,11 +239,11 @@ Kyle Mooney,True,,,39,False,21,1.0
 Kyle Mooney,True,,,40,False,21,1.0
 Kyle Mooney,False,,,41,False,21,1.0
 Kyle Mooney,False,,,42,False,21,1.0
-Kyle Mooney,False,,,43,False,2,1.0
+Kyle Mooney,False,,,43,False,5,1.0
 Jay Mohr,True,19931009.0,,19,False,18,0.9
 Jay Mohr,True,,,20,False,20,1.0
 Alex Moffat,True,,,42,False,21,1.0
-Alex Moffat,True,,,43,False,2,1.0
+Alex Moffat,True,,,43,False,5,1.0
 Finesse Mitchell,True,,,29,False,20,1.0
 Finesse Mitchell,True,,,30,False,20,1.0
 Finesse Mitchell,False,,,31,False,19,1.0
@@ -286,7 +285,7 @@ Kate McKinnon,False,,,39,False,21,1.0
 Kate McKinnon,False,,,40,False,21,1.0
 Kate McKinnon,False,,,41,False,21,1.0
 Kate McKinnon,False,,,42,False,21,1.0
-Kate McKinnon,False,,,43,False,2,1.0
+Kate McKinnon,False,,,43,False,5,1.0
 Mark McKinney,False,19950114.0,,20,False,11,0.55
 Mark McKinney,False,,,21,False,20,1.0
 Mark McKinney,False,,,22,False,20,1.0
@@ -334,11 +333,11 @@ Colin Jost,True,20140301.0,,39,True,8,0.38095238095238093
 Colin Jost,True,,,40,True,21,1.0
 Colin Jost,False,,,41,True,21,1.0
 Colin Jost,False,,,42,True,21,1.0
-Colin Jost,False,,,43,True,2,1.0
+Colin Jost,False,,,43,True,5,1.0
 Leslie Jones,True,20141025.0,,40,False,18,0.8571428571428571
 Leslie Jones,True,,,41,False,21,1.0
 Leslie Jones,False,,,42,False,21,1.0
-Leslie Jones,False,,,43,False,2,1.0
+Leslie Jones,False,,,43,False,5,1.0
 Victoria Jackson,False,,,12,False,20,1.0
 Victoria Jackson,False,,,13,False,13,1.0
 Victoria Jackson,False,,,14,False,20,1.0
@@ -401,7 +400,7 @@ Ana Gasteyer,False,,,25,False,20,1.0
 Ana Gasteyer,False,,,26,False,20,1.0
 Ana Gasteyer,False,,,27,False,20,1.0
 Janeane Garofalo,False,,19950225.0,20,False,14,0.7
-Heidi Gardner,True,,,43,False,2,1.0
+Heidi Gardner,True,,,43,False,5,1.0
 Al Franken,True,,,3,False,20,1.0
 Al Franken,True,,,4,False,20,1.0
 Al Franken,True,19791215.0,,5,False,14,0.7
@@ -476,14 +475,14 @@ Robert Downey Jr.,False,,,11,False,18,1.0
 Jim Downey,True,19800126.0,,5,False,12,0.6
 Denny Dillon,False,,,6,False,13,1.0
 Mikey Day,True,,,42,False,21,1.0
-Mikey Day,True,,,43,False,2,1.0
+Mikey Day,True,,,43,False,5,1.0
 Tom Davis,True,,,3,False,20,1.0
 Tom Davis,True,,,4,False,20,1.0
 Tom Davis,True,19791117.0,,5,False,16,0.8
 Pete Davidson,True,,,40,False,21,1.0
 Pete Davidson,True,,,41,False,21,1.0
 Pete Davidson,False,,,42,False,21,1.0
-Pete Davidson,False,,,43,False,2,1.0
+Pete Davidson,False,,,43,False,5,1.0
 Joan Cusack,False,,,11,False,18,1.0
 Jane Curtin,False,,,1,False,24,1.0
 Jane Curtin,False,,,2,True,22,1.0
@@ -491,7 +490,6 @@ Jane Curtin,False,,,3,True,20,1.0
 Jane Curtin,False,,,4,True,20,1.0
 Jane Curtin,False,,,5,True,20,1.0
 Billy Crystal,False,,,10,False,17,1.0
-George Coe,False,,19751011.0,1,False,1,0.041666666666666664
 Ellen Cleghorne,True,,,17,False,20,1.0
 Ellen Cleghorne,True,,,18,False,20,1.0
 Ellen Cleghorne,False,,,19,False,20,1.0
@@ -499,7 +497,9 @@ Ellen Cleghorne,False,,,20,False,20,1.0
 Michael Che,True,,,40,True,21,1.0
 Michael Che,True,,,41,True,21,1.0
 Michael Che,False,,,42,True,21,1.0
-Michael Che,False,,,43,True,2,1.0
+Michael Che,False,,,43,True,5,1.0
+Chevy Chase,False,,,1,True,24,1.0
+Chevy Chase,False,,19761030.0,2,True,6,0.2727272727272727
 Dana Carvey,False,,,12,False,20,1.0
 Dana Carvey,False,,,13,False,13,1.0
 Dana Carvey,False,,,14,False,20,1.0
@@ -513,7 +513,7 @@ Aidy Bryant,False,,,39,False,21,1.0
 Aidy Bryant,False,,,40,False,21,1.0
 Aidy Bryant,False,,,41,False,21,1.0
 Aidy Bryant,False,,,42,False,21,1.0
-Aidy Bryant,False,,,43,False,2,1.0
+Aidy Bryant,False,,,43,False,5,1.0
 A. Whitney Brown,True,19860222.0,,11,False,8,0.4444444444444444
 A. Whitney Brown,True,,,12,False,20,1.0
 A. Whitney Brown,True,,,13,False,13,1.0
@@ -529,7 +529,7 @@ Beck Bennett,True,,,39,False,21,1.0
 Beck Bennett,True,,,40,False,21,1.0
 Beck Bennett,False,,,41,False,21,1.0
 Beck Bennett,False,,,42,False,21,1.0
-Beck Bennett,False,,,43,False,2,1.0
+Beck Bennett,False,,,43,False,5,1.0
 John Belushi,False,,,1,False,24,1.0
 John Belushi,False,,,2,False,22,1.0
 John Belushi,False,,,3,False,20,1.0
