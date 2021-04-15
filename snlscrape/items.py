@@ -124,7 +124,7 @@ class Title(BaseSnlItem):
 
     # Recorded segments
     'Film', 'Commercial', 'Cartoon',
-
+    'Music Video',
     'Musical Performance',
     # 'Miscellaneous' examples:
     # - Jan Hooks Tribute (http://www.snlarchives.net/Episodes/?201410117). Is this different from In Memoriam?

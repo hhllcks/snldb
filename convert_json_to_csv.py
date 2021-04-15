@@ -47,14 +47,13 @@ def add_indices(tables):
   table_to_index = dict(episodes='epid', impressions='impid', seasons='sid', titles='tid', actors='aid')
   for (tablename, idx_col) in table_to_index.items():
       tables[tablename].set_index(idx_col, drop=False, inplace=True)
+      tables[tablename].index.name = None
 
 def add_merge_cols(tables):
   # Add epid, sid to appearances
   apps = tables['appearances']
-  mg = apps.merge(tables['titles'], on='tid')\
-      .drop(['category', 'order', 'skid', 'name'], axis=1)
-  mg = mg.merge(tables['episodes'], on='epid')\
-      .drop(['aired', 'epno'], axis=1)
+  mg = apps.merge(tables['titles'], on='tid').drop(['category', 'order', 'skid', 'name'], axis=1)
+  mg = mg.merge(tables['episodes'], on='epid').drop(['aired', 'epno'], axis=1)
   tables['appearances'] = mg
 
   # Add sid to titles
@@ -149,8 +148,8 @@ def build_tenure(t):
 
 
 weekend_update_categories = {'Weekend Update', 'Saturday Night News', 'SNL Newsbreak'}
-live_sketch_categories = {'Sketch', 'Musical Sketch', 'Show', 'Game Show', 'Award Show'}
-recorded_sketch_categories = {'Film', 'Commercial'}
+live_sketch_categories = {'Sketch', 'Musical Sketch', 'Show', 'Game Show', 'Award Show', 'Musical Performance'}
+recorded_sketch_categories = {'Film', 'Commercial', 'Cartoon', 'Music Video'}
 # (See note in items.py re Miscellaneous category)
 misc_performer_categories = {'Cold Opening', 'Monologue', 'Miscellaneous'}
 # These are the categories of titles that count when computing airtime statistics. 
